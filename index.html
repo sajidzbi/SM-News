@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<meta name="theme-color" content="#0a0e1a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="SM News">
+<title>SM News | اردو خبریں</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400;700&family=Playfair+Display:wght@900&family=IBM+Plex+Sans:wght@400;600&display=swap');
+:root{--bg:#0a0e1a;--bg2:#111827;--bg3:#1c2537;--card:#161d2e;--bdr:#2a3650;--acc:#f5c842;--a3:#3b9eff;--txt:#e8eaf0;--txt2:#9aa3b8;--txt3:#6b7592;--red:#ef4444;--grn:#22c55e;--r:14px}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{background:var(--bg);color:var(--txt);font-family:'Noto Nastaliq Urdu',serif;direction:rtl;overflow-x:hidden;min-height:100vh}
+body.en{direction:ltr;font-family:'IBM Plex Sans',sans-serif}
+.hdr{background:linear-gradient(135deg,#0a0e1a,#1a2540);border-bottom:2px solid var(--acc);position:sticky;top:0;z-index:50;box-shadow:0 2px 20px rgba(245,200,66,.15)}
+.htop{display:flex;align-items:center;justify-content:space-between;padding:10px 14px 6px;direction:ltr}
+.logo{display:flex;align-items:center;gap:10px}
+.lic{width:40px;height:40px;border-radius:10px;background:var(--acc);display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0}
+.lnm{font-family:'Playfair Display',serif;font-size:22px;font-weight:900;color:var(--acc);direction:ltr}
+.lsb{font-size:10px;color:var(--txt3);font-family:'IBM Plex Sans',sans-serif;direction:ltr}
+.acts{display:flex;gap:8px;align-items:center}
+.ib{width:36px;height:36px;border-radius:50%;border:1px solid var(--bdr);background:var(--bg3);color:var(--txt);cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:16px;transition:all .2s}
+.ib:hover,.ib.on{background:var(--acc);color:var(--bg)}
+#live{display:flex;align-items:center;gap:5px;font-size:11px;color:var(--grn);font-family:'IBM Plex Sans',sans-serif}
+#ldot{width:8px;height:8px;background:var(--grn);border-radius:50%;animation:pulse 1.5s infinite}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.4;transform:scale(1.4)}}
+.ibar{background:linear-gradient(90deg,#1a2f1a,#0d200d);border-bottom:1px solid #2a5a2a;padding:8px 12px;display:none;align-items:center;gap:10px;direction:ltr}
+.ibar.show{display:flex}
+.itxt{font-size:12px;color:var(--grn);font-family:'IBM Plex Sans',sans-serif;flex:1}
+.ibtn2{background:var(--grn);color:#fff;border:none;padding:6px 14px;border-radius:14px;font-size:12px;font-family:'IBM Plex Sans',sans-serif;font-weight:600;cursor:pointer}
+.idis{background:none;border:none;color:var(--txt3);cursor:pointer;font-size:18px;line-height:1}
+.cats{overflow-x:auto;padding:7px 10px 8px;display:flex;gap:7px;scrollbar-width:none;direction:ltr}
+.cats::-webkit-scrollbar{display:none}
+.ctab{flex-shrink:0;padding:6px 14px;border-radius:20px;border:1.5px solid var(--bdr);background:transparent;color:var(--txt2);font-size:13px;cursor:pointer;transition:all .2s;white-space:nowrap;font-family:'Noto Nastaliq Urdu',serif;display:flex;align-items:center;gap:5px}
+body.en .ctab{font-family:'IBM Plex Sans',sans-serif;font-size:12px}
+.ctab.on{background:var(--acc);border-color:var(--acc);color:var(--bg);font-weight:700}
+.locbar{background:var(--bg2);border-bottom:1px solid var(--bdr);padding:7px 10px;overflow-x:auto;scrollbar-width:none;direction:ltr;display:none;gap:6px}
+.locbar::-webkit-scrollbar{display:none}
+.locbar.show{display:flex}
+.lbtn{flex-shrink:0;padding:5px 12px;border-radius:14px;border:1px solid var(--bdr);background:transparent;color:var(--txt3);font-size:11px;cursor:pointer;transition:all .2s;font-family:'IBM Plex Sans',sans-serif}
+.lbtn.on{background:var(--a3);color:#fff;border-color:var(--a3)}
+#wxstrip{background:linear-gradient(90deg,#1a2f4e,#0d1f35);border-bottom:1px solid #1e3a5f;padding:9px 14px;display:none;flex-wrap:wrap;gap:10px;align-items:center;direction:ltr}
+#wxstrip.show{display:flex}
+.wxsel{background:var(--bg3);border:1px solid var(--bdr);color:var(--txt);padding:5px 9px;border-radius:8px;font-size:12px;font-family:'IBM Plex Sans',sans-serif}
+#wxmini{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:12px;color:var(--txt2);font-family:'IBM Plex Sans',sans-serif}
+.pg{display:none;padding:10px 10px 74px;max-width:680px;margin:0 auto}
+.pg.show{display:block}
+.src-card{background:var(--card);border:1px solid var(--bdr);border-radius:var(--r);overflow:hidden;margin-bottom:10px;transition:transform .15s,border-color .15s;animation:fin .3s ease}
+@keyframes fin{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+.src-card:hover{transform:translateY(-2px);border-color:var(--acc)}
+.src-hdr{display:flex;align-items:center;gap:12px;padding:13px 13px 9px;direction:ltr}
+.src-ico{width:44px;height:44px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0}
+.src-nm{font-size:14px;font-weight:700;color:var(--txt);font-family:'IBM Plex Sans',sans-serif}
+.src-ds{font-size:11px;color:var(--txt3);font-family:'IBM Plex Sans',sans-serif;margin-top:2px}
+.src-lg{font-size:10px;font-family:'IBM Plex Sans',sans-serif;padding:2px 7px;border-radius:10px;background:rgba(59,158,255,.15);color:var(--a3);font-weight:600;white-space:nowrap}
+.src-links{display:flex;gap:7px;padding:0 13px 13px;flex-wrap:wrap;direction:ltr}
+.sl{display:inline-flex;align-items:center;gap:4px;padding:7px 13px;border-radius:10px;border:1.5px solid var(--bdr);background:var(--bg3);color:var(--txt2);text-decoration:none;font-size:12px;font-family:'IBM Plex Sans',sans-serif;transition:all .2s;white-space:nowrap}
+.sl.p{background:var(--acc);color:var(--bg);border-color:var(--acc);font-weight:700}
+.sl:not(.p):hover{background:var(--a3);color:#fff;border-color:var(--a3)}
+.sec-hdr{font-size:11px;font-family:'IBM Plex Sans',sans-serif;color:var(--txt3);font-weight:700;text-transform:uppercase;letter-spacing:1px;padding:10px 0 8px;direction:ltr;display:flex;align-items:center;gap:8px}
+.sec-hdr::after{content:'';flex:1;height:1px;background:var(--bdr)}
+.wxcard{background:var(--card);border:1px solid var(--bdr);border-radius:var(--r);padding:18px;margin-bottom:12px}
+.wxbig{display:flex;align-items:center;gap:14px;margin-top:12px;flex-wrap:wrap}
+.wxbigtemp{font-size:52px;font-family:'Playfair Display',serif;font-weight:900;color:var(--acc);direction:ltr}
+.drow{display:flex;align-items:center;justify-content:space-between;padding:9px 0;border-bottom:1px solid var(--bdr);direction:ltr}
+.drow:last-child{border-bottom:none}
+.acard{background:var(--card);border:1px solid var(--bdr);border-radius:var(--r);padding:22px;text-align:center;margin-bottom:12px}
+.dcard{background:var(--bg3);border-radius:10px;padding:14px;text-align:right}
+.dnm{font-size:15px;font-weight:700;color:var(--acc);margin-bottom:5px}
+.dinf{font-size:12px;color:var(--txt2);line-height:2.2}
+.dinf a{color:var(--a3);text-decoration:none;font-family:'IBM Plex Sans',sans-serif}
+.secc{background:var(--card);border:1px solid var(--bdr);border-radius:var(--r);padding:14px;margin-bottom:12px}
+.secttl{font-size:11px;font-family:'IBM Plex Sans',sans-serif;color:var(--txt3);font-weight:700;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px;direction:ltr}
+.srow{display:flex;align-items:center;justify-content:space-between;padding:9px 0;border-bottom:1px solid var(--bdr);direction:ltr}
+.srow:last-child{border-bottom:none}
+.slbl{font-size:13px;color:var(--txt)}
+.bnav{position:fixed;bottom:0;left:0;right:0;background:rgba(10,14,26,.97);backdrop-filter:blur(12px);border-top:1px solid var(--bdr);display:flex;z-index:50;direction:ltr}
+.nitem{flex:1;display:flex;flex-direction:column;align-items:center;padding:9px 4px 6px;cursor:pointer;gap:3px;border:none;background:transparent;color:var(--txt3);transition:color .2s}
+.nitem.on,.nitem:hover{color:var(--acc)}
+.ni{font-size:20px}
+.nl{font-size:9px;font-family:'IBM Plex Sans',sans-serif;font-weight:600;text-transform:uppercase;letter-spacing:.5px}
+.wxload{text-align:center;padding:50px 20px;color:var(--txt3)}
+.wxspin{font-size:36px;display:inline-block;animation:spin 1s linear infinite;margin-bottom:12px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.toast{position:fixed;bottom:78px;left:50%;transform:translateX(-50%) translateY(10px);background:var(--bg3);color:var(--txt);padding:9px 18px;border-radius:20px;font-size:13px;font-family:'IBM Plex Sans',sans-serif;border:1px solid var(--bdr);opacity:0;transition:all .3s;z-index:200;white-space:nowrap;pointer-events:none}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+.fcredit{text-align:center;padding:14px;color:var(--txt3);font-size:11px;font-family:'IBM Plex Sans',sans-serif;direction:ltr}
+</style>
+</head>
+<body>
+<div class="hdr">
+  <div class="htop">
+    <div class="logo">
+      <div class="lic">📰</div>
+      <div><div class="lnm">SM News</div><div class="lsb">Live Pakistan News</div></div>
+    </div>
+    <div class="acts">
+      <div id="live"><div id="ldot"></div><span id="ltime">Live</span></div>
+      <button class="ib" onclick="toggleLang()">🌐</button>
+    </div>
+  </div>
+  <div class="ibar" id="ibar">
+    <span class="itxt">📲 ہوم اسکرین پر انسٹال کریں</span>
+    <button class="ibtn2" onclick="doInstall()">Install</button>
+    <button class="idis" onclick="document.getElementById('ibar').classList.remove('show')">✕</button>
+  </div>
+  <div class="cats" id="cattabs"></div>
+  <div class="locbar" id="locbar"></div>
+  <div id="wxstrip">
+    <select class="wxsel" id="wxcity" onchange="loadWeather()"></select>
+    <div id="wxmini"></div>
+  </div>
+</div>
+
+<div id="pg-feed"     class="pg show"></div>
+<div id="pg-settings" class="pg"></div>
+<div id="pg-about"    class="pg"></div>
+
+<nav class="bnav">
+  <button class="nitem on" id="nb-feed"     onclick="gotoPage('feed')">
+    <span class="ni">📰</span><span class="nl" id="nl-feed">خبریں</span>
+  </button>
+  <button class="nitem"    id="nb-settings" onclick="gotoPage('settings')">
+    <span class="ni">⚙️</span><span class="nl" id="nl-set">ترتیب</span>
+  </button>
+  <button class="nitem"    id="nb-about"    onclick="gotoPage('about')">
+    <span class="ni">ℹ️</span><span class="nl" id="nl-abt">معلومات</span>
+  </button>
+</nav>
+<div class="toast" id="toast"></div>
+<script>
+var SOURCES = {
+  international:[
+    {name:'BBC Urdu',desc:'بی بی سی اردو',ico:'🔴',color:'#bb1919',lang:'اردو',links:[{l:'تازہ خبریں',u:'https://www.bbc.com/urdu',p:1},{l:'عالمی',u:'https://www.bbc.com/urdu/topics/c340g4eexq8t',p:0}]},
+    {name:'VOA Urdu',desc:'وائس آف امریکہ',ico:'🇺🇸',color:'#1a3a6b',lang:'اردو',links:[{l:'تازہ خبریں',u:'https://www.urduvoa.com/',p:1},{l:'عالمی',u:'https://www.urduvoa.com/section/world-news/3214',p:0}]},
+    {name:'Geo World',desc:'جیو نیوز عالمی',ico:'📺',color:'#00703c',lang:'اردو+Eng',links:[{l:'World',u:'https://www.geo.tv/category/world',p:1},{l:'Latest',u:'https://www.geo.tv/latest',p:0}]},
+    {name:'Dawn World',desc:'Dawn International',ico:'🗞️',color:'#1a1a2e',lang:'English',links:[{l:'World',u:'https://www.dawn.com/world',p:1},{l:'Latest',u:'https://www.dawn.com/latest',p:0}]},
+  ],
+  national:[
+    {name:'Geo News',desc:'جیو نیوز پاکستان',ico:'📺',color:'#00703c',lang:'اردو+Eng',links:[{l:'پاکستان',u:'https://www.geo.tv/category/pakistan',p:1},{l:'لائیو',u:'https://www.geo.tv/live',p:0}]},
+    {name:'ARY News',desc:'اے آر وائی نیوز',ico:'📡',color:'#e31837',lang:'اردو+Eng',links:[{l:'پاکستان',u:'https://arynews.tv/category/pakistan/',p:1},{l:'لائیو',u:'https://arynews.tv/live/',p:0}]},
+    {name:'Dawn',desc:'پاکستان کا اہم اخبار',ico:'🗞️',color:'#1a1a2e',lang:'English',links:[{l:'Pakistan',u:'https://www.dawn.com/pakistan',p:1},{l:'Politics',u:'https://www.dawn.com/politics',p:0},{l:'Latest',u:'https://www.dawn.com/latest',p:0}]},
+    {name:'Jang',desc:'روزنامہ جنگ',ico:'📰',color:'#0d4f8b',lang:'اردو',links:[{l:'تازہ خبریں',u:'https://jang.com.pk/',p:1},{l:'پاکستان',u:'https://jang.com.pk/pakistan',p:0}]},
+    {name:'Express News',desc:'ایکسپریس نیوز',ico:'📡',color:'#c8102e',lang:'اردو',links:[{l:'تازہ خبریں',u:'https://www.express.pk/',p:1},{l:'پاکستان',u:'https://www.express.pk/section/pakistan',p:0}]},
+    {name:'Samaa TV',desc:'سماء ٹی وی',ico:'📺',color:'#00509d',lang:'اردو+Eng',links:[{l:'پاکستان',u:'https://www.samaa.tv/pakistan/',p:1},{l:'لائیو',u:'https://www.samaa.tv/live/',p:0}]},
+    {name:'92 News',desc:'92 نیوز',ico:'📡',color:'#7b1fa2',lang:'اردو',links:[{l:'تازہ خبریں',u:'https://92newshd.tv/',p:1}]},
+    {name:'Tribune',desc:'Express Tribune',ico:'📋',color:'#b71c1c',lang:'English',links:[{l:'Pakistan',u:'https://tribune.com.pk/',p:1},{l:'Latest',u:'https://tribune.com.pk/latest',p:0}]},
+  ],
+  kpk:[
+    {name:'Khyber News',desc:'خیبر نیوز — KPK',ico:'🏔️',color:'#1b5e20',lang:'اردو',links:[{l:'تازہ خبریں',u:'https://khybernews.tv/',p:1},{l:'KPK خبریں',u:'https://khybernews.tv/category/khyber-pakhtunkhwa/',p:0}]},
+    {name:'Aaj TV KPK',desc:'آج ٹی وی — KPK',ico:'📺',color:'#7b1fa2',lang:'اردو',links:[{l:'KPK خبریں',u:'https://www.aaj.tv/news/khyber-pakhtunkhwa/',p:1},{l:'لائیو',u:'https://www.aaj.tv/live/',p:0}]},
+    {name:'Dawn KPK',desc:'Dawn — خیبرپختونخوا',ico:'🗞️',color:'#1a1a2e',lang:'English',links:[{l:'KPK News',u:'https://www.dawn.com/Pakistan/khyber-pakhtunkhwa',p:1}]},
+    {name:'Express KPK',desc:'ایکسپریس — KPK',ico:'📡',color:'#c8102e',lang:'اردو',links:[{l:'KPK خبریں',u:'https://www.express.pk/section/khyber-pakhtunkhwa',p:1}]},
+    {name:'Geo KPK',desc:'جیو نیوز — KPK',ico:'📺',color:'#00703c',lang:'اردو+Eng',links:[{l:'KPK',u:'https://www.geo.tv/category/khyber-pakhtunkhwa',p:1}]},
+  ],
+  punjab:[
+    {name:'Jang Punjab',desc:'روزنامہ جنگ — پنجاب',ico:'📰',color:'#0d4f8b',lang:'اردو',links:[{l:'پنجاب',u:'https://jang.com.pk/punjab',p:1},{l:'لاہور',u:'https://jang.com.pk/lahore',p:0}]},
+    {name:'Express Punjab',desc:'ایکسپریس — پنجاب',ico:'📡',color:'#c8102e',lang:'اردو',links:[{l:'پنجاب',u:'https://www.express.pk/section/punjab',p:1},{l:'لاہور',u:'https://www.express.pk/section/lahore',p:0}]},
+    {name:'Dawn Punjab',desc:'Dawn — Punjab',ico:'🗞️',color:'#1a1a2e',lang:'English',links:[{l:'Punjab News',u:'https://www.dawn.com/pakistan/punjab',p:1}]},
+    {name:'Tribune Punjab',desc:'Tribune — Lahore',ico:'📋',color:'#b71c1c',lang:'English',links:[{l:'Punjab',u:'https://tribune.com.pk/pakistan/punjab',p:1},{l:'Latest',u:'https://tribune.com.pk/latest',p:0}]},
+  ],
+  sindh:[
+    {name:'Dawn Sindh',desc:'Dawn — کراچی/سندھ',ico:'🗞️',color:'#1a1a2e',lang:'English',links:[{l:'Sindh',u:'https://www.dawn.com/pakistan/sindh',p:1},{l:'Karachi',u:'https://www.dawn.com/pakistan/karachi',p:0}]},
+    {name:'Express Sindh',desc:'ایکسپریس — سندھ',ico:'📡',color:'#c8102e',lang:'اردو',links:[{l:'سندھ',u:'https://www.express.pk/section/sindh',p:1},{l:'کراچی',u:'https://www.express.pk/section/karachi',p:0}]},
+    {name:'Samaa Karachi',desc:'سماء — کراچی',ico:'📺',color:'#00509d',lang:'اردو+Eng',links:[{l:'کراچی',u:'https://www.samaa.tv/karachi/',p:1},{l:'سندھ',u:'https://www.samaa.tv/sindh/',p:0}]},
+    {name:'Geo Sindh',desc:'جیو — سندھ',ico:'📺',color:'#00703c',lang:'اردو+Eng',links:[{l:'سندھ',u:'https://www.geo.tv/category/sindh',p:1}]},
+  ],
+  baloch:[
+    {name:'Dawn Balochistan',desc:'Dawn — بلوچستان',ico:'🗞️',color:'#1a1a2e',lang:'English',links:[{l:'Balochistan',u:'https://www.dawn.com/pakistan/balochistan',p:1}]},
+    {name:'Express Baloch',desc:'ایکسپریس — بلوچستان',ico:'📡',color:'#c8102e',lang:'اردو',links:[{l:'بلوچستان',u:'https://www.express.pk/section/balochistan',p:1}]},
+    {name:'Geo Balochistan',desc:'جیو — بلوچستان',ico:'📺',color:'#00703c',lang:'اردو+Eng',links:[{l:'بلوچستان',u:'https://www.geo.tv/category/balochistan',p:1}]},
+    {name:'ARY Balochistan',desc:'ARY — Balochistan',ico:'📡',color:'#e31837',lang:'اردو+Eng',links:[{l:'بلوچستان',u:'https://arynews.tv/category/balochistan/',p:1}]},
+  ],
+  education:[
+    {name:'Dawn Education',desc:'Dawn — تعلیم',ico:'🗞️',color:'#1a1a2e',lang:'English',links:[{l:'Education',u:'https://www.dawn.com/education',p:1},{l:'Universities',u:'https://www.dawn.com/education/university',p:0}]},
+    {name:'Geo Education',desc:'جیو — تعلیم',ico:'📺',color:'#00703c',lang:'اردو+Eng',links:[{l:'تعلیمی خبریں',u:'https://www.geo.tv/category/education',p:1}]},
+    {name:'Express Education',desc:'ایکسپریس — تعلیم',ico:'📡',color:'#c8102e',lang:'اردو',links:[{l:'تعلیم',u:'https://www.express.pk/section/education',p:1}]},
+    {name:'HEC Pakistan',desc:'Higher Education Commission',ico:'🏛️',color:'#1a237e',lang:'English',links:[{l:'HEC News',u:'https://www.hec.gov.pk/english/news/Pages/default.aspx',p:1},{l:'Scholarships',u:'https://www.hec.gov.pk/english/scholarshipsNew/Pages/default.aspx',p:0}]},
+    {name:'ProPakistani',desc:'Education & Tech News',ico:'💻',color:'#0277bd',lang:'English',links:[{l:'Education',u:'https://propakistani.pk/education/',p:1},{l:'Latest',u:'https://propakistani.pk/',p:0}]},
+  ],
+  science:[
+    {name:'ProPakistani',desc:"Pakistan's top tech site",ico:'💻',color:'#0277bd',lang:'English',links:[{l:'Technology',u:'https://propakistani.pk/category/technology/',p:1},{l:'Mobile',u:'https://propakistani.pk/mobile/',p:0}]},
+    {name:'Dawn Tech',desc:'Dawn Technology',ico:'🗞️',color:'#1a1a2e',lang:'English',links:[{l:'Technology',u:'https://www.dawn.com/technology',p:1},{l:'Science',u:'https://www.dawn.com/science',p:0}]},
+    {name:'ARY Tech',desc:'ARY Technology',ico:'📡',color:'#e31837',lang:'اردو+Eng',links:[{l:'Technology',u:'https://arynews.tv/category/technology/',p:1}]},
+    {name:'Geo Tech',desc:'جیو — ٹیکنالوجی',ico:'📺',color:'#00703c',lang:'اردو+Eng',links:[{l:'ٹیکنالوجی',u:'https://www.geo.tv/category/technology',p:1}]},
+  ],
+  sports:[
+    {name:'Geo Sports',desc:'جیو سپر — کھیل',ico:'⚽',color:'#e65100',lang:'اردو+Eng',links:[{l:'Sports',u:'https://www.geo.tv/category/sports',p:1},{l:'Cricket',u:'https://www.geo.tv/category/cricket',p:0},{l:'Live',u:'https://www.geo.tv/live',p:0}]},
+    {name:'ARY Sports',desc:'اے آر وائی — کھیل',ico:'🏏',color:'#e31837',lang:'اردو+Eng',links:[{l:'Sports',u:'https://arynews.tv/category/sports/',p:1},{l:'Cricket',u:'https://arynews.tv/category/cricket/',p:0}]},
+    {name:'PCB Official',desc:'Pakistan Cricket Board',ico:'🏏',color:'#006633',lang:'English',links:[{l:'PCB News',u:'https://www.pcb.com.pk/press-releases.html',p:1},{l:'Fixtures',u:'https://www.pcb.com.pk/fixtures-and-results.html',p:0}]},
+    {name:'Dawn Sports',desc:'Dawn Sports',ico:'🗞️',color:'#1a1a2e',lang:'English',links:[{l:'Sports',u:'https://www.dawn.com/sports',p:1},{l:'Cricket',u:'https://www.dawn.com/cricket',p:0}]},
+  ],
+  business:[
+    {name:'Dawn Business',desc:'Pakistan Economy',ico:'🗞️',color:'#1a1a2e',lang:'English',links:[{l:'Business',u:'https://www.dawn.com/business',p:1},{l:'Economy',u:'https://www.dawn.com/economy',p:0},{l:'Markets',u:'https://www.dawn.com/markets',p:0}]},
+    {name:'ARY Business',desc:'اے آر وائی بزنس',ico:'📡',color:'#e31837',lang:'اردو+Eng',links:[{l:'Business',u:'https://arynews.tv/category/business/',p:1}]},
+    {name:'ProPakistani Biz',desc:'Business & Finance',ico:'💼',color:'#0277bd',lang:'English',links:[{l:'Business',u:'https://propakistani.pk/category/business/',p:1},{l:'Finance',u:'https://propakistani.pk/category/business/finance/',p:0}]},
+    {name:'Express Business',desc:'ایکسپریس — کاروبار',ico:'📡',color:'#c8102e',lang:'اردو',links:[{l:'کاروبار',u:'https://www.express.pk/section/business',p:1}]},
+    {name:'Tribune Business',desc:'Tribune Business',ico:'📋',color:'#b71c1c',lang:'English',links:[{l:'Business',u:'https://tribune.com.pk/business',p:1}]},
+  ]
+};
+
+var CATS_UR=[{id:'international',l:'بین الاقوامی',i:'🌍'},{id:'national',l:'قومی',i:'🇵🇰'},{id:'local',l:'مقامی',i:'📍'},{id:'education',l:'تعلیمی',i:'🎓'},{id:'science',l:'سائنس',i:'🔬'},{id:'sports',l:'کھیل',i:'⚽'},{id:'business',l:'کاروبار',i:'💼'},{id:'weather',l:'موسم',i:'🌤️'}];
+var CATS_EN=[{id:'international',l:'World',i:'🌍'},{id:'national',l:'Pakistan',i:'🇵🇰'},{id:'local',l:'Local',i:'📍'},{id:'education',l:'Education',i:'🎓'},{id:'science',l:'Science',i:'🔬'},{id:'sports',l:'Sports',i:'⚽'},{id:'business',l:'Business',i:'💼'},{id:'weather',l:'Weather',i:'🌤️'}];
+var LOCS_UR=[{id:'national',l:'سب پاکستان'},{id:'kpk',l:'خیبرپختونخوا'},{id:'punjab',l:'پنجاب'},{id:'sindh',l:'سندھ'},{id:'baloch',l:'بلوچستان'}];
+var LOCS_EN=[{id:'national',l:'All Pakistan'},{id:'kpk',l:'KPK'},{id:'punjab',l:'Punjab'},{id:'sindh',l:'Sindh'},{id:'baloch',l:'Balochistan'}];
+var WX=[{n:'Mansehra',a:34.33,o:73.20},{n:'Islamabad',a:33.72,o:73.04},{n:'Lahore',a:31.55,o:74.34},{n:'Karachi',a:24.86,o:67.01},{n:'Peshawar',a:34.01,o:71.58},{n:'Quetta',a:30.19,o:67.01},{n:'Rawalpindi',a:33.60,o:73.05},{n:'Swabi',a:34.12,o:72.47},{n:'Abbottabad',a:34.15,o:73.21},{n:'Multan',a:30.20,o:71.47},{n:'Faisalabad',a:31.42,o:73.08},{n:'Hyderabad',a:25.37,o:68.37}];
+
+var S={lang:localStorage.getItem('smn_lang')||'ur',cat:'national',loc:'national',page:'feed',dPWA:null};
+
+function boot(){
+  applyLang();buildCats();buildLocs();buildWxCities();updateNavLabels();renderFeed();
+  tickClock();setInterval(tickClock,30000);
+  window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();S.dPWA=e;document.getElementById('ibar').classList.add('show');});
+}
+function tickClock(){
+  var n=new Date();
+  document.getElementById('ltime').textContent=n.toLocaleTimeString('en-PK',{hour:'2-digit',minute:'2-digit'});
+}
+function applyLang(){
+  var en=(S.lang==='en');
+  document.documentElement.lang=en?'en':'ur';
+  document.documentElement.dir=en?'ltr':'rtl';
+  document.body.classList.toggle('en',en);
+  localStorage.setItem('smn_lang',S.lang);
+}
+function toggleLang(){
+  S.lang=(S.lang==='ur')?'en':'ur';
+  applyLang();buildCats();buildLocs();updateNavLabels();
+  if(S.cat==='weather'){loadWeather();}else{renderFeed();}
+  toast(S.lang==='ur'?'🌐 اردو موڈ':'🌐 English Mode');
+}
+function updateNavLabels(){
+  var ur=(S.lang==='ur');
+  document.getElementById('nl-feed').textContent=ur?'خبریں':'News';
+  document.getElementById('nl-set').textContent=ur?'ترتیب':'Settings';
+  document.getElementById('nl-abt').textContent=ur?'معلومات':'About';
+}
+function buildCats(){
+  var cats=(S.lang==='ur')?CATS_UR:CATS_EN;
+  var h='';
+  for(var i=0;i<cats.length;i++){
+    var c=cats[i];
+    h+='<button class="ctab'+(S.cat===c.id?' on':'')+'" onclick="pickCat(\''+c.id+'\')">'+c.i+' '+c.l+'</button>';
+  }
+  document.getElementById('cattabs').innerHTML=h;
+}
+function pickCat(id){
+  S.cat=id;buildCats();
+  document.getElementById('locbar').classList.toggle('show',id==='local');
+  document.getElementById('wxstrip').classList.toggle('show',id==='weather');
+  if(id==='weather'){loadWeather();}else{renderFeed();}
+}
+function buildLocs(){
+  var locs=(S.lang==='ur')?LOCS_UR:LOCS_EN;
+  var h='';
+  for(var i=0;i<locs.length;i++){
+    var l=locs[i];
+    h+='<button class="lbtn'+(S.loc===l.id?' on':'')+'" onclick="pickLoc(\''+l.id+'\')">'+l.l+'</button>';
+  }
+  document.getElementById('locbar').innerHTML=h;
+}
+function pickLoc(id){S.loc=id;buildLocs();renderFeed();}
+function getKey(){return (S.cat==='local')?S.loc:S.cat;}
+function renderFeed(){
+  if(S.cat==='weather'){loadWeather();return;}
+  var key=getKey();
+  var srcs=SOURCES[key]||SOURCES.national;
+  var pg=document.getElementById('pg-feed');
+  var ur=(S.lang==='ur');
+  var cats=(ur?CATS_UR:CATS_EN);
+  var catObj=null;
+  for(var ci=0;ci<cats.length;ci++){if(cats[ci].id===S.cat){catObj=cats[ci];break;}}
+  var catLbl=catObj?(catObj.i+' '+catObj.l):'';
+  var h='<div class="sec-hdr">'+catLbl+'</div>';
+  for(var i=0;i<srcs.length;i++){
+    var s=srcs[i];
+    h+='<div class="src-card">';
+    h+='<div class="src-hdr">';
+    h+='<div class="src-ico" style="background:'+s.color+'">'+s.ico+'</div>';
+    h+='<div style="flex:1"><div class="src-nm">'+s.name+'</div><div class="src-ds">'+s.desc+'</div></div>';
+    h+='<span class="src-lg">'+s.lang+'</span>';
+    h+='</div>';
+    h+='<div class="src-links">';
+    for(var j=0;j<s.links.length;j++){
+      var lk=s.links[j];
+      h+='<a class="sl'+(lk.p?' p':'')+'" href="'+lk.u+'" target="_blank" rel="noopener">'+lk.l+' ↗</a>';
+    }
+    h+='</div></div>';
+  }
+  h+='<div class="fcredit">'+(ur?srcs.length+' ذرائع دستیاب':srcs.length+' sources')+' · '+new Date().toLocaleTimeString()+'</div>';
+  pg.innerHTML=h;
+}
+var PAGES=['feed','settings','about'];
+function gotoPage(name){
+  S.page=name;
+  for(var i=0;i<PAGES.length;i++){
+    var p=PAGES[i];
+    var pg=document.getElementById('pg-'+p);
+    var nb=document.getElementById('nb-'+p);
+    if(pg){pg.classList.toggle('show',p===name);}
+    if(nb){nb.classList.toggle('on',p===name);}
+  }
+  document.getElementById('cattabs').style.display=(name==='feed')?'flex':'none';
+  if(name==='settings'){renderSettings();}
+  if(name==='about'){renderAbout();}
+}
+function renderSettings(){
+  var ur=(S.lang==='ur');
+  document.getElementById('pg-settings').innerHTML=
+    '<div class="secc"><div class="secttl">Language / زبان</div>'
+    +'<div class="srow"><span class="slbl">'+(ur?'زبان تبدیل کریں':'Toggle Language')+'</span>'
+    +'<button class="ib on" onclick="toggleLang()" style="width:auto;padding:6px 14px;border-radius:14px;font-size:12px">'+(ur?'🇵🇰 اردو':'🇬🇧 English')+'</button></div></div>'
+    +'<div class="secc"><div class="secttl">'+(ur?'ایپ انسٹال':'Install App')+'</div>'
+    +'<div class="srow"><span class="slbl">Add to Home Screen</span>'
+    +'<button onclick="doInstall()" style="background:var(--grn);color:#fff;border:none;padding:6px 14px;border-radius:8px;font-size:12px;font-family:\'IBM Plex Sans\',sans-serif;cursor:pointer">📲 Install</button></div></div>'
+    +'<div class="fcredit">'+(ur?'کسی بھی لنک پر ٹیپ کریں — ویب سائٹ کھل جائے گی':'Tap any link to open the news website directly')+'</div>';
+}
+function renderAbout(){
+  var ur=(S.lang==='ur');
+  document.getElementById('pg-about').innerHTML=
+    '<div class="acard">'
+    +'<div style="font-size:46px;margin-bottom:8px">📰</div>'
+    +'<div style="font-family:\'Playfair Display\',serif;font-size:24px;font-weight:900;color:var(--acc);direction:ltr">SM News</div>'
+    +'<div style="font-size:11px;color:var(--txt3);font-family:\'IBM Plex Sans\',sans-serif;margin-bottom:6px;direction:ltr">Version 4.0 · Direct News Links · Pakistan</div>'
+    +'<div class="dcard">'
+    +'<div class="dnm">Dr. Sajid Mahmood</div>'
+    +'<div class="dinf">Department of Islamic &amp; Religious Studies<br>Hazara University Mansehra, KPK, Pakistan<br>'
+    +'<a href="mailto:sajidzbi@gmail.com">sajidzbi@gmail.com</a><br>'
+    +'<a href="https://wa.me/923009080730">WhatsApp: 0300-9080730</a></div></div></div>'
+    +'<div class="secc"><div class="secttl">'+(ur?'شامل ویب سائٹس':'Included Websites')+'</div>'
+    +[['Geo News','geo.tv','#00703c'],['ARY News','arynews.tv','#e31837'],['Dawn','dawn.com','#333'],
+      ['Jang','jang.com.pk','#0d4f8b'],['Express News','express.pk','#c8102e'],['Samaa TV','samaa.tv','#00509d'],
+      ['BBC Urdu','bbc.com/urdu','#bb1919'],['Tribune','tribune.com.pk','#b71c1c'],['92 News','92newshd.tv','#7b1fa2'],
+      ['Khyber News','khybernews.tv','#1b5e20'],['ProPakistani','propakistani.pk','#0277bd'],['PCB','pcb.com.pk','#006633'],
+      ['VOA Urdu','urduvoa.com','#1a3a6b'],['HEC','hec.gov.pk','#1a237e'],['Aaj TV','aaj.tv','#7b1fa2']
+     ].map(function(r){
+       return '<div class="srow" style="direction:ltr">'
+         +'<div style="display:flex;align-items:center;gap:8px">'
+         +'<div style="width:10px;height:10px;border-radius:50%;background:'+r[2]+';flex-shrink:0"></div>'
+         +'<span style="font-family:\'IBM Plex Sans\',sans-serif;font-size:13px;color:var(--txt)">'+r[0]+'</span></div>'
+         +'<span style="font-size:10px;color:var(--txt3);font-family:\'IBM Plex Sans\',sans-serif">'+r[1]+'</span></div>';
+     }).join('')
+    +'</div>'
+    +'<div class="fcredit">🌤️ Weather: Open-Meteo API (Free)<br>© 2025 Dr. Sajid Mahmood · Hazara University Mansehra</div>';
+}
+function buildWxCities(){
+  var sel=document.getElementById('wxcity');
+  var h='';
+  for(var i=0;i<WX.length;i++){h+='<option value="'+WX[i].a+','+WX[i].o+'">'+WX[i].n+'</option>';}
+  sel.innerHTML=h;
+}
+function loadWeather(){
+  var sel=document.getElementById('wxcity');
+  var val=sel?sel.value:'34.33,73.20';
+  var parts=val.split(',');
+  var lat=parts[0],lon=parts[1];
+  var city=null;
+  for(var i=0;i<WX.length;i++){if(WX[i].a+','+WX[i].o===val){city=WX[i];break;}}
+  var cName=city?city.n:'Pakistan';
+  var mini=document.getElementById('wxmini');
+  if(mini){mini.innerHTML='<span style="font-size:11px;color:var(--txt3)">Loading...</span>';}
+  var pg=document.getElementById('pg-feed');
+  pg.innerHTML='<div class="wxload"><div class="wxspin">🌤️</div><p style="font-family:\'IBM Plex Sans\',sans-serif;font-size:13px">'+(S.lang==='ur'?'موسم لوڈ ہو رہا ہے...':'Loading weather...')+'</p></div>';
+  fetch('https://api.open-meteo.com/v1/forecast?latitude='+lat+'&longitude='+lon+'&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m,apparent_temperature&daily=temperature_2m_max,temperature_2m_min,weather_code,precipitation_sum&timezone=Asia%2FKarachi&forecast_days=7')
+  .then(function(r){return r.ok?r.json():Promise.reject();})
+  .then(function(d){
+    var c=d.current;
+    var ico=wxi(c.weather_code);
+    var dsc=(S.lang==='ur')?wxu(c.weather_code):wxe(c.weather_code);
+    if(mini){mini.innerHTML='<span style="font-size:20px">'+ico+'</span><span style="font-size:18px;font-weight:700;color:var(--acc);font-family:\'Playfair Display\',serif">'+Math.round(c.temperature_2m)+'°C</span><span>'+cName+' · '+dsc+'</span><span>💧'+c.relative_humidity_2m+'% 💨'+Math.round(c.wind_speed_10m)+'km/h</span>';}
+    var days=d.daily;
+    var h='<div class="wxcard"><div style="font-size:15px;font-weight:700;color:var(--acc);direction:ltr">'+cName+'</div>'
+      +'<div class="wxbig"><span style="font-size:52px">'+ico+'</span>'
+      +'<span class="wxbigtemp">'+Math.round(c.temperature_2m)+'°C</span>'
+      +'<div style="font-size:13px;color:var(--txt2);font-family:\'IBM Plex Sans\',sans-serif;line-height:1.9">'+dsc+'<br>'
+      +(S.lang==='ur'?'محسوس: ':'Feels: ')+Math.round(c.apparent_temperature)+'°C<br>'
+      +(S.lang==='ur'?'نمی: ':'Humidity: ')+c.relative_humidity_2m+'% · '
+      +(S.lang==='ur'?'ہوا: ':'Wind: ')+Math.round(c.wind_speed_10m)+' km/h</div></div></div>'
+      +'<div class="wxcard"><div style="font-size:11px;font-family:\'IBM Plex Sans\',sans-serif;color:var(--txt3);font-weight:700;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px;direction:ltr">7-Day Forecast</div>';
+    for(var i2=0;i2<days.time.length;i2++){
+      var dn=new Date(days.time[i2]).toLocaleDateString('en-PK',{weekday:'short',month:'short',day:'numeric'});
+      var rain=days.precipitation_sum[i2];
+      h+='<div class="drow">'
+        +'<span style="font-size:11px;color:var(--txt2);font-family:\'IBM Plex Sans\',sans-serif;min-width:90px">'+dn+'</span>'
+        +'<span style="font-size:18px">'+wxi(days.weather_code[i2])+'</span>'
+        +'<span style="font-size:11px;color:var(--a3);font-family:\'IBM Plex Sans\',sans-serif;min-width:55px;text-align:center">'+(rain>0?'💧'+rain+'mm':'—')+'</span>'
+        +'<span style="font-size:13px;font-family:\'IBM Plex Sans\',sans-serif;color:var(--txt)">'+Math.round(days.temperature_2m_max[i2])+'° <span style="color:var(--txt3)">'+Math.round(days.temperature_2m_min[i2])+'°</span></span>'
+        +'</div>';
+    }
+    h+='</div>';
+    pg.innerHTML=h;
+  })
+  .catch(function(){
+    if(mini){mini.innerHTML='<span style="color:var(--red);font-size:11px">Unavailable</span>';}
+    pg.innerHTML='<div class="wxload"><div style="font-size:40px">🌧️</div><p style="font-family:\'IBM Plex Sans\',sans-serif;font-size:13px;margin-top:10px">'+(S.lang==='ur'?'موسم دستیاب نہیں':'Weather unavailable')+'</p></div>';
+  });
+}
+function wxi(c){if(c===0)return'☀️';if(c<=2)return'⛅';if(c<=3)return'☁️';if(c<=49)return'🌫️';if(c<=67)return'🌧️';if(c<=77)return'❄️';if(c<=82)return'🌦️';if(c<=94)return'⛈️';return'🌩️';}
+function wxe(c){if(c===0)return'Clear Sky';if(c<=2)return'Partly Cloudy';if(c<=3)return'Overcast';if(c<=49)return'Foggy';if(c<=67)return'Rain';if(c<=77)return'Snowfall';if(c<=82)return'Rain Showers';if(c<=94)return'Thunderstorm';return'Hailstorm';}
+function wxu(c){if(c===0)return'صاف آسمان';if(c<=2)return'جزوی ابر آلود';if(c<=3)return'ابر آلود';if(c<=49)return'دھند';if(c<=67)return'بارش';if(c<=77)return'برف باری';if(c<=82)return'بارش کے جھونکے';return'گرج چمک';}
+function doInstall(){
+  if(S.dPWA){S.dPWA.prompt();S.dPWA.userChoice.then(function(r){if(r.outcome==='accepted'){toast('✅ Installed!');}S.dPWA=null;document.getElementById('ibar').classList.remove('show');});}
+  else{toast(S.lang==='ur'?'Chrome مینو ← Add to Home Screen':'Browser menu → Add to Home Screen');}
+}
+function toast(msg){
+  var t=document.getElementById('toast');
+  t.textContent=msg;t.classList.add('show');
+  setTimeout(function(){t.classList.remove('show');},2800);
+}
+boot();
+</script>
+</body>
+</html>
