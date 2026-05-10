@@ -1,1 +1,38 @@
+# ═══════════════════════════════════════════════
+#  SM News — GitHub Actions Workflow
+#  ہر گھنٹے خبریں fetch کرتا ہے
+#  Dr. Sajid Mahmood | Hazara University Mansehra
+# ═══════════════════════════════════════════════
+name: Fetch News
 
+on:
+  schedule:
+    - cron: '0 * * * *'   # ہر گھنٹے چلے گا
+  workflow_dispatch:        # manually بھی چلا سکتے ہیں
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch RSS feeds
+        run: python3 fetch-news.py
+
+      - name: Commit and push news.json
+        run: |
+          git config user.name  "SM News Bot"
+          git config user.email "bot@sm-news.github.io"
+          git add news.json
+          git diff --cached --quiet || git commit -m "📰 Update news - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
