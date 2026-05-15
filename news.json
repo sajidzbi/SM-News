@@ -1,7 +1,23 @@
 {
-  "fetched": "2026-05-15T22:53:02.847717+00:00",
+  "fetched": "2026-05-15T23:52:08.638323+00:00",
   "categories": {
     "international": [
+      {
+        "title": "UK 10-year bonds head for sharpest daily slump since April 2025",
+        "summary": "UK 10-year bonds head for sharpest daily slump since April 2025",
+        "url": "https://arynews.tv/bonds-experience-significant-daily-tumble-today",
+        "source": "ARY News",
+        "date": "2026-05-16T04:05:17+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Keir-starmer.jpg"
+      },
+      {
+        "title": "Prediction markets see surge in suspicious trades as popularity explodes",
+        "summary": "Prediction markets see surge in suspicious trades as popularity explodes",
+        "url": "https://arynews.tv/kalshi-faces-increased-scrutiny-over-trades",
+        "source": "ARY News",
+        "date": "2026-05-16T04:00:09+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Kalshi.jpg"
+      },
       {
         "title": "Starbucks cuts 300 corporate jobs",
         "summary": "Starbucks cuts 300 corporate jobs",
@@ -51,6 +67,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Welcome-to-Jungle-1.jpg"
       },
       {
+        "title": "ایران سے جنگ بندی پاکستان کے کہنے پر ایک ’فیور‘ کے طور پر کی: امریکی صدر ڈونلڈ ٹرمپ کی ایئرفورس ون پر امریکی صحافیوں سے گفتگو",
+        "summary": "چین کے دورے سے واپسی پر ایئرفورس ون میں صحافیوں سے گفتگو کرتے ہوئے امریکی صدر نے کہا کہ ’ہم نے واقعی دیگر ممالک کی درخواست پر جنگ بندی کی۔ میں خود اس کے حق میں نہیں تھا مگر ہم نے یہ پاکستان کے لیے ایک ’فیور‘ کے طور پر کیا۔ انھوں نے پاکستانی قیادت کی ایک بار پھر تعریف کرتے ہوئے کہا کہ ’وہ شاندار لوگ ہیں‘۔",
+        "url": "https://www.bbc.co.uk/urdu/live/ce8p6vnln8jt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-05-15T23:52:10.984597+00:00",
+        "img": ""
+      },
+      {
         "title": "Rs1500 prize bond list 2026",
         "summary": "Rs1500 prize bond list 2026",
         "url": "https://arynews.tv/1500-prize-bond-list-2026",
@@ -88,14 +112,6 @@
         "url": "https://www.dawn.com/news/2000506/us-scraps-deployment-of-4000-troops-to-poland",
         "source": "Dawn",
         "date": "2026-05-15T23:00:00+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایران سے جنگ بندی پاکستان کے کہنے پر ایک ’فیور‘ کے طور پر کی: امریکی صدر ڈونلڈ ٹرمپ کی ایئرفورس ون پر امریکی صحافیوں سے گفتگو",
-        "summary": "چین کے دورے سے واپسی پر ایئرفورس ون میں صحافیوں سے گفتگو کرتے ہوئے امریکی صدر نے کہا کہ ’ہم نے واقعی دیگر ممالک کی درخواست پر جنگ بندی کی۔ میں خود اس کے حق میں نہیں تھا مگر ہم نے یہ پاکستان کے لیے ایک ’فیور‘ کے طور پر کیا۔ انھوں نے پاکستانی قیادت کی ایک بار پھر تعریف کرتے ہوئے کہا کہ ’وہ شاندار لوگ ہیں‘۔",
-        "url": "https://www.bbc.co.uk/urdu/live/ce8p6vnln8jt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-05-15T22:53:10.603993+00:00",
         "img": ""
       },
       {
@@ -273,22 +289,6 @@
         "source": "ARY News",
         "date": "2026-05-15T19:35:15+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Modi-Planning-Pakistan.jpg"
-      },
-      {
-        "title": "No clear autism link to antidepressant use during pregnancy, large study finds",
-        "summary": "No clear autism link to antidepressant use during pregnancy, large study finds",
-        "url": "https://arynews.tv/autism-and-antidepressants-during-pregnancy-explained",
-        "source": "ARY News",
-        "date": "2026-05-15T19:25:34+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Robert-F.-Keneddy.jpg"
-      },
-      {
-        "title": "British Gas owner to pay $27 million after prepay meter probe",
-        "summary": "British Gas owner to pay $27 million after prepay meter probe",
-        "url": "https://arynews.tv/british-gas-owner-to-pay-27-million-after-prepay-meter-probe",
-        "source": "ARY News",
-        "date": "2026-05-15T19:09:24+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-92-1.jpg"
       },
       {
         "title": "Aleem Khan blames Punjab, KP govts for delays in highway projects",
@@ -573,6 +573,22 @@
     ],
     "national": [
       {
+        "title": "UK 10-year bonds head for sharpest daily slump since April 2025",
+        "summary": "UK 10-year bonds head for sharpest daily slump since April 2025",
+        "url": "https://arynews.tv/bonds-experience-significant-daily-tumble-today",
+        "source": "ARY News",
+        "date": "2026-05-16T04:05:17+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Keir-starmer.jpg"
+      },
+      {
+        "title": "Prediction markets see surge in suspicious trades as popularity explodes",
+        "summary": "Prediction markets see surge in suspicious trades as popularity explodes",
+        "url": "https://arynews.tv/kalshi-faces-increased-scrutiny-over-trades",
+        "source": "ARY News",
+        "date": "2026-05-16T04:00:09+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Kalshi.jpg"
+      },
+      {
         "title": "Starbucks cuts 300 corporate jobs",
         "summary": "Starbucks cuts 300 corporate jobs",
         "url": "https://arynews.tv/starbucks-cuts-300-corporate-jobs",
@@ -637,11 +653,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Crash-1.jpg"
       },
       {
+        "title": "کراچی؛ تربوز فروش کے ہاتھوں چھری کے وار سے زخمی چاٹ فروش دم توڑ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813293/1-2813293/",
+        "source": "Express",
+        "date": "2026-05-15T23:32:35+05:00",
+        "img": ""
+      },
+      {
         "title": "Barbs fly in Senate over PTI founder’s health, access to political prisoners",
         "summary": "<p>ISLAMABAD: The Senate on Friday witnessed a war of words over the health and <a href=\"https://www.dawn.com/news/2000235/aleema-khan-moves-ihc-against-pti-founder-imran-khans-solitary-confinement\">treatment</a> of PTI founder Imran Khan and the conditions of political prisoners, with opposition members demanding an i",
         "url": "https://www.dawn.com/news/2000491/barbs-fly-in-senate-over-pti-founders-health-access-to-political-prisoners",
         "source": "Dawn",
         "date": "2026-05-15T23:31:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان ویمن کرکٹ ٹیم کی کپتان فاطمہ ثنا نے 15 بالز پر تیز ترین ففٹی بنا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813291/pakistan-womens-cricket-team-captain-fatima-sana-scores-fastest-fifty-off-15-balls-2813291/",
+        "source": "Express",
+        "date": "2026-05-15T22:52:57+05:00",
         "img": ""
       },
       {
@@ -861,22 +893,6 @@
         "img": ""
       },
       {
-        "title": "No clear autism link to antidepressant use during pregnancy, large study finds",
-        "summary": "No clear autism link to antidepressant use during pregnancy, large study finds",
-        "url": "https://arynews.tv/autism-and-antidepressants-during-pregnancy-explained",
-        "source": "ARY News",
-        "date": "2026-05-15T19:25:34+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Robert-F.-Keneddy.jpg"
-      },
-      {
-        "title": "British Gas owner to pay $27 million after prepay meter probe",
-        "summary": "British Gas owner to pay $27 million after prepay meter probe",
-        "url": "https://arynews.tv/british-gas-owner-to-pay-27-million-after-prepay-meter-probe",
-        "source": "ARY News",
-        "date": "2026-05-15T19:09:24+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-92-1.jpg"
-      },
-      {
         "title": "کراچی میں قربانی کیلیے لایا گیا بیل نالے میں گرگیا",
         "summary": "",
         "url": "https://www.express.pk/story/2813274/cow-drawn-nullah-in-karachi-2813274/",
@@ -893,6 +909,14 @@
         "img": ""
       },
       {
+        "title": "وزیراعظم سینے پر پتھر رکھ کر پیٹرول کی قیمتیں بڑھانے کا ڈرامہ بند کریں، حافظ نعیم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813292/hafiz-naeem-2813292/",
+        "source": "Express",
+        "date": "2026-05-15T17:52:57+00:00",
+        "img": ""
+      },
+      {
         "title": "Aleem Khan blames Punjab, KP govts for delays in highway projects",
         "summary": "<p>ISLAMABAD: Federal Minister for Communications Abdul Aleem Khan on Friday blamed provincial governments for delays in the completion of various highway projects.</p> <p>Presiding over a National Highway Authority (NHA) review meeting, the minister issued a decisive mandate to accelerate the completion of critical in",
         "url": "https://www.dawn.com/news/2000472/aleem-khan-blames-punjab-kp-govts-for-delays-in-highway-projects",
@@ -901,19 +925,11 @@
         "img": ""
       },
       {
-        "title": "امریکا؛ 22 سالہ لڑکی کے ہولناک قتل میں بوائے فرینڈ کا والد قاتل نکلا",
+        "title": "کراچی میں ہیوی ٹریفک سے خونیں حادثات جاری، ٹریلر نے 2 لڑکے کچل دیے",
         "summary": "",
-        "url": "https://www.express.pk/story/2813261/whitney-harlow-robeson-22-shot-and-killed-by-boyfriends-father-in-alabama-2813261/",
+        "url": "https://www.express.pk/story/2813290/heavy-traffic-continues-to-cause-deadly-accidents-in-karachi-two-boys-crushed-by-trailer-2813290/",
         "source": "Express",
-        "date": "2026-05-15T17:23:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "قربانی کیلیے لایا گیا لاکھوں مالیت کا چوری شدہ جانور پولیس نے کیسے تلاش کیا؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813260/lahore-police-found-theft-cow-2813260/",
-        "source": "Express",
-        "date": "2026-05-15T17:16:54+05:00",
+        "date": "2026-05-15T17:44:06+00:00",
         "img": ""
       },
       {
@@ -922,14 +938,6 @@
         "url": "https://www.express.pk/story/2813289/record-increase-in-inflation-in-pakistan-2813289/",
         "source": "Express",
         "date": "2026-05-15T17:10:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "گورنر خیبرپختونخوا کا وزیراعلیٰ سہیل آفریدی سے رابطہ، لاک ڈاؤن ختم کرنے کی تجویز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813258/governor-kp-contacts-chief-minister-sohail-afridi-lock-down-lift-proposal-2813258/",
-        "source": "Express",
-        "date": "2026-05-15T16:50:18+05:00",
         "img": ""
       },
       {
@@ -1042,14 +1050,6 @@
         "url": "https://www.dawn.com/news/2000425/pm-shehbaz-lauds-historic-pak-china-ties-in-meeting-with-chinese-business-delegation",
         "source": "Dawn",
         "date": "2026-05-15T11:43:52+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسٹیٹ بینک نے عید الاضحیٰ کے لیے ’گو کیش لیس‘ مہم شروع کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813257/state-bank-eid-azha-go-cash-less-campaign-start-2813257/",
-        "source": "Express",
-        "date": "2026-05-15T11:31:58+00:00",
         "img": ""
       },
       {
@@ -1175,6 +1175,22 @@
     ],
     "kpk": [
       {
+        "title": "UK 10-year bonds head for sharpest daily slump since April 2025",
+        "summary": "UK 10-year bonds head for sharpest daily slump since April 2025",
+        "url": "https://arynews.tv/bonds-experience-significant-daily-tumble-today",
+        "source": "ARY News",
+        "date": "2026-05-16T04:05:17+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Keir-starmer.jpg"
+      },
+      {
+        "title": "Prediction markets see surge in suspicious trades as popularity explodes",
+        "summary": "Prediction markets see surge in suspicious trades as popularity explodes",
+        "url": "https://arynews.tv/kalshi-faces-increased-scrutiny-over-trades",
+        "source": "ARY News",
+        "date": "2026-05-16T04:00:09+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Kalshi.jpg"
+      },
+      {
         "title": "Starbucks cuts 300 corporate jobs",
         "summary": "Starbucks cuts 300 corporate jobs",
         "url": "https://arynews.tv/starbucks-cuts-300-corporate-jobs",
@@ -1239,11 +1255,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Crash-1.jpg"
       },
       {
+        "title": "کراچی؛ تربوز فروش کے ہاتھوں چھری کے وار سے زخمی چاٹ فروش دم توڑ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813293/1-2813293/",
+        "source": "Express",
+        "date": "2026-05-15T23:32:35+05:00",
+        "img": ""
+      },
+      {
         "title": "Barbs fly in Senate over PTI founder’s health, access to political prisoners",
         "summary": "<p>ISLAMABAD: The Senate on Friday witnessed a war of words over the health and <a href=\"https://www.dawn.com/news/2000235/aleema-khan-moves-ihc-against-pti-founder-imran-khans-solitary-confinement\">treatment</a> of PTI founder Imran Khan and the conditions of political prisoners, with opposition members demanding an i",
         "url": "https://www.dawn.com/news/2000491/barbs-fly-in-senate-over-pti-founders-health-access-to-political-prisoners",
         "source": "Dawn",
         "date": "2026-05-15T23:31:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان ویمن کرکٹ ٹیم کی کپتان فاطمہ ثنا نے 15 بالز پر تیز ترین ففٹی بنا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813291/pakistan-womens-cricket-team-captain-fatima-sana-scores-fastest-fifty-off-15-balls-2813291/",
+        "source": "Express",
+        "date": "2026-05-15T22:52:57+05:00",
         "img": ""
       },
       {
@@ -1463,22 +1495,6 @@
         "img": ""
       },
       {
-        "title": "No clear autism link to antidepressant use during pregnancy, large study finds",
-        "summary": "No clear autism link to antidepressant use during pregnancy, large study finds",
-        "url": "https://arynews.tv/autism-and-antidepressants-during-pregnancy-explained",
-        "source": "ARY News",
-        "date": "2026-05-15T19:25:34+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Robert-F.-Keneddy.jpg"
-      },
-      {
-        "title": "British Gas owner to pay $27 million after prepay meter probe",
-        "summary": "British Gas owner to pay $27 million after prepay meter probe",
-        "url": "https://arynews.tv/british-gas-owner-to-pay-27-million-after-prepay-meter-probe",
-        "source": "ARY News",
-        "date": "2026-05-15T19:09:24+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-92-1.jpg"
-      },
-      {
         "title": "کراچی میں قربانی کیلیے لایا گیا بیل نالے میں گرگیا",
         "summary": "",
         "url": "https://www.express.pk/story/2813274/cow-drawn-nullah-in-karachi-2813274/",
@@ -1492,6 +1508,14 @@
         "url": "https://www.express.pk/story/2813272/pak-zim-wt20i-2813272/",
         "source": "Express",
         "date": "2026-05-15T18:44:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "وزیراعظم سینے پر پتھر رکھ کر پیٹرول کی قیمتیں بڑھانے کا ڈرامہ بند کریں، حافظ نعیم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813292/hafiz-naeem-2813292/",
+        "source": "Express",
+        "date": "2026-05-15T17:52:57+00:00",
         "img": ""
       },
       {
@@ -1511,35 +1535,11 @@
         "img": ""
       },
       {
-        "title": "امریکا؛ 22 سالہ لڑکی کے ہولناک قتل میں بوائے فرینڈ کا والد قاتل نکلا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813261/whitney-harlow-robeson-22-shot-and-killed-by-boyfriends-father-in-alabama-2813261/",
-        "source": "Express",
-        "date": "2026-05-15T17:23:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "قربانی کیلیے لایا گیا لاکھوں مالیت کا چوری شدہ جانور پولیس نے کیسے تلاش کیا؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813260/lahore-police-found-theft-cow-2813260/",
-        "source": "Express",
-        "date": "2026-05-15T17:16:54+05:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان میں مہنگائی میں ریکارڈ اضافہ، شہری شدید پریشان، حکومت صورتحال سنبھالنے میں ناکام",
         "summary": "",
         "url": "https://www.express.pk/story/2813289/record-increase-in-inflation-in-pakistan-2813289/",
         "source": "Express",
         "date": "2026-05-15T17:10:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "گورنر خیبرپختونخوا کا وزیراعلیٰ سہیل آفریدی سے رابطہ، لاک ڈاؤن ختم کرنے کی تجویز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813258/governor-kp-contacts-chief-minister-sohail-afridi-lock-down-lift-proposal-2813258/",
-        "source": "Express",
-        "date": "2026-05-15T16:50:18+05:00",
         "img": ""
       },
       {
@@ -1865,11 +1865,27 @@
         "img": ""
       },
       {
+        "title": "کراچی؛ تربوز فروش کے ہاتھوں چھری کے وار سے زخمی چاٹ فروش دم توڑ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813293/1-2813293/",
+        "source": "Express",
+        "date": "2026-05-15T23:32:35+05:00",
+        "img": ""
+      },
+      {
         "title": "Barbs fly in Senate over PTI founder’s health, access to political prisoners",
         "summary": "<p>ISLAMABAD: The Senate on Friday witnessed a war of words over the health and <a href=\"https://www.dawn.com/news/2000235/aleema-khan-moves-ihc-against-pti-founder-imran-khans-solitary-confinement\">treatment</a> of PTI founder Imran Khan and the conditions of political prisoners, with opposition members demanding an i",
         "url": "https://www.dawn.com/news/2000491/barbs-fly-in-senate-over-pti-founders-health-access-to-political-prisoners",
         "source": "Dawn",
         "date": "2026-05-15T23:31:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان ویمن کرکٹ ٹیم کی کپتان فاطمہ ثنا نے 15 بالز پر تیز ترین ففٹی بنا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813291/pakistan-womens-cricket-team-captain-fatima-sana-scores-fastest-fifty-off-15-balls-2813291/",
+        "source": "Express",
+        "date": "2026-05-15T22:52:57+05:00",
         "img": ""
       },
       {
@@ -1977,6 +1993,14 @@
         "img": ""
       },
       {
+        "title": "وزیراعظم سینے پر پتھر رکھ کر پیٹرول کی قیمتیں بڑھانے کا ڈرامہ بند کریں، حافظ نعیم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813292/hafiz-naeem-2813292/",
+        "source": "Express",
+        "date": "2026-05-15T17:52:57+00:00",
+        "img": ""
+      },
+      {
         "title": "Aleem Khan blames Punjab, KP govts for delays in highway projects",
         "summary": "<p>ISLAMABAD: Federal Minister for Communications Abdul Aleem Khan on Friday blamed provincial governments for delays in the completion of various highway projects.</p> <p>Presiding over a National Highway Authority (NHA) review meeting, the minister issued a decisive mandate to accelerate the completion of critical in",
         "url": "https://www.dawn.com/news/2000472/aleem-khan-blames-punjab-kp-govts-for-delays-in-highway-projects",
@@ -1993,35 +2017,11 @@
         "img": ""
       },
       {
-        "title": "امریکا؛ 22 سالہ لڑکی کے ہولناک قتل میں بوائے فرینڈ کا والد قاتل نکلا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813261/whitney-harlow-robeson-22-shot-and-killed-by-boyfriends-father-in-alabama-2813261/",
-        "source": "Express",
-        "date": "2026-05-15T17:23:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "قربانی کیلیے لایا گیا لاکھوں مالیت کا چوری شدہ جانور پولیس نے کیسے تلاش کیا؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813260/lahore-police-found-theft-cow-2813260/",
-        "source": "Express",
-        "date": "2026-05-15T17:16:54+05:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان میں مہنگائی میں ریکارڈ اضافہ، شہری شدید پریشان، حکومت صورتحال سنبھالنے میں ناکام",
         "summary": "",
         "url": "https://www.express.pk/story/2813289/record-increase-in-inflation-in-pakistan-2813289/",
         "source": "Express",
         "date": "2026-05-15T17:10:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "گورنر خیبرپختونخوا کا وزیراعلیٰ سہیل آفریدی سے رابطہ، لاک ڈاؤن ختم کرنے کی تجویز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813258/governor-kp-contacts-chief-minister-sohail-afridi-lock-down-lift-proposal-2813258/",
-        "source": "Express",
-        "date": "2026-05-15T16:50:18+05:00",
         "img": ""
       },
       {
@@ -2267,11 +2267,27 @@
         "img": ""
       },
       {
+        "title": "کراچی؛ تربوز فروش کے ہاتھوں چھری کے وار سے زخمی چاٹ فروش دم توڑ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813293/1-2813293/",
+        "source": "Express",
+        "date": "2026-05-15T23:32:35+05:00",
+        "img": ""
+      },
+      {
         "title": "Barbs fly in Senate over PTI founder’s health, access to political prisoners",
         "summary": "<p>ISLAMABAD: The Senate on Friday witnessed a war of words over the health and <a href=\"https://www.dawn.com/news/2000235/aleema-khan-moves-ihc-against-pti-founder-imran-khans-solitary-confinement\">treatment</a> of PTI founder Imran Khan and the conditions of political prisoners, with opposition members demanding an i",
         "url": "https://www.dawn.com/news/2000491/barbs-fly-in-senate-over-pti-founders-health-access-to-political-prisoners",
         "source": "Dawn",
         "date": "2026-05-15T23:31:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان ویمن کرکٹ ٹیم کی کپتان فاطمہ ثنا نے 15 بالز پر تیز ترین ففٹی بنا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813291/pakistan-womens-cricket-team-captain-fatima-sana-scores-fastest-fifty-off-15-balls-2813291/",
+        "source": "Express",
+        "date": "2026-05-15T22:52:57+05:00",
         "img": ""
       },
       {
@@ -2379,6 +2395,14 @@
         "img": ""
       },
       {
+        "title": "وزیراعظم سینے پر پتھر رکھ کر پیٹرول کی قیمتیں بڑھانے کا ڈرامہ بند کریں، حافظ نعیم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813292/hafiz-naeem-2813292/",
+        "source": "Express",
+        "date": "2026-05-15T17:52:57+00:00",
+        "img": ""
+      },
+      {
         "title": "Aleem Khan blames Punjab, KP govts for delays in highway projects",
         "summary": "<p>ISLAMABAD: Federal Minister for Communications Abdul Aleem Khan on Friday blamed provincial governments for delays in the completion of various highway projects.</p> <p>Presiding over a National Highway Authority (NHA) review meeting, the minister issued a decisive mandate to accelerate the completion of critical in",
         "url": "https://www.dawn.com/news/2000472/aleem-khan-blames-punjab-kp-govts-for-delays-in-highway-projects",
@@ -2395,35 +2419,11 @@
         "img": ""
       },
       {
-        "title": "امریکا؛ 22 سالہ لڑکی کے ہولناک قتل میں بوائے فرینڈ کا والد قاتل نکلا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813261/whitney-harlow-robeson-22-shot-and-killed-by-boyfriends-father-in-alabama-2813261/",
-        "source": "Express",
-        "date": "2026-05-15T17:23:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "قربانی کیلیے لایا گیا لاکھوں مالیت کا چوری شدہ جانور پولیس نے کیسے تلاش کیا؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813260/lahore-police-found-theft-cow-2813260/",
-        "source": "Express",
-        "date": "2026-05-15T17:16:54+05:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان میں مہنگائی میں ریکارڈ اضافہ، شہری شدید پریشان، حکومت صورتحال سنبھالنے میں ناکام",
         "summary": "",
         "url": "https://www.express.pk/story/2813289/record-increase-in-inflation-in-pakistan-2813289/",
         "source": "Express",
         "date": "2026-05-15T17:10:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "گورنر خیبرپختونخوا کا وزیراعلیٰ سہیل آفریدی سے رابطہ، لاک ڈاؤن ختم کرنے کی تجویز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813258/governor-kp-contacts-chief-minister-sohail-afridi-lock-down-lift-proposal-2813258/",
-        "source": "Express",
-        "date": "2026-05-15T16:50:18+05:00",
         "img": ""
       },
       {
@@ -2661,6 +2661,22 @@
     ],
     "baloch": [
       {
+        "title": "UK 10-year bonds head for sharpest daily slump since April 2025",
+        "summary": "UK 10-year bonds head for sharpest daily slump since April 2025",
+        "url": "https://arynews.tv/bonds-experience-significant-daily-tumble-today",
+        "source": "ARY News",
+        "date": "2026-05-16T04:05:17+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Keir-starmer.jpg"
+      },
+      {
+        "title": "Prediction markets see surge in suspicious trades as popularity explodes",
+        "summary": "Prediction markets see surge in suspicious trades as popularity explodes",
+        "url": "https://arynews.tv/kalshi-faces-increased-scrutiny-over-trades",
+        "source": "ARY News",
+        "date": "2026-05-16T04:00:09+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Kalshi.jpg"
+      },
+      {
         "title": "Starbucks cuts 300 corporate jobs",
         "summary": "Starbucks cuts 300 corporate jobs",
         "url": "https://arynews.tv/starbucks-cuts-300-corporate-jobs",
@@ -2725,11 +2741,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Crash-1.jpg"
       },
       {
+        "title": "کراچی؛ تربوز فروش کے ہاتھوں چھری کے وار سے زخمی چاٹ فروش دم توڑ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813293/1-2813293/",
+        "source": "Express",
+        "date": "2026-05-15T23:32:35+05:00",
+        "img": ""
+      },
+      {
         "title": "Barbs fly in Senate over PTI founder’s health, access to political prisoners",
         "summary": "<p>ISLAMABAD: The Senate on Friday witnessed a war of words over the health and <a href=\"https://www.dawn.com/news/2000235/aleema-khan-moves-ihc-against-pti-founder-imran-khans-solitary-confinement\">treatment</a> of PTI founder Imran Khan and the conditions of political prisoners, with opposition members demanding an i",
         "url": "https://www.dawn.com/news/2000491/barbs-fly-in-senate-over-pti-founders-health-access-to-political-prisoners",
         "source": "Dawn",
         "date": "2026-05-15T23:31:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان ویمن کرکٹ ٹیم کی کپتان فاطمہ ثنا نے 15 بالز پر تیز ترین ففٹی بنا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813291/pakistan-womens-cricket-team-captain-fatima-sana-scores-fastest-fifty-off-15-balls-2813291/",
+        "source": "Express",
+        "date": "2026-05-15T22:52:57+05:00",
         "img": ""
       },
       {
@@ -2949,22 +2981,6 @@
         "img": ""
       },
       {
-        "title": "No clear autism link to antidepressant use during pregnancy, large study finds",
-        "summary": "No clear autism link to antidepressant use during pregnancy, large study finds",
-        "url": "https://arynews.tv/autism-and-antidepressants-during-pregnancy-explained",
-        "source": "ARY News",
-        "date": "2026-05-15T19:25:34+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Robert-F.-Keneddy.jpg"
-      },
-      {
-        "title": "British Gas owner to pay $27 million after prepay meter probe",
-        "summary": "British Gas owner to pay $27 million after prepay meter probe",
-        "url": "https://arynews.tv/british-gas-owner-to-pay-27-million-after-prepay-meter-probe",
-        "source": "ARY News",
-        "date": "2026-05-15T19:09:24+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-92-1.jpg"
-      },
-      {
         "title": "کراچی میں قربانی کیلیے لایا گیا بیل نالے میں گرگیا",
         "summary": "",
         "url": "https://www.express.pk/story/2813274/cow-drawn-nullah-in-karachi-2813274/",
@@ -2978,6 +2994,14 @@
         "url": "https://www.express.pk/story/2813272/pak-zim-wt20i-2813272/",
         "source": "Express",
         "date": "2026-05-15T18:44:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "وزیراعظم سینے پر پتھر رکھ کر پیٹرول کی قیمتیں بڑھانے کا ڈرامہ بند کریں، حافظ نعیم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813292/hafiz-naeem-2813292/",
+        "source": "Express",
+        "date": "2026-05-15T17:52:57+00:00",
         "img": ""
       },
       {
@@ -2997,35 +3021,11 @@
         "img": ""
       },
       {
-        "title": "امریکا؛ 22 سالہ لڑکی کے ہولناک قتل میں بوائے فرینڈ کا والد قاتل نکلا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813261/whitney-harlow-robeson-22-shot-and-killed-by-boyfriends-father-in-alabama-2813261/",
-        "source": "Express",
-        "date": "2026-05-15T17:23:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "قربانی کیلیے لایا گیا لاکھوں مالیت کا چوری شدہ جانور پولیس نے کیسے تلاش کیا؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813260/lahore-police-found-theft-cow-2813260/",
-        "source": "Express",
-        "date": "2026-05-15T17:16:54+05:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان میں مہنگائی میں ریکارڈ اضافہ، شہری شدید پریشان، حکومت صورتحال سنبھالنے میں ناکام",
         "summary": "",
         "url": "https://www.express.pk/story/2813289/record-increase-in-inflation-in-pakistan-2813289/",
         "source": "Express",
         "date": "2026-05-15T17:10:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "گورنر خیبرپختونخوا کا وزیراعلیٰ سہیل آفریدی سے رابطہ، لاک ڈاؤن ختم کرنے کی تجویز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813258/governor-kp-contacts-chief-minister-sohail-afridi-lock-down-lift-proposal-2813258/",
-        "source": "Express",
-        "date": "2026-05-15T16:50:18+05:00",
         "img": ""
       },
       {
@@ -3263,6 +3263,22 @@
     ],
     "education": [
       {
+        "title": "UK 10-year bonds head for sharpest daily slump since April 2025",
+        "summary": "UK 10-year bonds head for sharpest daily slump since April 2025",
+        "url": "https://arynews.tv/bonds-experience-significant-daily-tumble-today",
+        "source": "ARY News",
+        "date": "2026-05-16T04:05:17+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Keir-starmer.jpg"
+      },
+      {
+        "title": "Prediction markets see surge in suspicious trades as popularity explodes",
+        "summary": "Prediction markets see surge in suspicious trades as popularity explodes",
+        "url": "https://arynews.tv/kalshi-faces-increased-scrutiny-over-trades",
+        "source": "ARY News",
+        "date": "2026-05-16T04:00:09+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Kalshi.jpg"
+      },
+      {
         "title": "Starbucks cuts 300 corporate jobs",
         "summary": "Starbucks cuts 300 corporate jobs",
         "url": "https://arynews.tv/starbucks-cuts-300-corporate-jobs",
@@ -3317,6 +3333,22 @@
         "source": "ARY News",
         "date": "2026-05-15T23:44:50+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Crash-1.jpg"
+      },
+      {
+        "title": "کراچی؛ تربوز فروش کے ہاتھوں چھری کے وار سے زخمی چاٹ فروش دم توڑ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813293/1-2813293/",
+        "source": "Express",
+        "date": "2026-05-15T23:32:35+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان ویمن کرکٹ ٹیم کی کپتان فاطمہ ثنا نے 15 بالز پر تیز ترین ففٹی بنا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813291/pakistan-womens-cricket-team-captain-fatima-sana-scores-fastest-fifty-off-15-balls-2813291/",
+        "source": "Express",
+        "date": "2026-05-15T22:52:57+05:00",
+        "img": ""
       },
       {
         "title": "Pete Davidson, Elsie Hewitt split five months after birth of daughter",
@@ -3511,22 +3543,6 @@
         "img": ""
       },
       {
-        "title": "No clear autism link to antidepressant use during pregnancy, large study finds",
-        "summary": "No clear autism link to antidepressant use during pregnancy, large study finds",
-        "url": "https://arynews.tv/autism-and-antidepressants-during-pregnancy-explained",
-        "source": "ARY News",
-        "date": "2026-05-15T19:25:34+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Robert-F.-Keneddy.jpg"
-      },
-      {
-        "title": "British Gas owner to pay $27 million after prepay meter probe",
-        "summary": "British Gas owner to pay $27 million after prepay meter probe",
-        "url": "https://arynews.tv/british-gas-owner-to-pay-27-million-after-prepay-meter-probe",
-        "source": "ARY News",
-        "date": "2026-05-15T19:09:24+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-92-1.jpg"
-      },
-      {
         "title": "کراچی میں قربانی کیلیے لایا گیا بیل نالے میں گرگیا",
         "summary": "",
         "url": "https://www.express.pk/story/2813274/cow-drawn-nullah-in-karachi-2813274/",
@@ -3543,6 +3559,14 @@
         "img": ""
       },
       {
+        "title": "وزیراعظم سینے پر پتھر رکھ کر پیٹرول کی قیمتیں بڑھانے کا ڈرامہ بند کریں، حافظ نعیم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813292/hafiz-naeem-2813292/",
+        "source": "Express",
+        "date": "2026-05-15T17:52:57+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی میں ہیوی ٹریفک سے خونیں حادثات جاری، ٹریلر نے 2 لڑکے کچل دیے",
         "summary": "",
         "url": "https://www.express.pk/story/2813290/heavy-traffic-continues-to-cause-deadly-accidents-in-karachi-two-boys-crushed-by-trailer-2813290/",
@@ -3551,35 +3575,11 @@
         "img": ""
       },
       {
-        "title": "امریکا؛ 22 سالہ لڑکی کے ہولناک قتل میں بوائے فرینڈ کا والد قاتل نکلا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813261/whitney-harlow-robeson-22-shot-and-killed-by-boyfriends-father-in-alabama-2813261/",
-        "source": "Express",
-        "date": "2026-05-15T17:23:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "قربانی کیلیے لایا گیا لاکھوں مالیت کا چوری شدہ جانور پولیس نے کیسے تلاش کیا؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813260/lahore-police-found-theft-cow-2813260/",
-        "source": "Express",
-        "date": "2026-05-15T17:16:54+05:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان میں مہنگائی میں ریکارڈ اضافہ، شہری شدید پریشان، حکومت صورتحال سنبھالنے میں ناکام",
         "summary": "",
         "url": "https://www.express.pk/story/2813289/record-increase-in-inflation-in-pakistan-2813289/",
         "source": "Express",
         "date": "2026-05-15T17:10:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "گورنر خیبرپختونخوا کا وزیراعلیٰ سہیل آفریدی سے رابطہ، لاک ڈاؤن ختم کرنے کی تجویز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813258/governor-kp-contacts-chief-minister-sohail-afridi-lock-down-lift-proposal-2813258/",
-        "source": "Express",
-        "date": "2026-05-15T16:50:18+05:00",
         "img": ""
       },
       {
@@ -3664,6 +3664,22 @@
       }
     ],
     "science": [
+      {
+        "title": "UK 10-year bonds head for sharpest daily slump since April 2025",
+        "summary": "UK 10-year bonds head for sharpest daily slump since April 2025",
+        "url": "https://arynews.tv/bonds-experience-significant-daily-tumble-today",
+        "source": "ARY News",
+        "date": "2026-05-16T04:05:17+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Keir-starmer.jpg"
+      },
+      {
+        "title": "Prediction markets see surge in suspicious trades as popularity explodes",
+        "summary": "Prediction markets see surge in suspicious trades as popularity explodes",
+        "url": "https://arynews.tv/kalshi-faces-increased-scrutiny-over-trades",
+        "source": "ARY News",
+        "date": "2026-05-16T04:00:09+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Kalshi.jpg"
+      },
       {
         "title": "Starbucks cuts 300 corporate jobs",
         "summary": "Starbucks cuts 300 corporate jobs",
@@ -3847,25 +3863,25 @@
         "source": "ARY News",
         "date": "2026-05-15T19:35:15+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Modi-Planning-Pakistan.jpg"
-      },
-      {
-        "title": "No clear autism link to antidepressant use during pregnancy, large study finds",
-        "summary": "No clear autism link to antidepressant use during pregnancy, large study finds",
-        "url": "https://arynews.tv/autism-and-antidepressants-during-pregnancy-explained",
-        "source": "ARY News",
-        "date": "2026-05-15T19:25:34+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Robert-F.-Keneddy.jpg"
-      },
-      {
-        "title": "British Gas owner to pay $27 million after prepay meter probe",
-        "summary": "British Gas owner to pay $27 million after prepay meter probe",
-        "url": "https://arynews.tv/british-gas-owner-to-pay-27-million-after-prepay-meter-probe",
-        "source": "ARY News",
-        "date": "2026-05-15T19:09:24+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-92-1.jpg"
       }
     ],
     "sports": [
+      {
+        "title": "کراچی؛ تربوز فروش کے ہاتھوں چھری کے وار سے زخمی چاٹ فروش دم توڑ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813293/1-2813293/",
+        "source": "Express",
+        "date": "2026-05-15T23:32:35+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان ویمن کرکٹ ٹیم کی کپتان فاطمہ ثنا نے 15 بالز پر تیز ترین ففٹی بنا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813291/pakistan-womens-cricket-team-captain-fatima-sana-scores-fastest-fifty-off-15-balls-2813291/",
+        "source": "Express",
+        "date": "2026-05-15T22:52:57+05:00",
+        "img": ""
+      },
       {
         "title": "جھاڑ پلانے کے بعد بلاول بھٹو زرداری کو شازیہ مری کیساتھ رویے کا احساس ہوگیا",
         "summary": "",
@@ -3995,6 +4011,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/1-92.jpg"
       },
       {
+        "title": "وزیراعظم سینے پر پتھر رکھ کر پیٹرول کی قیمتیں بڑھانے کا ڈرامہ بند کریں، حافظ نعیم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813292/hafiz-naeem-2813292/",
+        "source": "Express",
+        "date": "2026-05-15T17:52:57+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی میں ہیوی ٹریفک سے خونیں حادثات جاری، ٹریلر نے 2 لڑکے کچل دیے",
         "summary": "",
         "url": "https://www.express.pk/story/2813290/heavy-traffic-continues-to-cause-deadly-accidents-in-karachi-two-boys-crushed-by-trailer-2813290/",
@@ -4027,28 +4051,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/1-90.jpg"
       },
       {
-        "title": "امریکا؛ 22 سالہ لڑکی کے ہولناک قتل میں بوائے فرینڈ کا والد قاتل نکلا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813261/whitney-harlow-robeson-22-shot-and-killed-by-boyfriends-father-in-alabama-2813261/",
-        "source": "Express",
-        "date": "2026-05-15T17:23:03+05:00",
-        "img": ""
-      },
-      {
         "title": "Arsenal scent Premier League glory",
         "summary": "Arsenal scent Premier League glory",
         "url": "https://arynews.tv/category/sports/arsenal-scent-premier-league-glory",
         "source": "ARY Sports",
         "date": "2026-05-15T17:20:38+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/1-89.jpg"
-      },
-      {
-        "title": "قربانی کیلیے لایا گیا لاکھوں مالیت کا چوری شدہ جانور پولیس نے کیسے تلاش کیا؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813260/lahore-police-found-theft-cow-2813260/",
-        "source": "Express",
-        "date": "2026-05-15T17:16:54+05:00",
-        "img": ""
       },
       {
         "title": "Injured Mitoma fails to make Japan’s World Cup squad",
@@ -4081,14 +4089,6 @@
         "source": "ARY Sports",
         "date": "2026-05-15T16:50:50+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/1-87.jpg"
-      },
-      {
-        "title": "گورنر خیبرپختونخوا کا وزیراعلیٰ سہیل آفریدی سے رابطہ، لاک ڈاؤن ختم کرنے کی تجویز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813258/governor-kp-contacts-chief-minister-sohail-afridi-lock-down-lift-proposal-2813258/",
-        "source": "Express",
-        "date": "2026-05-15T16:50:18+05:00",
-        "img": ""
       },
       {
         "title": "Kohli open to 2027 World Cup if he can still ‘add value’",
@@ -4437,6 +4437,22 @@
         "img": ""
       },
       {
+        "title": "کراچی؛ تربوز فروش کے ہاتھوں چھری کے وار سے زخمی چاٹ فروش دم توڑ گیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813293/1-2813293/",
+        "source": "Express",
+        "date": "2026-05-15T23:32:35+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان ویمن کرکٹ ٹیم کی کپتان فاطمہ ثنا نے 15 بالز پر تیز ترین ففٹی بنا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813291/pakistan-womens-cricket-team-captain-fatima-sana-scores-fastest-fifty-off-15-balls-2813291/",
+        "source": "Express",
+        "date": "2026-05-15T22:52:57+05:00",
+        "img": ""
+      },
+      {
         "title": "جھاڑ پلانے کے بعد بلاول بھٹو زرداری کو شازیہ مری کیساتھ رویے کا احساس ہوگیا",
         "summary": "",
         "url": "https://www.express.pk/story/2813288/after-the-tussle-bilawal-bhutto-zardari-realized-his-behavior-towards-shazia-marri-2813288/",
@@ -4517,6 +4533,14 @@
         "img": ""
       },
       {
+        "title": "وزیراعظم سینے پر پتھر رکھ کر پیٹرول کی قیمتیں بڑھانے کا ڈرامہ بند کریں، حافظ نعیم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813292/hafiz-naeem-2813292/",
+        "source": "Express",
+        "date": "2026-05-15T17:52:57+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی میں ہیوی ٹریفک سے خونیں حادثات جاری، ٹریلر نے 2 لڑکے کچل دیے",
         "summary": "",
         "url": "https://www.express.pk/story/2813290/heavy-traffic-continues-to-cause-deadly-accidents-in-karachi-two-boys-crushed-by-trailer-2813290/",
@@ -4525,35 +4549,11 @@
         "img": ""
       },
       {
-        "title": "امریکا؛ 22 سالہ لڑکی کے ہولناک قتل میں بوائے فرینڈ کا والد قاتل نکلا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813261/whitney-harlow-robeson-22-shot-and-killed-by-boyfriends-father-in-alabama-2813261/",
-        "source": "Express",
-        "date": "2026-05-15T17:23:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "قربانی کیلیے لایا گیا لاکھوں مالیت کا چوری شدہ جانور پولیس نے کیسے تلاش کیا؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813260/lahore-police-found-theft-cow-2813260/",
-        "source": "Express",
-        "date": "2026-05-15T17:16:54+05:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان میں مہنگائی میں ریکارڈ اضافہ، شہری شدید پریشان، حکومت صورتحال سنبھالنے میں ناکام",
         "summary": "",
         "url": "https://www.express.pk/story/2813289/record-increase-in-inflation-in-pakistan-2813289/",
         "source": "Express",
         "date": "2026-05-15T17:10:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "گورنر خیبرپختونخوا کا وزیراعلیٰ سہیل آفریدی سے رابطہ، لاک ڈاؤن ختم کرنے کی تجویز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813258/governor-kp-contacts-chief-minister-sohail-afridi-lock-down-lift-proposal-2813258/",
-        "source": "Express",
-        "date": "2026-05-15T16:50:18+05:00",
         "img": ""
       },
       {
