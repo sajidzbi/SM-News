@@ -1,7 +1,87 @@
 {
-  "fetched": "2026-05-14T23:53:34.663835+00:00",
+  "fetched": "2026-05-15T02:44:47.028885+00:00",
   "categories": {
     "international": [
+      {
+        "title": "UK health minister resigns as Starmer faces party revolt",
+        "summary": "<p>• Wes Streeting says he has lost confidence in Britain’s PM<br>• More than 80 Labour MPs back calls for change<br>• Angela Rayner positions herself for possible leadership bid</p> <p>LONDON: Britain’s health minister Wes Streeting announced on Thursday that he had resigned, plunging Keir Starmer’s premiership deeper",
+        "url": "https://www.dawn.com/news/2000335/uk-health-minister-resigns-as-starmer-faces-party-revolt",
+        "source": "Dawn",
+        "date": "2026-05-15T07:40:32+05:00",
+        "img": ""
+      },
+      {
+        "title": "Congress names Kerala chief minister after rare win",
+        "summary": "<figure class='media w-1/2 sm:w-3/5 media--center media--uneven media--stretch' data-original-src='https://i.dawn.com/large/2026/05/1504000701a0c23.webp'> <div class='media__item '><picture><img src='https://i.dawn.com/large/2026/05/1504000701a0c23.webp' alt=' V.D. Satheesan ' /></picture></div> <figcaption class='medi",
+        "url": "https://www.dawn.com/news/2000331/congress-names-kerala-chief-minister-after-rare-win",
+        "source": "Dawn",
+        "date": "2026-05-15T07:37:11+05:00",
+        "img": ""
+      },
+      {
+        "title": "US court suspends sanctions on UN Palestine expert",
+        "summary": "<p>WASHINGTON: A US jud­­ge has imposed a temporary injunction on sanctions imp­osed last year by Washington on a United Nations expert on the occupied Palestinian territories.</p> <p>UN Human Rights Council Special Rapporteur Fran­ce­sca Albanese was <a href=\"https://www.dawn.com/news/1924553\">sanctioned </a>in July 2",
+        "url": "https://www.dawn.com/news/2000330/us-court-suspends-sanctions-on-un-palestine-expert",
+        "source": "Dawn",
+        "date": "2026-05-15T07:36:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "IMF highlights ‘Gulf exposure’ as biggest external risk for Pakistan",
+        "summary": "<p>ISLAMABAD: Following the <a href=\"https://www.dawn.com/news/1998725\">release </a>of a $1.1 billion tranche for Pakistan, the International Monetary Fund (IMF) has identified Pakistan’s economic exposure to the Gulf Coope­ration Council (GCC) as its most acute external vulnerability.</p> <p>In its <a rel=\"noopener no",
+        "url": "https://www.dawn.com/news/2000334/imf-highlights-gulf-exposure-as-biggest-external-risk-for-pakistan",
+        "source": "Dawn",
+        "date": "2026-05-15T07:30:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "68pc of passwords can be cracked within a day: report",
+        "summary": "<p>• Most compromised passwords either begin or end with digits<br>• Common symbols like ‘@’ and ‘.’ are heavily overused</p> <p>ISLAMABAD: An analysis of 231 million unique passwords leaked between 2023 and 2026 has revealed several alarming patterns, according to a report by cybersecurity company Kaspersky.</p> <p>Fi",
+        "url": "https://www.dawn.com/news/2000333/68pc-of-passwords-can-be-cracked-within-a-day-report",
+        "source": "Dawn",
+        "date": "2026-05-15T07:23:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "Govt has not contacted PPP over any constitutional amendment: Bilawal",
+        "summary": "<p>ISLAMABAD: PPP Chairman Bilawal Bhutto-Zardari on Thursday said that the government had not contacted him or his father, President Asif Ali Zardari, regarding a constitutional amendment.</p> <p>His remarks came amid media reports about the government’s intention to have the 28th constitutional amendment passed by pa",
+        "url": "https://www.dawn.com/news/2000262/govt-has-not-contacted-ppp-over-any-constitutional-amendment-bilawal",
+        "source": "Dawn",
+        "date": "2026-05-15T07:11:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "Almost 20 million people in Sudan still face acute hunger, monitors say",
+        "summary": "Almost 20 million people in Sudan still face acute hunger, monitors say",
+        "url": "https://arynews.tv/sudan-faces-acute-hunger-crisis-amid-war",
+        "source": "ARY News",
+        "date": "2026-05-15T07:00:20+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Sudan-Hunger.jpg"
+      },
+      {
+        "title": "Air India records record annual loss above $2 billion, shareholder results show",
+        "summary": "Air India records record annual loss above $2 billion, shareholder results show",
+        "url": "https://arynews.tv/air-india-reports-record-loss-over-2-billion",
+        "source": "ARY News",
+        "date": "2026-05-15T06:00:11+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Air-India.jpg"
+      },
+      {
+        "title": "Ryanair profit may come under ‘a bit of pressure’ if oil prices stay high, CEO says",
+        "summary": "Ryanair profit may come under ‘a bit of pressure’ if oil prices stay high, CEO says",
+        "url": "https://arynews.tv/ryanair-adjusts-fares-to-attract-summer-travelers",
+        "source": "ARY News",
+        "date": "2026-05-15T05:00:27+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Ryanair.jpg"
+      },
+      {
+        "title": "چین بھی نہیں چاہتا کہ ایران جوہری ہتھیار حاصل کرے، صدر شی نے بتایا کہ چین ایران کو عسکری ساز و سامان نہیں دے گا: ٹرمپ",
+        "summary": "امریکی نشریاتی ادارے فاکس نیوز کو دیے گئے ایک انٹرویو میں صدر ٹرمپ نے کہا ہے کہ صدر شی جن پنگ نے انھیں بتایا ہے کہ چین ایران کو عسکری ساز و سامان فراہم نہیں کرے گا۔ ٹرمپ نے یہ دعوے بھی کیے کہ چین امریکہ سے ناصرف تیل خریدے گا بلکہ انھوں نے امریکہ سے 200 بوئنگ طیارے خریدنے کا بھی وعدہ کیا ہے۔",
+        "url": "https://www.bbc.co.uk/urdu/live/ce8p6vnln8jt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-05-15T02:44:50.619101+00:00",
+        "img": ""
+      },
       {
         "title": "European airlines downplay fears of summer jet fuel shortage",
         "summary": "European airlines downplay fears of summer jet fuel shortage",
@@ -75,28 +155,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Bridgerton.jpg"
       },
       {
-        "title": "چینی صدر نے کہا وہ ایران کو عسکری ساز و سامان نہیں دیں گے، آبنائے ہرمز کو کھلا دیکھنا چاہتے ہیں: صدر ٹرمپ",
-        "summary": "ایک انٹرویو کے دوران فوکس نیوز کے میزبان سے ان سے سوال کہ کیا چینی صدر کے ساتھ ملاقات میں اس ’حمایت‘ سے متعلق بات ہوئی ہے، تو ٹرمپ نے کہا: ’آپ حمایت کہہ رہے ہیں۔۔۔ وہ (چین) ہمارے ساتھ جنگ تو نہیں لڑ رہا۔‘ امریکی صدر نے دعویٰ کیا کہ صدر شی جن پنگ نے انھیں بتایا کہ چین ایران کو ’عسکری ساز و سامان نہیں دے گا‘ اور ٹرمپ کے ",
-        "url": "https://www.bbc.co.uk/urdu/live/clypl0xkz9et?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-05-14T23:53:37.825128+00:00",
-        "img": ""
-      },
-      {
         "title": "Anmol Pinky: Senior police officer allegedly helped her secure relief",
         "summary": "Anmol Pinky: Senior police officer allegedly helped her secure relief",
         "url": "https://arynews.tv/anmol-pinky-senior-police-officer-allegedly-helped-her-secure-relief",
         "source": "ARY News",
         "date": "2026-05-14T23:50:19+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Anmol-Pinky-past-cases.jpg"
-      },
-      {
-        "title": "Govt has not contacted PPP over any constitutional amendment: Bilawal",
-        "summary": "<p>ISLAMABAD, May 14: PPP Chairman Bilawal Bhutto-Zardari on Thursday said that the government had not contacted him or his father, President Asif Ali Zardari, regarding a constitutional amendment.</p> <p>His remarks came amid media reports about the government’s intention to have the 28th constitutional amendment pass",
-        "url": "https://www.dawn.com/news/2000262/govt-has-not-contacted-ppp-over-any-constitutional-amendment-bilawal",
-        "source": "Dawn",
-        "date": "2026-05-14T23:47:31+05:00",
-        "img": ""
       },
       {
         "title": "France, Netherlands say all hantavirus contact cases negative",
@@ -259,30 +323,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-92.jpg"
       },
       {
-        "title": "Top 5 Fastest Cars in Forza Horizon 6: Unleash the Speed",
-        "summary": "Top 5 Fastest Cars in Forza Horizon 6: Unleash the Speed",
-        "url": "https://arynews.tv/top-5-fastest-cars-in-forza-horizon-6-unleash-the-speed",
-        "source": "ARY News",
-        "date": "2026-05-14T19:53:28+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/5-fastest-cars.jpg"
-      },
-      {
-        "title": "Good news for retired PIA employees",
-        "summary": "Good news for retired PIA employees",
-        "url": "https://arynews.tv/good-news-for-retired-pia-employees",
-        "source": "ARY News",
-        "date": "2026-05-14T19:47:58+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-91-1.jpg"
-      },
-      {
-        "title": "UAE Dirham to Pakistani Rupee Rate Today – May 14, 2026",
-        "summary": "UAE Dirham to Pakistani Rupee Rate Today – May 14, 2026",
-        "url": "https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-may-14-2026",
-        "source": "ARY News",
-        "date": "2026-05-14T19:35:22+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/UAE-Dirham.gif"
-      },
-      {
         "title": "Aleema Khan moves IHC against PTI founder Imran Khan’s ‘solitary confinement’",
         "summary": "<p>ISLAMABAD: Aleema Khan, sister of former prime minister and PTI founder Imran Khan, filed a writ petition in the Islamabad High Court (IHC) on Thursday, challenging his prolonged solitary confinement at Central Jail Adiala, Rawalpindi, terming it illegal and a violation of fundamental rights.</p> <p>Imran — <a href=",
         "url": "https://www.dawn.com/news/2000235/aleema-khan-moves-ihc-against-pti-founder-imran-khans-solitary-confinement",
@@ -355,35 +395,11 @@
         "img": ""
       },
       {
-        "title": "Finance ministry terms report on Dar being 'handed' budget-making process 'misleading, incorrect'",
-        "summary": "<p>The Ministry of Finance said on Thursday that a media report claiming Deputy Prime Minister and Foreign Minister Ishaq Dar had been handed the budget-making process was “misleading” and “factually incorrect”.</p> <p>The clarification came after a <a rel=\"noopener noreferrer\" target=\"_blank\" class=\"link--external\" hr",
-        "url": "https://www.dawn.com/news/2000193/finance-ministry-terms-report-on-dar-being-handed-budget-making-process-misleading-incorrect",
-        "source": "Dawn",
-        "date": "2026-05-14T15:08:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "Indian pharma fuels Africa's 'zombie drug' and opioid crisis despite crackdown",
-        "summary": "<p>They come in blister packs of 10 like any normal painkiller and you can buy them easily in roadside kiosks and street pharmacies across west Africa.</p> <p>Millions of tapentadol tablets from India are helping drive a deadly opioid epidemic ravaging the region, with officials and researchers telling <em>AFP</em> tha",
-        "url": "https://www.dawn.com/news/2000191/indian-pharma-fuels-africas-zombie-drug-and-opioid-crisis-despite-crackdown",
-        "source": "Dawn",
-        "date": "2026-05-14T15:00:03+05:00",
-        "img": ""
-      },
-      {
         "title": "Russia establishing 'full partnership' with Afghan Taliban",
         "summary": "<p>Russia is establishing a “full-fledged partnership” with Afghanistan’s ruling Taliban and is encouraging other countries in the region to expand cooperation with Kabul, a senior Russian security official said on Thursday.</p> <p>Russia last year became the first country to <a href=\"https://www.dawn.com/news/1921955\"",
         "url": "https://www.dawn.com/news/2000197/russia-establishing-full-partnership-with-afghan-taliban",
         "source": "Dawn",
         "date": "2026-05-14T14:57:00+05:00",
-        "img": ""
-      },
-      {
-        "title": "PM Shehbaz calls for efforts to turn Pakistan into an 'economic power'",
-        "summary": "<p>Prime Minister Shehbaz Sharif said on Thursday just as Pakistan had emerged as a nuclear power, efforts were now needed to turn it into an economic power.</p> <p>The premier expressed these views while addressing a federal cabinet meeting in Islamabad, where he also spoke about May 28.</p> <p>On May 28, 1998, Pakist",
-        "url": "https://www.dawn.com/news/2000188/pm-shehbaz-calls-for-efforts-to-turn-pakistan-into-an-economic-power",
-        "source": "Dawn",
-        "date": "2026-05-14T14:40:31+05:00",
         "img": ""
       },
       {
@@ -403,14 +419,6 @@
         "img": ""
       },
       {
-        "title": "Govt orders inquiry into Cambridge exam leaks",
-        "summary": "<p>The interior ministry on Thursday directed the National Cyber Crime Investigation Agency (NCCIA) to investigate, in coordination with Cambridge International Education (CIE), the leaking of the latter’s exam papers.</p> <p>According to a handout issued by the interior ministry, the development came as Interior Secre",
-        "url": "https://www.dawn.com/news/2000190/govt-orders-inquiry-into-cambridge-exam-leaks",
-        "source": "Dawn",
-        "date": "2026-05-14T14:02:50+05:00",
-        "img": ""
-      },
-      {
         "title": "جے شنکر کا اتحاد پر زور مگر عراقچی کی متحدہ عرب امارات پر تنقید: نئی دہلی میں برکس اجلاس کے دوران کیا ہوا؟",
         "summary": "انڈیا میں جمعرات کو برکس کے وزرائے خارجہ کے دو روزہ اجلاس کا پہلا دن بظاہر مشرق وسطیٰ میں جاری کشیدگی کی نذر ہوا۔ اس کی ایک وجہ یہ تھی کہ اس اجلاس میں جنگ کے بعد ایران اور متحدہ عرب امارات پہلی بار آمنے سامنے آئے۔",
         "url": "https://www.bbc.com/urdu/articles/c4gvevydnz4o?at_medium=RSS&amp;at_campaign=rss",
@@ -424,14 +432,6 @@
         "url": "https://www.bbc.com/urdu/articles/c8jvpynewexo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
         "date": "2026-05-14T12:27:45+00:00",
-        "img": ""
-      },
-      {
-        "title": "Study warns of dangerous heat at 2026 World Cup as climate risks grow",
-        "summary": "<p>Football’s global players’ union renewed concerns on Thursday about heat at the 2026 World Cup after scientists warned that the likelihood of dangerous temperatures for players and fans has sharply increased.</p> <p>An <a rel=\"noopener noreferrer\" target=\"_blank\" class=\"link--external\" href=\"https://www.worldweather",
-        "url": "https://www.dawn.com/news/2000173/study-warns-of-dangerous-heat-at-2026-world-cup-as-climate-risks-grow",
-        "source": "Dawn",
-        "date": "2026-05-14T12:17:51+05:00",
         "img": ""
       },
       {
@@ -573,6 +573,54 @@
     ],
     "national": [
       {
+        "title": "IMF highlights ‘Gulf exposure’ as biggest external risk for Pakistan",
+        "summary": "<p>ISLAMABAD: Following the <a href=\"https://www.dawn.com/news/1998725\">release </a>of a $1.1 billion tranche for Pakistan, the International Monetary Fund (IMF) has identified Pakistan’s economic exposure to the Gulf Coope­ration Council (GCC) as its most acute external vulnerability.</p> <p>In its <a rel=\"noopener no",
+        "url": "https://www.dawn.com/news/2000334/imf-highlights-gulf-exposure-as-biggest-external-risk-for-pakistan",
+        "source": "Dawn",
+        "date": "2026-05-15T07:30:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "Govt has not contacted PPP over any constitutional amendment: Bilawal",
+        "summary": "<p>ISLAMABAD: PPP Chairman Bilawal Bhutto-Zardari on Thursday said that the government had not contacted him or his father, President Asif Ali Zardari, regarding a constitutional amendment.</p> <p>His remarks came amid media reports about the government’s intention to have the 28th constitutional amendment passed by pa",
+        "url": "https://www.dawn.com/news/2000262/govt-has-not-contacted-ppp-over-any-constitutional-amendment-bilawal",
+        "source": "Dawn",
+        "date": "2026-05-15T07:11:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "Almost 20 million people in Sudan still face acute hunger, monitors say",
+        "summary": "Almost 20 million people in Sudan still face acute hunger, monitors say",
+        "url": "https://arynews.tv/sudan-faces-acute-hunger-crisis-amid-war",
+        "source": "ARY News",
+        "date": "2026-05-15T07:00:20+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Sudan-Hunger.jpg"
+      },
+      {
+        "title": "Air India records record annual loss above $2 billion, shareholder results show",
+        "summary": "Air India records record annual loss above $2 billion, shareholder results show",
+        "url": "https://arynews.tv/air-india-reports-record-loss-over-2-billion",
+        "source": "ARY News",
+        "date": "2026-05-15T06:00:11+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Air-India.jpg"
+      },
+      {
+        "title": "Ryanair profit may come under ‘a bit of pressure’ if oil prices stay high, CEO says",
+        "summary": "Ryanair profit may come under ‘a bit of pressure’ if oil prices stay high, CEO says",
+        "url": "https://arynews.tv/ryanair-adjusts-fares-to-attract-summer-travelers",
+        "source": "ARY News",
+        "date": "2026-05-15T05:00:27+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Ryanair.jpg"
+      },
+      {
+        "title": "مشرق وسطیٰ میں دیرپا امن کے لیے سعودی عرب نے نئے معاہدے کا فارمولا پیش کر دیا، برطانوی اخبار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813133/saudi-arabia-has-presented-a-formula-for-a-new-agreement-for-lasting-peace-in-the-middle-east-british-newspaper-2813133/",
+        "source": "Express",
+        "date": "2026-05-15T02:19:40+05:00",
+        "img": ""
+      },
+      {
         "title": "European airlines downplay fears of summer jet fuel shortage",
         "summary": "European airlines downplay fears of summer jet fuel shortage",
         "url": "https://arynews.tv/airlines-outlook-on-jet-fuel-supply-and-crisis",
@@ -587,6 +635,14 @@
         "source": "ARY News",
         "date": "2026-05-15T01:18:47+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-10.jpg"
+      },
+      {
+        "title": "کراچی، کورنگی کراسنگ کے قریب پولیس مقابلہ، ایک ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813130/karachi-police-encounter-near-korangi-crossing-one-robber-arrested-in-injured-condition-2813130/",
+        "source": "Express",
+        "date": "2026-05-15T01:17:01+05:00",
+        "img": ""
       },
       {
         "title": "The Boys Suffers Ratings Setback with Season 5, Episode 7",
@@ -643,14 +699,6 @@
         "source": "ARY News",
         "date": "2026-05-14T23:50:19+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Anmol-Pinky-past-cases.jpg"
-      },
-      {
-        "title": "Govt has not contacted PPP over any constitutional amendment: Bilawal",
-        "summary": "<p>ISLAMABAD, May 14: PPP Chairman Bilawal Bhutto-Zardari on Thursday said that the government had not contacted him or his father, President Asif Ali Zardari, regarding a constitutional amendment.</p> <p>His remarks came amid media reports about the government’s intention to have the 28th constitutional amendment pass",
-        "url": "https://www.dawn.com/news/2000262/govt-has-not-contacted-ppp-over-any-constitutional-amendment-bilawal",
-        "source": "Dawn",
-        "date": "2026-05-14T23:47:31+05:00",
-        "img": ""
       },
       {
         "title": "Lisa Ann Walter’s Debut Comedy Special Arrives on Hulu May 15",
@@ -765,6 +813,14 @@
         "img": ""
       },
       {
+        "title": "سنگل ونڈو اور ڈی جی ٹی او کے باہمی تعاون سے تجارتی انجمنوں کا نظام ڈیجیٹلائز کرنے کا فیصلہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813132/decision-to-digitalize-the-system-of-trade-associations-through-collaboration-between-single-window-and-dgto-2813132/",
+        "source": "Express",
+        "date": "2026-05-14T20:58:20+00:00",
+        "img": ""
+      },
+      {
         "title": "Princess Kate’s Subtle Tribute to Her Cancer Journey in Italy",
         "summary": "Princess Kate’s Subtle Tribute to Her Cancer Journey in Italy",
         "url": "https://arynews.tv/princess-kates-subtle-tribute-to-her-cancer-journey-in-italy",
@@ -778,6 +834,14 @@
         "url": "https://www.express.pk/story/2813117/karachi-case-of-indecent-behavior-with-a-woman-ssp-takes-notice-case-registered-2813117/",
         "source": "Express",
         "date": "2026-05-14T20:53:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان نے آئی ایم ایف کی بیشتر شرائط پر مکمل یا جزوی عملدرآمد کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813131/pakistan-has-fully-or-partially-implemented-most-of-the-imf-conditions-2813131/",
+        "source": "Express",
+        "date": "2026-05-14T20:49:06+00:00",
         "img": ""
       },
       {
@@ -869,20 +933,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-92.jpg"
       },
       {
-        "title": "Top 5 Fastest Cars in Forza Horizon 6: Unleash the Speed",
-        "summary": "Top 5 Fastest Cars in Forza Horizon 6: Unleash the Speed",
-        "url": "https://arynews.tv/top-5-fastest-cars-in-forza-horizon-6-unleash-the-speed",
-        "source": "ARY News",
-        "date": "2026-05-14T19:53:28+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/5-fastest-cars.jpg"
-      },
-      {
-        "title": "Good news for retired PIA employees",
-        "summary": "Good news for retired PIA employees",
-        "url": "https://arynews.tv/good-news-for-retired-pia-employees",
-        "source": "ARY News",
-        "date": "2026-05-14T19:47:58+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-91-1.jpg"
+        "title": "آئی ایم ایف کی جائزہ رپورٹ، پاکستانی معیشت میں بہتری مگر مشرق وسطیٰ کی جنگ کو خطرہ قرار دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813129/pakistans-economy-is-recovering-but-middle-east-war-is-a-threat-imf-report-reveals-2813129/",
+        "source": "Express",
+        "date": "2026-05-14T19:51:31+00:00",
+        "img": ""
       },
       {
         "title": "جامعہ کراچی کی انتظامیہ نے الزامات کو مسترد کردیا",
@@ -893,19 +949,19 @@
         "img": ""
       },
       {
-        "title": "UAE Dirham to Pakistani Rupee Rate Today – May 14, 2026",
-        "summary": "UAE Dirham to Pakistani Rupee Rate Today – May 14, 2026",
-        "url": "https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-may-14-2026",
-        "source": "ARY News",
-        "date": "2026-05-14T19:35:22+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/UAE-Dirham.gif"
-      },
-      {
         "title": "Aleema Khan moves IHC against PTI founder Imran Khan’s ‘solitary confinement’",
         "summary": "<p>ISLAMABAD: Aleema Khan, sister of former prime minister and PTI founder Imran Khan, filed a writ petition in the Islamabad High Court (IHC) on Thursday, challenging his prolonged solitary confinement at Central Jail Adiala, Rawalpindi, terming it illegal and a violation of fundamental rights.</p> <p>Imran — <a href=",
         "url": "https://www.dawn.com/news/2000235/aleema-khan-moves-ihc-against-pti-founder-imran-khans-solitary-confinement",
         "source": "Dawn",
         "date": "2026-05-14T19:27:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "مسجد اقصیٰ میں اسرائیلی پرچم لہرانے پر سعودی عرب نے عالمی برادری سے فوری مداخلت کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813128/saudi-arabia-calls-for-immediate-intervention-from-the-international-community-over-the-raising-of-the-israeli-flag-at-al-aqsa-mosque-2813128/",
+        "source": "Express",
+        "date": "2026-05-14T19:19:46+00:00",
         "img": ""
       },
       {
@@ -941,35 +997,11 @@
         "img": ""
       },
       {
-        "title": "حدیقہ کیانی کے نام ایک اور بڑا اعزاز: فن موسیقی میں خدمات پر ستارہ امتیاز سے نواز دیا گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813106/hadiqa-kayani-awarded-sitara-e-imtiaz-for-her-services-to-the-art-of-music-2813106/",
-        "source": "Express",
-        "date": "2026-05-14T18:38:02+05:00",
-        "img": ""
-      },
-      {
         "title": "باجوڑ حملہ، سیکیورٹی فورسز کی قربانیاں رائیگاں نہیں جائیں گی، شفیع جان",
         "summary": "",
         "url": "https://www.express.pk/story/2813127/bajaur-attack-sacrifices-of-security-forces-will-not-go-in-vain-shafi-jan-2813127/",
         "source": "Express",
         "date": "2026-05-14T18:28:03+00:00",
-        "img": ""
-      },
-      {
-        "title": "’دو ہزار روپے دیں، ایک دن کے قیدی بنیں‘، بھارت میں ’فیل دی جیل‘ پروگرام متعارف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813103/give-rs-2000-become-a-prisoner-for-a-day-feel-the-jail-program-introduced-in-india-2813103/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "بیڈمنٹن چیمپیئن شپ؛ پاکستان کے میر طاہر اسحاق نے امریکی ٹاپ سیڈ کو ہرا کر گولڈ میڈل جیت لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813102/badminton-championship-pakistans-mir-tahir-ishaq-beats-american-top-seed-to-win-gold-medal-2813102/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:25+05:00",
         "img": ""
       },
       {
@@ -1042,30 +1074,6 @@
         "url": "https://www.dawn.com/news/2000190/govt-orders-inquiry-into-cambridge-exam-leaks",
         "source": "Dawn",
         "date": "2026-05-14T14:02:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "28 ویں ترمیم آئی تو دیکھ کر حمایت کا فیصلہ ہوگا، گورنر پنجاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813105/if-28-amendment-support-decision-after-review-governor-punjab-2813105/",
-        "source": "Express",
-        "date": "2026-05-14T13:30:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کیوبا میں پیٹرول ختم، بجلی کا بحران شدت اختیار کرگیا؛ امریکا کو ذمہ دار قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813104/cuba-petrol-reserve-end-energy-crises-at-peak-2813104/",
-        "source": "Express",
-        "date": "2026-05-14T13:17:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "اب فیصلے ایوان میں نہیں میدان میں ہوں گے، مولانا فضل الرحمان کا ملک گیر احتجاج کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813100/decisions-not-in-parliament-in-field-molana-fazal-ur-rehman-announce-protest-2813100/",
-        "source": "Express",
-        "date": "2026-05-14T12:54:02+00:00",
         "img": ""
       },
       {
@@ -1149,14 +1157,6 @@
         "img": ""
       },
       {
-        "title": "Man who sacrificed life thwarting suicide attack posthumously awarded Sitata-i-Shujaat",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2000059\">https://www.dawn.com/news/2000059</a></p>",
-        "url": "https://www.dawn.com/news/2000101/man-who-sacrificed-life-thwarting-suicide-attack-posthumously-awarded-sitata-i-shujaat",
-        "source": "Dawn",
-        "date": "2026-05-14T07:43:24+05:00",
-        "img": ""
-      },
-      {
         "title": "Supreme Court settles controversy over drug test reports",
         "summary": "<p><strong>• Holds that mentioning full forensic protocol in test reports is not mandatory, does not automatically invalidate lab report<br>• Ruling settles inconsistencies created by diverging opinions in previous SC verdicts</strong></p> <p>ISLAMABAD: The Supreme Court on Wednesday settled a long-running controversy ",
         "url": "https://www.dawn.com/news/2000054/supreme-court-settles-controversy-over-drug-test-reports",
@@ -1175,6 +1175,54 @@
     ],
     "kpk": [
       {
+        "title": "IMF highlights ‘Gulf exposure’ as biggest external risk for Pakistan",
+        "summary": "<p>ISLAMABAD: Following the <a href=\"https://www.dawn.com/news/1998725\">release </a>of a $1.1 billion tranche for Pakistan, the International Monetary Fund (IMF) has identified Pakistan’s economic exposure to the Gulf Coope­ration Council (GCC) as its most acute external vulnerability.</p> <p>In its <a rel=\"noopener no",
+        "url": "https://www.dawn.com/news/2000334/imf-highlights-gulf-exposure-as-biggest-external-risk-for-pakistan",
+        "source": "Dawn",
+        "date": "2026-05-15T07:30:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "Govt has not contacted PPP over any constitutional amendment: Bilawal",
+        "summary": "<p>ISLAMABAD: PPP Chairman Bilawal Bhutto-Zardari on Thursday said that the government had not contacted him or his father, President Asif Ali Zardari, regarding a constitutional amendment.</p> <p>His remarks came amid media reports about the government’s intention to have the 28th constitutional amendment passed by pa",
+        "url": "https://www.dawn.com/news/2000262/govt-has-not-contacted-ppp-over-any-constitutional-amendment-bilawal",
+        "source": "Dawn",
+        "date": "2026-05-15T07:11:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "Almost 20 million people in Sudan still face acute hunger, monitors say",
+        "summary": "Almost 20 million people in Sudan still face acute hunger, monitors say",
+        "url": "https://arynews.tv/sudan-faces-acute-hunger-crisis-amid-war",
+        "source": "ARY News",
+        "date": "2026-05-15T07:00:20+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Sudan-Hunger.jpg"
+      },
+      {
+        "title": "Air India records record annual loss above $2 billion, shareholder results show",
+        "summary": "Air India records record annual loss above $2 billion, shareholder results show",
+        "url": "https://arynews.tv/air-india-reports-record-loss-over-2-billion",
+        "source": "ARY News",
+        "date": "2026-05-15T06:00:11+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Air-India.jpg"
+      },
+      {
+        "title": "Ryanair profit may come under ‘a bit of pressure’ if oil prices stay high, CEO says",
+        "summary": "Ryanair profit may come under ‘a bit of pressure’ if oil prices stay high, CEO says",
+        "url": "https://arynews.tv/ryanair-adjusts-fares-to-attract-summer-travelers",
+        "source": "ARY News",
+        "date": "2026-05-15T05:00:27+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Ryanair.jpg"
+      },
+      {
+        "title": "مشرق وسطیٰ میں دیرپا امن کے لیے سعودی عرب نے نئے معاہدے کا فارمولا پیش کر دیا، برطانوی اخبار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813133/saudi-arabia-has-presented-a-formula-for-a-new-agreement-for-lasting-peace-in-the-middle-east-british-newspaper-2813133/",
+        "source": "Express",
+        "date": "2026-05-15T02:19:40+05:00",
+        "img": ""
+      },
+      {
         "title": "European airlines downplay fears of summer jet fuel shortage",
         "summary": "European airlines downplay fears of summer jet fuel shortage",
         "url": "https://arynews.tv/airlines-outlook-on-jet-fuel-supply-and-crisis",
@@ -1189,6 +1237,14 @@
         "source": "ARY News",
         "date": "2026-05-15T01:18:47+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-10.jpg"
+      },
+      {
+        "title": "کراچی، کورنگی کراسنگ کے قریب پولیس مقابلہ، ایک ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813130/karachi-police-encounter-near-korangi-crossing-one-robber-arrested-in-injured-condition-2813130/",
+        "source": "Express",
+        "date": "2026-05-15T01:17:01+05:00",
+        "img": ""
       },
       {
         "title": "The Boys Suffers Ratings Setback with Season 5, Episode 7",
@@ -1245,14 +1301,6 @@
         "source": "ARY News",
         "date": "2026-05-14T23:50:19+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Anmol-Pinky-past-cases.jpg"
-      },
-      {
-        "title": "Govt has not contacted PPP over any constitutional amendment: Bilawal",
-        "summary": "<p>ISLAMABAD, May 14: PPP Chairman Bilawal Bhutto-Zardari on Thursday said that the government had not contacted him or his father, President Asif Ali Zardari, regarding a constitutional amendment.</p> <p>His remarks came amid media reports about the government’s intention to have the 28th constitutional amendment pass",
-        "url": "https://www.dawn.com/news/2000262/govt-has-not-contacted-ppp-over-any-constitutional-amendment-bilawal",
-        "source": "Dawn",
-        "date": "2026-05-14T23:47:31+05:00",
-        "img": ""
       },
       {
         "title": "Lisa Ann Walter’s Debut Comedy Special Arrives on Hulu May 15",
@@ -1367,6 +1415,14 @@
         "img": ""
       },
       {
+        "title": "سنگل ونڈو اور ڈی جی ٹی او کے باہمی تعاون سے تجارتی انجمنوں کا نظام ڈیجیٹلائز کرنے کا فیصلہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813132/decision-to-digitalize-the-system-of-trade-associations-through-collaboration-between-single-window-and-dgto-2813132/",
+        "source": "Express",
+        "date": "2026-05-14T20:58:20+00:00",
+        "img": ""
+      },
+      {
         "title": "Princess Kate’s Subtle Tribute to Her Cancer Journey in Italy",
         "summary": "Princess Kate’s Subtle Tribute to Her Cancer Journey in Italy",
         "url": "https://arynews.tv/princess-kates-subtle-tribute-to-her-cancer-journey-in-italy",
@@ -1380,6 +1436,14 @@
         "url": "https://www.express.pk/story/2813117/karachi-case-of-indecent-behavior-with-a-woman-ssp-takes-notice-case-registered-2813117/",
         "source": "Express",
         "date": "2026-05-14T20:53:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان نے آئی ایم ایف کی بیشتر شرائط پر مکمل یا جزوی عملدرآمد کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813131/pakistan-has-fully-or-partially-implemented-most-of-the-imf-conditions-2813131/",
+        "source": "Express",
+        "date": "2026-05-14T20:49:06+00:00",
         "img": ""
       },
       {
@@ -1471,20 +1535,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-92.jpg"
       },
       {
-        "title": "Top 5 Fastest Cars in Forza Horizon 6: Unleash the Speed",
-        "summary": "Top 5 Fastest Cars in Forza Horizon 6: Unleash the Speed",
-        "url": "https://arynews.tv/top-5-fastest-cars-in-forza-horizon-6-unleash-the-speed",
-        "source": "ARY News",
-        "date": "2026-05-14T19:53:28+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/5-fastest-cars.jpg"
-      },
-      {
-        "title": "Good news for retired PIA employees",
-        "summary": "Good news for retired PIA employees",
-        "url": "https://arynews.tv/good-news-for-retired-pia-employees",
-        "source": "ARY News",
-        "date": "2026-05-14T19:47:58+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-91-1.jpg"
+        "title": "آئی ایم ایف کی جائزہ رپورٹ، پاکستانی معیشت میں بہتری مگر مشرق وسطیٰ کی جنگ کو خطرہ قرار دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813129/pakistans-economy-is-recovering-but-middle-east-war-is-a-threat-imf-report-reveals-2813129/",
+        "source": "Express",
+        "date": "2026-05-14T19:51:31+00:00",
+        "img": ""
       },
       {
         "title": "جامعہ کراچی کی انتظامیہ نے الزامات کو مسترد کردیا",
@@ -1495,19 +1551,19 @@
         "img": ""
       },
       {
-        "title": "UAE Dirham to Pakistani Rupee Rate Today – May 14, 2026",
-        "summary": "UAE Dirham to Pakistani Rupee Rate Today – May 14, 2026",
-        "url": "https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-may-14-2026",
-        "source": "ARY News",
-        "date": "2026-05-14T19:35:22+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/UAE-Dirham.gif"
-      },
-      {
         "title": "Aleema Khan moves IHC against PTI founder Imran Khan’s ‘solitary confinement’",
         "summary": "<p>ISLAMABAD: Aleema Khan, sister of former prime minister and PTI founder Imran Khan, filed a writ petition in the Islamabad High Court (IHC) on Thursday, challenging his prolonged solitary confinement at Central Jail Adiala, Rawalpindi, terming it illegal and a violation of fundamental rights.</p> <p>Imran — <a href=",
         "url": "https://www.dawn.com/news/2000235/aleema-khan-moves-ihc-against-pti-founder-imran-khans-solitary-confinement",
         "source": "Dawn",
         "date": "2026-05-14T19:27:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "مسجد اقصیٰ میں اسرائیلی پرچم لہرانے پر سعودی عرب نے عالمی برادری سے فوری مداخلت کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813128/saudi-arabia-calls-for-immediate-intervention-from-the-international-community-over-the-raising-of-the-israeli-flag-at-al-aqsa-mosque-2813128/",
+        "source": "Express",
+        "date": "2026-05-14T19:19:46+00:00",
         "img": ""
       },
       {
@@ -1543,35 +1599,11 @@
         "img": ""
       },
       {
-        "title": "حدیقہ کیانی کے نام ایک اور بڑا اعزاز: فن موسیقی میں خدمات پر ستارہ امتیاز سے نواز دیا گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813106/hadiqa-kayani-awarded-sitara-e-imtiaz-for-her-services-to-the-art-of-music-2813106/",
-        "source": "Express",
-        "date": "2026-05-14T18:38:02+05:00",
-        "img": ""
-      },
-      {
         "title": "باجوڑ حملہ، سیکیورٹی فورسز کی قربانیاں رائیگاں نہیں جائیں گی، شفیع جان",
         "summary": "",
         "url": "https://www.express.pk/story/2813127/bajaur-attack-sacrifices-of-security-forces-will-not-go-in-vain-shafi-jan-2813127/",
         "source": "Express",
         "date": "2026-05-14T18:28:03+00:00",
-        "img": ""
-      },
-      {
-        "title": "’دو ہزار روپے دیں، ایک دن کے قیدی بنیں‘، بھارت میں ’فیل دی جیل‘ پروگرام متعارف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813103/give-rs-2000-become-a-prisoner-for-a-day-feel-the-jail-program-introduced-in-india-2813103/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "بیڈمنٹن چیمپیئن شپ؛ پاکستان کے میر طاہر اسحاق نے امریکی ٹاپ سیڈ کو ہرا کر گولڈ میڈل جیت لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813102/badminton-championship-pakistans-mir-tahir-ishaq-beats-american-top-seed-to-win-gold-medal-2813102/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:25+05:00",
         "img": ""
       },
       {
@@ -1644,30 +1676,6 @@
         "url": "https://www.dawn.com/news/2000190/govt-orders-inquiry-into-cambridge-exam-leaks",
         "source": "Dawn",
         "date": "2026-05-14T14:02:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "28 ویں ترمیم آئی تو دیکھ کر حمایت کا فیصلہ ہوگا، گورنر پنجاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813105/if-28-amendment-support-decision-after-review-governor-punjab-2813105/",
-        "source": "Express",
-        "date": "2026-05-14T13:30:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کیوبا میں پیٹرول ختم، بجلی کا بحران شدت اختیار کرگیا؛ امریکا کو ذمہ دار قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813104/cuba-petrol-reserve-end-energy-crises-at-peak-2813104/",
-        "source": "Express",
-        "date": "2026-05-14T13:17:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "اب فیصلے ایوان میں نہیں میدان میں ہوں گے، مولانا فضل الرحمان کا ملک گیر احتجاج کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813100/decisions-not-in-parliament-in-field-molana-fazal-ur-rehman-announce-protest-2813100/",
-        "source": "Express",
-        "date": "2026-05-14T12:54:02+00:00",
         "img": ""
       },
       {
@@ -1756,14 +1764,6 @@
         "url": "https://www.dawn.com/news/2000112/finance-minister-heads-to-china-for-panda-bond-launch",
         "source": "Dawn",
         "date": "2026-05-14T07:59:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "Man who sacrificed life thwarting suicide attack posthumously awarded Sitata-i-Shujaat",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2000059\">https://www.dawn.com/news/2000059</a></p>",
-        "url": "https://www.dawn.com/news/2000101/man-who-sacrificed-life-thwarting-suicide-attack-posthumously-awarded-sitata-i-shujaat",
-        "source": "Dawn",
-        "date": "2026-05-14T07:43:24+05:00",
         "img": ""
       },
       {
@@ -1857,11 +1857,35 @@
     ],
     "punjab": [
       {
+        "title": "IMF highlights ‘Gulf exposure’ as biggest external risk for Pakistan",
+        "summary": "<p>ISLAMABAD: Following the <a href=\"https://www.dawn.com/news/1998725\">release </a>of a $1.1 billion tranche for Pakistan, the International Monetary Fund (IMF) has identified Pakistan’s economic exposure to the Gulf Coope­ration Council (GCC) as its most acute external vulnerability.</p> <p>In its <a rel=\"noopener no",
+        "url": "https://www.dawn.com/news/2000334/imf-highlights-gulf-exposure-as-biggest-external-risk-for-pakistan",
+        "source": "Dawn",
+        "date": "2026-05-15T07:30:42+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt has not contacted PPP over any constitutional amendment: Bilawal",
-        "summary": "<p>ISLAMABAD, May 14: PPP Chairman Bilawal Bhutto-Zardari on Thursday said that the government had not contacted him or his father, President Asif Ali Zardari, regarding a constitutional amendment.</p> <p>His remarks came amid media reports about the government’s intention to have the 28th constitutional amendment pass",
+        "summary": "<p>ISLAMABAD: PPP Chairman Bilawal Bhutto-Zardari on Thursday said that the government had not contacted him or his father, President Asif Ali Zardari, regarding a constitutional amendment.</p> <p>His remarks came amid media reports about the government’s intention to have the 28th constitutional amendment passed by pa",
         "url": "https://www.dawn.com/news/2000262/govt-has-not-contacted-ppp-over-any-constitutional-amendment-bilawal",
         "source": "Dawn",
-        "date": "2026-05-14T23:47:31+05:00",
+        "date": "2026-05-15T07:11:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "مشرق وسطیٰ میں دیرپا امن کے لیے سعودی عرب نے نئے معاہدے کا فارمولا پیش کر دیا، برطانوی اخبار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813133/saudi-arabia-has-presented-a-formula-for-a-new-agreement-for-lasting-peace-in-the-middle-east-british-newspaper-2813133/",
+        "source": "Express",
+        "date": "2026-05-15T02:19:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، کورنگی کراسنگ کے قریب پولیس مقابلہ، ایک ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813130/karachi-police-encounter-near-korangi-crossing-one-robber-arrested-in-injured-condition-2813130/",
+        "source": "Express",
+        "date": "2026-05-15T01:17:01+05:00",
         "img": ""
       },
       {
@@ -1929,11 +1953,27 @@
         "img": ""
       },
       {
+        "title": "سنگل ونڈو اور ڈی جی ٹی او کے باہمی تعاون سے تجارتی انجمنوں کا نظام ڈیجیٹلائز کرنے کا فیصلہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813132/decision-to-digitalize-the-system-of-trade-associations-through-collaboration-between-single-window-and-dgto-2813132/",
+        "source": "Express",
+        "date": "2026-05-14T20:58:20+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، خاتون کے ساتھ نازیبا حرکت کا معاملہ، ایس ایس پی نے نوٹس لے لیا، مقدمہ درج",
         "summary": "",
         "url": "https://www.express.pk/story/2813117/karachi-case-of-indecent-behavior-with-a-woman-ssp-takes-notice-case-registered-2813117/",
         "source": "Express",
         "date": "2026-05-14T20:53:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان نے آئی ایم ایف کی بیشتر شرائط پر مکمل یا جزوی عملدرآمد کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813131/pakistan-has-fully-or-partially-implemented-most-of-the-imf-conditions-2813131/",
+        "source": "Express",
+        "date": "2026-05-14T20:49:06+00:00",
         "img": ""
       },
       {
@@ -1977,6 +2017,14 @@
         "img": ""
       },
       {
+        "title": "آئی ایم ایف کی جائزہ رپورٹ، پاکستانی معیشت میں بہتری مگر مشرق وسطیٰ کی جنگ کو خطرہ قرار دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813129/pakistans-economy-is-recovering-but-middle-east-war-is-a-threat-imf-report-reveals-2813129/",
+        "source": "Express",
+        "date": "2026-05-14T19:51:31+00:00",
+        "img": ""
+      },
+      {
         "title": "جامعہ کراچی کی انتظامیہ نے الزامات کو مسترد کردیا",
         "summary": "",
         "url": "https://www.express.pk/story/2813112/ku-rejects-allegations-2813112/",
@@ -1990,6 +2038,14 @@
         "url": "https://www.dawn.com/news/2000235/aleema-khan-moves-ihc-against-pti-founder-imran-khans-solitary-confinement",
         "source": "Dawn",
         "date": "2026-05-14T19:27:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "مسجد اقصیٰ میں اسرائیلی پرچم لہرانے پر سعودی عرب نے عالمی برادری سے فوری مداخلت کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813128/saudi-arabia-calls-for-immediate-intervention-from-the-international-community-over-the-raising-of-the-israeli-flag-at-al-aqsa-mosque-2813128/",
+        "source": "Express",
+        "date": "2026-05-14T19:19:46+00:00",
         "img": ""
       },
       {
@@ -2025,35 +2081,11 @@
         "img": ""
       },
       {
-        "title": "حدیقہ کیانی کے نام ایک اور بڑا اعزاز: فن موسیقی میں خدمات پر ستارہ امتیاز سے نواز دیا گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813106/hadiqa-kayani-awarded-sitara-e-imtiaz-for-her-services-to-the-art-of-music-2813106/",
-        "source": "Express",
-        "date": "2026-05-14T18:38:02+05:00",
-        "img": ""
-      },
-      {
         "title": "باجوڑ حملہ، سیکیورٹی فورسز کی قربانیاں رائیگاں نہیں جائیں گی، شفیع جان",
         "summary": "",
         "url": "https://www.express.pk/story/2813127/bajaur-attack-sacrifices-of-security-forces-will-not-go-in-vain-shafi-jan-2813127/",
         "source": "Express",
         "date": "2026-05-14T18:28:03+00:00",
-        "img": ""
-      },
-      {
-        "title": "’دو ہزار روپے دیں، ایک دن کے قیدی بنیں‘، بھارت میں ’فیل دی جیل‘ پروگرام متعارف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813103/give-rs-2000-become-a-prisoner-for-a-day-feel-the-jail-program-introduced-in-india-2813103/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "بیڈمنٹن چیمپیئن شپ؛ پاکستان کے میر طاہر اسحاق نے امریکی ٹاپ سیڈ کو ہرا کر گولڈ میڈل جیت لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813102/badminton-championship-pakistans-mir-tahir-ishaq-beats-american-top-seed-to-win-gold-medal-2813102/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:25+05:00",
         "img": ""
       },
       {
@@ -2126,30 +2158,6 @@
         "url": "https://www.dawn.com/news/2000190/govt-orders-inquiry-into-cambridge-exam-leaks",
         "source": "Dawn",
         "date": "2026-05-14T14:02:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "28 ویں ترمیم آئی تو دیکھ کر حمایت کا فیصلہ ہوگا، گورنر پنجاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813105/if-28-amendment-support-decision-after-review-governor-punjab-2813105/",
-        "source": "Express",
-        "date": "2026-05-14T13:30:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کیوبا میں پیٹرول ختم، بجلی کا بحران شدت اختیار کرگیا؛ امریکا کو ذمہ دار قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813104/cuba-petrol-reserve-end-energy-crises-at-peak-2813104/",
-        "source": "Express",
-        "date": "2026-05-14T13:17:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "اب فیصلے ایوان میں نہیں میدان میں ہوں گے، مولانا فضل الرحمان کا ملک گیر احتجاج کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813100/decisions-not-in-parliament-in-field-molana-fazal-ur-rehman-announce-protest-2813100/",
-        "source": "Express",
-        "date": "2026-05-14T12:54:02+00:00",
         "img": ""
       },
       {
@@ -2230,14 +2238,6 @@
         "url": "https://www.dawn.com/news/2000112/finance-minister-heads-to-china-for-panda-bond-launch",
         "source": "Dawn",
         "date": "2026-05-14T07:59:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "Man who sacrificed life thwarting suicide attack posthumously awarded Sitata-i-Shujaat",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2000059\">https://www.dawn.com/news/2000059</a></p>",
-        "url": "https://www.dawn.com/news/2000101/man-who-sacrificed-life-thwarting-suicide-attack-posthumously-awarded-sitata-i-shujaat",
-        "source": "Dawn",
-        "date": "2026-05-14T07:43:24+05:00",
         "img": ""
       },
       {
@@ -2259,11 +2259,35 @@
     ],
     "sindh": [
       {
+        "title": "IMF highlights ‘Gulf exposure’ as biggest external risk for Pakistan",
+        "summary": "<p>ISLAMABAD: Following the <a href=\"https://www.dawn.com/news/1998725\">release </a>of a $1.1 billion tranche for Pakistan, the International Monetary Fund (IMF) has identified Pakistan’s economic exposure to the Gulf Coope­ration Council (GCC) as its most acute external vulnerability.</p> <p>In its <a rel=\"noopener no",
+        "url": "https://www.dawn.com/news/2000334/imf-highlights-gulf-exposure-as-biggest-external-risk-for-pakistan",
+        "source": "Dawn",
+        "date": "2026-05-15T07:30:42+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt has not contacted PPP over any constitutional amendment: Bilawal",
-        "summary": "<p>ISLAMABAD, May 14: PPP Chairman Bilawal Bhutto-Zardari on Thursday said that the government had not contacted him or his father, President Asif Ali Zardari, regarding a constitutional amendment.</p> <p>His remarks came amid media reports about the government’s intention to have the 28th constitutional amendment pass",
+        "summary": "<p>ISLAMABAD: PPP Chairman Bilawal Bhutto-Zardari on Thursday said that the government had not contacted him or his father, President Asif Ali Zardari, regarding a constitutional amendment.</p> <p>His remarks came amid media reports about the government’s intention to have the 28th constitutional amendment passed by pa",
         "url": "https://www.dawn.com/news/2000262/govt-has-not-contacted-ppp-over-any-constitutional-amendment-bilawal",
         "source": "Dawn",
-        "date": "2026-05-14T23:47:31+05:00",
+        "date": "2026-05-15T07:11:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "مشرق وسطیٰ میں دیرپا امن کے لیے سعودی عرب نے نئے معاہدے کا فارمولا پیش کر دیا، برطانوی اخبار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813133/saudi-arabia-has-presented-a-formula-for-a-new-agreement-for-lasting-peace-in-the-middle-east-british-newspaper-2813133/",
+        "source": "Express",
+        "date": "2026-05-15T02:19:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، کورنگی کراسنگ کے قریب پولیس مقابلہ، ایک ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813130/karachi-police-encounter-near-korangi-crossing-one-robber-arrested-in-injured-condition-2813130/",
+        "source": "Express",
+        "date": "2026-05-15T01:17:01+05:00",
         "img": ""
       },
       {
@@ -2331,11 +2355,27 @@
         "img": ""
       },
       {
+        "title": "سنگل ونڈو اور ڈی جی ٹی او کے باہمی تعاون سے تجارتی انجمنوں کا نظام ڈیجیٹلائز کرنے کا فیصلہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813132/decision-to-digitalize-the-system-of-trade-associations-through-collaboration-between-single-window-and-dgto-2813132/",
+        "source": "Express",
+        "date": "2026-05-14T20:58:20+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، خاتون کے ساتھ نازیبا حرکت کا معاملہ، ایس ایس پی نے نوٹس لے لیا، مقدمہ درج",
         "summary": "",
         "url": "https://www.express.pk/story/2813117/karachi-case-of-indecent-behavior-with-a-woman-ssp-takes-notice-case-registered-2813117/",
         "source": "Express",
         "date": "2026-05-14T20:53:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان نے آئی ایم ایف کی بیشتر شرائط پر مکمل یا جزوی عملدرآمد کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813131/pakistan-has-fully-or-partially-implemented-most-of-the-imf-conditions-2813131/",
+        "source": "Express",
+        "date": "2026-05-14T20:49:06+00:00",
         "img": ""
       },
       {
@@ -2379,6 +2419,14 @@
         "img": ""
       },
       {
+        "title": "آئی ایم ایف کی جائزہ رپورٹ، پاکستانی معیشت میں بہتری مگر مشرق وسطیٰ کی جنگ کو خطرہ قرار دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813129/pakistans-economy-is-recovering-but-middle-east-war-is-a-threat-imf-report-reveals-2813129/",
+        "source": "Express",
+        "date": "2026-05-14T19:51:31+00:00",
+        "img": ""
+      },
+      {
         "title": "جامعہ کراچی کی انتظامیہ نے الزامات کو مسترد کردیا",
         "summary": "",
         "url": "https://www.express.pk/story/2813112/ku-rejects-allegations-2813112/",
@@ -2392,6 +2440,14 @@
         "url": "https://www.dawn.com/news/2000235/aleema-khan-moves-ihc-against-pti-founder-imran-khans-solitary-confinement",
         "source": "Dawn",
         "date": "2026-05-14T19:27:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "مسجد اقصیٰ میں اسرائیلی پرچم لہرانے پر سعودی عرب نے عالمی برادری سے فوری مداخلت کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813128/saudi-arabia-calls-for-immediate-intervention-from-the-international-community-over-the-raising-of-the-israeli-flag-at-al-aqsa-mosque-2813128/",
+        "source": "Express",
+        "date": "2026-05-14T19:19:46+00:00",
         "img": ""
       },
       {
@@ -2427,35 +2483,11 @@
         "img": ""
       },
       {
-        "title": "حدیقہ کیانی کے نام ایک اور بڑا اعزاز: فن موسیقی میں خدمات پر ستارہ امتیاز سے نواز دیا گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813106/hadiqa-kayani-awarded-sitara-e-imtiaz-for-her-services-to-the-art-of-music-2813106/",
-        "source": "Express",
-        "date": "2026-05-14T18:38:02+05:00",
-        "img": ""
-      },
-      {
         "title": "باجوڑ حملہ، سیکیورٹی فورسز کی قربانیاں رائیگاں نہیں جائیں گی، شفیع جان",
         "summary": "",
         "url": "https://www.express.pk/story/2813127/bajaur-attack-sacrifices-of-security-forces-will-not-go-in-vain-shafi-jan-2813127/",
         "source": "Express",
         "date": "2026-05-14T18:28:03+00:00",
-        "img": ""
-      },
-      {
-        "title": "’دو ہزار روپے دیں، ایک دن کے قیدی بنیں‘، بھارت میں ’فیل دی جیل‘ پروگرام متعارف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813103/give-rs-2000-become-a-prisoner-for-a-day-feel-the-jail-program-introduced-in-india-2813103/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "بیڈمنٹن چیمپیئن شپ؛ پاکستان کے میر طاہر اسحاق نے امریکی ٹاپ سیڈ کو ہرا کر گولڈ میڈل جیت لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813102/badminton-championship-pakistans-mir-tahir-ishaq-beats-american-top-seed-to-win-gold-medal-2813102/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:25+05:00",
         "img": ""
       },
       {
@@ -2528,30 +2560,6 @@
         "url": "https://www.dawn.com/news/2000190/govt-orders-inquiry-into-cambridge-exam-leaks",
         "source": "Dawn",
         "date": "2026-05-14T14:02:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "28 ویں ترمیم آئی تو دیکھ کر حمایت کا فیصلہ ہوگا، گورنر پنجاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813105/if-28-amendment-support-decision-after-review-governor-punjab-2813105/",
-        "source": "Express",
-        "date": "2026-05-14T13:30:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کیوبا میں پیٹرول ختم، بجلی کا بحران شدت اختیار کرگیا؛ امریکا کو ذمہ دار قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813104/cuba-petrol-reserve-end-energy-crises-at-peak-2813104/",
-        "source": "Express",
-        "date": "2026-05-14T13:17:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "اب فیصلے ایوان میں نہیں میدان میں ہوں گے، مولانا فضل الرحمان کا ملک گیر احتجاج کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813100/decisions-not-in-parliament-in-field-molana-fazal-ur-rehman-announce-protest-2813100/",
-        "source": "Express",
-        "date": "2026-05-14T12:54:02+00:00",
         "img": ""
       },
       {
@@ -2632,14 +2640,6 @@
         "url": "https://www.dawn.com/news/2000112/finance-minister-heads-to-china-for-panda-bond-launch",
         "source": "Dawn",
         "date": "2026-05-14T07:59:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "Man who sacrificed life thwarting suicide attack posthumously awarded Sitata-i-Shujaat",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2000059\">https://www.dawn.com/news/2000059</a></p>",
-        "url": "https://www.dawn.com/news/2000101/man-who-sacrificed-life-thwarting-suicide-attack-posthumously-awarded-sitata-i-shujaat",
-        "source": "Dawn",
-        "date": "2026-05-14T07:43:24+05:00",
         "img": ""
       },
       {
@@ -2661,6 +2661,54 @@
     ],
     "baloch": [
       {
+        "title": "IMF highlights ‘Gulf exposure’ as biggest external risk for Pakistan",
+        "summary": "<p>ISLAMABAD: Following the <a href=\"https://www.dawn.com/news/1998725\">release </a>of a $1.1 billion tranche for Pakistan, the International Monetary Fund (IMF) has identified Pakistan’s economic exposure to the Gulf Coope­ration Council (GCC) as its most acute external vulnerability.</p> <p>In its <a rel=\"noopener no",
+        "url": "https://www.dawn.com/news/2000334/imf-highlights-gulf-exposure-as-biggest-external-risk-for-pakistan",
+        "source": "Dawn",
+        "date": "2026-05-15T07:30:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "Govt has not contacted PPP over any constitutional amendment: Bilawal",
+        "summary": "<p>ISLAMABAD: PPP Chairman Bilawal Bhutto-Zardari on Thursday said that the government had not contacted him or his father, President Asif Ali Zardari, regarding a constitutional amendment.</p> <p>His remarks came amid media reports about the government’s intention to have the 28th constitutional amendment passed by pa",
+        "url": "https://www.dawn.com/news/2000262/govt-has-not-contacted-ppp-over-any-constitutional-amendment-bilawal",
+        "source": "Dawn",
+        "date": "2026-05-15T07:11:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "Almost 20 million people in Sudan still face acute hunger, monitors say",
+        "summary": "Almost 20 million people in Sudan still face acute hunger, monitors say",
+        "url": "https://arynews.tv/sudan-faces-acute-hunger-crisis-amid-war",
+        "source": "ARY News",
+        "date": "2026-05-15T07:00:20+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Sudan-Hunger.jpg"
+      },
+      {
+        "title": "Air India records record annual loss above $2 billion, shareholder results show",
+        "summary": "Air India records record annual loss above $2 billion, shareholder results show",
+        "url": "https://arynews.tv/air-india-reports-record-loss-over-2-billion",
+        "source": "ARY News",
+        "date": "2026-05-15T06:00:11+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Air-India.jpg"
+      },
+      {
+        "title": "Ryanair profit may come under ‘a bit of pressure’ if oil prices stay high, CEO says",
+        "summary": "Ryanair profit may come under ‘a bit of pressure’ if oil prices stay high, CEO says",
+        "url": "https://arynews.tv/ryanair-adjusts-fares-to-attract-summer-travelers",
+        "source": "ARY News",
+        "date": "2026-05-15T05:00:27+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Ryanair.jpg"
+      },
+      {
+        "title": "مشرق وسطیٰ میں دیرپا امن کے لیے سعودی عرب نے نئے معاہدے کا فارمولا پیش کر دیا، برطانوی اخبار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813133/saudi-arabia-has-presented-a-formula-for-a-new-agreement-for-lasting-peace-in-the-middle-east-british-newspaper-2813133/",
+        "source": "Express",
+        "date": "2026-05-15T02:19:40+05:00",
+        "img": ""
+      },
+      {
         "title": "European airlines downplay fears of summer jet fuel shortage",
         "summary": "European airlines downplay fears of summer jet fuel shortage",
         "url": "https://arynews.tv/airlines-outlook-on-jet-fuel-supply-and-crisis",
@@ -2675,6 +2723,14 @@
         "source": "ARY News",
         "date": "2026-05-15T01:18:47+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-10.jpg"
+      },
+      {
+        "title": "کراچی، کورنگی کراسنگ کے قریب پولیس مقابلہ، ایک ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813130/karachi-police-encounter-near-korangi-crossing-one-robber-arrested-in-injured-condition-2813130/",
+        "source": "Express",
+        "date": "2026-05-15T01:17:01+05:00",
+        "img": ""
       },
       {
         "title": "The Boys Suffers Ratings Setback with Season 5, Episode 7",
@@ -2731,14 +2787,6 @@
         "source": "ARY News",
         "date": "2026-05-14T23:50:19+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Anmol-Pinky-past-cases.jpg"
-      },
-      {
-        "title": "Govt has not contacted PPP over any constitutional amendment: Bilawal",
-        "summary": "<p>ISLAMABAD, May 14: PPP Chairman Bilawal Bhutto-Zardari on Thursday said that the government had not contacted him or his father, President Asif Ali Zardari, regarding a constitutional amendment.</p> <p>His remarks came amid media reports about the government’s intention to have the 28th constitutional amendment pass",
-        "url": "https://www.dawn.com/news/2000262/govt-has-not-contacted-ppp-over-any-constitutional-amendment-bilawal",
-        "source": "Dawn",
-        "date": "2026-05-14T23:47:31+05:00",
-        "img": ""
       },
       {
         "title": "Lisa Ann Walter’s Debut Comedy Special Arrives on Hulu May 15",
@@ -2853,6 +2901,14 @@
         "img": ""
       },
       {
+        "title": "سنگل ونڈو اور ڈی جی ٹی او کے باہمی تعاون سے تجارتی انجمنوں کا نظام ڈیجیٹلائز کرنے کا فیصلہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813132/decision-to-digitalize-the-system-of-trade-associations-through-collaboration-between-single-window-and-dgto-2813132/",
+        "source": "Express",
+        "date": "2026-05-14T20:58:20+00:00",
+        "img": ""
+      },
+      {
         "title": "Princess Kate’s Subtle Tribute to Her Cancer Journey in Italy",
         "summary": "Princess Kate’s Subtle Tribute to Her Cancer Journey in Italy",
         "url": "https://arynews.tv/princess-kates-subtle-tribute-to-her-cancer-journey-in-italy",
@@ -2866,6 +2922,14 @@
         "url": "https://www.express.pk/story/2813117/karachi-case-of-indecent-behavior-with-a-woman-ssp-takes-notice-case-registered-2813117/",
         "source": "Express",
         "date": "2026-05-14T20:53:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان نے آئی ایم ایف کی بیشتر شرائط پر مکمل یا جزوی عملدرآمد کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813131/pakistan-has-fully-or-partially-implemented-most-of-the-imf-conditions-2813131/",
+        "source": "Express",
+        "date": "2026-05-14T20:49:06+00:00",
         "img": ""
       },
       {
@@ -2957,20 +3021,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-92.jpg"
       },
       {
-        "title": "Top 5 Fastest Cars in Forza Horizon 6: Unleash the Speed",
-        "summary": "Top 5 Fastest Cars in Forza Horizon 6: Unleash the Speed",
-        "url": "https://arynews.tv/top-5-fastest-cars-in-forza-horizon-6-unleash-the-speed",
-        "source": "ARY News",
-        "date": "2026-05-14T19:53:28+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/5-fastest-cars.jpg"
-      },
-      {
-        "title": "Good news for retired PIA employees",
-        "summary": "Good news for retired PIA employees",
-        "url": "https://arynews.tv/good-news-for-retired-pia-employees",
-        "source": "ARY News",
-        "date": "2026-05-14T19:47:58+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-91-1.jpg"
+        "title": "آئی ایم ایف کی جائزہ رپورٹ، پاکستانی معیشت میں بہتری مگر مشرق وسطیٰ کی جنگ کو خطرہ قرار دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813129/pakistans-economy-is-recovering-but-middle-east-war-is-a-threat-imf-report-reveals-2813129/",
+        "source": "Express",
+        "date": "2026-05-14T19:51:31+00:00",
+        "img": ""
       },
       {
         "title": "جامعہ کراچی کی انتظامیہ نے الزامات کو مسترد کردیا",
@@ -2981,19 +3037,19 @@
         "img": ""
       },
       {
-        "title": "UAE Dirham to Pakistani Rupee Rate Today – May 14, 2026",
-        "summary": "UAE Dirham to Pakistani Rupee Rate Today – May 14, 2026",
-        "url": "https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-may-14-2026",
-        "source": "ARY News",
-        "date": "2026-05-14T19:35:22+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/UAE-Dirham.gif"
-      },
-      {
         "title": "Aleema Khan moves IHC against PTI founder Imran Khan’s ‘solitary confinement’",
         "summary": "<p>ISLAMABAD: Aleema Khan, sister of former prime minister and PTI founder Imran Khan, filed a writ petition in the Islamabad High Court (IHC) on Thursday, challenging his prolonged solitary confinement at Central Jail Adiala, Rawalpindi, terming it illegal and a violation of fundamental rights.</p> <p>Imran — <a href=",
         "url": "https://www.dawn.com/news/2000235/aleema-khan-moves-ihc-against-pti-founder-imran-khans-solitary-confinement",
         "source": "Dawn",
         "date": "2026-05-14T19:27:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "مسجد اقصیٰ میں اسرائیلی پرچم لہرانے پر سعودی عرب نے عالمی برادری سے فوری مداخلت کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813128/saudi-arabia-calls-for-immediate-intervention-from-the-international-community-over-the-raising-of-the-israeli-flag-at-al-aqsa-mosque-2813128/",
+        "source": "Express",
+        "date": "2026-05-14T19:19:46+00:00",
         "img": ""
       },
       {
@@ -3029,35 +3085,11 @@
         "img": ""
       },
       {
-        "title": "حدیقہ کیانی کے نام ایک اور بڑا اعزاز: فن موسیقی میں خدمات پر ستارہ امتیاز سے نواز دیا گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813106/hadiqa-kayani-awarded-sitara-e-imtiaz-for-her-services-to-the-art-of-music-2813106/",
-        "source": "Express",
-        "date": "2026-05-14T18:38:02+05:00",
-        "img": ""
-      },
-      {
         "title": "باجوڑ حملہ، سیکیورٹی فورسز کی قربانیاں رائیگاں نہیں جائیں گی، شفیع جان",
         "summary": "",
         "url": "https://www.express.pk/story/2813127/bajaur-attack-sacrifices-of-security-forces-will-not-go-in-vain-shafi-jan-2813127/",
         "source": "Express",
         "date": "2026-05-14T18:28:03+00:00",
-        "img": ""
-      },
-      {
-        "title": "’دو ہزار روپے دیں، ایک دن کے قیدی بنیں‘، بھارت میں ’فیل دی جیل‘ پروگرام متعارف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813103/give-rs-2000-become-a-prisoner-for-a-day-feel-the-jail-program-introduced-in-india-2813103/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "بیڈمنٹن چیمپیئن شپ؛ پاکستان کے میر طاہر اسحاق نے امریکی ٹاپ سیڈ کو ہرا کر گولڈ میڈل جیت لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813102/badminton-championship-pakistans-mir-tahir-ishaq-beats-american-top-seed-to-win-gold-medal-2813102/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:25+05:00",
         "img": ""
       },
       {
@@ -3130,30 +3162,6 @@
         "url": "https://www.dawn.com/news/2000190/govt-orders-inquiry-into-cambridge-exam-leaks",
         "source": "Dawn",
         "date": "2026-05-14T14:02:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "28 ویں ترمیم آئی تو دیکھ کر حمایت کا فیصلہ ہوگا، گورنر پنجاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813105/if-28-amendment-support-decision-after-review-governor-punjab-2813105/",
-        "source": "Express",
-        "date": "2026-05-14T13:30:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کیوبا میں پیٹرول ختم، بجلی کا بحران شدت اختیار کرگیا؛ امریکا کو ذمہ دار قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813104/cuba-petrol-reserve-end-energy-crises-at-peak-2813104/",
-        "source": "Express",
-        "date": "2026-05-14T13:17:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "اب فیصلے ایوان میں نہیں میدان میں ہوں گے، مولانا فضل الرحمان کا ملک گیر احتجاج کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813100/decisions-not-in-parliament-in-field-molana-fazal-ur-rehman-announce-protest-2813100/",
-        "source": "Express",
-        "date": "2026-05-14T12:54:02+00:00",
         "img": ""
       },
       {
@@ -3237,14 +3245,6 @@
         "img": ""
       },
       {
-        "title": "Man who sacrificed life thwarting suicide attack posthumously awarded Sitata-i-Shujaat",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2000059\">https://www.dawn.com/news/2000059</a></p>",
-        "url": "https://www.dawn.com/news/2000101/man-who-sacrificed-life-thwarting-suicide-attack-posthumously-awarded-sitata-i-shujaat",
-        "source": "Dawn",
-        "date": "2026-05-14T07:43:24+05:00",
-        "img": ""
-      },
-      {
         "title": "Supreme Court settles controversy over drug test reports",
         "summary": "<p><strong>• Holds that mentioning full forensic protocol in test reports is not mandatory, does not automatically invalidate lab report<br>• Ruling settles inconsistencies created by diverging opinions in previous SC verdicts</strong></p> <p>ISLAMABAD: The Supreme Court on Wednesday settled a long-running controversy ",
         "url": "https://www.dawn.com/news/2000054/supreme-court-settles-controversy-over-drug-test-reports",
@@ -3263,6 +3263,38 @@
     ],
     "education": [
       {
+        "title": "Almost 20 million people in Sudan still face acute hunger, monitors say",
+        "summary": "Almost 20 million people in Sudan still face acute hunger, monitors say",
+        "url": "https://arynews.tv/sudan-faces-acute-hunger-crisis-amid-war",
+        "source": "ARY News",
+        "date": "2026-05-15T07:00:20+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Sudan-Hunger.jpg"
+      },
+      {
+        "title": "Air India records record annual loss above $2 billion, shareholder results show",
+        "summary": "Air India records record annual loss above $2 billion, shareholder results show",
+        "url": "https://arynews.tv/air-india-reports-record-loss-over-2-billion",
+        "source": "ARY News",
+        "date": "2026-05-15T06:00:11+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Air-India.jpg"
+      },
+      {
+        "title": "Ryanair profit may come under ‘a bit of pressure’ if oil prices stay high, CEO says",
+        "summary": "Ryanair profit may come under ‘a bit of pressure’ if oil prices stay high, CEO says",
+        "url": "https://arynews.tv/ryanair-adjusts-fares-to-attract-summer-travelers",
+        "source": "ARY News",
+        "date": "2026-05-15T05:00:27+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Ryanair.jpg"
+      },
+      {
+        "title": "مشرق وسطیٰ میں دیرپا امن کے لیے سعودی عرب نے نئے معاہدے کا فارمولا پیش کر دیا، برطانوی اخبار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813133/saudi-arabia-has-presented-a-formula-for-a-new-agreement-for-lasting-peace-in-the-middle-east-british-newspaper-2813133/",
+        "source": "Express",
+        "date": "2026-05-15T02:19:40+05:00",
+        "img": ""
+      },
+      {
         "title": "European airlines downplay fears of summer jet fuel shortage",
         "summary": "European airlines downplay fears of summer jet fuel shortage",
         "url": "https://arynews.tv/airlines-outlook-on-jet-fuel-supply-and-crisis",
@@ -3277,6 +3309,14 @@
         "source": "ARY News",
         "date": "2026-05-15T01:18:47+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-10.jpg"
+      },
+      {
+        "title": "کراچی، کورنگی کراسنگ کے قریب پولیس مقابلہ، ایک ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813130/karachi-police-encounter-near-korangi-crossing-one-robber-arrested-in-injured-condition-2813130/",
+        "source": "Express",
+        "date": "2026-05-15T01:17:01+05:00",
+        "img": ""
       },
       {
         "title": "The Boys Suffers Ratings Setback with Season 5, Episode 7",
@@ -3439,6 +3479,14 @@
         "img": ""
       },
       {
+        "title": "سنگل ونڈو اور ڈی جی ٹی او کے باہمی تعاون سے تجارتی انجمنوں کا نظام ڈیجیٹلائز کرنے کا فیصلہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813132/decision-to-digitalize-the-system-of-trade-associations-through-collaboration-between-single-window-and-dgto-2813132/",
+        "source": "Express",
+        "date": "2026-05-14T20:58:20+00:00",
+        "img": ""
+      },
+      {
         "title": "Princess Kate’s Subtle Tribute to Her Cancer Journey in Italy",
         "summary": "Princess Kate’s Subtle Tribute to Her Cancer Journey in Italy",
         "url": "https://arynews.tv/princess-kates-subtle-tribute-to-her-cancer-journey-in-italy",
@@ -3452,6 +3500,14 @@
         "url": "https://www.express.pk/story/2813117/karachi-case-of-indecent-behavior-with-a-woman-ssp-takes-notice-case-registered-2813117/",
         "source": "Express",
         "date": "2026-05-14T20:53:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان نے آئی ایم ایف کی بیشتر شرائط پر مکمل یا جزوی عملدرآمد کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813131/pakistan-has-fully-or-partially-implemented-most-of-the-imf-conditions-2813131/",
+        "source": "Express",
+        "date": "2026-05-14T20:49:06+00:00",
         "img": ""
       },
       {
@@ -3535,20 +3591,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-92.jpg"
       },
       {
-        "title": "Top 5 Fastest Cars in Forza Horizon 6: Unleash the Speed",
-        "summary": "Top 5 Fastest Cars in Forza Horizon 6: Unleash the Speed",
-        "url": "https://arynews.tv/top-5-fastest-cars-in-forza-horizon-6-unleash-the-speed",
-        "source": "ARY News",
-        "date": "2026-05-14T19:53:28+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/5-fastest-cars.jpg"
-      },
-      {
-        "title": "Good news for retired PIA employees",
-        "summary": "Good news for retired PIA employees",
-        "url": "https://arynews.tv/good-news-for-retired-pia-employees",
-        "source": "ARY News",
-        "date": "2026-05-14T19:47:58+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-91-1.jpg"
+        "title": "آئی ایم ایف کی جائزہ رپورٹ، پاکستانی معیشت میں بہتری مگر مشرق وسطیٰ کی جنگ کو خطرہ قرار دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813129/pakistans-economy-is-recovering-but-middle-east-war-is-a-threat-imf-report-reveals-2813129/",
+        "source": "Express",
+        "date": "2026-05-14T19:51:31+00:00",
+        "img": ""
       },
       {
         "title": "جامعہ کراچی کی انتظامیہ نے الزامات کو مسترد کردیا",
@@ -3559,12 +3607,12 @@
         "img": ""
       },
       {
-        "title": "UAE Dirham to Pakistani Rupee Rate Today – May 14, 2026",
-        "summary": "UAE Dirham to Pakistani Rupee Rate Today – May 14, 2026",
-        "url": "https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-may-14-2026",
-        "source": "ARY News",
-        "date": "2026-05-14T19:35:22+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/UAE-Dirham.gif"
+        "title": "مسجد اقصیٰ میں اسرائیلی پرچم لہرانے پر سعودی عرب نے عالمی برادری سے فوری مداخلت کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813128/saudi-arabia-calls-for-immediate-intervention-from-the-international-community-over-the-raising-of-the-israeli-flag-at-al-aqsa-mosque-2813128/",
+        "source": "Express",
+        "date": "2026-05-14T19:19:46+00:00",
+        "img": ""
       },
       {
         "title": "اسلام آباد میں آن لائن سرمایہ کاری کا بڑا فراڈ، ملزمان کے خلاف مقدمہ درج",
@@ -3591,35 +3639,11 @@
         "img": ""
       },
       {
-        "title": "حدیقہ کیانی کے نام ایک اور بڑا اعزاز: فن موسیقی میں خدمات پر ستارہ امتیاز سے نواز دیا گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813106/hadiqa-kayani-awarded-sitara-e-imtiaz-for-her-services-to-the-art-of-music-2813106/",
-        "source": "Express",
-        "date": "2026-05-14T18:38:02+05:00",
-        "img": ""
-      },
-      {
         "title": "باجوڑ حملہ، سیکیورٹی فورسز کی قربانیاں رائیگاں نہیں جائیں گی، شفیع جان",
         "summary": "",
         "url": "https://www.express.pk/story/2813127/bajaur-attack-sacrifices-of-security-forces-will-not-go-in-vain-shafi-jan-2813127/",
         "source": "Express",
         "date": "2026-05-14T18:28:03+00:00",
-        "img": ""
-      },
-      {
-        "title": "’دو ہزار روپے دیں، ایک دن کے قیدی بنیں‘، بھارت میں ’فیل دی جیل‘ پروگرام متعارف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813103/give-rs-2000-become-a-prisoner-for-a-day-feel-the-jail-program-introduced-in-india-2813103/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "بیڈمنٹن چیمپیئن شپ؛ پاکستان کے میر طاہر اسحاق نے امریکی ٹاپ سیڈ کو ہرا کر گولڈ میڈل جیت لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813102/badminton-championship-pakistans-mir-tahir-ishaq-beats-american-top-seed-to-win-gold-medal-2813102/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:25+05:00",
         "img": ""
       },
       {
@@ -3637,33 +3661,33 @@
         "source": "Express",
         "date": "2026-05-14T16:35:26+00:00",
         "img": ""
-      },
-      {
-        "title": "28 ویں ترمیم آئی تو دیکھ کر حمایت کا فیصلہ ہوگا، گورنر پنجاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813105/if-28-amendment-support-decision-after-review-governor-punjab-2813105/",
-        "source": "Express",
-        "date": "2026-05-14T13:30:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کیوبا میں پیٹرول ختم، بجلی کا بحران شدت اختیار کرگیا؛ امریکا کو ذمہ دار قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813104/cuba-petrol-reserve-end-energy-crises-at-peak-2813104/",
-        "source": "Express",
-        "date": "2026-05-14T13:17:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "اب فیصلے ایوان میں نہیں میدان میں ہوں گے، مولانا فضل الرحمان کا ملک گیر احتجاج کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813100/decisions-not-in-parliament-in-field-molana-fazal-ur-rehman-announce-protest-2813100/",
-        "source": "Express",
-        "date": "2026-05-14T12:54:02+00:00",
-        "img": ""
       }
     ],
     "science": [
+      {
+        "title": "Almost 20 million people in Sudan still face acute hunger, monitors say",
+        "summary": "Almost 20 million people in Sudan still face acute hunger, monitors say",
+        "url": "https://arynews.tv/sudan-faces-acute-hunger-crisis-amid-war",
+        "source": "ARY News",
+        "date": "2026-05-15T07:00:20+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Sudan-Hunger.jpg"
+      },
+      {
+        "title": "Air India records record annual loss above $2 billion, shareholder results show",
+        "summary": "Air India records record annual loss above $2 billion, shareholder results show",
+        "url": "https://arynews.tv/air-india-reports-record-loss-over-2-billion",
+        "source": "ARY News",
+        "date": "2026-05-15T06:00:11+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Air-India.jpg"
+      },
+      {
+        "title": "Ryanair profit may come under ‘a bit of pressure’ if oil prices stay high, CEO says",
+        "summary": "Ryanair profit may come under ‘a bit of pressure’ if oil prices stay high, CEO says",
+        "url": "https://arynews.tv/ryanair-adjusts-fares-to-attract-summer-travelers",
+        "source": "ARY News",
+        "date": "2026-05-15T05:00:27+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Ryanair.jpg"
+      },
       {
         "title": "European airlines downplay fears of summer jet fuel shortage",
         "summary": "European airlines downplay fears of summer jet fuel shortage",
@@ -3839,33 +3863,25 @@
         "source": "ARY News",
         "date": "2026-05-14T19:56:38+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-92.jpg"
-      },
-      {
-        "title": "Top 5 Fastest Cars in Forza Horizon 6: Unleash the Speed",
-        "summary": "Top 5 Fastest Cars in Forza Horizon 6: Unleash the Speed",
-        "url": "https://arynews.tv/top-5-fastest-cars-in-forza-horizon-6-unleash-the-speed",
-        "source": "ARY News",
-        "date": "2026-05-14T19:53:28+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/5-fastest-cars.jpg"
-      },
-      {
-        "title": "Good news for retired PIA employees",
-        "summary": "Good news for retired PIA employees",
-        "url": "https://arynews.tv/good-news-for-retired-pia-employees",
-        "source": "ARY News",
-        "date": "2026-05-14T19:47:58+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-91-1.jpg"
-      },
-      {
-        "title": "UAE Dirham to Pakistani Rupee Rate Today – May 14, 2026",
-        "summary": "UAE Dirham to Pakistani Rupee Rate Today – May 14, 2026",
-        "url": "https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-may-14-2026",
-        "source": "ARY News",
-        "date": "2026-05-14T19:35:22+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/UAE-Dirham.gif"
       }
     ],
     "sports": [
+      {
+        "title": "مشرق وسطیٰ میں دیرپا امن کے لیے سعودی عرب نے نئے معاہدے کا فارمولا پیش کر دیا، برطانوی اخبار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813133/saudi-arabia-has-presented-a-formula-for-a-new-agreement-for-lasting-peace-in-the-middle-east-british-newspaper-2813133/",
+        "source": "Express",
+        "date": "2026-05-15T02:19:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، کورنگی کراسنگ کے قریب پولیس مقابلہ، ایک ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813130/karachi-police-encounter-near-korangi-crossing-one-robber-arrested-in-injured-condition-2813130/",
+        "source": "Express",
+        "date": "2026-05-15T01:17:01+05:00",
+        "img": ""
+      },
       {
         "title": "Saudi Arabia to host first-ever Dunes League T20",
         "summary": "Saudi Arabia to host first-ever Dunes League T20",
@@ -3931,11 +3947,27 @@
         "img": ""
       },
       {
+        "title": "سنگل ونڈو اور ڈی جی ٹی او کے باہمی تعاون سے تجارتی انجمنوں کا نظام ڈیجیٹلائز کرنے کا فیصلہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813132/decision-to-digitalize-the-system-of-trade-associations-through-collaboration-between-single-window-and-dgto-2813132/",
+        "source": "Express",
+        "date": "2026-05-14T20:58:20+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، خاتون کے ساتھ نازیبا حرکت کا معاملہ، ایس ایس پی نے نوٹس لے لیا، مقدمہ درج",
         "summary": "",
         "url": "https://www.express.pk/story/2813117/karachi-case-of-indecent-behavior-with-a-woman-ssp-takes-notice-case-registered-2813117/",
         "source": "Express",
         "date": "2026-05-14T20:53:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان نے آئی ایم ایف کی بیشتر شرائط پر مکمل یا جزوی عملدرآمد کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813131/pakistan-has-fully-or-partially-implemented-most-of-the-imf-conditions-2813131/",
+        "source": "Express",
+        "date": "2026-05-14T20:49:06+00:00",
         "img": ""
       },
       {
@@ -3979,11 +4011,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/1-86.jpg"
       },
       {
+        "title": "آئی ایم ایف کی جائزہ رپورٹ، پاکستانی معیشت میں بہتری مگر مشرق وسطیٰ کی جنگ کو خطرہ قرار دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813129/pakistans-economy-is-recovering-but-middle-east-war-is-a-threat-imf-report-reveals-2813129/",
+        "source": "Express",
+        "date": "2026-05-14T19:51:31+00:00",
+        "img": ""
+      },
+      {
         "title": "جامعہ کراچی کی انتظامیہ نے الزامات کو مسترد کردیا",
         "summary": "",
         "url": "https://www.express.pk/story/2813112/ku-rejects-allegations-2813112/",
         "source": "Express",
         "date": "2026-05-14T19:44:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "مسجد اقصیٰ میں اسرائیلی پرچم لہرانے پر سعودی عرب نے عالمی برادری سے فوری مداخلت کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813128/saudi-arabia-calls-for-immediate-intervention-from-the-international-community-over-the-raising-of-the-israeli-flag-at-al-aqsa-mosque-2813128/",
+        "source": "Express",
+        "date": "2026-05-14T19:19:46+00:00",
         "img": ""
       },
       {
@@ -4011,14 +4059,6 @@
         "img": ""
       },
       {
-        "title": "حدیقہ کیانی کے نام ایک اور بڑا اعزاز: فن موسیقی میں خدمات پر ستارہ امتیاز سے نواز دیا گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813106/hadiqa-kayani-awarded-sitara-e-imtiaz-for-her-services-to-the-art-of-music-2813106/",
-        "source": "Express",
-        "date": "2026-05-14T18:38:02+05:00",
-        "img": ""
-      },
-      {
         "title": "Pakistan-Australia ODI series tickets sale date revealed",
         "summary": "Pakistan-Australia ODI series tickets sale date revealed",
         "url": "https://arynews.tv/category/sports/pakistan-australia-odi-series-tickets-sale-date-revealed",
@@ -4041,22 +4081,6 @@
         "source": "ARY Sports",
         "date": "2026-05-14T18:17:27+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/1-49.jpg"
-      },
-      {
-        "title": "’دو ہزار روپے دیں، ایک دن کے قیدی بنیں‘، بھارت میں ’فیل دی جیل‘ پروگرام متعارف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813103/give-rs-2000-become-a-prisoner-for-a-day-feel-the-jail-program-introduced-in-india-2813103/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "بیڈمنٹن چیمپیئن شپ؛ پاکستان کے میر طاہر اسحاق نے امریکی ٹاپ سیڈ کو ہرا کر گولڈ میڈل جیت لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813102/badminton-championship-pakistans-mir-tahir-ishaq-beats-american-top-seed-to-win-gold-medal-2813102/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:25+05:00",
-        "img": ""
       },
       {
         "title": "چینی صدر آبنائے ہرمز کھلوانے کے لیے ثالث کا کردار ادا کرنے کو تیار ہیں، امریکی صدر",
@@ -4169,30 +4193,6 @@
         "source": "ARY Sports",
         "date": "2026-05-14T16:13:17+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/1-78.jpg"
-      },
-      {
-        "title": "28 ویں ترمیم آئی تو دیکھ کر حمایت کا فیصلہ ہوگا، گورنر پنجاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813105/if-28-amendment-support-decision-after-review-governor-punjab-2813105/",
-        "source": "Express",
-        "date": "2026-05-14T13:30:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کیوبا میں پیٹرول ختم، بجلی کا بحران شدت اختیار کرگیا؛ امریکا کو ذمہ دار قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813104/cuba-petrol-reserve-end-energy-crises-at-peak-2813104/",
-        "source": "Express",
-        "date": "2026-05-14T13:17:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "اب فیصلے ایوان میں نہیں میدان میں ہوں گے، مولانا فضل الرحمان کا ملک گیر احتجاج کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813100/decisions-not-in-parliament-in-field-molana-fazal-ur-rehman-announce-protest-2813100/",
-        "source": "Express",
-        "date": "2026-05-14T12:54:02+00:00",
-        "img": ""
       },
       {
         "title": "Study warns of dangerous heat at 2026 World Cup as climate risks grow",
@@ -4429,6 +4429,30 @@
     ],
     "business": [
       {
+        "title": "IMF highlights ‘Gulf exposure’ as biggest external risk for Pakistan",
+        "summary": "<p>ISLAMABAD: Following the <a href=\"https://www.dawn.com/news/1998725\">release </a>of a $1.1 billion tranche for Pakistan, the International Monetary Fund (IMF) has identified Pakistan’s economic exposure to the Gulf Coope­ration Council (GCC) as its most acute external vulnerability.</p> <p>In its <a rel=\"noopener no",
+        "url": "https://www.dawn.com/news/2000334/imf-highlights-gulf-exposure-as-biggest-external-risk-for-pakistan",
+        "source": "Dawn",
+        "date": "2026-05-15T07:30:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "مشرق وسطیٰ میں دیرپا امن کے لیے سعودی عرب نے نئے معاہدے کا فارمولا پیش کر دیا، برطانوی اخبار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813133/saudi-arabia-has-presented-a-formula-for-a-new-agreement-for-lasting-peace-in-the-middle-east-british-newspaper-2813133/",
+        "source": "Express",
+        "date": "2026-05-15T02:19:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، کورنگی کراسنگ کے قریب پولیس مقابلہ، ایک ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813130/karachi-police-encounter-near-korangi-crossing-one-robber-arrested-in-injured-condition-2813130/",
+        "source": "Express",
+        "date": "2026-05-15T01:17:01+05:00",
+        "img": ""
+      },
+      {
         "title": "رسول کریم ﷺ نے قربانی کیسے کی۔۔۔ ؟",
         "summary": "",
         "url": "https://www.express.pk/story/2813125/rasool-e-karim-saw-ne-qurbani-kaise-ki-2813125/",
@@ -4493,11 +4517,27 @@
         "img": ""
       },
       {
+        "title": "سنگل ونڈو اور ڈی جی ٹی او کے باہمی تعاون سے تجارتی انجمنوں کا نظام ڈیجیٹلائز کرنے کا فیصلہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813132/decision-to-digitalize-the-system-of-trade-associations-through-collaboration-between-single-window-and-dgto-2813132/",
+        "source": "Express",
+        "date": "2026-05-14T20:58:20+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، خاتون کے ساتھ نازیبا حرکت کا معاملہ، ایس ایس پی نے نوٹس لے لیا، مقدمہ درج",
         "summary": "",
         "url": "https://www.express.pk/story/2813117/karachi-case-of-indecent-behavior-with-a-woman-ssp-takes-notice-case-registered-2813117/",
         "source": "Express",
         "date": "2026-05-14T20:53:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان نے آئی ایم ایف کی بیشتر شرائط پر مکمل یا جزوی عملدرآمد کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813131/pakistan-has-fully-or-partially-implemented-most-of-the-imf-conditions-2813131/",
+        "source": "Express",
+        "date": "2026-05-14T20:49:06+00:00",
         "img": ""
       },
       {
@@ -4541,11 +4581,27 @@
         "img": ""
       },
       {
+        "title": "آئی ایم ایف کی جائزہ رپورٹ، پاکستانی معیشت میں بہتری مگر مشرق وسطیٰ کی جنگ کو خطرہ قرار دے دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813129/pakistans-economy-is-recovering-but-middle-east-war-is-a-threat-imf-report-reveals-2813129/",
+        "source": "Express",
+        "date": "2026-05-14T19:51:31+00:00",
+        "img": ""
+      },
+      {
         "title": "جامعہ کراچی کی انتظامیہ نے الزامات کو مسترد کردیا",
         "summary": "",
         "url": "https://www.express.pk/story/2813112/ku-rejects-allegations-2813112/",
         "source": "Express",
         "date": "2026-05-14T19:44:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "مسجد اقصیٰ میں اسرائیلی پرچم لہرانے پر سعودی عرب نے عالمی برادری سے فوری مداخلت کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2813128/saudi-arabia-calls-for-immediate-intervention-from-the-international-community-over-the-raising-of-the-israeli-flag-at-al-aqsa-mosque-2813128/",
+        "source": "Express",
+        "date": "2026-05-14T19:19:46+00:00",
         "img": ""
       },
       {
@@ -4573,35 +4629,11 @@
         "img": ""
       },
       {
-        "title": "حدیقہ کیانی کے نام ایک اور بڑا اعزاز: فن موسیقی میں خدمات پر ستارہ امتیاز سے نواز دیا گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813106/hadiqa-kayani-awarded-sitara-e-imtiaz-for-her-services-to-the-art-of-music-2813106/",
-        "source": "Express",
-        "date": "2026-05-14T18:38:02+05:00",
-        "img": ""
-      },
-      {
         "title": "باجوڑ حملہ، سیکیورٹی فورسز کی قربانیاں رائیگاں نہیں جائیں گی، شفیع جان",
         "summary": "",
         "url": "https://www.express.pk/story/2813127/bajaur-attack-sacrifices-of-security-forces-will-not-go-in-vain-shafi-jan-2813127/",
         "source": "Express",
         "date": "2026-05-14T18:28:03+00:00",
-        "img": ""
-      },
-      {
-        "title": "’دو ہزار روپے دیں، ایک دن کے قیدی بنیں‘، بھارت میں ’فیل دی جیل‘ پروگرام متعارف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813103/give-rs-2000-become-a-prisoner-for-a-day-feel-the-jail-program-introduced-in-india-2813103/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:42+05:00",
-        "img": ""
-      },
-      {
-        "title": "بیڈمنٹن چیمپیئن شپ؛ پاکستان کے میر طاہر اسحاق نے امریکی ٹاپ سیڈ کو ہرا کر گولڈ میڈل جیت لیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813102/badminton-championship-pakistans-mir-tahir-ishaq-beats-american-top-seed-to-win-gold-medal-2813102/",
-        "source": "Express",
-        "date": "2026-05-14T18:13:25+05:00",
         "img": ""
       },
       {
@@ -4626,30 +4658,6 @@
         "url": "https://www.dawn.com/news/2000193/finance-ministry-terms-report-on-dar-being-handed-budget-making-process-misleading-incorrect",
         "source": "Dawn",
         "date": "2026-05-14T15:08:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "28 ویں ترمیم آئی تو دیکھ کر حمایت کا فیصلہ ہوگا، گورنر پنجاب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813105/if-28-amendment-support-decision-after-review-governor-punjab-2813105/",
-        "source": "Express",
-        "date": "2026-05-14T13:30:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کیوبا میں پیٹرول ختم، بجلی کا بحران شدت اختیار کرگیا؛ امریکا کو ذمہ دار قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813104/cuba-petrol-reserve-end-energy-crises-at-peak-2813104/",
-        "source": "Express",
-        "date": "2026-05-14T13:17:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "اب فیصلے ایوان میں نہیں میدان میں ہوں گے، مولانا فضل الرحمان کا ملک گیر احتجاج کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2813100/decisions-not-in-parliament-in-field-molana-fazal-ur-rehman-announce-protest-2813100/",
-        "source": "Express",
-        "date": "2026-05-14T12:54:02+00:00",
         "img": ""
       },
       {
@@ -4818,14 +4826,6 @@
         "url": "https://www.dawn.com/news/1999677/despite-improved-macroeconomic-stability-in-first-half-of-fy26-war-in-middle-east-poses-significant-risks-to-outlook-sbp",
         "source": "Dawn",
         "date": "2026-05-12T17:00:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "Kuwait to 'explore new opportunities' around building strategic storage in Pakistan’s petroleum sector",
-        "summary": "<p>ISLAMABAD: Kuwait agreed on Tuesday to “explore new opportunities” around building strategic storage in Pakistan’s petroleum sector, a statement by the Petroleum Division said, adding that the initiative could result in mutual benefit for both sides.</p> <p>The assurance came during a meeting between petroleum Minis",
-        "url": "https://www.dawn.com/news/1999667/kuwait-to-explore-new-opportunities-around-building-strategic-storage-in-pakistans-petroleum-sector",
-        "source": "Dawn",
-        "date": "2026-05-12T16:32:25+05:00",
         "img": ""
       }
     ]
