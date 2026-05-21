@@ -1,7 +1,95 @@
 {
-  "fetched": "2026-05-21T16:14:06.917778+00:00",
+  "fetched": "2026-05-21T18:57:19.063716+00:00",
   "categories": {
     "international": [
+      {
+        "title": "Patient tests HIV-positive after surgery, triggering probe at Multan’s Nishtar Hospital",
+        "summary": "<p>LAHORE: A high-level inquiry committee has been constituted at Multan’s Nishtar Hospital to investigate allegations of medical negligence after a patient reportedly underwent surgery without mandatory HIV screening and later tested positive for the virus.</p> <p>The incident has triggered concern among healthcare st",
+        "url": "https://www.dawn.com/news/2002063/patient-tests-hiv-positive-after-surgery-triggering-probe-at-multans-nishtar-hospital",
+        "source": "Dawn",
+        "date": "2026-05-21T23:46:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "Researchers develop solar system that turns air moisture into drinking water",
+        "summary": "Researchers develop solar system that turns air moisture into drinking water",
+        "url": "https://arynews.tv/solar-technology-new-water-production-method",
+        "source": "ARY News",
+        "date": "2026-05-21T23:26:30+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Solar-System-making-water.jpg"
+      },
+      {
+        "title": "Salman Atiq makes Pakistan proud on Everest",
+        "summary": "Salman Atiq makes Pakistan proud on Everest",
+        "url": "https://arynews.tv/salman-atiq-makes-pakistan-proud-on-everest",
+        "source": "ARY News",
+        "date": "2026-05-21T23:22:32+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-18.jpg"
+      },
+      {
+        "title": "Educationist who fled occupied Kashmir fights for his life after targeted attack",
+        "summary": "<p>MUZAFFARABAD: A young Kashmiri educationist who had earlier fled occupied Kashmir was critically wounded in a targeted daylight attack in Muzaffarabad on Thursday.</p> <p>The attacker, however, was arrested within half an hour after fleeing through a residential locality along a ravine. The weapon used in the attack",
+        "url": "https://www.dawn.com/news/2002072/educationist-who-fled-occupied-kashmir-fights-for-his-life-after-targeted-attack",
+        "source": "Dawn",
+        "date": "2026-05-21T23:20:36+05:00",
+        "img": ""
+      },
+      {
+        "title": "Sialkot authorities on alert as India opens spillway gates of dam on Chenab River",
+        "summary": "<p>NAROWAL: A warning was issued on Thursday stating that the water level in the Chenab River will rise by more than three metres due to the opening of the spillway gates of the Indian Salal Dam, with a risk of silt flushing at the Marala Barrage.</p> <p>Sialkot Deputy Commissioner Saba Asghar has deployed the Punjab E",
+        "url": "https://www.dawn.com/news/2002064/sialkot-authorities-on-alert-as-india-opens-spillway-gates-of-dam-on-chenab-river",
+        "source": "Dawn",
+        "date": "2026-05-21T23:19:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "Israel deports all foreign Gaza flotilla activists",
+        "summary": "<p>Israel said on Thursday it had deported all the foreign activists seized by Israeli forces from a Gaza-bound flotilla, following global outcry over their treatment in custody.</p> <p>Israel’s foreign ministry spokesman, Oren Marmorstein, said that “all foreign activists from the PR flotilla have been deported from I",
+        "url": "https://www.dawn.com/news/2002030/israel-deports-all-foreign-gaza-flotilla-activists",
+        "source": "Dawn",
+        "date": "2026-05-21T23:11:32+05:00",
+        "img": ""
+      },
+      {
+        "title": "23 Fitna-al-Khwarij militants including ring leader killed in KP IBOs: ISPR",
+        "summary": "23 Fitna-al-Khwarij militants including ring leader killed in KP IBOs: ISPR",
+        "url": "https://arynews.tv/fitna-al-khwarij-militants-ring-leader-neutralized-ispr",
+        "source": "ARY News",
+        "date": "2026-05-21T22:51:37+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2022/01/pakistan-army-soldiers-2.jpg"
+      },
+      {
+        "title": "Security forces kill 23 terrorists in multiple Khyber Pakhtunkhwa IBOs: ISPR",
+        "summary": "<p>Security forces have killed 23 terrorists in multiple intelligence-based operations conducted in Khyber Pakhtunkhwa, said the Inter-Services Public Relations (ISPR) in a statement released on Thursday.</p> <p>The military’s media wing said the operations were conducted over the last 48 hours in the areas of Datta Kh",
+        "url": "https://www.dawn.com/news/2002065/security-forces-kill-23-terrorists-in-multiple-khyber-pakhtunkhwa-ibos-ispr",
+        "source": "Dawn",
+        "date": "2026-05-21T22:14:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "Aymen Saleem earns sweet “Papa’s Princess” label after viral moment",
+        "summary": "Aymen Saleem earns sweet “Papa’s Princess” label after viral moment",
+        "url": "https://arynews.tv/aymen-saleem-earns-sweet-papas-princess-label-after-viral-moment",
+        "source": "ARY News",
+        "date": "2026-05-21T22:12:40+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-39.jpg"
+      },
+      {
+        "title": "Rami Malek Steals the Show at Cannes with 8-Minute Standing Ovation for ‘The Man I Love’",
+        "summary": "Rami Malek Steals the Show at Cannes with 8-Minute Standing Ovation for ‘The Man I Love’",
+        "url": "https://arynews.tv/rami-malek-steals-the-show-at-cannes-with-8-minute-standing-ovation-for-the-man-i-love",
+        "source": "ARY News",
+        "date": "2026-05-21T21:44:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Rami-Malek.jpg"
+      },
+      {
+        "title": "Iran tolling Strait of Hormuz would collapse chances of diplomatic deal: Rubio",
+        "summary": "Iran tolling Strait of Hormuz would collapse chances of diplomatic deal: Rubio",
+        "url": "https://arynews.tv/iran-war-marco-rubio-criticize-strait-of-hormuz-tolling",
+        "source": "ARY News",
+        "date": "2026-05-21T21:32:07+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/US-Iran-war-Marco-Rubio.jpg"
+      },
       {
         "title": "Court issues strict directions in PTI founder £190 million case appeal",
         "summary": "Court issues strict directions in PTI founder £190 million case appeal",
@@ -75,6 +163,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Special-Train.jpg"
       },
       {
+        "title": "Pakistan announces issuance of new Rs75 commemorative coin",
+        "summary": "Pakistan announces issuance of new Rs75 commemorative coin",
+        "url": "https://arynews.tv/pakistan-to-issue-rs-75-coin",
+        "source": "ARY News",
+        "date": "2026-05-21T20:32:06+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-96.jpg"
+      },
+      {
         "title": "Sara Tendulkar Slams Paparazzi for Derogatory Comment",
         "summary": "Sara Tendulkar Slams Paparazzi for Derogatory Comment",
         "url": "https://arynews.tv/sara-tendulkar-slams-paparazzi-for-derogatory-comment",
@@ -105,14 +201,6 @@
         "source": "ARY News",
         "date": "2026-05-21T20:04:38+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/UAE-Dirham.gif"
-      },
-      {
-        "title": "Israel deports all foreign Gaza flotilla activists",
-        "summary": "<p>Israel said on Thursday it had deported all the foreign activists seized by Israeli forces from a Gaza-bound flotilla, following global outcry over their treatment in custody.</p> <p>Israel’s foreign ministry spokesman, Oren Marmorstein, said that “all foreign activists from the PR flotilla have been deported from I",
-        "url": "https://www.dawn.com/news/2002030/israel-deports-all-foreign-gaza-flotilla-activists",
-        "source": "Dawn",
-        "date": "2026-05-21T20:01:38+05:00",
-        "img": ""
       },
       {
         "title": "Survivor 51: Get Ready for the Ultimate Game-Changer",
@@ -179,6 +267,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/04/Kuwaiti-Dinar-1.jpg"
       },
       {
+        "title": "ایران سے افزودہ یورنیم لے کر تباہ کر دیں گے، جوہری ہتھیار نہیں بنانے دیں گے: صدر ٹرمپ",
+        "summary": "امریکی صدر نے کہا کہ امریکہ کے ایران کے ساتھ مذاکرات جاری ہیں اور ساتھ ہی یہ دعویٰ بھی کیا کہ ایران کے جوہری ہتھیار بنانے کی صورت میں ’آپ مشرقِ وسطیٰ میں ایک جوہری جنگ دیکھیں جو کہ یہاں (امریکہ) آ سکتی ہے، یورپ بھی آ سکتی ہے اور ہم ایسا نہیں ہونے دیں گے۔‘",
+        "url": "https://www.bbc.co.uk/urdu/live/ckgpxw04vd3t?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-05-21T18:57:21.396482+00:00",
+        "img": ""
+      },
+      {
         "title": "Forza Horizon 6 Smashes Records: A Racing Phenomenon",
         "summary": "Forza Horizon 6 Smashes Records: A Racing Phenomenon",
         "url": "https://arynews.tv/forza-horizon-6-smashes-records-a-racing-phenomenon",
@@ -211,36 +307,12 @@
         "img": ""
       },
       {
-        "title": "UK Pound to Pakistani Rupee Rate Today- May 21, 2026",
-        "summary": "UK Pound to Pakistani Rupee Rate Today- May 21, 2026",
-        "url": "https://arynews.tv/uk-pound-to-pakistani-rupee-rate-today-may-21-2026",
-        "source": "ARY News",
-        "date": "2026-05-21T18:26:55+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/08/uk-pound-2.jpg"
-      },
-      {
-        "title": "IMF urges Pakistan to expand tax net, improve revenue collection",
-        "summary": "IMF urges Pakistan to expand tax net, improve revenue collection",
-        "url": "https://arynews.tv/imf-urges-pakistan-to-expand-tax-base",
-        "source": "ARY News",
-        "date": "2026-05-21T18:25:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/IMF-Pakistan.jpg"
-      },
-      {
-        "title": "Dollar and Other Currency Rates Today in Pakistan – May 21, 2026",
-        "summary": "Dollar and Other Currency Rates Today in Pakistan – May 21, 2026",
-        "url": "https://arynews.tv/dollar-urrency-rates-today-in-pakistan-may-21-2026",
-        "source": "ARY News",
-        "date": "2026-05-21T17:56:26+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/09/currency-rates-dollar.jpg"
-      },
-      {
-        "title": "Man arrested in hit-and-run crash that killed food delivery rider",
-        "summary": "Man arrested in hit-and-run crash that killed food delivery rider",
-        "url": "https://arynews.tv/man-arrested-in-hit-and-run-crash-that-killed-food-delivery-rider",
-        "source": "ARY News",
-        "date": "2026-05-21T17:20:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/food-delivery-rider.jpg"
+        "title": "اسرائیل سے بے دخل کیے جانے والے غزہ فلوٹیلا میں شامل غیرملکی کارکنان ترکی پہنچ گئے، اسرائیلی وزیر دفاع کی ویڈیو پر تنقید",
+        "summary": "اسرائیلی وزیر اتمار بن گویر کی جانب سے غزہ جانے والے فلوٹیلا کارکنوں کے ساتھ رویے پر عالمی سطح پر شدید مذمت سامنے آئی، کئی ممالک نے اسے ناقابل قبول قرار دیا اور صمود فلوٹیلا کے گرفتار کارکنوں کی رہائی کا مطالبہ کیا۔ پاکستان کے فلاحی کارکن سعد ایدھی بھی اس فلوٹیلا پر سوار تھے۔",
+        "url": "https://www.bbc.com/urdu/articles/cz62y75l869o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-05-21T18:03:11+00:00",
+        "img": ""
       },
       {
         "title": "FO condemns mistreatment of Gaza flotilla activists following global outcry over video posted by Israeli minister",
@@ -251,14 +323,6 @@
         "img": ""
       },
       {
-        "title": "Iran’s Hormuz authority claims control of waters south of UAE port",
-        "summary": "Iran’s Hormuz authority claims control of waters south of UAE port",
-        "url": "https://arynews.tv/irans-hormuz-authority-claims-control-waters-south-uae-port",
-        "source": "ARY News",
-        "date": "2026-05-21T16:59:48+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Iran-US.jpg"
-      },
-      {
         "title": "Taliban's new marriage separation decree draws UN criticism",
         "summary": "<p>The Afghan Taliban government’s new decree governing the separation of spouses “reinforces systemic discrimination” and erodes the rights of Afghan women and girls, the United Nations said on Thursday.</p> <p>Published in mid-May, the 31-article code sets out various grounds for separation in Afghanistan, including ",
         "url": "https://www.dawn.com/news/2002035/talibans-new-marriage-separation-decree-draws-un-criticism",
@@ -267,35 +331,11 @@
         "img": ""
       },
       {
-        "title": "FCC petition seeks restoration of Ali Amin Gandapur as KP CM",
-        "summary": "FCC petition seeks restoration of Ali Amin Gandapur as KP CM",
-        "url": "https://arynews.tv/fcc-petition-seeks-restoration-ali-amin-gandapur-kp-cm",
-        "source": "ARY News",
-        "date": "2026-05-21T16:42:52+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/01/Ali-AMin-Gandapur.png"
-      },
-      {
-        "title": "Pakistan Railways announces special Eid trains",
-        "summary": "Pakistan Railways announces special Eid trains",
-        "url": "https://arynews.tv/pakistan-railways-announces-special-eid-trains",
-        "source": "ARY News",
-        "date": "2026-05-21T16:41:26+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2024/02/PR.jpg"
-      },
-      {
         "title": "Fight against terrorism will continue with 'full national resolve', asserts CDF Munir",
         "summary": "<p>Chief of Defence Forces (CDF) and Chief of the Army Staff Field Marshal Asim Munir reaffirmed on Thursday that Pakistan’s fight against terrorism “will continue with full national resolve” until “enduring peace and stability” were achieved across the country, the military’s media wing said.</p> <p>CDF Munir made the",
         "url": "https://www.dawn.com/news/2002028/fight-against-terrorism-will-continue-with-full-national-resolve-asserts-cdf-munir",
         "source": "Dawn",
         "date": "2026-05-21T16:32:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "ڈیل سے متعلق ’مثبت اشارے موجود‘ ہیں، پاکستانی حکام آج تہران کا دورہ کریں گے: امریکی وزیر خارجہ",
-        "summary": "امریکی وزیرِ خارجہ روبیو نے کہا ہے کہ امریکہ اور ایران کے درمیان معاہدہ طے پانے کے حوالے سے ’کچھ مثبت اشارے‘ موجود ہیں۔ صحافیوں سے گفتگو کرتے ہوئے انھوں نے بتایا کہ پاکستانی حکام آج تہران کا دورہ کریں گے، اور امید ظاہر کی کہ اس سے پیش رفت میں مدد ملے گی۔",
-        "url": "https://www.bbc.co.uk/urdu/live/ckgpxw04vd3t?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-05-21T16:14:09.184381+00:00",
         "img": ""
       },
       {
@@ -331,14 +371,6 @@
         "img": ""
       },
       {
-        "title": "اسرائیل کا غزہ فلوٹیلا میں شامل سینکڑوں غیر ملکی کارکنان کی ملک بدری کا اعلان، اسرائیلی وزیر دفاع کی ویڈیو پر تنقید",
-        "summary": "اسرائیلی وزیر اتمار بن گویر کی جانب سے غزہ جانے والے فلوٹیلا کارکنوں کے ساتھ رویے پر عالمی سطح پر شدید مذمت سامنے آئی، کئی ممالک نے اسے ناقابل قبول قرار دیا اور صمود فلوٹیلا کے گرفتار کارکنوں کی رہائی کا مطالبہ کیا۔ پاکستان کے فلاحی کارکن سعد ایدھی بھی اس فلوٹیلا پر سوار تھے۔",
-        "url": "https://www.bbc.com/urdu/articles/cz62y75l869o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-05-21T13:52:11+00:00",
-        "img": ""
-      },
-      {
         "title": "Michelle Farooqi turns her gaze to the shifting seasons of Lahore in exhibition Fair. Fierce. Fleeting.",
         "summary": "<p><a href=\"https://images.dawn.com/news/1195323/michelle-farooqi-turns-her-gaze-to-the-shifting-seasons-of-lahore-in-exhibition-fair-fierce-fleeting\">https://images.dawn.com/news/1195323/michelle-farooqi-turns-her-gaze-to-the-shifting-seasons-of-lahore-in-exhibition-fair-fierce-fleeting</a></p>",
         "url": "https://www.dawn.com/news/2002016/michelle-farooqi-turns-her-gaze-to-the-shifting-seasons-of-lahore-in-exhibition-fair-fierce-fleeting",
@@ -352,14 +384,6 @@
         "url": "https://www.bbc.com/urdu/articles/c2l2g0j50nzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
         "date": "2026-05-21T13:39:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "Commander-in-beef: Buffalo nicknamed 'Donald Trump' wins fans in Bangladesh",
-        "summary": "<p>Crowds in Bangladesh are flocking to snap photographs with an unlikely social media star — an albino buffalo with flowing blond hair nicknamed “Donald Trump” due to be sacrificed within days.</p> <p>Owner Zia Uddin Mridha, 38, said his brother named the 700 kilogramme bull over its flowing helmet of hair resembling ",
-        "url": "https://www.dawn.com/news/2002011/commander-in-beef-buffalo-nicknamed-donald-trump-wins-fans-in-bangladesh",
-        "source": "Dawn",
-        "date": "2026-05-21T13:14:50+05:00",
         "img": ""
       },
       {
@@ -424,30 +448,6 @@
         "url": "https://www.dawn.com/news/2001987/trump-administration-pressures-palestinian-un-envoy-to-drop-general-assembly-vice-presidency-bid",
         "source": "Dawn",
         "date": "2026-05-21T09:49:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "Pakistan responds to India at UNSC debate, says it stands exposed by terrorism and disregard for international law",
-        "summary": "<p>Pakistan has responded to claims by India during a meeting of the United Nations Security Council (UNSC), saying that the neighbouring country stands exposed by “terrorism, occupation, aggression, repression and disregard for international law”.</p> <p>The development came during a UNSC debate on the protection of c",
-        "url": "https://www.dawn.com/news/2001985/pakistan-responds-to-india-at-unsc-debate-says-it-stands-exposed-by-terrorism-and-disregard-for-international-law",
-        "source": "Dawn",
-        "date": "2026-05-21T09:43:32+05:00",
-        "img": ""
-      },
-      {
-        "title": "Radio station mistakenly announces death of King Charles",
-        "summary": "<p>LONDON: A former British pirate radio station on Wednesday apologised “for any distress caused” after accidentally announcing the death of King Charles III.</p> <p>The erroneous announcement was made on Tuesday afternoon due to a computer error at its main studio in Maldon in eastern Essex, <em>Radio Caroline</em> s",
-        "url": "https://www.dawn.com/news/2001969/radio-station-mistakenly-announces-death-of-king-charles",
-        "source": "Dawn",
-        "date": "2026-05-21T08:38:04+05:00",
-        "img": ""
-      },
-      {
-        "title": "UK eases sanctions on Russian jet fuel and diesel imports",
-        "summary": "<p>LONDON: British lea­der Keir Starmer defe­n­d­­ed on Wednesday a contentious move to ease san­c­tions on imports of Rus­s­ian jet fuel and diesel as the Middle East war causes prices to spiral.</p> <p>The trade licence, which allows the UK to import Russian crude oil refined in third countries such as India, was hea",
-        "url": "https://www.dawn.com/news/2001971/uk-eases-sanctions-on-russian-jet-fuel-and-diesel-imports",
-        "source": "Dawn",
-        "date": "2026-05-21T08:25:46+05:00",
         "img": ""
       },
       {
@@ -573,6 +573,86 @@
     ],
     "national": [
       {
+        "title": "Patient tests HIV-positive after surgery, triggering probe at Multan’s Nishtar Hospital",
+        "summary": "<p>LAHORE: A high-level inquiry committee has been constituted at Multan’s Nishtar Hospital to investigate allegations of medical negligence after a patient reportedly underwent surgery without mandatory HIV screening and later tested positive for the virus.</p> <p>The incident has triggered concern among healthcare st",
+        "url": "https://www.dawn.com/news/2002063/patient-tests-hiv-positive-after-surgery-triggering-probe-at-multans-nishtar-hospital",
+        "source": "Dawn",
+        "date": "2026-05-21T23:46:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "Researchers develop solar system that turns air moisture into drinking water",
+        "summary": "Researchers develop solar system that turns air moisture into drinking water",
+        "url": "https://arynews.tv/solar-technology-new-water-production-method",
+        "source": "ARY News",
+        "date": "2026-05-21T23:26:30+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Solar-System-making-water.jpg"
+      },
+      {
+        "title": "Salman Atiq makes Pakistan proud on Everest",
+        "summary": "Salman Atiq makes Pakistan proud on Everest",
+        "url": "https://arynews.tv/salman-atiq-makes-pakistan-proud-on-everest",
+        "source": "ARY News",
+        "date": "2026-05-21T23:22:32+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-18.jpg"
+      },
+      {
+        "title": "Educationist who fled occupied Kashmir fights for his life after targeted attack",
+        "summary": "<p>MUZAFFARABAD: A young Kashmiri educationist who had earlier fled occupied Kashmir was critically wounded in a targeted daylight attack in Muzaffarabad on Thursday.</p> <p>The attacker, however, was arrested within half an hour after fleeing through a residential locality along a ravine. The weapon used in the attack",
+        "url": "https://www.dawn.com/news/2002072/educationist-who-fled-occupied-kashmir-fights-for-his-life-after-targeted-attack",
+        "source": "Dawn",
+        "date": "2026-05-21T23:20:36+05:00",
+        "img": ""
+      },
+      {
+        "title": "Sialkot authorities on alert as India opens spillway gates of dam on Chenab River",
+        "summary": "<p>NAROWAL: A warning was issued on Thursday stating that the water level in the Chenab River will rise by more than three metres due to the opening of the spillway gates of the Indian Salal Dam, with a risk of silt flushing at the Marala Barrage.</p> <p>Sialkot Deputy Commissioner Saba Asghar has deployed the Punjab E",
+        "url": "https://www.dawn.com/news/2002064/sialkot-authorities-on-alert-as-india-opens-spillway-gates-of-dam-on-chenab-river",
+        "source": "Dawn",
+        "date": "2026-05-21T23:19:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "23 Fitna-al-Khwarij militants including ring leader killed in KP IBOs: ISPR",
+        "summary": "23 Fitna-al-Khwarij militants including ring leader killed in KP IBOs: ISPR",
+        "url": "https://arynews.tv/fitna-al-khwarij-militants-ring-leader-neutralized-ispr",
+        "source": "ARY News",
+        "date": "2026-05-21T22:51:37+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2022/01/pakistan-army-soldiers-2.jpg"
+      },
+      {
+        "title": "Security forces kill 23 terrorists in multiple Khyber Pakhtunkhwa IBOs: ISPR",
+        "summary": "<p>Security forces have killed 23 terrorists in multiple intelligence-based operations conducted in Khyber Pakhtunkhwa, said the Inter-Services Public Relations (ISPR) in a statement released on Thursday.</p> <p>The military’s media wing said the operations were conducted over the last 48 hours in the areas of Datta Kh",
+        "url": "https://www.dawn.com/news/2002065/security-forces-kill-23-terrorists-in-multiple-khyber-pakhtunkhwa-ibos-ispr",
+        "source": "Dawn",
+        "date": "2026-05-21T22:14:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "Aymen Saleem earns sweet “Papa’s Princess” label after viral moment",
+        "summary": "Aymen Saleem earns sweet “Papa’s Princess” label after viral moment",
+        "url": "https://arynews.tv/aymen-saleem-earns-sweet-papas-princess-label-after-viral-moment",
+        "source": "ARY News",
+        "date": "2026-05-21T22:12:40+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-39.jpg"
+      },
+      {
+        "title": "Rami Malek Steals the Show at Cannes with 8-Minute Standing Ovation for ‘The Man I Love’",
+        "summary": "Rami Malek Steals the Show at Cannes with 8-Minute Standing Ovation for ‘The Man I Love’",
+        "url": "https://arynews.tv/rami-malek-steals-the-show-at-cannes-with-8-minute-standing-ovation-for-the-man-i-love",
+        "source": "ARY News",
+        "date": "2026-05-21T21:44:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Rami-Malek.jpg"
+      },
+      {
+        "title": "Iran tolling Strait of Hormuz would collapse chances of diplomatic deal: Rubio",
+        "summary": "Iran tolling Strait of Hormuz would collapse chances of diplomatic deal: Rubio",
+        "url": "https://arynews.tv/iran-war-marco-rubio-criticize-strait-of-hormuz-tolling",
+        "source": "ARY News",
+        "date": "2026-05-21T21:32:07+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/US-Iran-war-Marco-Rubio.jpg"
+      },
+      {
         "title": "Court issues strict directions in PTI founder £190 million case appeal",
         "summary": "Court issues strict directions in PTI founder £190 million case appeal",
         "url": "https://arynews.tv/imran-khan-190-million-case-update",
@@ -627,6 +707,14 @@
         "source": "ARY News",
         "date": "2026-05-21T20:32:13+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Special-Train.jpg"
+      },
+      {
+        "title": "Pakistan announces issuance of new Rs75 commemorative coin",
+        "summary": "Pakistan announces issuance of new Rs75 commemorative coin",
+        "url": "https://arynews.tv/pakistan-to-issue-rs-75-coin",
+        "source": "ARY News",
+        "date": "2026-05-21T20:32:06+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-96.jpg"
       },
       {
         "title": "Sara Tendulkar Slams Paparazzi for Derogatory Comment",
@@ -749,36 +837,28 @@
         "img": ""
       },
       {
-        "title": "UK Pound to Pakistani Rupee Rate Today- May 21, 2026",
-        "summary": "UK Pound to Pakistani Rupee Rate Today- May 21, 2026",
-        "url": "https://arynews.tv/uk-pound-to-pakistani-rupee-rate-today-may-21-2026",
-        "source": "ARY News",
-        "date": "2026-05-21T18:26:55+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/08/uk-pound-2.jpg"
+        "title": "فیفا ورلڈ کپ؛ میئر نیویارک زہران ممدانی کا شہریوں کیلیے سستے ٹکٹس کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814143/fifa-world-cup-new-york-mayor-announces-cheaper-tickets-for-citizens-after-public-backlash-2814143/",
+        "source": "Express",
+        "date": "2026-05-21T18:37:06+05:00",
+        "img": ""
       },
       {
-        "title": "IMF urges Pakistan to expand tax net, improve revenue collection",
-        "summary": "IMF urges Pakistan to expand tax net, improve revenue collection",
-        "url": "https://arynews.tv/imf-urges-pakistan-to-expand-tax-base",
-        "source": "ARY News",
-        "date": "2026-05-21T18:25:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/IMF-Pakistan.jpg"
+        "title": "کراچی میں 2 دکانداروں کو 25 لاکھ روپے بھتے کی پرچیاں موصول",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814141/two-shopkeepers-in-karachi-receive-rs-25-million-bhatta-calls-2814141/",
+        "source": "Express",
+        "date": "2026-05-21T17:58:08+05:00",
+        "img": ""
       },
       {
-        "title": "Dollar and Other Currency Rates Today in Pakistan – May 21, 2026",
-        "summary": "Dollar and Other Currency Rates Today in Pakistan – May 21, 2026",
-        "url": "https://arynews.tv/dollar-urrency-rates-today-in-pakistan-may-21-2026",
-        "source": "ARY News",
-        "date": "2026-05-21T17:56:26+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/09/currency-rates-dollar.jpg"
-      },
-      {
-        "title": "Man arrested in hit-and-run crash that killed food delivery rider",
-        "summary": "Man arrested in hit-and-run crash that killed food delivery rider",
-        "url": "https://arynews.tv/man-arrested-in-hit-and-run-crash-that-killed-food-delivery-rider",
-        "source": "ARY News",
-        "date": "2026-05-21T17:20:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/food-delivery-rider.jpg"
+        "title": "شعیب اختر کی قومی ٹیم پر سخت تنقید، ون ڈے اور ٹی ٹوئنٹی کی کپتانی کیلیے نئی تجویز دے دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814131/shoaib-akhtar-strongly-criticized-the-national-team-2814131/",
+        "source": "Express",
+        "date": "2026-05-21T17:29:47+05:00",
+        "img": ""
       },
       {
         "title": "FO condemns mistreatment of Gaza flotilla activists following global outcry over video posted by Israeli minister",
@@ -787,30 +867,6 @@
         "source": "Dawn",
         "date": "2026-05-21T17:13:21+05:00",
         "img": ""
-      },
-      {
-        "title": "Iran’s Hormuz authority claims control of waters south of UAE port",
-        "summary": "Iran’s Hormuz authority claims control of waters south of UAE port",
-        "url": "https://arynews.tv/irans-hormuz-authority-claims-control-waters-south-uae-port",
-        "source": "ARY News",
-        "date": "2026-05-21T16:59:48+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Iran-US.jpg"
-      },
-      {
-        "title": "FCC petition seeks restoration of Ali Amin Gandapur as KP CM",
-        "summary": "FCC petition seeks restoration of Ali Amin Gandapur as KP CM",
-        "url": "https://arynews.tv/fcc-petition-seeks-restoration-ali-amin-gandapur-kp-cm",
-        "source": "ARY News",
-        "date": "2026-05-21T16:42:52+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/01/Ali-AMin-Gandapur.png"
-      },
-      {
-        "title": "Pakistan Railways announces special Eid trains",
-        "summary": "Pakistan Railways announces special Eid trains",
-        "url": "https://arynews.tv/pakistan-railways-announces-special-eid-trains",
-        "source": "ARY News",
-        "date": "2026-05-21T16:41:26+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2024/02/PR.jpg"
       },
       {
         "title": "Fight against terrorism will continue with 'full national resolve', asserts CDF Munir",
@@ -893,11 +949,11 @@
         "img": ""
       },
       {
-        "title": "آبنائے ہرمز سیکیورٹی مشن میں نیٹو کی شمولیت نہیں چاہتے؛ فرانس",
+        "title": "ہم مذاکرات چاہتے ہیں، اس فیصلے کو کمزوری نہ سمجھا جائے، قائد حزب اختلاف",
         "summary": "",
-        "url": "https://www.express.pk/story/2814109/france-nato-strait-of-hormuz-security-mission-2814109/",
+        "url": "https://www.express.pk/story/2814142/we-want-dialogue-decision-should-not-weakness-opposition-leader-2814142/",
         "source": "Express",
-        "date": "2026-05-21T13:44:40+05:00",
+        "date": "2026-05-21T13:10:24+00:00",
         "img": ""
       },
       {
@@ -914,6 +970,62 @@
         "url": "https://www.dawn.com/news/2002004/wanted-terrorist-ringleader-among-5-militants-killed-in-north-waziristan-operation-security-sources",
         "source": "Dawn",
         "date": "2026-05-21T13:01:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "آئی ایم ایف سے قسط موصولی کے بعد زرمبادلہ کے ذخائر 22 ارب 58 کروڑ سے تجاوز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814139/imf-tranche-reserve-over-22-billion-580-million-dollar-2814139/",
+        "source": "Express",
+        "date": "2026-05-21T12:57:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "کسی ملک کو آبنائے ہرمز میں ٹول ٹیکس لینے نہیں دیں گے؛ صدر ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814136/us-trump-strait-of-hurmuz-tool-tax-iran-2814136/",
+        "source": "Express",
+        "date": "2026-05-21T12:50:35+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیراعظم شہباز شریف 23 سے 26 مئی تک چین کا سرکاری دورہ کریں گے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814132/prime-minister-shehbaz-sharif-official-visit-china-23-to-26-may-2814132/",
+        "source": "Express",
+        "date": "2026-05-21T12:31:24+00:00",
+        "img": ""
+      },
+      {
+        "title": "شیرافضل کی وزیراعلیٰ کے پی کو ہٹانے کی آئینی درخواست ایک سازش ہے، بیرسٹر گوہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814129/shair-afzal-attempt-chief-minister-remove-constitutional-application-a-conspiracy-barrister-gohar-2814129/",
+        "source": "Express",
+        "date": "2026-05-21T12:18:59+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایران کا افزودہ یورینیئم کس ملک کے پاس جائے گا؟ سپریم لیڈر کا پالیسی بیان سامنے آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814128/iran-supreme-leader-mujtaba-khamenei-uranium-enrichment-us-israel-demand-2814128/",
+        "source": "Express",
+        "date": "2026-05-21T12:14:28+00:00",
+        "img": ""
+      },
+      {
+        "title": "خیبرپختونخوا میں سیکیورٹی فورسز کی کارروائیاں، 48 گھنٹوں میں مزید 23 خوارج ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814127/security-forces-killed-more-23-khawarij-in-kpk-2814127/",
+        "source": "Express",
+        "date": "2026-05-21T11:29:50+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں بس کی ٹکر سے لڑکی جاں بحق، رواں سال ٹریفک حادثات میں اب تک 390 شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814126/karachi-traffic-accident-death-toll-reaches-390-2814126/",
+        "source": "Express",
+        "date": "2026-05-21T11:25:27+00:00",
         "img": ""
       },
       {
@@ -949,6 +1061,14 @@
         "img": ""
       },
       {
+        "title": "پی ٹی آئی نے قائمہ کمیٹیوں میں واپسی پر غور شروع کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814119/pti-begins-considering-return-to-standing-committees-2814119/",
+        "source": "Express",
+        "date": "2026-05-21T10:16:37+00:00",
+        "img": ""
+      },
+      {
         "title": "سائٹ کراچی کی سائٹ لمیٹڈ سے علیحدگی کی تجویز، وزیر صنعت کا خصوصی اجلاس طلب کرنے کا عندیہ",
         "summary": "",
         "url": "https://www.express.pk/story/2814118/site-karachi-proposes-separation-from-site-limited-industries-minister-hints-at-calling-a-special-meeting-2814118/",
@@ -962,14 +1082,6 @@
         "url": "https://www.express.pk/story/2814117/islamabad-high-court-190-million-pound-case-important-order-2814117/",
         "source": "Express",
         "date": "2026-05-21T10:06:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "Landslide-hit Karakoram Highway reopens to traffic in Upper Kohistan",
-        "summary": "<p>MANSEHRA: The Karakoram Highway, which was closed after landslides at three points in Upper Kohistan district, was reopened to traffic on Wednesday evening.</p> <p>“The heavy landslides, which brought huge boulders and rocks onto the highway at three points in our district, have been cleared for light traffic, while",
-        "url": "https://www.dawn.com/news/2001851/landslide-hit-karakoram-highway-reopens-to-traffic-in-upper-kohistan",
-        "source": "Dawn",
-        "date": "2026-05-21T09:44:12+05:00",
         "img": ""
       },
       {
@@ -997,54 +1109,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے ٹیکس ریونیو بڑھانے کیلیے آئی ایم ایف کی شرائط پر عملدرآمد تیز کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814111/govt-imf-conditions-implementation-accelerated-2814111/",
-        "source": "Express",
-        "date": "2026-05-21T09:18:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف وفد مذاکرات مکمل کرکے واپس روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814110/imf-delegation-talks-complete-2814110/",
-        "source": "Express",
-        "date": "2026-05-21T09:02:14+00:00",
-        "img": ""
-      },
-      {
-        "title": "PM Shehbaz's daughter, son-in-law acquitted in another case",
-        "summary": "<p>LAHORE: A special court (central) has acquitted Prime Minister Shehbaz Sharif’s daughter Rabia Imran and son-in-law Ali Imran Yousaf in a case of alleged corruption in the Punjab Power Development Company (PPDC).</p> <p>Judge Ashfaq Ahmed announced the verdict on the acquittal applications and ordered the discharge ",
-        "url": "https://www.dawn.com/news/2001879/pm-shehbazs-daughter-son-in-law-acquitted-in-another-case",
-        "source": "Dawn",
-        "date": "2026-05-21T08:43:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "سپریم جوڈیشل کونسل نے چیف جسٹس یحییٰ آفریدی کیخلاف 5 درخواستیں متفقہ طور پر خارج کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814107/supreme-juidical-coucil-quash-5-applicaitions-against-justice-yahya-afridi-2814107/",
-        "source": "Express",
-        "date": "2026-05-21T08:24:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "شہری کے اغوا کا مقدمہ، منیب بٹ کی ضمانت قبل از گرفتاری منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814106/citizens-kidnapping-muneeb-butt-granted-pre-arrest-bail-2814106/",
-        "source": "Express",
-        "date": "2026-05-21T08:14:35+00:00",
-        "img": ""
-      },
-      {
-        "title": "28 Afghans arrested for illegal stay in Gwadar",
-        "summary": "<p>GWADAR: Security forces on Wednesday arrested 28 Afghan nationals for illegally staying in the Sangai area of Kech district. The arrests were made during an intelligence-based operation.</p> <p>According to police, these Afghans were staying in the area without legal documents.</p> <p>“We have arrested 28 Afghans wh",
-        "url": "https://www.dawn.com/news/2001936/28-afghans-arrested-for-illegal-stay-in-gwadar",
-        "source": "Dawn",
-        "date": "2026-05-21T08:13:41+05:00",
-        "img": ""
-      },
-      {
         "title": "Delays by Imran’s counsel in £190m graft case irk IHC",
         "summary": "<p><strong>• Justice Dogar warns PTI founder’s lawyer that ‘law will take its course’ if arguments on appeals not presented at next hearing<br>• Bench orders jail authorities to facilitate signing of powers of attorney by ex-PM and his wife, adjourns matter indefinitely</strong></p> <p>ISLAMABAD: The Islamabad High Cou",
         "url": "https://www.dawn.com/news/2001941/delays-by-imrans-counsel-in-ps190m-graft-case-irk-ihc",
@@ -1061,30 +1125,6 @@
         "img": ""
       },
       {
-        "title": "ایران توقع سے زیادہ تیزی سے جنگی قوت بحال کر رہا ہے، چین کی مدد شامل ہے؛ انٹیلی جنس رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814105/iran-rebuilding-much-faster-than-expected-cnn-claim-2814105/",
-        "source": "Express",
-        "date": "2026-05-21T07:56:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "فخر ہے دنیا چین کے بغیر ترقی نہیں کرسکتی، وزیراعظم شہباز شریف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814104/proud-world-development-china-prime-minister-shehbaz-2814104/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان چین کے بنیادی قومی مفادات اور ون چائنا پالیسی کی حمایت کرتا ہے، صدر زرداری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814103/pakistan-supports-chinas-core-national-interests-and-one-china-policy-president-zardari-2814103/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
         "title": "NFC reform urged to keep population from burgeoning",
         "summary": "<p><strong>• Lawmakers push to end over-reliance on population for funding; suggest tying resource distribution to human development metrics<br>• Demographic dividend has become a demographic drag, says Sherry<br>• UN official says family planning a ‘sound economic investment’</strong></p> <p>ISLAMABAD: Lawmakers acros",
         "url": "https://www.dawn.com/news/2001922/nfc-reform-urged-to-keep-population-from-burgeoning",
@@ -1098,22 +1138,6 @@
         "url": "https://www.dawn.com/news/2001929/president-premier-hail-chinas-role-in-regional-peace",
         "source": "Dawn",
         "date": "2026-05-21T07:38:51+05:00",
-        "img": ""
-      },
-      {
-        "title": "شیر افضل نے گنڈاپور کو بطور وزیراعلیٰ بحال کرنے کیلیے آئینی عدالت میں درخواست دائر کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814102/sher-afzal-files-petition-in-constitutional-court-to-reinstate-gandapur-as-cm-2814102/",
-        "source": "Express",
-        "date": "2026-05-21T07:08:43+00:00",
-        "img": ""
-      },
-      {
-        "title": "18 militants killed in Kurram clash",
-        "summary": "<p>KURRAM: Eighteen militants were killed in a clash between two rival groups in Manato Kamran Kallay area of central Kurram, according to police sources.</p> <p>They said that the fighting broke out between the groups of commanders Kazim and Mumtaz Imti. </p> <p>They said Commander Mumtaz Imti was also killed in the c",
-        "url": "https://www.dawn.com/news/2001854/18-militants-killed-in-kurram-clash",
-        "source": "Dawn",
-        "date": "2026-05-21T07:06:05+05:00",
         "img": ""
       },
       {
@@ -1141,30 +1165,6 @@
         "img": ""
       },
       {
-        "title": "کراچی بی آر ٹی ریڈ لائن لاٹ 2 منصوبے کی تعمیر تیز کرنے کی منظوری دے دی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814101/approval-granted-to-accelerate-construction-of-karachi-brt-red-line-lot-2-project-2814101/",
-        "source": "Express",
-        "date": "2026-05-21T07:03:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان اور آذربائیجان کا مختلف شعبوں میں وسیع اشتراک پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814099/pakistan-azerbaijan-agree-on-extensive-cooperation-in-various-sectors-2814099/",
-        "source": "Express",
-        "date": "2026-05-21T06:52:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ خاتون پراسرار طور پر گھر کے زیر زمین پانی کے ٹینک میں ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814098/karachi-woman-mysteriously-dies-after-drowning-in-underground-water-tank-at-home-2814098/",
-        "source": "Express",
-        "date": "2026-05-21T06:41:54+00:00",
-        "img": ""
-      },
-      {
         "title": "Pakistan, China share 'converging vision' on regional and global issues, says DPM Dar",
         "summary": "<p>Deputy Prime Minister and Foreign Minister Ishaq Dar on Wednesday said Islamabad and Beijing shared a “converging vision” on regional and global matters.</p> <p>“Pakistan and China share a converging vision on regional and global issues,” said Dar while addressing the Senate.</p> <p>A Chinese delegation was present ",
         "url": "https://www.dawn.com/news/2001761/pakistan-china-share-converging-vision-on-regional-and-global-issues-says-dpm-dar",
@@ -1174,6 +1174,86 @@
       }
     ],
     "kpk": [
+      {
+        "title": "Patient tests HIV-positive after surgery, triggering probe at Multan’s Nishtar Hospital",
+        "summary": "<p>LAHORE: A high-level inquiry committee has been constituted at Multan’s Nishtar Hospital to investigate allegations of medical negligence after a patient reportedly underwent surgery without mandatory HIV screening and later tested positive for the virus.</p> <p>The incident has triggered concern among healthcare st",
+        "url": "https://www.dawn.com/news/2002063/patient-tests-hiv-positive-after-surgery-triggering-probe-at-multans-nishtar-hospital",
+        "source": "Dawn",
+        "date": "2026-05-21T23:46:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "Researchers develop solar system that turns air moisture into drinking water",
+        "summary": "Researchers develop solar system that turns air moisture into drinking water",
+        "url": "https://arynews.tv/solar-technology-new-water-production-method",
+        "source": "ARY News",
+        "date": "2026-05-21T23:26:30+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Solar-System-making-water.jpg"
+      },
+      {
+        "title": "Salman Atiq makes Pakistan proud on Everest",
+        "summary": "Salman Atiq makes Pakistan proud on Everest",
+        "url": "https://arynews.tv/salman-atiq-makes-pakistan-proud-on-everest",
+        "source": "ARY News",
+        "date": "2026-05-21T23:22:32+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-18.jpg"
+      },
+      {
+        "title": "Educationist who fled occupied Kashmir fights for his life after targeted attack",
+        "summary": "<p>MUZAFFARABAD: A young Kashmiri educationist who had earlier fled occupied Kashmir was critically wounded in a targeted daylight attack in Muzaffarabad on Thursday.</p> <p>The attacker, however, was arrested within half an hour after fleeing through a residential locality along a ravine. The weapon used in the attack",
+        "url": "https://www.dawn.com/news/2002072/educationist-who-fled-occupied-kashmir-fights-for-his-life-after-targeted-attack",
+        "source": "Dawn",
+        "date": "2026-05-21T23:20:36+05:00",
+        "img": ""
+      },
+      {
+        "title": "Sialkot authorities on alert as India opens spillway gates of dam on Chenab River",
+        "summary": "<p>NAROWAL: A warning was issued on Thursday stating that the water level in the Chenab River will rise by more than three metres due to the opening of the spillway gates of the Indian Salal Dam, with a risk of silt flushing at the Marala Barrage.</p> <p>Sialkot Deputy Commissioner Saba Asghar has deployed the Punjab E",
+        "url": "https://www.dawn.com/news/2002064/sialkot-authorities-on-alert-as-india-opens-spillway-gates-of-dam-on-chenab-river",
+        "source": "Dawn",
+        "date": "2026-05-21T23:19:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "23 Fitna-al-Khwarij militants including ring leader killed in KP IBOs: ISPR",
+        "summary": "23 Fitna-al-Khwarij militants including ring leader killed in KP IBOs: ISPR",
+        "url": "https://arynews.tv/fitna-al-khwarij-militants-ring-leader-neutralized-ispr",
+        "source": "ARY News",
+        "date": "2026-05-21T22:51:37+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2022/01/pakistan-army-soldiers-2.jpg"
+      },
+      {
+        "title": "Security forces kill 23 terrorists in multiple Khyber Pakhtunkhwa IBOs: ISPR",
+        "summary": "<p>Security forces have killed 23 terrorists in multiple intelligence-based operations conducted in Khyber Pakhtunkhwa, said the Inter-Services Public Relations (ISPR) in a statement released on Thursday.</p> <p>The military’s media wing said the operations were conducted over the last 48 hours in the areas of Datta Kh",
+        "url": "https://www.dawn.com/news/2002065/security-forces-kill-23-terrorists-in-multiple-khyber-pakhtunkhwa-ibos-ispr",
+        "source": "Dawn",
+        "date": "2026-05-21T22:14:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "Aymen Saleem earns sweet “Papa’s Princess” label after viral moment",
+        "summary": "Aymen Saleem earns sweet “Papa’s Princess” label after viral moment",
+        "url": "https://arynews.tv/aymen-saleem-earns-sweet-papas-princess-label-after-viral-moment",
+        "source": "ARY News",
+        "date": "2026-05-21T22:12:40+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-39.jpg"
+      },
+      {
+        "title": "Rami Malek Steals the Show at Cannes with 8-Minute Standing Ovation for ‘The Man I Love’",
+        "summary": "Rami Malek Steals the Show at Cannes with 8-Minute Standing Ovation for ‘The Man I Love’",
+        "url": "https://arynews.tv/rami-malek-steals-the-show-at-cannes-with-8-minute-standing-ovation-for-the-man-i-love",
+        "source": "ARY News",
+        "date": "2026-05-21T21:44:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Rami-Malek.jpg"
+      },
+      {
+        "title": "Iran tolling Strait of Hormuz would collapse chances of diplomatic deal: Rubio",
+        "summary": "Iran tolling Strait of Hormuz would collapse chances of diplomatic deal: Rubio",
+        "url": "https://arynews.tv/iran-war-marco-rubio-criticize-strait-of-hormuz-tolling",
+        "source": "ARY News",
+        "date": "2026-05-21T21:32:07+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/US-Iran-war-Marco-Rubio.jpg"
+      },
       {
         "title": "Court issues strict directions in PTI founder £190 million case appeal",
         "summary": "Court issues strict directions in PTI founder £190 million case appeal",
@@ -1229,6 +1309,14 @@
         "source": "ARY News",
         "date": "2026-05-21T20:32:13+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Special-Train.jpg"
+      },
+      {
+        "title": "Pakistan announces issuance of new Rs75 commemorative coin",
+        "summary": "Pakistan announces issuance of new Rs75 commemorative coin",
+        "url": "https://arynews.tv/pakistan-to-issue-rs-75-coin",
+        "source": "ARY News",
+        "date": "2026-05-21T20:32:06+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-96.jpg"
       },
       {
         "title": "Sara Tendulkar Slams Paparazzi for Derogatory Comment",
@@ -1351,36 +1439,28 @@
         "img": ""
       },
       {
-        "title": "UK Pound to Pakistani Rupee Rate Today- May 21, 2026",
-        "summary": "UK Pound to Pakistani Rupee Rate Today- May 21, 2026",
-        "url": "https://arynews.tv/uk-pound-to-pakistani-rupee-rate-today-may-21-2026",
-        "source": "ARY News",
-        "date": "2026-05-21T18:26:55+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/08/uk-pound-2.jpg"
+        "title": "فیفا ورلڈ کپ؛ میئر نیویارک زہران ممدانی کا شہریوں کیلیے سستے ٹکٹس کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814143/fifa-world-cup-new-york-mayor-announces-cheaper-tickets-for-citizens-after-public-backlash-2814143/",
+        "source": "Express",
+        "date": "2026-05-21T18:37:06+05:00",
+        "img": ""
       },
       {
-        "title": "IMF urges Pakistan to expand tax net, improve revenue collection",
-        "summary": "IMF urges Pakistan to expand tax net, improve revenue collection",
-        "url": "https://arynews.tv/imf-urges-pakistan-to-expand-tax-base",
-        "source": "ARY News",
-        "date": "2026-05-21T18:25:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/IMF-Pakistan.jpg"
+        "title": "کراچی میں 2 دکانداروں کو 25 لاکھ روپے بھتے کی پرچیاں موصول",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814141/two-shopkeepers-in-karachi-receive-rs-25-million-bhatta-calls-2814141/",
+        "source": "Express",
+        "date": "2026-05-21T17:58:08+05:00",
+        "img": ""
       },
       {
-        "title": "Dollar and Other Currency Rates Today in Pakistan – May 21, 2026",
-        "summary": "Dollar and Other Currency Rates Today in Pakistan – May 21, 2026",
-        "url": "https://arynews.tv/dollar-urrency-rates-today-in-pakistan-may-21-2026",
-        "source": "ARY News",
-        "date": "2026-05-21T17:56:26+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/09/currency-rates-dollar.jpg"
-      },
-      {
-        "title": "Man arrested in hit-and-run crash that killed food delivery rider",
-        "summary": "Man arrested in hit-and-run crash that killed food delivery rider",
-        "url": "https://arynews.tv/man-arrested-in-hit-and-run-crash-that-killed-food-delivery-rider",
-        "source": "ARY News",
-        "date": "2026-05-21T17:20:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/food-delivery-rider.jpg"
+        "title": "شعیب اختر کی قومی ٹیم پر سخت تنقید، ون ڈے اور ٹی ٹوئنٹی کی کپتانی کیلیے نئی تجویز دے دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814131/shoaib-akhtar-strongly-criticized-the-national-team-2814131/",
+        "source": "Express",
+        "date": "2026-05-21T17:29:47+05:00",
+        "img": ""
       },
       {
         "title": "FO condemns mistreatment of Gaza flotilla activists following global outcry over video posted by Israeli minister",
@@ -1389,30 +1469,6 @@
         "source": "Dawn",
         "date": "2026-05-21T17:13:21+05:00",
         "img": ""
-      },
-      {
-        "title": "Iran’s Hormuz authority claims control of waters south of UAE port",
-        "summary": "Iran’s Hormuz authority claims control of waters south of UAE port",
-        "url": "https://arynews.tv/irans-hormuz-authority-claims-control-waters-south-uae-port",
-        "source": "ARY News",
-        "date": "2026-05-21T16:59:48+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Iran-US.jpg"
-      },
-      {
-        "title": "FCC petition seeks restoration of Ali Amin Gandapur as KP CM",
-        "summary": "FCC petition seeks restoration of Ali Amin Gandapur as KP CM",
-        "url": "https://arynews.tv/fcc-petition-seeks-restoration-ali-amin-gandapur-kp-cm",
-        "source": "ARY News",
-        "date": "2026-05-21T16:42:52+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/01/Ali-AMin-Gandapur.png"
-      },
-      {
-        "title": "Pakistan Railways announces special Eid trains",
-        "summary": "Pakistan Railways announces special Eid trains",
-        "url": "https://arynews.tv/pakistan-railways-announces-special-eid-trains",
-        "source": "ARY News",
-        "date": "2026-05-21T16:41:26+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2024/02/PR.jpg"
       },
       {
         "title": "Fight against terrorism will continue with 'full national resolve', asserts CDF Munir",
@@ -1492,14 +1548,6 @@
         "url": "https://www.dawn.com/news/2002017/at-breakfast-meeting-hosted-by-pm-aga-khan-expresses-desire-to-continue-cooperation-with-pakistan",
         "source": "Dawn",
         "date": "2026-05-21T14:01:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز سیکیورٹی مشن میں نیٹو کی شمولیت نہیں چاہتے؛ فرانس",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814109/france-nato-strait-of-hormuz-security-mission-2814109/",
-        "source": "Express",
-        "date": "2026-05-21T13:44:40+05:00",
         "img": ""
       },
       {
@@ -1519,6 +1567,14 @@
         "img": ""
       },
       {
+        "title": "ہم مذاکرات چاہتے ہیں، اس فیصلے کو کمزوری نہ سمجھا جائے، قائد حزب اختلاف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814142/we-want-dialogue-decision-should-not-weakness-opposition-leader-2814142/",
+        "source": "Express",
+        "date": "2026-05-21T13:10:24+00:00",
+        "img": ""
+      },
+      {
         "title": "Punjab govt imposes Section 144 around airports, PAF bases for 30 days",
         "summary": "<p>The Punjab government on Thursday banned multiple activities near airports and Pakistan Air Force (PAF) bases, which may pose a “serious risk” to flight operations and aviation assets, under Section 144 for 30 days.</p> <p>A notification issued by the Home Department dated May 19 said that, according to reliable sou",
         "url": "https://www.dawn.com/news/2001994/punjab-govt-imposes-section-144-around-airports-paf-bases-for-30-days",
@@ -1532,6 +1588,62 @@
         "url": "https://www.dawn.com/news/2002004/wanted-terrorist-ringleader-among-5-militants-killed-in-north-waziristan-operation-security-sources",
         "source": "Dawn",
         "date": "2026-05-21T13:01:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "آئی ایم ایف سے قسط موصولی کے بعد زرمبادلہ کے ذخائر 22 ارب 58 کروڑ سے تجاوز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814139/imf-tranche-reserve-over-22-billion-580-million-dollar-2814139/",
+        "source": "Express",
+        "date": "2026-05-21T12:57:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "کسی ملک کو آبنائے ہرمز میں ٹول ٹیکس لینے نہیں دیں گے؛ صدر ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814136/us-trump-strait-of-hurmuz-tool-tax-iran-2814136/",
+        "source": "Express",
+        "date": "2026-05-21T12:50:35+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیراعظم شہباز شریف 23 سے 26 مئی تک چین کا سرکاری دورہ کریں گے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814132/prime-minister-shehbaz-sharif-official-visit-china-23-to-26-may-2814132/",
+        "source": "Express",
+        "date": "2026-05-21T12:31:24+00:00",
+        "img": ""
+      },
+      {
+        "title": "شیرافضل کی وزیراعلیٰ کے پی کو ہٹانے کی آئینی درخواست ایک سازش ہے، بیرسٹر گوہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814129/shair-afzal-attempt-chief-minister-remove-constitutional-application-a-conspiracy-barrister-gohar-2814129/",
+        "source": "Express",
+        "date": "2026-05-21T12:18:59+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایران کا افزودہ یورینیئم کس ملک کے پاس جائے گا؟ سپریم لیڈر کا پالیسی بیان سامنے آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814128/iran-supreme-leader-mujtaba-khamenei-uranium-enrichment-us-israel-demand-2814128/",
+        "source": "Express",
+        "date": "2026-05-21T12:14:28+00:00",
+        "img": ""
+      },
+      {
+        "title": "خیبرپختونخوا میں سیکیورٹی فورسز کی کارروائیاں، 48 گھنٹوں میں مزید 23 خوارج ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814127/security-forces-killed-more-23-khawarij-in-kpk-2814127/",
+        "source": "Express",
+        "date": "2026-05-21T11:29:50+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں بس کی ٹکر سے لڑکی جاں بحق، رواں سال ٹریفک حادثات میں اب تک 390 شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814126/karachi-traffic-accident-death-toll-reaches-390-2814126/",
+        "source": "Express",
+        "date": "2026-05-21T11:25:27+00:00",
         "img": ""
       },
       {
@@ -1567,6 +1679,14 @@
         "img": ""
       },
       {
+        "title": "پی ٹی آئی نے قائمہ کمیٹیوں میں واپسی پر غور شروع کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814119/pti-begins-considering-return-to-standing-committees-2814119/",
+        "source": "Express",
+        "date": "2026-05-21T10:16:37+00:00",
+        "img": ""
+      },
+      {
         "title": "سائٹ کراچی کی سائٹ لمیٹڈ سے علیحدگی کی تجویز، وزیر صنعت کا خصوصی اجلاس طلب کرنے کا عندیہ",
         "summary": "",
         "url": "https://www.express.pk/story/2814118/site-karachi-proposes-separation-from-site-limited-industries-minister-hints-at-calling-a-special-meeting-2814118/",
@@ -1580,14 +1700,6 @@
         "url": "https://www.express.pk/story/2814117/islamabad-high-court-190-million-pound-case-important-order-2814117/",
         "source": "Express",
         "date": "2026-05-21T10:06:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "Landslide-hit Karakoram Highway reopens to traffic in Upper Kohistan",
-        "summary": "<p>MANSEHRA: The Karakoram Highway, which was closed after landslides at three points in Upper Kohistan district, was reopened to traffic on Wednesday evening.</p> <p>“The heavy landslides, which brought huge boulders and rocks onto the highway at three points in our district, have been cleared for light traffic, while",
-        "url": "https://www.dawn.com/news/2001851/landslide-hit-karakoram-highway-reopens-to-traffic-in-upper-kohistan",
-        "source": "Dawn",
-        "date": "2026-05-21T09:44:12+05:00",
         "img": ""
       },
       {
@@ -1615,27 +1727,11 @@
         "img": ""
       },
       {
-        "title": "حکومت نے ٹیکس ریونیو بڑھانے کیلیے آئی ایم ایف کی شرائط پر عملدرآمد تیز کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814111/govt-imf-conditions-implementation-accelerated-2814111/",
-        "source": "Express",
-        "date": "2026-05-21T09:18:24+00:00",
-        "img": ""
-      },
-      {
         "title": "Pakistan Criticised India at UNSC Over Regional Tensions and Policy Concerns",
         "summary": "Pakistan criticised India at UNSC during a recent session of the United Nations Security Council, raising strong concerns over regional tensions and India’s policies. The statement came as diplomatic exchanges between the two countries continued to draw global attention. In its remarks, Pakistan criticised India at UNS",
         "url": "https://khybernews.tv/pakistan-criticised-india-at-unsc-over-regional-tensions-and-policy-concerns/",
         "source": "Khyber News",
         "date": "2026-05-21T09:04:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف وفد مذاکرات مکمل کرکے واپس روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814110/imf-delegation-talks-complete-2814110/",
-        "source": "Express",
-        "date": "2026-05-21T09:02:14+00:00",
         "img": ""
       },
       {
@@ -1655,38 +1751,6 @@
         "img": ""
       },
       {
-        "title": "PM Shehbaz's daughter, son-in-law acquitted in another case",
-        "summary": "<p>LAHORE: A special court (central) has acquitted Prime Minister Shehbaz Sharif’s daughter Rabia Imran and son-in-law Ali Imran Yousaf in a case of alleged corruption in the Punjab Power Development Company (PPDC).</p> <p>Judge Ashfaq Ahmed announced the verdict on the acquittal applications and ordered the discharge ",
-        "url": "https://www.dawn.com/news/2001879/pm-shehbazs-daughter-son-in-law-acquitted-in-another-case",
-        "source": "Dawn",
-        "date": "2026-05-21T08:43:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "سپریم جوڈیشل کونسل نے چیف جسٹس یحییٰ آفریدی کیخلاف 5 درخواستیں متفقہ طور پر خارج کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814107/supreme-juidical-coucil-quash-5-applicaitions-against-justice-yahya-afridi-2814107/",
-        "source": "Express",
-        "date": "2026-05-21T08:24:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "شہری کے اغوا کا مقدمہ، منیب بٹ کی ضمانت قبل از گرفتاری منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814106/citizens-kidnapping-muneeb-butt-granted-pre-arrest-bail-2814106/",
-        "source": "Express",
-        "date": "2026-05-21T08:14:35+00:00",
-        "img": ""
-      },
-      {
-        "title": "28 Afghans arrested for illegal stay in Gwadar",
-        "summary": "<p>GWADAR: Security forces on Wednesday arrested 28 Afghan nationals for illegally staying in the Sangai area of Kech district. The arrests were made during an intelligence-based operation.</p> <p>According to police, these Afghans were staying in the area without legal documents.</p> <p>“We have arrested 28 Afghans wh",
-        "url": "https://www.dawn.com/news/2001936/28-afghans-arrested-for-illegal-stay-in-gwadar",
-        "source": "Dawn",
-        "date": "2026-05-21T08:13:41+05:00",
-        "img": ""
-      },
-      {
         "title": "Delays by Imran’s counsel in £190m graft case irk IHC",
         "summary": "<p><strong>• Justice Dogar warns PTI founder’s lawyer that ‘law will take its course’ if arguments on appeals not presented at next hearing<br>• Bench orders jail authorities to facilitate signing of powers of attorney by ex-PM and his wife, adjourns matter indefinitely</strong></p> <p>ISLAMABAD: The Islamabad High Cou",
         "url": "https://www.dawn.com/news/2001941/delays-by-imrans-counsel-in-ps190m-graft-case-irk-ihc",
@@ -1703,30 +1767,6 @@
         "img": ""
       },
       {
-        "title": "ایران توقع سے زیادہ تیزی سے جنگی قوت بحال کر رہا ہے، چین کی مدد شامل ہے؛ انٹیلی جنس رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814105/iran-rebuilding-much-faster-than-expected-cnn-claim-2814105/",
-        "source": "Express",
-        "date": "2026-05-21T07:56:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "فخر ہے دنیا چین کے بغیر ترقی نہیں کرسکتی، وزیراعظم شہباز شریف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814104/proud-world-development-china-prime-minister-shehbaz-2814104/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان چین کے بنیادی قومی مفادات اور ون چائنا پالیسی کی حمایت کرتا ہے، صدر زرداری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814103/pakistan-supports-chinas-core-national-interests-and-one-china-policy-president-zardari-2814103/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
         "title": "NFC reform urged to keep population from burgeoning",
         "summary": "<p><strong>• Lawmakers push to end over-reliance on population for funding; suggest tying resource distribution to human development metrics<br>• Demographic dividend has become a demographic drag, says Sherry<br>• UN official says family planning a ‘sound economic investment’</strong></p> <p>ISLAMABAD: Lawmakers acros",
         "url": "https://www.dawn.com/news/2001922/nfc-reform-urged-to-keep-population-from-burgeoning",
@@ -1740,22 +1780,6 @@
         "url": "https://www.dawn.com/news/2001929/president-premier-hail-chinas-role-in-regional-peace",
         "source": "Dawn",
         "date": "2026-05-21T07:38:51+05:00",
-        "img": ""
-      },
-      {
-        "title": "شیر افضل نے گنڈاپور کو بطور وزیراعلیٰ بحال کرنے کیلیے آئینی عدالت میں درخواست دائر کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814102/sher-afzal-files-petition-in-constitutional-court-to-reinstate-gandapur-as-cm-2814102/",
-        "source": "Express",
-        "date": "2026-05-21T07:08:43+00:00",
-        "img": ""
-      },
-      {
-        "title": "18 militants killed in Kurram clash",
-        "summary": "<p>KURRAM: Eighteen militants were killed in a clash between two rival groups in Manato Kamran Kallay area of central Kurram, according to police sources.</p> <p>They said that the fighting broke out between the groups of commanders Kazim and Mumtaz Imti. </p> <p>They said Commander Mumtaz Imti was also killed in the c",
-        "url": "https://www.dawn.com/news/2001854/18-militants-killed-in-kurram-clash",
-        "source": "Dawn",
-        "date": "2026-05-21T07:06:05+05:00",
         "img": ""
       },
       {
@@ -1780,30 +1804,6 @@
         "url": "https://www.dawn.com/news/2001865/ihc-declines-immediate-relief-to-owners-of-one-constitution-avenue-apartments",
         "source": "Dawn",
         "date": "2026-05-21T07:05:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی بی آر ٹی ریڈ لائن لاٹ 2 منصوبے کی تعمیر تیز کرنے کی منظوری دے دی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814101/approval-granted-to-accelerate-construction-of-karachi-brt-red-line-lot-2-project-2814101/",
-        "source": "Express",
-        "date": "2026-05-21T07:03:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان اور آذربائیجان کا مختلف شعبوں میں وسیع اشتراک پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814099/pakistan-azerbaijan-agree-on-extensive-cooperation-in-various-sectors-2814099/",
-        "source": "Express",
-        "date": "2026-05-21T06:52:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ خاتون پراسرار طور پر گھر کے زیر زمین پانی کے ٹینک میں ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814098/karachi-woman-mysteriously-dies-after-drowning-in-underground-water-tank-at-home-2814098/",
-        "source": "Express",
-        "date": "2026-05-21T06:41:54+00:00",
         "img": ""
       },
       {
@@ -1857,6 +1857,38 @@
     ],
     "punjab": [
       {
+        "title": "Patient tests HIV-positive after surgery, triggering probe at Multan’s Nishtar Hospital",
+        "summary": "<p>LAHORE: A high-level inquiry committee has been constituted at Multan’s Nishtar Hospital to investigate allegations of medical negligence after a patient reportedly underwent surgery without mandatory HIV screening and later tested positive for the virus.</p> <p>The incident has triggered concern among healthcare st",
+        "url": "https://www.dawn.com/news/2002063/patient-tests-hiv-positive-after-surgery-triggering-probe-at-multans-nishtar-hospital",
+        "source": "Dawn",
+        "date": "2026-05-21T23:46:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "Educationist who fled occupied Kashmir fights for his life after targeted attack",
+        "summary": "<p>MUZAFFARABAD: A young Kashmiri educationist who had earlier fled occupied Kashmir was critically wounded in a targeted daylight attack in Muzaffarabad on Thursday.</p> <p>The attacker, however, was arrested within half an hour after fleeing through a residential locality along a ravine. The weapon used in the attack",
+        "url": "https://www.dawn.com/news/2002072/educationist-who-fled-occupied-kashmir-fights-for-his-life-after-targeted-attack",
+        "source": "Dawn",
+        "date": "2026-05-21T23:20:36+05:00",
+        "img": ""
+      },
+      {
+        "title": "Sialkot authorities on alert as India opens spillway gates of dam on Chenab River",
+        "summary": "<p>NAROWAL: A warning was issued on Thursday stating that the water level in the Chenab River will rise by more than three metres due to the opening of the spillway gates of the Indian Salal Dam, with a risk of silt flushing at the Marala Barrage.</p> <p>Sialkot Deputy Commissioner Saba Asghar has deployed the Punjab E",
+        "url": "https://www.dawn.com/news/2002064/sialkot-authorities-on-alert-as-india-opens-spillway-gates-of-dam-on-chenab-river",
+        "source": "Dawn",
+        "date": "2026-05-21T23:19:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "Security forces kill 23 terrorists in multiple Khyber Pakhtunkhwa IBOs: ISPR",
+        "summary": "<p>Security forces have killed 23 terrorists in multiple intelligence-based operations conducted in Khyber Pakhtunkhwa, said the Inter-Services Public Relations (ISPR) in a statement released on Thursday.</p> <p>The military’s media wing said the operations were conducted over the last 48 hours in the areas of Datta Kh",
+        "url": "https://www.dawn.com/news/2002065/security-forces-kill-23-terrorists-in-multiple-khyber-pakhtunkhwa-ibos-ispr",
+        "source": "Dawn",
+        "date": "2026-05-21T22:14:57+05:00",
+        "img": ""
+      },
+      {
         "title": "PM Shehbaz lauds ‘steadfast’ Pak-China friendship, says Beijing supported Islamabad in ‘unwavering fashion’",
         "summary": "<p>Prime Minister Shehbaz Sharif on Thursday lauded the “steadfast” Pakistan–China friendship, maintaining that Beijing has supported Islamabad in an “unwavering fashion unmatched in the annals of history”.</p> <p>The premier was addressing a ceremony in Islamabad to mark the 75th anniversary of Pakistan–China diplomat",
         "url": "https://www.dawn.com/news/2002044/pm-shehbaz-lauds-steadfast-pak-china-friendship-says-beijing-supported-islamabad-in-unwavering-fashion",
@@ -1886,6 +1918,30 @@
         "url": "https://www.dawn.com/news/2002038/quadcopter-attack-kills-two-schoolchildren-in-kps-bajaur",
         "source": "Dawn",
         "date": "2026-05-21T18:37:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "فیفا ورلڈ کپ؛ میئر نیویارک زہران ممدانی کا شہریوں کیلیے سستے ٹکٹس کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814143/fifa-world-cup-new-york-mayor-announces-cheaper-tickets-for-citizens-after-public-backlash-2814143/",
+        "source": "Express",
+        "date": "2026-05-21T18:37:06+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں 2 دکانداروں کو 25 لاکھ روپے بھتے کی پرچیاں موصول",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814141/two-shopkeepers-in-karachi-receive-rs-25-million-bhatta-calls-2814141/",
+        "source": "Express",
+        "date": "2026-05-21T17:58:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "شعیب اختر کی قومی ٹیم پر سخت تنقید، ون ڈے اور ٹی ٹوئنٹی کی کپتانی کیلیے نئی تجویز دے دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814131/shoaib-akhtar-strongly-criticized-the-national-team-2814131/",
+        "source": "Express",
+        "date": "2026-05-21T17:29:47+05:00",
         "img": ""
       },
       {
@@ -1977,11 +2033,11 @@
         "img": ""
       },
       {
-        "title": "آبنائے ہرمز سیکیورٹی مشن میں نیٹو کی شمولیت نہیں چاہتے؛ فرانس",
+        "title": "ہم مذاکرات چاہتے ہیں، اس فیصلے کو کمزوری نہ سمجھا جائے، قائد حزب اختلاف",
         "summary": "",
-        "url": "https://www.express.pk/story/2814109/france-nato-strait-of-hormuz-security-mission-2814109/",
+        "url": "https://www.express.pk/story/2814142/we-want-dialogue-decision-should-not-weakness-opposition-leader-2814142/",
         "source": "Express",
-        "date": "2026-05-21T13:44:40+05:00",
+        "date": "2026-05-21T13:10:24+00:00",
         "img": ""
       },
       {
@@ -1998,6 +2054,62 @@
         "url": "https://www.dawn.com/news/2002004/wanted-terrorist-ringleader-among-5-militants-killed-in-north-waziristan-operation-security-sources",
         "source": "Dawn",
         "date": "2026-05-21T13:01:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "آئی ایم ایف سے قسط موصولی کے بعد زرمبادلہ کے ذخائر 22 ارب 58 کروڑ سے تجاوز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814139/imf-tranche-reserve-over-22-billion-580-million-dollar-2814139/",
+        "source": "Express",
+        "date": "2026-05-21T12:57:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "کسی ملک کو آبنائے ہرمز میں ٹول ٹیکس لینے نہیں دیں گے؛ صدر ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814136/us-trump-strait-of-hurmuz-tool-tax-iran-2814136/",
+        "source": "Express",
+        "date": "2026-05-21T12:50:35+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیراعظم شہباز شریف 23 سے 26 مئی تک چین کا سرکاری دورہ کریں گے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814132/prime-minister-shehbaz-sharif-official-visit-china-23-to-26-may-2814132/",
+        "source": "Express",
+        "date": "2026-05-21T12:31:24+00:00",
+        "img": ""
+      },
+      {
+        "title": "شیرافضل کی وزیراعلیٰ کے پی کو ہٹانے کی آئینی درخواست ایک سازش ہے، بیرسٹر گوہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814129/shair-afzal-attempt-chief-minister-remove-constitutional-application-a-conspiracy-barrister-gohar-2814129/",
+        "source": "Express",
+        "date": "2026-05-21T12:18:59+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایران کا افزودہ یورینیئم کس ملک کے پاس جائے گا؟ سپریم لیڈر کا پالیسی بیان سامنے آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814128/iran-supreme-leader-mujtaba-khamenei-uranium-enrichment-us-israel-demand-2814128/",
+        "source": "Express",
+        "date": "2026-05-21T12:14:28+00:00",
+        "img": ""
+      },
+      {
+        "title": "خیبرپختونخوا میں سیکیورٹی فورسز کی کارروائیاں، 48 گھنٹوں میں مزید 23 خوارج ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814127/security-forces-killed-more-23-khawarij-in-kpk-2814127/",
+        "source": "Express",
+        "date": "2026-05-21T11:29:50+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں بس کی ٹکر سے لڑکی جاں بحق، رواں سال ٹریفک حادثات میں اب تک 390 شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814126/karachi-traffic-accident-death-toll-reaches-390-2814126/",
+        "source": "Express",
+        "date": "2026-05-21T11:25:27+00:00",
         "img": ""
       },
       {
@@ -2033,6 +2145,14 @@
         "img": ""
       },
       {
+        "title": "پی ٹی آئی نے قائمہ کمیٹیوں میں واپسی پر غور شروع کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814119/pti-begins-considering-return-to-standing-committees-2814119/",
+        "source": "Express",
+        "date": "2026-05-21T10:16:37+00:00",
+        "img": ""
+      },
+      {
         "title": "سائٹ کراچی کی سائٹ لمیٹڈ سے علیحدگی کی تجویز، وزیر صنعت کا خصوصی اجلاس طلب کرنے کا عندیہ",
         "summary": "",
         "url": "https://www.express.pk/story/2814118/site-karachi-proposes-separation-from-site-limited-industries-minister-hints-at-calling-a-special-meeting-2814118/",
@@ -2046,14 +2166,6 @@
         "url": "https://www.express.pk/story/2814117/islamabad-high-court-190-million-pound-case-important-order-2814117/",
         "source": "Express",
         "date": "2026-05-21T10:06:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "Landslide-hit Karakoram Highway reopens to traffic in Upper Kohistan",
-        "summary": "<p>MANSEHRA: The Karakoram Highway, which was closed after landslides at three points in Upper Kohistan district, was reopened to traffic on Wednesday evening.</p> <p>“The heavy landslides, which brought huge boulders and rocks onto the highway at three points in our district, have been cleared for light traffic, while",
-        "url": "https://www.dawn.com/news/2001851/landslide-hit-karakoram-highway-reopens-to-traffic-in-upper-kohistan",
-        "source": "Dawn",
-        "date": "2026-05-21T09:44:12+05:00",
         "img": ""
       },
       {
@@ -2081,54 +2193,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے ٹیکس ریونیو بڑھانے کیلیے آئی ایم ایف کی شرائط پر عملدرآمد تیز کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814111/govt-imf-conditions-implementation-accelerated-2814111/",
-        "source": "Express",
-        "date": "2026-05-21T09:18:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف وفد مذاکرات مکمل کرکے واپس روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814110/imf-delegation-talks-complete-2814110/",
-        "source": "Express",
-        "date": "2026-05-21T09:02:14+00:00",
-        "img": ""
-      },
-      {
-        "title": "PM Shehbaz's daughter, son-in-law acquitted in another case",
-        "summary": "<p>LAHORE: A special court (central) has acquitted Prime Minister Shehbaz Sharif’s daughter Rabia Imran and son-in-law Ali Imran Yousaf in a case of alleged corruption in the Punjab Power Development Company (PPDC).</p> <p>Judge Ashfaq Ahmed announced the verdict on the acquittal applications and ordered the discharge ",
-        "url": "https://www.dawn.com/news/2001879/pm-shehbazs-daughter-son-in-law-acquitted-in-another-case",
-        "source": "Dawn",
-        "date": "2026-05-21T08:43:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "سپریم جوڈیشل کونسل نے چیف جسٹس یحییٰ آفریدی کیخلاف 5 درخواستیں متفقہ طور پر خارج کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814107/supreme-juidical-coucil-quash-5-applicaitions-against-justice-yahya-afridi-2814107/",
-        "source": "Express",
-        "date": "2026-05-21T08:24:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "شہری کے اغوا کا مقدمہ، منیب بٹ کی ضمانت قبل از گرفتاری منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814106/citizens-kidnapping-muneeb-butt-granted-pre-arrest-bail-2814106/",
-        "source": "Express",
-        "date": "2026-05-21T08:14:35+00:00",
-        "img": ""
-      },
-      {
-        "title": "28 Afghans arrested for illegal stay in Gwadar",
-        "summary": "<p>GWADAR: Security forces on Wednesday arrested 28 Afghan nationals for illegally staying in the Sangai area of Kech district. The arrests were made during an intelligence-based operation.</p> <p>According to police, these Afghans were staying in the area without legal documents.</p> <p>“We have arrested 28 Afghans wh",
-        "url": "https://www.dawn.com/news/2001936/28-afghans-arrested-for-illegal-stay-in-gwadar",
-        "source": "Dawn",
-        "date": "2026-05-21T08:13:41+05:00",
-        "img": ""
-      },
-      {
         "title": "Delays by Imran’s counsel in £190m graft case irk IHC",
         "summary": "<p><strong>• Justice Dogar warns PTI founder’s lawyer that ‘law will take its course’ if arguments on appeals not presented at next hearing<br>• Bench orders jail authorities to facilitate signing of powers of attorney by ex-PM and his wife, adjourns matter indefinitely</strong></p> <p>ISLAMABAD: The Islamabad High Cou",
         "url": "https://www.dawn.com/news/2001941/delays-by-imrans-counsel-in-ps190m-graft-case-irk-ihc",
@@ -2145,30 +2209,6 @@
         "img": ""
       },
       {
-        "title": "ایران توقع سے زیادہ تیزی سے جنگی قوت بحال کر رہا ہے، چین کی مدد شامل ہے؛ انٹیلی جنس رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814105/iran-rebuilding-much-faster-than-expected-cnn-claim-2814105/",
-        "source": "Express",
-        "date": "2026-05-21T07:56:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "فخر ہے دنیا چین کے بغیر ترقی نہیں کرسکتی، وزیراعظم شہباز شریف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814104/proud-world-development-china-prime-minister-shehbaz-2814104/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان چین کے بنیادی قومی مفادات اور ون چائنا پالیسی کی حمایت کرتا ہے، صدر زرداری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814103/pakistan-supports-chinas-core-national-interests-and-one-china-policy-president-zardari-2814103/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
         "title": "NFC reform urged to keep population from burgeoning",
         "summary": "<p><strong>• Lawmakers push to end over-reliance on population for funding; suggest tying resource distribution to human development metrics<br>• Demographic dividend has become a demographic drag, says Sherry<br>• UN official says family planning a ‘sound economic investment’</strong></p> <p>ISLAMABAD: Lawmakers acros",
         "url": "https://www.dawn.com/news/2001922/nfc-reform-urged-to-keep-population-from-burgeoning",
@@ -2182,22 +2222,6 @@
         "url": "https://www.dawn.com/news/2001929/president-premier-hail-chinas-role-in-regional-peace",
         "source": "Dawn",
         "date": "2026-05-21T07:38:51+05:00",
-        "img": ""
-      },
-      {
-        "title": "شیر افضل نے گنڈاپور کو بطور وزیراعلیٰ بحال کرنے کیلیے آئینی عدالت میں درخواست دائر کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814102/sher-afzal-files-petition-in-constitutional-court-to-reinstate-gandapur-as-cm-2814102/",
-        "source": "Express",
-        "date": "2026-05-21T07:08:43+00:00",
-        "img": ""
-      },
-      {
-        "title": "18 militants killed in Kurram clash",
-        "summary": "<p>KURRAM: Eighteen militants were killed in a clash between two rival groups in Manato Kamran Kallay area of central Kurram, according to police sources.</p> <p>They said that the fighting broke out between the groups of commanders Kazim and Mumtaz Imti. </p> <p>They said Commander Mumtaz Imti was also killed in the c",
-        "url": "https://www.dawn.com/news/2001854/18-militants-killed-in-kurram-clash",
-        "source": "Dawn",
-        "date": "2026-05-21T07:06:05+05:00",
         "img": ""
       },
       {
@@ -2222,30 +2246,6 @@
         "url": "https://www.dawn.com/news/2001865/ihc-declines-immediate-relief-to-owners-of-one-constitution-avenue-apartments",
         "source": "Dawn",
         "date": "2026-05-21T07:05:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی بی آر ٹی ریڈ لائن لاٹ 2 منصوبے کی تعمیر تیز کرنے کی منظوری دے دی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814101/approval-granted-to-accelerate-construction-of-karachi-brt-red-line-lot-2-project-2814101/",
-        "source": "Express",
-        "date": "2026-05-21T07:03:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان اور آذربائیجان کا مختلف شعبوں میں وسیع اشتراک پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814099/pakistan-azerbaijan-agree-on-extensive-cooperation-in-various-sectors-2814099/",
-        "source": "Express",
-        "date": "2026-05-21T06:52:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ خاتون پراسرار طور پر گھر کے زیر زمین پانی کے ٹینک میں ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814098/karachi-woman-mysteriously-dies-after-drowning-in-underground-water-tank-at-home-2814098/",
-        "source": "Express",
-        "date": "2026-05-21T06:41:54+00:00",
         "img": ""
       },
       {
@@ -2259,6 +2259,38 @@
     ],
     "sindh": [
       {
+        "title": "Patient tests HIV-positive after surgery, triggering probe at Multan’s Nishtar Hospital",
+        "summary": "<p>LAHORE: A high-level inquiry committee has been constituted at Multan’s Nishtar Hospital to investigate allegations of medical negligence after a patient reportedly underwent surgery without mandatory HIV screening and later tested positive for the virus.</p> <p>The incident has triggered concern among healthcare st",
+        "url": "https://www.dawn.com/news/2002063/patient-tests-hiv-positive-after-surgery-triggering-probe-at-multans-nishtar-hospital",
+        "source": "Dawn",
+        "date": "2026-05-21T23:46:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "Educationist who fled occupied Kashmir fights for his life after targeted attack",
+        "summary": "<p>MUZAFFARABAD: A young Kashmiri educationist who had earlier fled occupied Kashmir was critically wounded in a targeted daylight attack in Muzaffarabad on Thursday.</p> <p>The attacker, however, was arrested within half an hour after fleeing through a residential locality along a ravine. The weapon used in the attack",
+        "url": "https://www.dawn.com/news/2002072/educationist-who-fled-occupied-kashmir-fights-for-his-life-after-targeted-attack",
+        "source": "Dawn",
+        "date": "2026-05-21T23:20:36+05:00",
+        "img": ""
+      },
+      {
+        "title": "Sialkot authorities on alert as India opens spillway gates of dam on Chenab River",
+        "summary": "<p>NAROWAL: A warning was issued on Thursday stating that the water level in the Chenab River will rise by more than three metres due to the opening of the spillway gates of the Indian Salal Dam, with a risk of silt flushing at the Marala Barrage.</p> <p>Sialkot Deputy Commissioner Saba Asghar has deployed the Punjab E",
+        "url": "https://www.dawn.com/news/2002064/sialkot-authorities-on-alert-as-india-opens-spillway-gates-of-dam-on-chenab-river",
+        "source": "Dawn",
+        "date": "2026-05-21T23:19:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "Security forces kill 23 terrorists in multiple Khyber Pakhtunkhwa IBOs: ISPR",
+        "summary": "<p>Security forces have killed 23 terrorists in multiple intelligence-based operations conducted in Khyber Pakhtunkhwa, said the Inter-Services Public Relations (ISPR) in a statement released on Thursday.</p> <p>The military’s media wing said the operations were conducted over the last 48 hours in the areas of Datta Kh",
+        "url": "https://www.dawn.com/news/2002065/security-forces-kill-23-terrorists-in-multiple-khyber-pakhtunkhwa-ibos-ispr",
+        "source": "Dawn",
+        "date": "2026-05-21T22:14:57+05:00",
+        "img": ""
+      },
+      {
         "title": "PM Shehbaz lauds ‘steadfast’ Pak-China friendship, says Beijing supported Islamabad in ‘unwavering fashion’",
         "summary": "<p>Prime Minister Shehbaz Sharif on Thursday lauded the “steadfast” Pakistan–China friendship, maintaining that Beijing has supported Islamabad in an “unwavering fashion unmatched in the annals of history”.</p> <p>The premier was addressing a ceremony in Islamabad to mark the 75th anniversary of Pakistan–China diplomat",
         "url": "https://www.dawn.com/news/2002044/pm-shehbaz-lauds-steadfast-pak-china-friendship-says-beijing-supported-islamabad-in-unwavering-fashion",
@@ -2288,6 +2320,30 @@
         "url": "https://www.dawn.com/news/2002038/quadcopter-attack-kills-two-schoolchildren-in-kps-bajaur",
         "source": "Dawn",
         "date": "2026-05-21T18:37:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "فیفا ورلڈ کپ؛ میئر نیویارک زہران ممدانی کا شہریوں کیلیے سستے ٹکٹس کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814143/fifa-world-cup-new-york-mayor-announces-cheaper-tickets-for-citizens-after-public-backlash-2814143/",
+        "source": "Express",
+        "date": "2026-05-21T18:37:06+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں 2 دکانداروں کو 25 لاکھ روپے بھتے کی پرچیاں موصول",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814141/two-shopkeepers-in-karachi-receive-rs-25-million-bhatta-calls-2814141/",
+        "source": "Express",
+        "date": "2026-05-21T17:58:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "شعیب اختر کی قومی ٹیم پر سخت تنقید، ون ڈے اور ٹی ٹوئنٹی کی کپتانی کیلیے نئی تجویز دے دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814131/shoaib-akhtar-strongly-criticized-the-national-team-2814131/",
+        "source": "Express",
+        "date": "2026-05-21T17:29:47+05:00",
         "img": ""
       },
       {
@@ -2379,11 +2435,11 @@
         "img": ""
       },
       {
-        "title": "آبنائے ہرمز سیکیورٹی مشن میں نیٹو کی شمولیت نہیں چاہتے؛ فرانس",
+        "title": "ہم مذاکرات چاہتے ہیں، اس فیصلے کو کمزوری نہ سمجھا جائے، قائد حزب اختلاف",
         "summary": "",
-        "url": "https://www.express.pk/story/2814109/france-nato-strait-of-hormuz-security-mission-2814109/",
+        "url": "https://www.express.pk/story/2814142/we-want-dialogue-decision-should-not-weakness-opposition-leader-2814142/",
         "source": "Express",
-        "date": "2026-05-21T13:44:40+05:00",
+        "date": "2026-05-21T13:10:24+00:00",
         "img": ""
       },
       {
@@ -2400,6 +2456,62 @@
         "url": "https://www.dawn.com/news/2002004/wanted-terrorist-ringleader-among-5-militants-killed-in-north-waziristan-operation-security-sources",
         "source": "Dawn",
         "date": "2026-05-21T13:01:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "آئی ایم ایف سے قسط موصولی کے بعد زرمبادلہ کے ذخائر 22 ارب 58 کروڑ سے تجاوز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814139/imf-tranche-reserve-over-22-billion-580-million-dollar-2814139/",
+        "source": "Express",
+        "date": "2026-05-21T12:57:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "کسی ملک کو آبنائے ہرمز میں ٹول ٹیکس لینے نہیں دیں گے؛ صدر ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814136/us-trump-strait-of-hurmuz-tool-tax-iran-2814136/",
+        "source": "Express",
+        "date": "2026-05-21T12:50:35+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیراعظم شہباز شریف 23 سے 26 مئی تک چین کا سرکاری دورہ کریں گے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814132/prime-minister-shehbaz-sharif-official-visit-china-23-to-26-may-2814132/",
+        "source": "Express",
+        "date": "2026-05-21T12:31:24+00:00",
+        "img": ""
+      },
+      {
+        "title": "شیرافضل کی وزیراعلیٰ کے پی کو ہٹانے کی آئینی درخواست ایک سازش ہے، بیرسٹر گوہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814129/shair-afzal-attempt-chief-minister-remove-constitutional-application-a-conspiracy-barrister-gohar-2814129/",
+        "source": "Express",
+        "date": "2026-05-21T12:18:59+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایران کا افزودہ یورینیئم کس ملک کے پاس جائے گا؟ سپریم لیڈر کا پالیسی بیان سامنے آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814128/iran-supreme-leader-mujtaba-khamenei-uranium-enrichment-us-israel-demand-2814128/",
+        "source": "Express",
+        "date": "2026-05-21T12:14:28+00:00",
+        "img": ""
+      },
+      {
+        "title": "خیبرپختونخوا میں سیکیورٹی فورسز کی کارروائیاں، 48 گھنٹوں میں مزید 23 خوارج ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814127/security-forces-killed-more-23-khawarij-in-kpk-2814127/",
+        "source": "Express",
+        "date": "2026-05-21T11:29:50+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں بس کی ٹکر سے لڑکی جاں بحق، رواں سال ٹریفک حادثات میں اب تک 390 شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814126/karachi-traffic-accident-death-toll-reaches-390-2814126/",
+        "source": "Express",
+        "date": "2026-05-21T11:25:27+00:00",
         "img": ""
       },
       {
@@ -2435,6 +2547,14 @@
         "img": ""
       },
       {
+        "title": "پی ٹی آئی نے قائمہ کمیٹیوں میں واپسی پر غور شروع کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814119/pti-begins-considering-return-to-standing-committees-2814119/",
+        "source": "Express",
+        "date": "2026-05-21T10:16:37+00:00",
+        "img": ""
+      },
+      {
         "title": "سائٹ کراچی کی سائٹ لمیٹڈ سے علیحدگی کی تجویز، وزیر صنعت کا خصوصی اجلاس طلب کرنے کا عندیہ",
         "summary": "",
         "url": "https://www.express.pk/story/2814118/site-karachi-proposes-separation-from-site-limited-industries-minister-hints-at-calling-a-special-meeting-2814118/",
@@ -2448,14 +2568,6 @@
         "url": "https://www.express.pk/story/2814117/islamabad-high-court-190-million-pound-case-important-order-2814117/",
         "source": "Express",
         "date": "2026-05-21T10:06:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "Landslide-hit Karakoram Highway reopens to traffic in Upper Kohistan",
-        "summary": "<p>MANSEHRA: The Karakoram Highway, which was closed after landslides at three points in Upper Kohistan district, was reopened to traffic on Wednesday evening.</p> <p>“The heavy landslides, which brought huge boulders and rocks onto the highway at three points in our district, have been cleared for light traffic, while",
-        "url": "https://www.dawn.com/news/2001851/landslide-hit-karakoram-highway-reopens-to-traffic-in-upper-kohistan",
-        "source": "Dawn",
-        "date": "2026-05-21T09:44:12+05:00",
         "img": ""
       },
       {
@@ -2483,54 +2595,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے ٹیکس ریونیو بڑھانے کیلیے آئی ایم ایف کی شرائط پر عملدرآمد تیز کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814111/govt-imf-conditions-implementation-accelerated-2814111/",
-        "source": "Express",
-        "date": "2026-05-21T09:18:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف وفد مذاکرات مکمل کرکے واپس روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814110/imf-delegation-talks-complete-2814110/",
-        "source": "Express",
-        "date": "2026-05-21T09:02:14+00:00",
-        "img": ""
-      },
-      {
-        "title": "PM Shehbaz's daughter, son-in-law acquitted in another case",
-        "summary": "<p>LAHORE: A special court (central) has acquitted Prime Minister Shehbaz Sharif’s daughter Rabia Imran and son-in-law Ali Imran Yousaf in a case of alleged corruption in the Punjab Power Development Company (PPDC).</p> <p>Judge Ashfaq Ahmed announced the verdict on the acquittal applications and ordered the discharge ",
-        "url": "https://www.dawn.com/news/2001879/pm-shehbazs-daughter-son-in-law-acquitted-in-another-case",
-        "source": "Dawn",
-        "date": "2026-05-21T08:43:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "سپریم جوڈیشل کونسل نے چیف جسٹس یحییٰ آفریدی کیخلاف 5 درخواستیں متفقہ طور پر خارج کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814107/supreme-juidical-coucil-quash-5-applicaitions-against-justice-yahya-afridi-2814107/",
-        "source": "Express",
-        "date": "2026-05-21T08:24:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "شہری کے اغوا کا مقدمہ، منیب بٹ کی ضمانت قبل از گرفتاری منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814106/citizens-kidnapping-muneeb-butt-granted-pre-arrest-bail-2814106/",
-        "source": "Express",
-        "date": "2026-05-21T08:14:35+00:00",
-        "img": ""
-      },
-      {
-        "title": "28 Afghans arrested for illegal stay in Gwadar",
-        "summary": "<p>GWADAR: Security forces on Wednesday arrested 28 Afghan nationals for illegally staying in the Sangai area of Kech district. The arrests were made during an intelligence-based operation.</p> <p>According to police, these Afghans were staying in the area without legal documents.</p> <p>“We have arrested 28 Afghans wh",
-        "url": "https://www.dawn.com/news/2001936/28-afghans-arrested-for-illegal-stay-in-gwadar",
-        "source": "Dawn",
-        "date": "2026-05-21T08:13:41+05:00",
-        "img": ""
-      },
-      {
         "title": "Delays by Imran’s counsel in £190m graft case irk IHC",
         "summary": "<p><strong>• Justice Dogar warns PTI founder’s lawyer that ‘law will take its course’ if arguments on appeals not presented at next hearing<br>• Bench orders jail authorities to facilitate signing of powers of attorney by ex-PM and his wife, adjourns matter indefinitely</strong></p> <p>ISLAMABAD: The Islamabad High Cou",
         "url": "https://www.dawn.com/news/2001941/delays-by-imrans-counsel-in-ps190m-graft-case-irk-ihc",
@@ -2547,30 +2611,6 @@
         "img": ""
       },
       {
-        "title": "ایران توقع سے زیادہ تیزی سے جنگی قوت بحال کر رہا ہے، چین کی مدد شامل ہے؛ انٹیلی جنس رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814105/iran-rebuilding-much-faster-than-expected-cnn-claim-2814105/",
-        "source": "Express",
-        "date": "2026-05-21T07:56:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "فخر ہے دنیا چین کے بغیر ترقی نہیں کرسکتی، وزیراعظم شہباز شریف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814104/proud-world-development-china-prime-minister-shehbaz-2814104/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان چین کے بنیادی قومی مفادات اور ون چائنا پالیسی کی حمایت کرتا ہے، صدر زرداری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814103/pakistan-supports-chinas-core-national-interests-and-one-china-policy-president-zardari-2814103/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
         "title": "NFC reform urged to keep population from burgeoning",
         "summary": "<p><strong>• Lawmakers push to end over-reliance on population for funding; suggest tying resource distribution to human development metrics<br>• Demographic dividend has become a demographic drag, says Sherry<br>• UN official says family planning a ‘sound economic investment’</strong></p> <p>ISLAMABAD: Lawmakers acros",
         "url": "https://www.dawn.com/news/2001922/nfc-reform-urged-to-keep-population-from-burgeoning",
@@ -2584,22 +2624,6 @@
         "url": "https://www.dawn.com/news/2001929/president-premier-hail-chinas-role-in-regional-peace",
         "source": "Dawn",
         "date": "2026-05-21T07:38:51+05:00",
-        "img": ""
-      },
-      {
-        "title": "شیر افضل نے گنڈاپور کو بطور وزیراعلیٰ بحال کرنے کیلیے آئینی عدالت میں درخواست دائر کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814102/sher-afzal-files-petition-in-constitutional-court-to-reinstate-gandapur-as-cm-2814102/",
-        "source": "Express",
-        "date": "2026-05-21T07:08:43+00:00",
-        "img": ""
-      },
-      {
-        "title": "18 militants killed in Kurram clash",
-        "summary": "<p>KURRAM: Eighteen militants were killed in a clash between two rival groups in Manato Kamran Kallay area of central Kurram, according to police sources.</p> <p>They said that the fighting broke out between the groups of commanders Kazim and Mumtaz Imti. </p> <p>They said Commander Mumtaz Imti was also killed in the c",
-        "url": "https://www.dawn.com/news/2001854/18-militants-killed-in-kurram-clash",
-        "source": "Dawn",
-        "date": "2026-05-21T07:06:05+05:00",
         "img": ""
       },
       {
@@ -2624,30 +2648,6 @@
         "url": "https://www.dawn.com/news/2001865/ihc-declines-immediate-relief-to-owners-of-one-constitution-avenue-apartments",
         "source": "Dawn",
         "date": "2026-05-21T07:05:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی بی آر ٹی ریڈ لائن لاٹ 2 منصوبے کی تعمیر تیز کرنے کی منظوری دے دی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814101/approval-granted-to-accelerate-construction-of-karachi-brt-red-line-lot-2-project-2814101/",
-        "source": "Express",
-        "date": "2026-05-21T07:03:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان اور آذربائیجان کا مختلف شعبوں میں وسیع اشتراک پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814099/pakistan-azerbaijan-agree-on-extensive-cooperation-in-various-sectors-2814099/",
-        "source": "Express",
-        "date": "2026-05-21T06:52:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ خاتون پراسرار طور پر گھر کے زیر زمین پانی کے ٹینک میں ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814098/karachi-woman-mysteriously-dies-after-drowning-in-underground-water-tank-at-home-2814098/",
-        "source": "Express",
-        "date": "2026-05-21T06:41:54+00:00",
         "img": ""
       },
       {
@@ -2661,6 +2661,86 @@
     ],
     "baloch": [
       {
+        "title": "Patient tests HIV-positive after surgery, triggering probe at Multan’s Nishtar Hospital",
+        "summary": "<p>LAHORE: A high-level inquiry committee has been constituted at Multan’s Nishtar Hospital to investigate allegations of medical negligence after a patient reportedly underwent surgery without mandatory HIV screening and later tested positive for the virus.</p> <p>The incident has triggered concern among healthcare st",
+        "url": "https://www.dawn.com/news/2002063/patient-tests-hiv-positive-after-surgery-triggering-probe-at-multans-nishtar-hospital",
+        "source": "Dawn",
+        "date": "2026-05-21T23:46:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "Researchers develop solar system that turns air moisture into drinking water",
+        "summary": "Researchers develop solar system that turns air moisture into drinking water",
+        "url": "https://arynews.tv/solar-technology-new-water-production-method",
+        "source": "ARY News",
+        "date": "2026-05-21T23:26:30+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Solar-System-making-water.jpg"
+      },
+      {
+        "title": "Salman Atiq makes Pakistan proud on Everest",
+        "summary": "Salman Atiq makes Pakistan proud on Everest",
+        "url": "https://arynews.tv/salman-atiq-makes-pakistan-proud-on-everest",
+        "source": "ARY News",
+        "date": "2026-05-21T23:22:32+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-18.jpg"
+      },
+      {
+        "title": "Educationist who fled occupied Kashmir fights for his life after targeted attack",
+        "summary": "<p>MUZAFFARABAD: A young Kashmiri educationist who had earlier fled occupied Kashmir was critically wounded in a targeted daylight attack in Muzaffarabad on Thursday.</p> <p>The attacker, however, was arrested within half an hour after fleeing through a residential locality along a ravine. The weapon used in the attack",
+        "url": "https://www.dawn.com/news/2002072/educationist-who-fled-occupied-kashmir-fights-for-his-life-after-targeted-attack",
+        "source": "Dawn",
+        "date": "2026-05-21T23:20:36+05:00",
+        "img": ""
+      },
+      {
+        "title": "Sialkot authorities on alert as India opens spillway gates of dam on Chenab River",
+        "summary": "<p>NAROWAL: A warning was issued on Thursday stating that the water level in the Chenab River will rise by more than three metres due to the opening of the spillway gates of the Indian Salal Dam, with a risk of silt flushing at the Marala Barrage.</p> <p>Sialkot Deputy Commissioner Saba Asghar has deployed the Punjab E",
+        "url": "https://www.dawn.com/news/2002064/sialkot-authorities-on-alert-as-india-opens-spillway-gates-of-dam-on-chenab-river",
+        "source": "Dawn",
+        "date": "2026-05-21T23:19:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "23 Fitna-al-Khwarij militants including ring leader killed in KP IBOs: ISPR",
+        "summary": "23 Fitna-al-Khwarij militants including ring leader killed in KP IBOs: ISPR",
+        "url": "https://arynews.tv/fitna-al-khwarij-militants-ring-leader-neutralized-ispr",
+        "source": "ARY News",
+        "date": "2026-05-21T22:51:37+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2022/01/pakistan-army-soldiers-2.jpg"
+      },
+      {
+        "title": "Security forces kill 23 terrorists in multiple Khyber Pakhtunkhwa IBOs: ISPR",
+        "summary": "<p>Security forces have killed 23 terrorists in multiple intelligence-based operations conducted in Khyber Pakhtunkhwa, said the Inter-Services Public Relations (ISPR) in a statement released on Thursday.</p> <p>The military’s media wing said the operations were conducted over the last 48 hours in the areas of Datta Kh",
+        "url": "https://www.dawn.com/news/2002065/security-forces-kill-23-terrorists-in-multiple-khyber-pakhtunkhwa-ibos-ispr",
+        "source": "Dawn",
+        "date": "2026-05-21T22:14:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "Aymen Saleem earns sweet “Papa’s Princess” label after viral moment",
+        "summary": "Aymen Saleem earns sweet “Papa’s Princess” label after viral moment",
+        "url": "https://arynews.tv/aymen-saleem-earns-sweet-papas-princess-label-after-viral-moment",
+        "source": "ARY News",
+        "date": "2026-05-21T22:12:40+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-39.jpg"
+      },
+      {
+        "title": "Rami Malek Steals the Show at Cannes with 8-Minute Standing Ovation for ‘The Man I Love’",
+        "summary": "Rami Malek Steals the Show at Cannes with 8-Minute Standing Ovation for ‘The Man I Love’",
+        "url": "https://arynews.tv/rami-malek-steals-the-show-at-cannes-with-8-minute-standing-ovation-for-the-man-i-love",
+        "source": "ARY News",
+        "date": "2026-05-21T21:44:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Rami-Malek.jpg"
+      },
+      {
+        "title": "Iran tolling Strait of Hormuz would collapse chances of diplomatic deal: Rubio",
+        "summary": "Iran tolling Strait of Hormuz would collapse chances of diplomatic deal: Rubio",
+        "url": "https://arynews.tv/iran-war-marco-rubio-criticize-strait-of-hormuz-tolling",
+        "source": "ARY News",
+        "date": "2026-05-21T21:32:07+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/US-Iran-war-Marco-Rubio.jpg"
+      },
+      {
         "title": "Court issues strict directions in PTI founder £190 million case appeal",
         "summary": "Court issues strict directions in PTI founder £190 million case appeal",
         "url": "https://arynews.tv/imran-khan-190-million-case-update",
@@ -2715,6 +2795,14 @@
         "source": "ARY News",
         "date": "2026-05-21T20:32:13+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Special-Train.jpg"
+      },
+      {
+        "title": "Pakistan announces issuance of new Rs75 commemorative coin",
+        "summary": "Pakistan announces issuance of new Rs75 commemorative coin",
+        "url": "https://arynews.tv/pakistan-to-issue-rs-75-coin",
+        "source": "ARY News",
+        "date": "2026-05-21T20:32:06+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-96.jpg"
       },
       {
         "title": "Sara Tendulkar Slams Paparazzi for Derogatory Comment",
@@ -2837,36 +2925,28 @@
         "img": ""
       },
       {
-        "title": "UK Pound to Pakistani Rupee Rate Today- May 21, 2026",
-        "summary": "UK Pound to Pakistani Rupee Rate Today- May 21, 2026",
-        "url": "https://arynews.tv/uk-pound-to-pakistani-rupee-rate-today-may-21-2026",
-        "source": "ARY News",
-        "date": "2026-05-21T18:26:55+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/08/uk-pound-2.jpg"
+        "title": "فیفا ورلڈ کپ؛ میئر نیویارک زہران ممدانی کا شہریوں کیلیے سستے ٹکٹس کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814143/fifa-world-cup-new-york-mayor-announces-cheaper-tickets-for-citizens-after-public-backlash-2814143/",
+        "source": "Express",
+        "date": "2026-05-21T18:37:06+05:00",
+        "img": ""
       },
       {
-        "title": "IMF urges Pakistan to expand tax net, improve revenue collection",
-        "summary": "IMF urges Pakistan to expand tax net, improve revenue collection",
-        "url": "https://arynews.tv/imf-urges-pakistan-to-expand-tax-base",
-        "source": "ARY News",
-        "date": "2026-05-21T18:25:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/IMF-Pakistan.jpg"
+        "title": "کراچی میں 2 دکانداروں کو 25 لاکھ روپے بھتے کی پرچیاں موصول",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814141/two-shopkeepers-in-karachi-receive-rs-25-million-bhatta-calls-2814141/",
+        "source": "Express",
+        "date": "2026-05-21T17:58:08+05:00",
+        "img": ""
       },
       {
-        "title": "Dollar and Other Currency Rates Today in Pakistan – May 21, 2026",
-        "summary": "Dollar and Other Currency Rates Today in Pakistan – May 21, 2026",
-        "url": "https://arynews.tv/dollar-urrency-rates-today-in-pakistan-may-21-2026",
-        "source": "ARY News",
-        "date": "2026-05-21T17:56:26+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/09/currency-rates-dollar.jpg"
-      },
-      {
-        "title": "Man arrested in hit-and-run crash that killed food delivery rider",
-        "summary": "Man arrested in hit-and-run crash that killed food delivery rider",
-        "url": "https://arynews.tv/man-arrested-in-hit-and-run-crash-that-killed-food-delivery-rider",
-        "source": "ARY News",
-        "date": "2026-05-21T17:20:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/food-delivery-rider.jpg"
+        "title": "شعیب اختر کی قومی ٹیم پر سخت تنقید، ون ڈے اور ٹی ٹوئنٹی کی کپتانی کیلیے نئی تجویز دے دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814131/shoaib-akhtar-strongly-criticized-the-national-team-2814131/",
+        "source": "Express",
+        "date": "2026-05-21T17:29:47+05:00",
+        "img": ""
       },
       {
         "title": "FO condemns mistreatment of Gaza flotilla activists following global outcry over video posted by Israeli minister",
@@ -2875,30 +2955,6 @@
         "source": "Dawn",
         "date": "2026-05-21T17:13:21+05:00",
         "img": ""
-      },
-      {
-        "title": "Iran’s Hormuz authority claims control of waters south of UAE port",
-        "summary": "Iran’s Hormuz authority claims control of waters south of UAE port",
-        "url": "https://arynews.tv/irans-hormuz-authority-claims-control-waters-south-uae-port",
-        "source": "ARY News",
-        "date": "2026-05-21T16:59:48+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Iran-US.jpg"
-      },
-      {
-        "title": "FCC petition seeks restoration of Ali Amin Gandapur as KP CM",
-        "summary": "FCC petition seeks restoration of Ali Amin Gandapur as KP CM",
-        "url": "https://arynews.tv/fcc-petition-seeks-restoration-ali-amin-gandapur-kp-cm",
-        "source": "ARY News",
-        "date": "2026-05-21T16:42:52+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/01/Ali-AMin-Gandapur.png"
-      },
-      {
-        "title": "Pakistan Railways announces special Eid trains",
-        "summary": "Pakistan Railways announces special Eid trains",
-        "url": "https://arynews.tv/pakistan-railways-announces-special-eid-trains",
-        "source": "ARY News",
-        "date": "2026-05-21T16:41:26+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2024/02/PR.jpg"
       },
       {
         "title": "Fight against terrorism will continue with 'full national resolve', asserts CDF Munir",
@@ -2981,11 +3037,11 @@
         "img": ""
       },
       {
-        "title": "آبنائے ہرمز سیکیورٹی مشن میں نیٹو کی شمولیت نہیں چاہتے؛ فرانس",
+        "title": "ہم مذاکرات چاہتے ہیں، اس فیصلے کو کمزوری نہ سمجھا جائے، قائد حزب اختلاف",
         "summary": "",
-        "url": "https://www.express.pk/story/2814109/france-nato-strait-of-hormuz-security-mission-2814109/",
+        "url": "https://www.express.pk/story/2814142/we-want-dialogue-decision-should-not-weakness-opposition-leader-2814142/",
         "source": "Express",
-        "date": "2026-05-21T13:44:40+05:00",
+        "date": "2026-05-21T13:10:24+00:00",
         "img": ""
       },
       {
@@ -3002,6 +3058,62 @@
         "url": "https://www.dawn.com/news/2002004/wanted-terrorist-ringleader-among-5-militants-killed-in-north-waziristan-operation-security-sources",
         "source": "Dawn",
         "date": "2026-05-21T13:01:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "آئی ایم ایف سے قسط موصولی کے بعد زرمبادلہ کے ذخائر 22 ارب 58 کروڑ سے تجاوز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814139/imf-tranche-reserve-over-22-billion-580-million-dollar-2814139/",
+        "source": "Express",
+        "date": "2026-05-21T12:57:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "کسی ملک کو آبنائے ہرمز میں ٹول ٹیکس لینے نہیں دیں گے؛ صدر ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814136/us-trump-strait-of-hurmuz-tool-tax-iran-2814136/",
+        "source": "Express",
+        "date": "2026-05-21T12:50:35+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیراعظم شہباز شریف 23 سے 26 مئی تک چین کا سرکاری دورہ کریں گے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814132/prime-minister-shehbaz-sharif-official-visit-china-23-to-26-may-2814132/",
+        "source": "Express",
+        "date": "2026-05-21T12:31:24+00:00",
+        "img": ""
+      },
+      {
+        "title": "شیرافضل کی وزیراعلیٰ کے پی کو ہٹانے کی آئینی درخواست ایک سازش ہے، بیرسٹر گوہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814129/shair-afzal-attempt-chief-minister-remove-constitutional-application-a-conspiracy-barrister-gohar-2814129/",
+        "source": "Express",
+        "date": "2026-05-21T12:18:59+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایران کا افزودہ یورینیئم کس ملک کے پاس جائے گا؟ سپریم لیڈر کا پالیسی بیان سامنے آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814128/iran-supreme-leader-mujtaba-khamenei-uranium-enrichment-us-israel-demand-2814128/",
+        "source": "Express",
+        "date": "2026-05-21T12:14:28+00:00",
+        "img": ""
+      },
+      {
+        "title": "خیبرپختونخوا میں سیکیورٹی فورسز کی کارروائیاں، 48 گھنٹوں میں مزید 23 خوارج ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814127/security-forces-killed-more-23-khawarij-in-kpk-2814127/",
+        "source": "Express",
+        "date": "2026-05-21T11:29:50+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں بس کی ٹکر سے لڑکی جاں بحق، رواں سال ٹریفک حادثات میں اب تک 390 شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814126/karachi-traffic-accident-death-toll-reaches-390-2814126/",
+        "source": "Express",
+        "date": "2026-05-21T11:25:27+00:00",
         "img": ""
       },
       {
@@ -3037,6 +3149,14 @@
         "img": ""
       },
       {
+        "title": "پی ٹی آئی نے قائمہ کمیٹیوں میں واپسی پر غور شروع کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814119/pti-begins-considering-return-to-standing-committees-2814119/",
+        "source": "Express",
+        "date": "2026-05-21T10:16:37+00:00",
+        "img": ""
+      },
+      {
         "title": "سائٹ کراچی کی سائٹ لمیٹڈ سے علیحدگی کی تجویز، وزیر صنعت کا خصوصی اجلاس طلب کرنے کا عندیہ",
         "summary": "",
         "url": "https://www.express.pk/story/2814118/site-karachi-proposes-separation-from-site-limited-industries-minister-hints-at-calling-a-special-meeting-2814118/",
@@ -3050,14 +3170,6 @@
         "url": "https://www.express.pk/story/2814117/islamabad-high-court-190-million-pound-case-important-order-2814117/",
         "source": "Express",
         "date": "2026-05-21T10:06:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "Landslide-hit Karakoram Highway reopens to traffic in Upper Kohistan",
-        "summary": "<p>MANSEHRA: The Karakoram Highway, which was closed after landslides at three points in Upper Kohistan district, was reopened to traffic on Wednesday evening.</p> <p>“The heavy landslides, which brought huge boulders and rocks onto the highway at three points in our district, have been cleared for light traffic, while",
-        "url": "https://www.dawn.com/news/2001851/landslide-hit-karakoram-highway-reopens-to-traffic-in-upper-kohistan",
-        "source": "Dawn",
-        "date": "2026-05-21T09:44:12+05:00",
         "img": ""
       },
       {
@@ -3085,54 +3197,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے ٹیکس ریونیو بڑھانے کیلیے آئی ایم ایف کی شرائط پر عملدرآمد تیز کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814111/govt-imf-conditions-implementation-accelerated-2814111/",
-        "source": "Express",
-        "date": "2026-05-21T09:18:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف وفد مذاکرات مکمل کرکے واپس روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814110/imf-delegation-talks-complete-2814110/",
-        "source": "Express",
-        "date": "2026-05-21T09:02:14+00:00",
-        "img": ""
-      },
-      {
-        "title": "PM Shehbaz's daughter, son-in-law acquitted in another case",
-        "summary": "<p>LAHORE: A special court (central) has acquitted Prime Minister Shehbaz Sharif’s daughter Rabia Imran and son-in-law Ali Imran Yousaf in a case of alleged corruption in the Punjab Power Development Company (PPDC).</p> <p>Judge Ashfaq Ahmed announced the verdict on the acquittal applications and ordered the discharge ",
-        "url": "https://www.dawn.com/news/2001879/pm-shehbazs-daughter-son-in-law-acquitted-in-another-case",
-        "source": "Dawn",
-        "date": "2026-05-21T08:43:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "سپریم جوڈیشل کونسل نے چیف جسٹس یحییٰ آفریدی کیخلاف 5 درخواستیں متفقہ طور پر خارج کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814107/supreme-juidical-coucil-quash-5-applicaitions-against-justice-yahya-afridi-2814107/",
-        "source": "Express",
-        "date": "2026-05-21T08:24:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "شہری کے اغوا کا مقدمہ، منیب بٹ کی ضمانت قبل از گرفتاری منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814106/citizens-kidnapping-muneeb-butt-granted-pre-arrest-bail-2814106/",
-        "source": "Express",
-        "date": "2026-05-21T08:14:35+00:00",
-        "img": ""
-      },
-      {
-        "title": "28 Afghans arrested for illegal stay in Gwadar",
-        "summary": "<p>GWADAR: Security forces on Wednesday arrested 28 Afghan nationals for illegally staying in the Sangai area of Kech district. The arrests were made during an intelligence-based operation.</p> <p>According to police, these Afghans were staying in the area without legal documents.</p> <p>“We have arrested 28 Afghans wh",
-        "url": "https://www.dawn.com/news/2001936/28-afghans-arrested-for-illegal-stay-in-gwadar",
-        "source": "Dawn",
-        "date": "2026-05-21T08:13:41+05:00",
-        "img": ""
-      },
-      {
         "title": "Delays by Imran’s counsel in £190m graft case irk IHC",
         "summary": "<p><strong>• Justice Dogar warns PTI founder’s lawyer that ‘law will take its course’ if arguments on appeals not presented at next hearing<br>• Bench orders jail authorities to facilitate signing of powers of attorney by ex-PM and his wife, adjourns matter indefinitely</strong></p> <p>ISLAMABAD: The Islamabad High Cou",
         "url": "https://www.dawn.com/news/2001941/delays-by-imrans-counsel-in-ps190m-graft-case-irk-ihc",
@@ -3149,30 +3213,6 @@
         "img": ""
       },
       {
-        "title": "ایران توقع سے زیادہ تیزی سے جنگی قوت بحال کر رہا ہے، چین کی مدد شامل ہے؛ انٹیلی جنس رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814105/iran-rebuilding-much-faster-than-expected-cnn-claim-2814105/",
-        "source": "Express",
-        "date": "2026-05-21T07:56:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "فخر ہے دنیا چین کے بغیر ترقی نہیں کرسکتی، وزیراعظم شہباز شریف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814104/proud-world-development-china-prime-minister-shehbaz-2814104/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان چین کے بنیادی قومی مفادات اور ون چائنا پالیسی کی حمایت کرتا ہے، صدر زرداری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814103/pakistan-supports-chinas-core-national-interests-and-one-china-policy-president-zardari-2814103/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
         "title": "NFC reform urged to keep population from burgeoning",
         "summary": "<p><strong>• Lawmakers push to end over-reliance on population for funding; suggest tying resource distribution to human development metrics<br>• Demographic dividend has become a demographic drag, says Sherry<br>• UN official says family planning a ‘sound economic investment’</strong></p> <p>ISLAMABAD: Lawmakers acros",
         "url": "https://www.dawn.com/news/2001922/nfc-reform-urged-to-keep-population-from-burgeoning",
@@ -3186,22 +3226,6 @@
         "url": "https://www.dawn.com/news/2001929/president-premier-hail-chinas-role-in-regional-peace",
         "source": "Dawn",
         "date": "2026-05-21T07:38:51+05:00",
-        "img": ""
-      },
-      {
-        "title": "شیر افضل نے گنڈاپور کو بطور وزیراعلیٰ بحال کرنے کیلیے آئینی عدالت میں درخواست دائر کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814102/sher-afzal-files-petition-in-constitutional-court-to-reinstate-gandapur-as-cm-2814102/",
-        "source": "Express",
-        "date": "2026-05-21T07:08:43+00:00",
-        "img": ""
-      },
-      {
-        "title": "18 militants killed in Kurram clash",
-        "summary": "<p>KURRAM: Eighteen militants were killed in a clash between two rival groups in Manato Kamran Kallay area of central Kurram, according to police sources.</p> <p>They said that the fighting broke out between the groups of commanders Kazim and Mumtaz Imti. </p> <p>They said Commander Mumtaz Imti was also killed in the c",
-        "url": "https://www.dawn.com/news/2001854/18-militants-killed-in-kurram-clash",
-        "source": "Dawn",
-        "date": "2026-05-21T07:06:05+05:00",
         "img": ""
       },
       {
@@ -3229,30 +3253,6 @@
         "img": ""
       },
       {
-        "title": "کراچی بی آر ٹی ریڈ لائن لاٹ 2 منصوبے کی تعمیر تیز کرنے کی منظوری دے دی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814101/approval-granted-to-accelerate-construction-of-karachi-brt-red-line-lot-2-project-2814101/",
-        "source": "Express",
-        "date": "2026-05-21T07:03:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان اور آذربائیجان کا مختلف شعبوں میں وسیع اشتراک پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814099/pakistan-azerbaijan-agree-on-extensive-cooperation-in-various-sectors-2814099/",
-        "source": "Express",
-        "date": "2026-05-21T06:52:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ خاتون پراسرار طور پر گھر کے زیر زمین پانی کے ٹینک میں ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814098/karachi-woman-mysteriously-dies-after-drowning-in-underground-water-tank-at-home-2814098/",
-        "source": "Express",
-        "date": "2026-05-21T06:41:54+00:00",
-        "img": ""
-      },
-      {
         "title": "Pakistan, China share 'converging vision' on regional and global issues, says DPM Dar",
         "summary": "<p>Deputy Prime Minister and Foreign Minister Ishaq Dar on Wednesday said Islamabad and Beijing shared a “converging vision” on regional and global matters.</p> <p>“Pakistan and China share a converging vision on regional and global issues,” said Dar while addressing the Senate.</p> <p>A Chinese delegation was present ",
         "url": "https://www.dawn.com/news/2001761/pakistan-china-share-converging-vision-on-regional-and-global-issues-says-dpm-dar",
@@ -3263,6 +3263,54 @@
     ],
     "education": [
       {
+        "title": "Researchers develop solar system that turns air moisture into drinking water",
+        "summary": "Researchers develop solar system that turns air moisture into drinking water",
+        "url": "https://arynews.tv/solar-technology-new-water-production-method",
+        "source": "ARY News",
+        "date": "2026-05-21T23:26:30+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Solar-System-making-water.jpg"
+      },
+      {
+        "title": "Salman Atiq makes Pakistan proud on Everest",
+        "summary": "Salman Atiq makes Pakistan proud on Everest",
+        "url": "https://arynews.tv/salman-atiq-makes-pakistan-proud-on-everest",
+        "source": "ARY News",
+        "date": "2026-05-21T23:22:32+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-18.jpg"
+      },
+      {
+        "title": "23 Fitna-al-Khwarij militants including ring leader killed in KP IBOs: ISPR",
+        "summary": "23 Fitna-al-Khwarij militants including ring leader killed in KP IBOs: ISPR",
+        "url": "https://arynews.tv/fitna-al-khwarij-militants-ring-leader-neutralized-ispr",
+        "source": "ARY News",
+        "date": "2026-05-21T22:51:37+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2022/01/pakistan-army-soldiers-2.jpg"
+      },
+      {
+        "title": "Aymen Saleem earns sweet “Papa’s Princess” label after viral moment",
+        "summary": "Aymen Saleem earns sweet “Papa’s Princess” label after viral moment",
+        "url": "https://arynews.tv/aymen-saleem-earns-sweet-papas-princess-label-after-viral-moment",
+        "source": "ARY News",
+        "date": "2026-05-21T22:12:40+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-39.jpg"
+      },
+      {
+        "title": "Rami Malek Steals the Show at Cannes with 8-Minute Standing Ovation for ‘The Man I Love’",
+        "summary": "Rami Malek Steals the Show at Cannes with 8-Minute Standing Ovation for ‘The Man I Love’",
+        "url": "https://arynews.tv/rami-malek-steals-the-show-at-cannes-with-8-minute-standing-ovation-for-the-man-i-love",
+        "source": "ARY News",
+        "date": "2026-05-21T21:44:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Rami-Malek.jpg"
+      },
+      {
+        "title": "Iran tolling Strait of Hormuz would collapse chances of diplomatic deal: Rubio",
+        "summary": "Iran tolling Strait of Hormuz would collapse chances of diplomatic deal: Rubio",
+        "url": "https://arynews.tv/iran-war-marco-rubio-criticize-strait-of-hormuz-tolling",
+        "source": "ARY News",
+        "date": "2026-05-21T21:32:07+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/US-Iran-war-Marco-Rubio.jpg"
+      },
+      {
         "title": "Court issues strict directions in PTI founder £190 million case appeal",
         "summary": "Court issues strict directions in PTI founder £190 million case appeal",
         "url": "https://arynews.tv/imran-khan-190-million-case-update",
@@ -3301,6 +3349,14 @@
         "source": "ARY News",
         "date": "2026-05-21T20:32:13+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Special-Train.jpg"
+      },
+      {
+        "title": "Pakistan announces issuance of new Rs75 commemorative coin",
+        "summary": "Pakistan announces issuance of new Rs75 commemorative coin",
+        "url": "https://arynews.tv/pakistan-to-issue-rs-75-coin",
+        "source": "ARY News",
+        "date": "2026-05-21T20:32:06+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-96.jpg"
       },
       {
         "title": "Sara Tendulkar Slams Paparazzi for Derogatory Comment",
@@ -3407,60 +3463,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Karachi-road-rage-viral-video.jpg"
       },
       {
-        "title": "UK Pound to Pakistani Rupee Rate Today- May 21, 2026",
-        "summary": "UK Pound to Pakistani Rupee Rate Today- May 21, 2026",
-        "url": "https://arynews.tv/uk-pound-to-pakistani-rupee-rate-today-may-21-2026",
-        "source": "ARY News",
-        "date": "2026-05-21T18:26:55+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/08/uk-pound-2.jpg"
+        "title": "فیفا ورلڈ کپ؛ میئر نیویارک زہران ممدانی کا شہریوں کیلیے سستے ٹکٹس کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814143/fifa-world-cup-new-york-mayor-announces-cheaper-tickets-for-citizens-after-public-backlash-2814143/",
+        "source": "Express",
+        "date": "2026-05-21T18:37:06+05:00",
+        "img": ""
       },
       {
-        "title": "IMF urges Pakistan to expand tax net, improve revenue collection",
-        "summary": "IMF urges Pakistan to expand tax net, improve revenue collection",
-        "url": "https://arynews.tv/imf-urges-pakistan-to-expand-tax-base",
-        "source": "ARY News",
-        "date": "2026-05-21T18:25:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/IMF-Pakistan.jpg"
+        "title": "کراچی میں 2 دکانداروں کو 25 لاکھ روپے بھتے کی پرچیاں موصول",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814141/two-shopkeepers-in-karachi-receive-rs-25-million-bhatta-calls-2814141/",
+        "source": "Express",
+        "date": "2026-05-21T17:58:08+05:00",
+        "img": ""
       },
       {
-        "title": "Dollar and Other Currency Rates Today in Pakistan – May 21, 2026",
-        "summary": "Dollar and Other Currency Rates Today in Pakistan – May 21, 2026",
-        "url": "https://arynews.tv/dollar-urrency-rates-today-in-pakistan-may-21-2026",
-        "source": "ARY News",
-        "date": "2026-05-21T17:56:26+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/09/currency-rates-dollar.jpg"
-      },
-      {
-        "title": "Man arrested in hit-and-run crash that killed food delivery rider",
-        "summary": "Man arrested in hit-and-run crash that killed food delivery rider",
-        "url": "https://arynews.tv/man-arrested-in-hit-and-run-crash-that-killed-food-delivery-rider",
-        "source": "ARY News",
-        "date": "2026-05-21T17:20:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/food-delivery-rider.jpg"
-      },
-      {
-        "title": "Iran’s Hormuz authority claims control of waters south of UAE port",
-        "summary": "Iran’s Hormuz authority claims control of waters south of UAE port",
-        "url": "https://arynews.tv/irans-hormuz-authority-claims-control-waters-south-uae-port",
-        "source": "ARY News",
-        "date": "2026-05-21T16:59:48+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Iran-US.jpg"
-      },
-      {
-        "title": "FCC petition seeks restoration of Ali Amin Gandapur as KP CM",
-        "summary": "FCC petition seeks restoration of Ali Amin Gandapur as KP CM",
-        "url": "https://arynews.tv/fcc-petition-seeks-restoration-ali-amin-gandapur-kp-cm",
-        "source": "ARY News",
-        "date": "2026-05-21T16:42:52+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/01/Ali-AMin-Gandapur.png"
-      },
-      {
-        "title": "Pakistan Railways announces special Eid trains",
-        "summary": "Pakistan Railways announces special Eid trains",
-        "url": "https://arynews.tv/pakistan-railways-announces-special-eid-trains",
-        "source": "ARY News",
-        "date": "2026-05-21T16:41:26+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2024/02/PR.jpg"
+        "title": "شعیب اختر کی قومی ٹیم پر سخت تنقید، ون ڈے اور ٹی ٹوئنٹی کی کپتانی کیلیے نئی تجویز دے دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814131/shoaib-akhtar-strongly-criticized-the-national-team-2814131/",
+        "source": "Express",
+        "date": "2026-05-21T17:29:47+05:00",
+        "img": ""
       },
       {
         "title": "بھارت میں ’کاکروچ جنتا پارٹی‘ کو بڑا دھچکا، وائرل تحریک کا ایکس اکاؤنٹ بند",
@@ -3519,11 +3543,67 @@
         "img": ""
       },
       {
-        "title": "آبنائے ہرمز سیکیورٹی مشن میں نیٹو کی شمولیت نہیں چاہتے؛ فرانس",
+        "title": "ہم مذاکرات چاہتے ہیں، اس فیصلے کو کمزوری نہ سمجھا جائے، قائد حزب اختلاف",
         "summary": "",
-        "url": "https://www.express.pk/story/2814109/france-nato-strait-of-hormuz-security-mission-2814109/",
+        "url": "https://www.express.pk/story/2814142/we-want-dialogue-decision-should-not-weakness-opposition-leader-2814142/",
         "source": "Express",
-        "date": "2026-05-21T13:44:40+05:00",
+        "date": "2026-05-21T13:10:24+00:00",
+        "img": ""
+      },
+      {
+        "title": "آئی ایم ایف سے قسط موصولی کے بعد زرمبادلہ کے ذخائر 22 ارب 58 کروڑ سے تجاوز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814139/imf-tranche-reserve-over-22-billion-580-million-dollar-2814139/",
+        "source": "Express",
+        "date": "2026-05-21T12:57:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "کسی ملک کو آبنائے ہرمز میں ٹول ٹیکس لینے نہیں دیں گے؛ صدر ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814136/us-trump-strait-of-hurmuz-tool-tax-iran-2814136/",
+        "source": "Express",
+        "date": "2026-05-21T12:50:35+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیراعظم شہباز شریف 23 سے 26 مئی تک چین کا سرکاری دورہ کریں گے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814132/prime-minister-shehbaz-sharif-official-visit-china-23-to-26-may-2814132/",
+        "source": "Express",
+        "date": "2026-05-21T12:31:24+00:00",
+        "img": ""
+      },
+      {
+        "title": "شیرافضل کی وزیراعلیٰ کے پی کو ہٹانے کی آئینی درخواست ایک سازش ہے، بیرسٹر گوہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814129/shair-afzal-attempt-chief-minister-remove-constitutional-application-a-conspiracy-barrister-gohar-2814129/",
+        "source": "Express",
+        "date": "2026-05-21T12:18:59+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایران کا افزودہ یورینیئم کس ملک کے پاس جائے گا؟ سپریم لیڈر کا پالیسی بیان سامنے آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814128/iran-supreme-leader-mujtaba-khamenei-uranium-enrichment-us-israel-demand-2814128/",
+        "source": "Express",
+        "date": "2026-05-21T12:14:28+00:00",
+        "img": ""
+      },
+      {
+        "title": "خیبرپختونخوا میں سیکیورٹی فورسز کی کارروائیاں، 48 گھنٹوں میں مزید 23 خوارج ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814127/security-forces-killed-more-23-khawarij-in-kpk-2814127/",
+        "source": "Express",
+        "date": "2026-05-21T11:29:50+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں بس کی ٹکر سے لڑکی جاں بحق، رواں سال ٹریفک حادثات میں اب تک 390 شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814126/karachi-traffic-accident-death-toll-reaches-390-2814126/",
+        "source": "Express",
+        "date": "2026-05-21T11:25:27+00:00",
         "img": ""
       },
       {
@@ -3540,6 +3620,14 @@
         "url": "https://www.express.pk/story/2814122/putin-told-chinas-xi-that-russia-open-to-storing-irans-enriched-uranium-kremlin-2814122/",
         "source": "Express",
         "date": "2026-05-21T10:44:19+00:00",
+        "img": ""
+      },
+      {
+        "title": "پی ٹی آئی نے قائمہ کمیٹیوں میں واپسی پر غور شروع کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814119/pti-begins-considering-return-to-standing-committees-2814119/",
+        "source": "Express",
+        "date": "2026-05-21T10:16:37+00:00",
         "img": ""
       },
       {
@@ -3572,99 +3660,59 @@
         "url": "https://www.express.pk/story/2814113/just-after-china-visit-us-trump-want-to-meet-taiwan-president-lai-ching-te-2814113/",
         "source": "Express",
         "date": "2026-05-21T09:25:14+00:00",
-        "img": ""
-      },
-      {
-        "title": "حکومت نے ٹیکس ریونیو بڑھانے کیلیے آئی ایم ایف کی شرائط پر عملدرآمد تیز کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814111/govt-imf-conditions-implementation-accelerated-2814111/",
-        "source": "Express",
-        "date": "2026-05-21T09:18:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف وفد مذاکرات مکمل کرکے واپس روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814110/imf-delegation-talks-complete-2814110/",
-        "source": "Express",
-        "date": "2026-05-21T09:02:14+00:00",
-        "img": ""
-      },
-      {
-        "title": "سپریم جوڈیشل کونسل نے چیف جسٹس یحییٰ آفریدی کیخلاف 5 درخواستیں متفقہ طور پر خارج کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814107/supreme-juidical-coucil-quash-5-applicaitions-against-justice-yahya-afridi-2814107/",
-        "source": "Express",
-        "date": "2026-05-21T08:24:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "شہری کے اغوا کا مقدمہ، منیب بٹ کی ضمانت قبل از گرفتاری منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814106/citizens-kidnapping-muneeb-butt-granted-pre-arrest-bail-2814106/",
-        "source": "Express",
-        "date": "2026-05-21T08:14:35+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران توقع سے زیادہ تیزی سے جنگی قوت بحال کر رہا ہے، چین کی مدد شامل ہے؛ انٹیلی جنس رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814105/iran-rebuilding-much-faster-than-expected-cnn-claim-2814105/",
-        "source": "Express",
-        "date": "2026-05-21T07:56:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "فخر ہے دنیا چین کے بغیر ترقی نہیں کرسکتی، وزیراعظم شہباز شریف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814104/proud-world-development-china-prime-minister-shehbaz-2814104/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان چین کے بنیادی قومی مفادات اور ون چائنا پالیسی کی حمایت کرتا ہے، صدر زرداری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814103/pakistan-supports-chinas-core-national-interests-and-one-china-policy-president-zardari-2814103/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
-        "title": "شیر افضل نے گنڈاپور کو بطور وزیراعلیٰ بحال کرنے کیلیے آئینی عدالت میں درخواست دائر کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814102/sher-afzal-files-petition-in-constitutional-court-to-reinstate-gandapur-as-cm-2814102/",
-        "source": "Express",
-        "date": "2026-05-21T07:08:43+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی بی آر ٹی ریڈ لائن لاٹ 2 منصوبے کی تعمیر تیز کرنے کی منظوری دے دی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814101/approval-granted-to-accelerate-construction-of-karachi-brt-red-line-lot-2-project-2814101/",
-        "source": "Express",
-        "date": "2026-05-21T07:03:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان اور آذربائیجان کا مختلف شعبوں میں وسیع اشتراک پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814099/pakistan-azerbaijan-agree-on-extensive-cooperation-in-various-sectors-2814099/",
-        "source": "Express",
-        "date": "2026-05-21T06:52:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ خاتون پراسرار طور پر گھر کے زیر زمین پانی کے ٹینک میں ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814098/karachi-woman-mysteriously-dies-after-drowning-in-underground-water-tank-at-home-2814098/",
-        "source": "Express",
-        "date": "2026-05-21T06:41:54+00:00",
         "img": ""
       }
     ],
     "science": [
       {
+        "title": "Researchers develop solar system that turns air moisture into drinking water",
+        "summary": "Researchers develop solar system that turns air moisture into drinking water",
+        "url": "https://arynews.tv/solar-technology-new-water-production-method",
+        "source": "ARY News",
+        "date": "2026-05-21T23:26:30+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Solar-System-making-water.jpg"
+      },
+      {
+        "title": "Salman Atiq makes Pakistan proud on Everest",
+        "summary": "Salman Atiq makes Pakistan proud on Everest",
+        "url": "https://arynews.tv/salman-atiq-makes-pakistan-proud-on-everest",
+        "source": "ARY News",
+        "date": "2026-05-21T23:22:32+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-18.jpg"
+      },
+      {
+        "title": "23 Fitna-al-Khwarij militants including ring leader killed in KP IBOs: ISPR",
+        "summary": "23 Fitna-al-Khwarij militants including ring leader killed in KP IBOs: ISPR",
+        "url": "https://arynews.tv/fitna-al-khwarij-militants-ring-leader-neutralized-ispr",
+        "source": "ARY News",
+        "date": "2026-05-21T22:51:37+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2022/01/pakistan-army-soldiers-2.jpg"
+      },
+      {
+        "title": "Aymen Saleem earns sweet “Papa’s Princess” label after viral moment",
+        "summary": "Aymen Saleem earns sweet “Papa’s Princess” label after viral moment",
+        "url": "https://arynews.tv/aymen-saleem-earns-sweet-papas-princess-label-after-viral-moment",
+        "source": "ARY News",
+        "date": "2026-05-21T22:12:40+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-39.jpg"
+      },
+      {
+        "title": "Rami Malek Steals the Show at Cannes with 8-Minute Standing Ovation for ‘The Man I Love’",
+        "summary": "Rami Malek Steals the Show at Cannes with 8-Minute Standing Ovation for ‘The Man I Love’",
+        "url": "https://arynews.tv/rami-malek-steals-the-show-at-cannes-with-8-minute-standing-ovation-for-the-man-i-love",
+        "source": "ARY News",
+        "date": "2026-05-21T21:44:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Rami-Malek.jpg"
+      },
+      {
+        "title": "Iran tolling Strait of Hormuz would collapse chances of diplomatic deal: Rubio",
+        "summary": "Iran tolling Strait of Hormuz would collapse chances of diplomatic deal: Rubio",
+        "url": "https://arynews.tv/iran-war-marco-rubio-criticize-strait-of-hormuz-tolling",
+        "source": "ARY News",
+        "date": "2026-05-21T21:32:07+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/US-Iran-war-Marco-Rubio.jpg"
+      },
+      {
         "title": "Court issues strict directions in PTI founder £190 million case appeal",
         "summary": "Court issues strict directions in PTI founder £190 million case appeal",
         "url": "https://arynews.tv/imran-khan-190-million-case-update",
@@ -3703,6 +3751,14 @@
         "source": "ARY News",
         "date": "2026-05-21T20:32:13+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Special-Train.jpg"
+      },
+      {
+        "title": "Pakistan announces issuance of new Rs75 commemorative coin",
+        "summary": "Pakistan announces issuance of new Rs75 commemorative coin",
+        "url": "https://arynews.tv/pakistan-to-issue-rs-75-coin",
+        "source": "ARY News",
+        "date": "2026-05-21T20:32:06+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-96.jpg"
       },
       {
         "title": "Sara Tendulkar Slams Paparazzi for Derogatory Comment",
@@ -3807,65 +3863,41 @@
         "source": "ARY News",
         "date": "2026-05-21T18:45:19+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Karachi-road-rage-viral-video.jpg"
-      },
-      {
-        "title": "UK Pound to Pakistani Rupee Rate Today- May 21, 2026",
-        "summary": "UK Pound to Pakistani Rupee Rate Today- May 21, 2026",
-        "url": "https://arynews.tv/uk-pound-to-pakistani-rupee-rate-today-may-21-2026",
-        "source": "ARY News",
-        "date": "2026-05-21T18:26:55+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/08/uk-pound-2.jpg"
-      },
-      {
-        "title": "IMF urges Pakistan to expand tax net, improve revenue collection",
-        "summary": "IMF urges Pakistan to expand tax net, improve revenue collection",
-        "url": "https://arynews.tv/imf-urges-pakistan-to-expand-tax-base",
-        "source": "ARY News",
-        "date": "2026-05-21T18:25:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/IMF-Pakistan.jpg"
-      },
-      {
-        "title": "Dollar and Other Currency Rates Today in Pakistan – May 21, 2026",
-        "summary": "Dollar and Other Currency Rates Today in Pakistan – May 21, 2026",
-        "url": "https://arynews.tv/dollar-urrency-rates-today-in-pakistan-may-21-2026",
-        "source": "ARY News",
-        "date": "2026-05-21T17:56:26+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/09/currency-rates-dollar.jpg"
-      },
-      {
-        "title": "Man arrested in hit-and-run crash that killed food delivery rider",
-        "summary": "Man arrested in hit-and-run crash that killed food delivery rider",
-        "url": "https://arynews.tv/man-arrested-in-hit-and-run-crash-that-killed-food-delivery-rider",
-        "source": "ARY News",
-        "date": "2026-05-21T17:20:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/food-delivery-rider.jpg"
-      },
-      {
-        "title": "Iran’s Hormuz authority claims control of waters south of UAE port",
-        "summary": "Iran’s Hormuz authority claims control of waters south of UAE port",
-        "url": "https://arynews.tv/irans-hormuz-authority-claims-control-waters-south-uae-port",
-        "source": "ARY News",
-        "date": "2026-05-21T16:59:48+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Iran-US.jpg"
-      },
-      {
-        "title": "FCC petition seeks restoration of Ali Amin Gandapur as KP CM",
-        "summary": "FCC petition seeks restoration of Ali Amin Gandapur as KP CM",
-        "url": "https://arynews.tv/fcc-petition-seeks-restoration-ali-amin-gandapur-kp-cm",
-        "source": "ARY News",
-        "date": "2026-05-21T16:42:52+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/01/Ali-AMin-Gandapur.png"
-      },
-      {
-        "title": "Pakistan Railways announces special Eid trains",
-        "summary": "Pakistan Railways announces special Eid trains",
-        "url": "https://arynews.tv/pakistan-railways-announces-special-eid-trains",
-        "source": "ARY News",
-        "date": "2026-05-21T16:41:26+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2024/02/PR.jpg"
       }
     ],
     "sports": [
+      {
+        "title": "Salman Atiq makes Pakistan proud on Everest",
+        "summary": "Salman Atiq makes Pakistan proud on Everest",
+        "url": "https://arynews.tv/category/sports/salman-atiq-makes-pakistan-proud-on-everest",
+        "source": "ARY Sports",
+        "date": "2026-05-21T23:22:32+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-18.jpg"
+      },
+      {
+        "title": "فیفا ورلڈ کپ؛ میئر نیویارک زہران ممدانی کا شہریوں کیلیے سستے ٹکٹس کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814143/fifa-world-cup-new-york-mayor-announces-cheaper-tickets-for-citizens-after-public-backlash-2814143/",
+        "source": "Express",
+        "date": "2026-05-21T18:37:06+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں 2 دکانداروں کو 25 لاکھ روپے بھتے کی پرچیاں موصول",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814141/two-shopkeepers-in-karachi-receive-rs-25-million-bhatta-calls-2814141/",
+        "source": "Express",
+        "date": "2026-05-21T17:58:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "شعیب اختر کی قومی ٹیم پر سخت تنقید، ون ڈے اور ٹی ٹوئنٹی کی کپتانی کیلیے نئی تجویز دے دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814131/shoaib-akhtar-strongly-criticized-the-national-team-2814131/",
+        "source": "Express",
+        "date": "2026-05-21T17:29:47+05:00",
+        "img": ""
+      },
       {
         "title": "بھارت میں ’کاکروچ جنتا پارٹی‘ کو بڑا دھچکا، وائرل تحریک کا ایکس اکاؤنٹ بند",
         "summary": "",
@@ -3923,11 +3955,67 @@
         "img": ""
       },
       {
-        "title": "آبنائے ہرمز سیکیورٹی مشن میں نیٹو کی شمولیت نہیں چاہتے؛ فرانس",
+        "title": "ہم مذاکرات چاہتے ہیں، اس فیصلے کو کمزوری نہ سمجھا جائے، قائد حزب اختلاف",
         "summary": "",
-        "url": "https://www.express.pk/story/2814109/france-nato-strait-of-hormuz-security-mission-2814109/",
+        "url": "https://www.express.pk/story/2814142/we-want-dialogue-decision-should-not-weakness-opposition-leader-2814142/",
         "source": "Express",
-        "date": "2026-05-21T13:44:40+05:00",
+        "date": "2026-05-21T13:10:24+00:00",
+        "img": ""
+      },
+      {
+        "title": "آئی ایم ایف سے قسط موصولی کے بعد زرمبادلہ کے ذخائر 22 ارب 58 کروڑ سے تجاوز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814139/imf-tranche-reserve-over-22-billion-580-million-dollar-2814139/",
+        "source": "Express",
+        "date": "2026-05-21T12:57:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "کسی ملک کو آبنائے ہرمز میں ٹول ٹیکس لینے نہیں دیں گے؛ صدر ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814136/us-trump-strait-of-hurmuz-tool-tax-iran-2814136/",
+        "source": "Express",
+        "date": "2026-05-21T12:50:35+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیراعظم شہباز شریف 23 سے 26 مئی تک چین کا سرکاری دورہ کریں گے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814132/prime-minister-shehbaz-sharif-official-visit-china-23-to-26-may-2814132/",
+        "source": "Express",
+        "date": "2026-05-21T12:31:24+00:00",
+        "img": ""
+      },
+      {
+        "title": "شیرافضل کی وزیراعلیٰ کے پی کو ہٹانے کی آئینی درخواست ایک سازش ہے، بیرسٹر گوہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814129/shair-afzal-attempt-chief-minister-remove-constitutional-application-a-conspiracy-barrister-gohar-2814129/",
+        "source": "Express",
+        "date": "2026-05-21T12:18:59+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایران کا افزودہ یورینیئم کس ملک کے پاس جائے گا؟ سپریم لیڈر کا پالیسی بیان سامنے آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814128/iran-supreme-leader-mujtaba-khamenei-uranium-enrichment-us-israel-demand-2814128/",
+        "source": "Express",
+        "date": "2026-05-21T12:14:28+00:00",
+        "img": ""
+      },
+      {
+        "title": "خیبرپختونخوا میں سیکیورٹی فورسز کی کارروائیاں، 48 گھنٹوں میں مزید 23 خوارج ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814127/security-forces-killed-more-23-khawarij-in-kpk-2814127/",
+        "source": "Express",
+        "date": "2026-05-21T11:29:50+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں بس کی ٹکر سے لڑکی جاں بحق، رواں سال ٹریفک حادثات میں اب تک 390 شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814126/karachi-traffic-accident-death-toll-reaches-390-2814126/",
+        "source": "Express",
+        "date": "2026-05-21T11:25:27+00:00",
         "img": ""
       },
       {
@@ -3944,6 +4032,14 @@
         "url": "https://www.express.pk/story/2814122/putin-told-chinas-xi-that-russia-open-to-storing-irans-enriched-uranium-kremlin-2814122/",
         "source": "Express",
         "date": "2026-05-21T10:44:19+00:00",
+        "img": ""
+      },
+      {
+        "title": "پی ٹی آئی نے قائمہ کمیٹیوں میں واپسی پر غور شروع کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814119/pti-begins-considering-return-to-standing-committees-2814119/",
+        "source": "Express",
+        "date": "2026-05-21T10:16:37+00:00",
         "img": ""
       },
       {
@@ -3976,14 +4072,6 @@
         "url": "https://www.express.pk/story/2814113/just-after-china-visit-us-trump-want-to-meet-taiwan-president-lai-ching-te-2814113/",
         "source": "Express",
         "date": "2026-05-21T09:25:14+00:00",
-        "img": ""
-      },
-      {
-        "title": "حکومت نے ٹیکس ریونیو بڑھانے کیلیے آئی ایم ایف کی شرائط پر عملدرآمد تیز کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814111/govt-imf-conditions-implementation-accelerated-2814111/",
-        "source": "Express",
-        "date": "2026-05-21T09:18:24+00:00",
         "img": ""
       },
       {
@@ -4000,86 +4088,6 @@
         "url": "https://www.dawn.com/news/2001913/samiullah-khan-hints-at-couple-of-changes-in-team-for-fih-pro-league",
         "source": "Dawn",
         "date": "2026-05-21T09:07:32+05:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف وفد مذاکرات مکمل کرکے واپس روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814110/imf-delegation-talks-complete-2814110/",
-        "source": "Express",
-        "date": "2026-05-21T09:02:14+00:00",
-        "img": ""
-      },
-      {
-        "title": "سپریم جوڈیشل کونسل نے چیف جسٹس یحییٰ آفریدی کیخلاف 5 درخواستیں متفقہ طور پر خارج کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814107/supreme-juidical-coucil-quash-5-applicaitions-against-justice-yahya-afridi-2814107/",
-        "source": "Express",
-        "date": "2026-05-21T08:24:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "شہری کے اغوا کا مقدمہ، منیب بٹ کی ضمانت قبل از گرفتاری منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814106/citizens-kidnapping-muneeb-butt-granted-pre-arrest-bail-2814106/",
-        "source": "Express",
-        "date": "2026-05-21T08:14:35+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران توقع سے زیادہ تیزی سے جنگی قوت بحال کر رہا ہے، چین کی مدد شامل ہے؛ انٹیلی جنس رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814105/iran-rebuilding-much-faster-than-expected-cnn-claim-2814105/",
-        "source": "Express",
-        "date": "2026-05-21T07:56:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "فخر ہے دنیا چین کے بغیر ترقی نہیں کرسکتی، وزیراعظم شہباز شریف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814104/proud-world-development-china-prime-minister-shehbaz-2814104/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان چین کے بنیادی قومی مفادات اور ون چائنا پالیسی کی حمایت کرتا ہے، صدر زرداری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814103/pakistan-supports-chinas-core-national-interests-and-one-china-policy-president-zardari-2814103/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
-        "title": "شیر افضل نے گنڈاپور کو بطور وزیراعلیٰ بحال کرنے کیلیے آئینی عدالت میں درخواست دائر کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814102/sher-afzal-files-petition-in-constitutional-court-to-reinstate-gandapur-as-cm-2814102/",
-        "source": "Express",
-        "date": "2026-05-21T07:08:43+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی بی آر ٹی ریڈ لائن لاٹ 2 منصوبے کی تعمیر تیز کرنے کی منظوری دے دی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814101/approval-granted-to-accelerate-construction-of-karachi-brt-red-line-lot-2-project-2814101/",
-        "source": "Express",
-        "date": "2026-05-21T07:03:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان اور آذربائیجان کا مختلف شعبوں میں وسیع اشتراک پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814099/pakistan-azerbaijan-agree-on-extensive-cooperation-in-various-sectors-2814099/",
-        "source": "Express",
-        "date": "2026-05-21T06:52:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ خاتون پراسرار طور پر گھر کے زیر زمین پانی کے ٹینک میں ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814098/karachi-woman-mysteriously-dies-after-drowning-in-underground-water-tank-at-home-2814098/",
-        "source": "Express",
-        "date": "2026-05-21T06:41:54+00:00",
         "img": ""
       },
       {
@@ -4267,14 +4275,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-33.jpg"
       },
       {
-        "title": "Alcaraz withdraws from Wimbledon",
-        "summary": "Alcaraz withdraws from Wimbledon",
-        "url": "https://arynews.tv/category/sports/alcaraz-withdraws-from-wimbledon",
-        "source": "ARY Sports",
-        "date": "2026-05-19T20:24:25+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/256-x-126.webp"
-      },
-      {
         "title": "Taijul puts Bangladesh on brink of Test series win over Pakistan",
         "summary": "<p>Bangladesh are three wickets away from a famous Test series win at home after spinner Taijul Islam took 4-113 to rattle Pakistan despite a rearguard by the opposition batters on Tuesday.</p> <p>Pakistan ended day four on 316-7, needing another 121 runs for victory in what would be a record chase of 437 on the fifth ",
         "url": "https://www.dawn.com/news/2001532/taijul-puts-bangladesh-on-brink-of-test-series-win-over-pakistan",
@@ -4421,6 +4421,30 @@
     ],
     "business": [
       {
+        "title": "فیفا ورلڈ کپ؛ میئر نیویارک زہران ممدانی کا شہریوں کیلیے سستے ٹکٹس کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814143/fifa-world-cup-new-york-mayor-announces-cheaper-tickets-for-citizens-after-public-backlash-2814143/",
+        "source": "Express",
+        "date": "2026-05-21T18:37:06+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں 2 دکانداروں کو 25 لاکھ روپے بھتے کی پرچیاں موصول",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814141/two-shopkeepers-in-karachi-receive-rs-25-million-bhatta-calls-2814141/",
+        "source": "Express",
+        "date": "2026-05-21T17:58:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "شعیب اختر کی قومی ٹیم پر سخت تنقید، ون ڈے اور ٹی ٹوئنٹی کی کپتانی کیلیے نئی تجویز دے دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814131/shoaib-akhtar-strongly-criticized-the-national-team-2814131/",
+        "source": "Express",
+        "date": "2026-05-21T17:29:47+05:00",
+        "img": ""
+      },
+      {
         "title": "بھارت میں ’کاکروچ جنتا پارٹی‘ کو بڑا دھچکا، وائرل تحریک کا ایکس اکاؤنٹ بند",
         "summary": "",
         "url": "https://www.express.pk/story/2814125/big-blow-to-cockroach-janata-party-in-india-viral-movement-x-account-closed-2814125/",
@@ -4477,11 +4501,67 @@
         "img": ""
       },
       {
-        "title": "آبنائے ہرمز سیکیورٹی مشن میں نیٹو کی شمولیت نہیں چاہتے؛ فرانس",
+        "title": "ہم مذاکرات چاہتے ہیں، اس فیصلے کو کمزوری نہ سمجھا جائے، قائد حزب اختلاف",
         "summary": "",
-        "url": "https://www.express.pk/story/2814109/france-nato-strait-of-hormuz-security-mission-2814109/",
+        "url": "https://www.express.pk/story/2814142/we-want-dialogue-decision-should-not-weakness-opposition-leader-2814142/",
         "source": "Express",
-        "date": "2026-05-21T13:44:40+05:00",
+        "date": "2026-05-21T13:10:24+00:00",
+        "img": ""
+      },
+      {
+        "title": "آئی ایم ایف سے قسط موصولی کے بعد زرمبادلہ کے ذخائر 22 ارب 58 کروڑ سے تجاوز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814139/imf-tranche-reserve-over-22-billion-580-million-dollar-2814139/",
+        "source": "Express",
+        "date": "2026-05-21T12:57:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "کسی ملک کو آبنائے ہرمز میں ٹول ٹیکس لینے نہیں دیں گے؛ صدر ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814136/us-trump-strait-of-hurmuz-tool-tax-iran-2814136/",
+        "source": "Express",
+        "date": "2026-05-21T12:50:35+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیراعظم شہباز شریف 23 سے 26 مئی تک چین کا سرکاری دورہ کریں گے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814132/prime-minister-shehbaz-sharif-official-visit-china-23-to-26-may-2814132/",
+        "source": "Express",
+        "date": "2026-05-21T12:31:24+00:00",
+        "img": ""
+      },
+      {
+        "title": "شیرافضل کی وزیراعلیٰ کے پی کو ہٹانے کی آئینی درخواست ایک سازش ہے، بیرسٹر گوہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814129/shair-afzal-attempt-chief-minister-remove-constitutional-application-a-conspiracy-barrister-gohar-2814129/",
+        "source": "Express",
+        "date": "2026-05-21T12:18:59+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایران کا افزودہ یورینیئم کس ملک کے پاس جائے گا؟ سپریم لیڈر کا پالیسی بیان سامنے آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814128/iran-supreme-leader-mujtaba-khamenei-uranium-enrichment-us-israel-demand-2814128/",
+        "source": "Express",
+        "date": "2026-05-21T12:14:28+00:00",
+        "img": ""
+      },
+      {
+        "title": "خیبرپختونخوا میں سیکیورٹی فورسز کی کارروائیاں، 48 گھنٹوں میں مزید 23 خوارج ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814127/security-forces-killed-more-23-khawarij-in-kpk-2814127/",
+        "source": "Express",
+        "date": "2026-05-21T11:29:50+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں بس کی ٹکر سے لڑکی جاں بحق، رواں سال ٹریفک حادثات میں اب تک 390 شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814126/karachi-traffic-accident-death-toll-reaches-390-2814126/",
+        "source": "Express",
+        "date": "2026-05-21T11:25:27+00:00",
         "img": ""
       },
       {
@@ -4517,6 +4597,14 @@
         "img": ""
       },
       {
+        "title": "پی ٹی آئی نے قائمہ کمیٹیوں میں واپسی پر غور شروع کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814119/pti-begins-considering-return-to-standing-committees-2814119/",
+        "source": "Express",
+        "date": "2026-05-21T10:16:37+00:00",
+        "img": ""
+      },
+      {
         "title": "سائٹ کراچی کی سائٹ لمیٹڈ سے علیحدگی کی تجویز، وزیر صنعت کا خصوصی اجلاس طلب کرنے کا عندیہ",
         "summary": "",
         "url": "https://www.express.pk/story/2814118/site-karachi-proposes-separation-from-site-limited-industries-minister-hints-at-calling-a-special-meeting-2814118/",
@@ -4549,43 +4637,11 @@
         "img": ""
       },
       {
-        "title": "حکومت نے ٹیکس ریونیو بڑھانے کیلیے آئی ایم ایف کی شرائط پر عملدرآمد تیز کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814111/govt-imf-conditions-implementation-accelerated-2814111/",
-        "source": "Express",
-        "date": "2026-05-21T09:18:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف وفد مذاکرات مکمل کرکے واپس روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814110/imf-delegation-talks-complete-2814110/",
-        "source": "Express",
-        "date": "2026-05-21T09:02:14+00:00",
-        "img": ""
-      },
-      {
         "title": "UK eases sanctions on Russian jet fuel and diesel imports",
         "summary": "<p>LONDON: British lea­der Keir Starmer defe­n­d­­ed on Wednesday a contentious move to ease san­c­tions on imports of Rus­s­ian jet fuel and diesel as the Middle East war causes prices to spiral.</p> <p>The trade licence, which allows the UK to import Russian crude oil refined in third countries such as India, was hea",
         "url": "https://www.dawn.com/news/2001971/uk-eases-sanctions-on-russian-jet-fuel-and-diesel-imports",
         "source": "Dawn",
         "date": "2026-05-21T08:25:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "سپریم جوڈیشل کونسل نے چیف جسٹس یحییٰ آفریدی کیخلاف 5 درخواستیں متفقہ طور پر خارج کردیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814107/supreme-juidical-coucil-quash-5-applicaitions-against-justice-yahya-afridi-2814107/",
-        "source": "Express",
-        "date": "2026-05-21T08:24:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "شہری کے اغوا کا مقدمہ، منیب بٹ کی ضمانت قبل از گرفتاری منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814106/citizens-kidnapping-muneeb-butt-granted-pre-arrest-bail-2814106/",
-        "source": "Express",
-        "date": "2026-05-21T08:14:35+00:00",
         "img": ""
       },
       {
@@ -4602,30 +4658,6 @@
         "url": "https://www.dawn.com/news/2001947/oil-prices-plunge-6pc-on-middle-east-peace-talks",
         "source": "Dawn",
         "date": "2026-05-21T08:07:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایران توقع سے زیادہ تیزی سے جنگی قوت بحال کر رہا ہے، چین کی مدد شامل ہے؛ انٹیلی جنس رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814105/iran-rebuilding-much-faster-than-expected-cnn-claim-2814105/",
-        "source": "Express",
-        "date": "2026-05-21T07:56:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "فخر ہے دنیا چین کے بغیر ترقی نہیں کرسکتی، وزیراعظم شہباز شریف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814104/proud-world-development-china-prime-minister-shehbaz-2814104/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان چین کے بنیادی قومی مفادات اور ون چائنا پالیسی کی حمایت کرتا ہے، صدر زرداری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814103/pakistan-supports-chinas-core-national-interests-and-one-china-policy-president-zardari-2814103/",
-        "source": "Express",
-        "date": "2026-05-21T07:50:53+00:00",
         "img": ""
       },
       {
@@ -4650,38 +4682,6 @@
         "url": "https://www.dawn.com/news/2001948/food-import-bill-swells-14pc-exports-dip-32pc",
         "source": "Dawn",
         "date": "2026-05-21T07:31:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "شیر افضل نے گنڈاپور کو بطور وزیراعلیٰ بحال کرنے کیلیے آئینی عدالت میں درخواست دائر کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814102/sher-afzal-files-petition-in-constitutional-court-to-reinstate-gandapur-as-cm-2814102/",
-        "source": "Express",
-        "date": "2026-05-21T07:08:43+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی بی آر ٹی ریڈ لائن لاٹ 2 منصوبے کی تعمیر تیز کرنے کی منظوری دے دی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814101/approval-granted-to-accelerate-construction-of-karachi-brt-red-line-lot-2-project-2814101/",
-        "source": "Express",
-        "date": "2026-05-21T07:03:33+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان اور آذربائیجان کا مختلف شعبوں میں وسیع اشتراک پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814099/pakistan-azerbaijan-agree-on-extensive-cooperation-in-various-sectors-2814099/",
-        "source": "Express",
-        "date": "2026-05-21T06:52:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ خاتون پراسرار طور پر گھر کے زیر زمین پانی کے ٹینک میں ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814098/karachi-woman-mysteriously-dies-after-drowning-in-underground-water-tank-at-home-2814098/",
-        "source": "Express",
-        "date": "2026-05-21T06:41:54+00:00",
         "img": ""
       },
       {
