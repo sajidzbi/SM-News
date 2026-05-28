@@ -1,7 +1,71 @@
 {
-  "fetched": "2026-05-27T23:57:39.976727+00:00",
+  "fetched": "2026-05-28T03:52:51.479014+00:00",
   "categories": {
     "international": [
+      {
+        "title": "Passenger van accident kills 13 in central China",
+        "summary": "<p>An overloaded minivan collided with a truck in central China on Thursday, killing 13 people and injuring three, traffic police said.</p> <p>The van, which had a maximum capacity of nine passengers but was carrying 16, hit the rear of the truck while on an expressway in Henan province at 2:40 am (1840 GMT), the traff",
+        "url": "https://www.dawn.com/news/2003520/passenger-van-accident-kills-13-in-central-china",
+        "source": "Dawn",
+        "date": "2026-05-28T08:49:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "PM Shehbaz says Youm-i-Takbeer symbolises Pakistan's strength, sovereignty and national unity",
+        "summary": "<p>Prime Minister Shehbaz Sharif said on Thursday that Youm-i-Takbeer stands as a defining moment in Pakistan’s history when the nation demonstrated unwavering resolve, unity and courage by emerging as a nuclear power and restoring the strategic balance in South Asia.</p> <p>Youm-i-Takbeer marks the historic day of May",
+        "url": "https://www.dawn.com/news/2003518/pm-shehbaz-says-youm-i-takbeer-symbolises-pakistans-strength-sovereignty-and-national-unity",
+        "source": "Dawn",
+        "date": "2026-05-28T08:28:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "Reimagining police stations in Pakistan",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2003386\">https://www.dawn.com/news/2003386</a></p>",
+        "url": "https://www.dawn.com/news/2003513/reimagining-police-stations-in-pakistan",
+        "source": "Dawn",
+        "date": "2026-05-28T07:43:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "The IMF has drifted far beyond its original mandate as a lender of last resort",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2003387\">https://www.dawn.com/news/2003387</a></p>",
+        "url": "https://www.dawn.com/news/2003511/the-imf-has-drifted-far-beyond-its-original-mandate-as-a-lender-of-last-resort",
+        "source": "Dawn",
+        "date": "2026-05-28T07:38:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "Editorial: Trump's push for Muslim countries to join the Abraham Accords is a dangerous and deeply dishonest move",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2003384\">https://www.dawn.com/news/2003384</a></p>",
+        "url": "https://www.dawn.com/news/2003509/editorial-trumps-push-for-muslim-countries-to-join-the-abraham-accords-is-a-dangerous-and-deeply-dishonest-move",
+        "source": "Dawn",
+        "date": "2026-05-28T07:30:36+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایران پر امریکہ کے نئے حملے اور ٹرمپ کی شرط: ’ابراہیمی معاہدے میں سعودی عرب اور دیگر ملک شامل نہ ہوئے تو شاید معاہدہ نہ ہو‘",
+        "summary": "امریکی فوج نے ایران کے ساحلی شہر بندر عباس میں ایک فوجی مقام کو نشانہ بنایا ہے، جبکہ ٹرمپ نے ایران معاہدے کو سعودی عرب سمیت دیگر ممالک کی معاہدہ ابراہیمی میں شمولیت سے مشروط کرنے کا عندیہ دینے کے ساتھ ساتھ دھمکی دی ہے کہ اگر عمان نے آبنائے ہرمز کے حوالے سے دیگر ممالک جیسا رویہ نہ رکھا تو ’ہمیں اس کو تباہ کرنا پڑے گا۔‘",
+        "url": "https://www.bbc.co.uk/urdu/live/cgqpj8dz3vyt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-05-28T03:52:54.304390+00:00",
+        "img": ""
+      },
+      {
+        "title": "ٹرمپ نے ’امریکی اتحادی‘ عمان کو تباہ کرنے کی دھمکی کیوں دی؟",
+        "summary": "امریکی صدر ڈونلڈ ٹرمپ نے بدھ کو وائٹ ہاؤس میں کابینہ کے اجلاس کے دوران صحافیوں سے بات کرتے ہوئے ایک بیان دیا جس میں انھوں نے کہا کہ ’عمان کو باقی سب کسی کی طرح برتاؤ کرنا ہوگا، ورنہ ہمیں انھیں تباہ کرنا پڑے گا۔‘",
+        "url": "https://www.bbc.com/urdu/articles/c302y2mv741o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-05-28T03:49:32+00:00",
+        "img": ""
+      },
+      {
+        "title": "’ہم ایک معجزہ دیکھ رہے ہیں‘: آئی پی ایل کا نیا ریکارڈ اور انڈیا کے 15 سالہ بلے باز جنھیں کرس گیل نے ’چھکے مارنے والی مشین‘ قرار دیا",
+        "summary": "انڈیا کے ابھرتے ہوئے بلے باز ویبھو سوریاونشی نے انڈین پریمیئر لیگ میں ایک اور ایسی اننگز کھیلی ہے جس کے بعد ایک طرف تو کرس گیل نے انھیں ’چھکے مارنے والی مشین‘ قرار دیا ہے تو دوسری جانب سابق انگلینڈ کپتان مائیکل وان نے کہا ہے کہ اب وقت آ چکا ہے کہ انڈیا اس 15 سالہ کھلاڑی کو قومی ٹیم میں شامل کر لے۔",
+        "url": "https://www.bbc.com/urdu/articles/c0q2y972l81o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-05-28T02:28:29+00:00",
+        "img": ""
+      },
       {
         "title": "South Africa added two uncapped players to World Cup squad",
         "summary": "South Africa added two uncapped players to World Cup squad",
@@ -41,14 +105,6 @@
         "source": "ARY News",
         "date": "2026-05-28T00:00:17+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-6-1.jpg"
-      },
-      {
-        "title": "آبنائے ہرمز پر کسی کا کنٹرول نہیں ہوگا، ایران پر عائد پابندیوں میں نرمی پر بات نہیں ہو رہی: صدر ٹرمپ",
-        "summary": "امریکی صدر ڈونلڈ ٹرمپ نے وائٹ ہاؤس میں اپنی کابینہ سے خطاب کرتے ہوئے کہا ہے کہ ’یا تو یہ اسی طریقے سے حل ہو جائے گا، یا پھر ہمیں اسے ختم کرنا پڑے گا۔‘ ایرانی قیادت کا حوالہ دیتے ہوئے امریکی صدر نے کہا کہ ’وہ کمزوری کی پوزیشن سے مذاکرات کر رہے ہیں۔ لیکن دیکھتے ہیں کیا ہوتا ہے۔ ممکن ہے ہمیں واپس جا کر معاملہ مکمل کرنا پڑ",
-        "url": "https://www.bbc.co.uk/urdu/live/cgqpj8dz3vyt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-05-27T23:57:46.110774+00:00",
-        "img": ""
       },
       {
         "title": "Viral fame spares ‘Donald Trump’ buffalo from Eid sacrifice in Bangladesh",
@@ -235,14 +291,6 @@
         "img": ""
       },
       {
-        "title": "No feasts, no joy: Gazans mark a dark Eid",
-        "summary": "<p>New clothes for children, sacrificial sheep and Eid biscuits, the hallmarks of the Muslim holiday, are all either unaffordable or unavailable in Gaza, casting a shadow over what is usually a time of celebration and joy.</p> <p>“I go to the market only to look around because I cannot afford to buy anything. Whenever ",
-        "url": "https://www.dawn.com/news/2003467/no-feasts-no-joy-gazans-mark-a-dark-eid",
-        "source": "Dawn",
-        "date": "2026-05-27T15:36:31+05:00",
-        "img": ""
-      },
-      {
         "title": "CDF Munir spends Eidul Azha with frontline troops in Zhob, says brutal acts cannot weaken nation’s resolve",
         "summary": "<p>Chief of Defence Forces and Chief of the Army Staff Field Marshal Asim Munir on Wednesday spent Eidul Azha with frontline troops deployed in Balochistan’s Zhob and said “inhumane and brutal” acts cannot weaken the resolve of the armed forces or the nation, according to the military’s media wing.</p> <p>On Sunday, at",
         "url": "https://www.dawn.com/news/2003468/cdf-munir-spends-eidul-azha-with-frontline-troops-in-zhob-says-brutal-acts-cannot-weaken-nations-resolve",
@@ -299,20 +347,20 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Israeli-strikes-Lebanon.jpg"
       },
       {
+        "title": "No feasts, no joy: Gazans mark a dark Eid",
+        "summary": "No feasts, no joy: Gazans mark a dark Eid",
+        "url": "https://arynews.tv/no-feasts-no-joy-gazans-mark-a-dark-eid",
+        "source": "ARY News",
+        "date": "2026-05-27T13:28:54+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/gaza.jpg"
+      },
+      {
         "title": "Five killed, three injured in Harnai shooting incident",
         "summary": "Five killed, three injured in Harnai shooting incident",
         "url": "https://arynews.tv/harnai-shooting-incident-update",
         "source": "ARY News",
         "date": "2026-05-27T13:20:36+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Harnai-attack.jpg"
-      },
-      {
-        "title": "In pictures: Muslims across the world celebrate Eidul Azha",
-        "summary": "<p>Muslims across the world celebrated Eidul Azha, also known as the feast of the sacrifice, on Wednesday.</p> <p>Celebrated on the 10th of Zilhaj, Eidul Azha marks the culmination of Haj, one of the five pillars of Islam. It marks the end of the Haj and commemorates Prophet Ibraham’s (AS) readiness to sacrifice his so",
-        "url": "https://www.dawn.com/news/2003459/in-pictures-muslims-across-the-world-celebrate-eidul-azha",
-        "source": "Dawn",
-        "date": "2026-05-27T12:53:24+05:00",
-        "img": ""
       },
       {
         "title": "Israel claims assassination of new Hamas armed wing chief in Gaza strike",
@@ -344,22 +392,6 @@
         "url": "https://www.dawn.com/news/2003457/israel-claims-it-killed-new-hamas-armed-wing-chief-in-gaza-strike",
         "source": "Dawn",
         "date": "2026-05-27T11:49:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "طیارہ شکن توپوں اور دفاعی نظام کے سائے میں ہونے والا حج، ’15 لاکھ سے زائد حجاج مکہ میں خیمہ زن‘",
-        "summary": "سعودی وزارت دفاع کی ویڈیو میں طیارہ شکن توپیں، میزائل شکن نظام، راڈار اور دیگر دفاعی آلات دکھائے گئے ہیں، جبکہ پس منظر میں مکہ کی عمارتیں نظر آتی ہیں۔",
-        "url": "https://www.bbc.com/urdu/articles/cdrpp22pd48o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-05-27T11:49:14+00:00",
-        "img": ""
-      },
-      {
-        "title": "How to make some great momos at home",
-        "summary": "<p><a href=\"https://images.dawn.com/news/1195348/how-to-make-some-great-momos-at-home\">https://images.dawn.com/news/1195348/how-to-make-some-great-momos-at-home</a></p>",
-        "url": "https://www.dawn.com/news/2003455/how-to-make-some-great-momos-at-home",
-        "source": "Dawn",
-        "date": "2026-05-27T11:30:09+05:00",
         "img": ""
       },
       {
@@ -419,22 +451,6 @@
         "img": ""
       },
       {
-        "title": "Over 2,000 workers, 200 vehicles mobilised for Eid cleanliness: Capital Development Authority",
-        "summary": "<p>ISLAMABAD: The Capital Development Authority (CDA) on Tuesday stated that over 2,000 personnel of its Solid Waste Management Directorate, equipped with 200 vehicles and machinery, will perform duties in the special Eidul Azha cleanliness operation.</p> <p>Chairing a meeting, CDA Chairman and Chief Commissioner Islam",
-        "url": "https://www.dawn.com/news/2003434/over-2000-workers-200-vehicles-mobilised-for-eid-cleanliness-capital-development-authority",
-        "source": "Dawn",
-        "date": "2026-05-27T09:46:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "Pakistan plans oil reserves, storage push as Hormuz constraints expose vulnerabilities",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2003379\">https://www.dawn.com/news/2003379</a></p>",
-        "url": "https://www.dawn.com/news/2003422/pakistan-plans-oil-reserves-storage-push-as-hormuz-constraints-expose-vulnerabilities",
-        "source": "Dawn",
-        "date": "2026-05-27T08:14:18+05:00",
-        "img": ""
-      },
-      {
         "title": "Canada’s Telesat eyes secure Italian satellite connectivity contract, sources say",
         "summary": "Canada’s Telesat eyes secure Italian satellite connectivity contract, sources say",
         "url": "https://arynews.tv/telesat-discusses-satellite-services-with-italy",
@@ -472,22 +488,6 @@
         "url": "https://www.bbc.com/urdu/articles/cj0pg460rj8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
         "date": "2026-05-27T03:52:44+00:00",
-        "img": ""
-      },
-      {
-        "title": "عید الاضحیٰ: گرم موسم اور ’اناڑی قصائیوں‘ کی وہ غلطیاں جو قربانی کے گوشت کو خراب اور بدبودار کر سکتی ہیں",
-        "summary": "قربانی کے وقت وہ کون سی غلطی ہے جو جانور کے گوشت میں بدبو بڑھا سکتی ہے؟ اور قربانی کے گوشت کو کتنی دیر بعد دھونا چاہیے؟ جانیے ماہر غذائیت سے کہ گرم موسم میں گوشت کو کیسے خواب ہونے سے بچایا جا سکتا ہے۔",
-        "url": "https://www.bbc.com/urdu/articles/c4g88463y4wo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-05-27T03:02:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "حضرت ابراہیم کی ’بڑی آزمائش‘: قربانی کا تصور اسلام، یہودیت اور مسیحیت میں",
-        "summary": "اسلام کے مذہبی عالم جاوید احمد غامدی کی تحقیق ہے کہ قربانی کی تاریخ پہلے انسان حضرت آدم سے شروع ہوتی ہے جو ایک آزمائش ہے اور اس کا مقصد خدا کی شکر گزاری ہے۔",
-        "url": "https://www.bbc.com/urdu/articles/c0r1yz224n0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-05-27T02:11:49+00:00",
         "img": ""
       },
       {
@@ -555,15 +555,63 @@
         "img": ""
       },
       {
-        "title": "انڈین میزائل حملوں کا نشانہ بننے والے مقامات پر بی بی سی نے ایک برس بعد کیا دیکھا؟",
-        "summary": "اس مختصر جنگ کے ایک سال بعد بی بی سی کے نامہ نگار عمر دراز ننگیانہ اور فرحت جاوید نے ان تینوں مقامات کا دوبارہ دورہ کیا ہے۔",
-        "url": "https://www.bbc.com/urdu/articles/cy72x2g3ry8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "پی آئی اے طیارے کے اغوا سے چاغی میں ’اللہ اکبر‘ کے نعروں تک: جب چاغی پہاڑ کا سیاہ گرینائٹ سفید ہو گیا",
+        "summary": "28 مئی 1998 کو ٹریگرنگ میکینزم ڈیزائن کرنے والے ایک نوجوان افسر محمد ارشد کو جوہری دھماکے کے لیے بٹن دبانے کے لیے منتخب کیا گیا تھا جنھوں نے ’اللہ اکبر‘ کہتے ہوئے اس عمل کی ابتدا کی اور اسی روز سہ پہر 3:16 پر ایک ہی وقت میں پانچ زیرِزمین دھماکوں سے راس کوہ لرز اٹھا۔",
+        "url": "https://www.bbc.com/urdu/articles/c9884xwx889o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
-        "date": "2026-05-07T14:16:23+00:00",
+        "date": "2024-05-28T02:51:24+00:00",
         "img": ""
       }
     ],
     "national": [
+      {
+        "title": "Justice Babar Sattar decides to retain official residence in Islamabad",
+        "summary": "<p>ISLAMABAD: Justice Babar Sattar, who was transferred from the Islamabad High Court (IHC) to the Peshawar High Court (PHC) last month, has decided to continue residing in the federal capital during his tenure at the provincial high court.</p> <p>Sources in the IHC told <em>Dawn</em> that Justice Sattar has formally c",
+        "url": "https://www.dawn.com/news/2003428/justice-babar-sattar-decides-to-retain-official-residence-in-islamabad",
+        "source": "Dawn",
+        "date": "2026-05-28T08:30:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "PM Shehbaz says Youm-i-Takbeer symbolises Pakistan's strength, sovereignty and national unity",
+        "summary": "<p>Prime Minister Shehbaz Sharif said on Thursday that Youm-i-Takbeer stands as a defining moment in Pakistan’s history when the nation demonstrated unwavering resolve, unity and courage by emerging as a nuclear power and restoring the strategic balance in South Asia.</p> <p>Youm-i-Takbeer marks the historic day of May",
+        "url": "https://www.dawn.com/news/2003518/pm-shehbaz-says-youm-i-takbeer-symbolises-pakistans-strength-sovereignty-and-national-unity",
+        "source": "Dawn",
+        "date": "2026-05-28T08:28:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "Development work in Islamabad's E-12 sector finally comes under the radar",
+        "summary": "<p>ISLAMABAD: The incomplete development work in E-12 sector has caught the attention of the current management of the Capital Development Authority (CDA) as its engineering wing has been tasked with taking steps to complete this sector on priority basis.</p> <p>Sources told <em>Dawn</em> that recently CDA Chairman ret",
+        "url": "https://www.dawn.com/news/2003430/development-work-in-islamabads-e-12-sector-finally-comes-under-the-radar",
+        "source": "Dawn",
+        "date": "2026-05-28T08:19:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "International Day of Markhor passes unnoticed in Chitral",
+        "summary": "<p>CHITRAL: The International Day of the Markhor passed unnoticed in Chitral as the local wildlife department failed to hold any ceremony or awareness event to mark the occasion for the second consecutive year. </p> <p>The silence is particularly stark given that Chitral hosts the largest population of Kashmir Markhor ",
+        "url": "https://www.dawn.com/news/2003321/international-day-of-markhor-passes-unnoticed-in-chitral",
+        "source": "Dawn",
+        "date": "2026-05-28T08:17:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "Health experts caution against eating meat immediately after sacrifice",
+        "summary": "<p>KARACHI: Reminding people to remember and implement the spirit of Eidul Azha, health experts on Tuesday urged the public to exercise caution regarding their dietary habits and meat consumption to avoid medical emergencies during the festive occasion.</p> <p>In a statement, Pakistan Medical Association (PMA) Secretar",
+        "url": "https://www.dawn.com/news/2003351/health-experts-caution-against-eating-meat-immediately-after-sacrifice",
+        "source": "Dawn",
+        "date": "2026-05-28T08:06:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "لانڈھی میں پراسرار طور پر زہریلی چیز کھانے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814946/youth-dies-after-mysteriously-consuming-poisonous-substance-in-landhi-2814946/",
+        "source": "Express",
+        "date": "2026-05-28T02:08:44+05:00",
+        "img": ""
+      },
       {
         "title": "South Africa added two uncapped players to World Cup squad",
         "summary": "South Africa added two uncapped players to World Cup squad",
@@ -579,6 +627,22 @@
         "source": "ARY News",
         "date": "2026-05-28T01:35:53+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-8-1.jpg"
+      },
+      {
+        "title": "کراچی، اختر کالونی کے قریب خوفناک ٹریفک حادثہ، ٹینکر سمیت کئی گاڑیاں آپس میں ٹکرا گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814945/terrible-traffic-accident-near-akhtar-colony-karachi-several-vehicles-including-a-tanker-collided-2814945/",
+        "source": "Express",
+        "date": "2026-05-28T01:34:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں فائرنگ کے دو واقعات، 10 سالہ بچی سمیت 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814943/two-shooting-incidents-in-karachi-2-people-including-a-10-year-old-girl-injured-2814943/",
+        "source": "Express",
+        "date": "2026-05-28T01:11:55+05:00",
+        "img": ""
       },
       {
         "title": "Enola Holmes 3 trailer gives fans first clues about new adventure",
@@ -637,12 +701,44 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-32.jpg"
       },
       {
+        "title": "شہباز شریف کا گورنر سندھ نہال ہاشمی کو فون، حج کی سعادت اور عیدالاضحیٰ پر مبارکباد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814944/shahbaz-sharif-calls-sindh-governor-nehal-hashmi-congratulates-him-on-the-occasion-of-hajj-and-eid-ul-adha-2814944/",
+        "source": "Express",
+        "date": "2026-05-27T20:24:55+00:00",
+        "img": ""
+      },
+      {
         "title": "Victoria Beckham opens up about raising kids amid family tension",
         "summary": "Victoria Beckham opens up about raising kids amid family tension",
         "url": "https://arynews.tv/victoria-beckham-opens-up-about-raising-kids-amid-family-tension",
         "source": "ARY News",
         "date": "2026-05-27T19:51:31+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-52.jpg"
+      },
+      {
+        "title": "دفاع وطن کیلئے آخری قطرہ خون بھی بہا دیں گے، یوم تکبیر پر آئی جی پنجاب کا پیغام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814942/ig-punjabs-message-on-youm-e-takbir-we-will-shed-even-the-last-drop-of-blood-to-defend-the-homeland-2814942/",
+        "source": "Express",
+        "date": "2026-05-27T19:29:46+00:00",
+        "img": ""
+      },
+      {
+        "title": "عیدالاضحیٰ پر بلاول بھٹو اور وزیراعظم شہباز شریف کا رابطہ، ملکی امور پر بھی تبادلہ خیال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814941/bilawal-bhutto-and-prime-minister-shehbaz-sharif-contact-on-eid-ul-adha-also-discuss-national-affairs-2814941/",
+        "source": "Express",
+        "date": "2026-05-27T19:19:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کے دفاع، سلامتی اور خودمختاری پر کوئی سمجھوتہ نہیں ہوگا، یوم تکبیر پر مسلح افواج کا عہد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814940/there-will-be-no-compromise-on-pakistans-defense-security-and-sovereignty-vows-the-armed-forces-on-youm-e-takbir-2814940/",
+        "source": "Express",
+        "date": "2026-05-27T19:11:27+00:00",
+        "img": ""
       },
       {
         "title": "Iran war divides world markets into winners, losers",
@@ -717,11 +813,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/12/Hajj-2026.jpg"
       },
       {
+        "title": "جگر کے مریضوں کیلئے آزمائی گئی نئی سیل تھراپی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814930/new-cell-therapy-offers-real-hope-for-liver-disease-patients-2814930/",
+        "source": "Express",
+        "date": "2026-05-27T15:50:16+05:00",
+        "img": ""
+      },
+      {
         "title": "CDF Munir spends Eidul Azha with frontline troops in Zhob, says brutal acts cannot weaken nation’s resolve",
         "summary": "<p>Chief of Defence Forces and Chief of the Army Staff Field Marshal Asim Munir on Wednesday spent Eidul Azha with frontline troops deployed in Balochistan’s Zhob and said “inhumane and brutal” acts cannot weaken the resolve of the armed forces or the nation, according to the military’s media wing.</p> <p>On Sunday, at",
         "url": "https://www.dawn.com/news/2003468/cdf-munir-spends-eidul-azha-with-frontline-troops-in-zhob-says-brutal-acts-cannot-weaken-nations-resolve",
         "source": "Dawn",
         "date": "2026-05-27T15:30:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "ناسا کا چاند پر بیس بنانے سے متعلق اہم اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814928/nasa-ramps-up-its-effort-to-build-2814928/",
+        "source": "Express",
+        "date": "2026-05-27T14:56:16+05:00",
         "img": ""
       },
       {
@@ -741,7 +853,15 @@
         "img": ""
       },
       {
-        "title": "پاکستان کے دفاع پر کوئی سمجھوتہ نہیں ہو گا، یوم تکبیر پر وزیر اعطم کا دوٹوک پیغام",
+        "title": "کوٹری ریلوے اسٹیشن کے قریب مال بردار ٹرین پٹری سے اتر گئی، ڈاؤن ٹریک پر ٹرینوں کی آمدورفت معطل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814938/freight-train-derails-near-kotri-railway-station-train-traffic-suspended-on-down-track-2814938/",
+        "source": "Express",
+        "date": "2026-05-27T14:42:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کا مضبوط ایٹمی دفاع اور مسلح افواج کی تیاری دشمن کے سامنے آہنی دیوار ہے، وزیرِاعظم",
         "summary": "",
         "url": "https://www.express.pk/story/2814937/there-will-be-no-compromise-on-pakistans-defense-the-prime-ministers-categorical-message-on-youm-e-takbir-2814937/",
         "source": "Express",
@@ -795,6 +915,14 @@
         "source": "ARY News",
         "date": "2026-05-27T13:28:54+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/gaza.jpg"
+      },
+      {
+        "title": "بھارت: دنیا بھر سے مختلف قسم کے پیپر کپ جمع کرنے کا ریکارڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814924/indian-man-earns-world-record-2814924/",
+        "source": "Express",
+        "date": "2026-05-27T13:25:41+05:00",
+        "img": ""
       },
       {
         "title": "میئر کراچی کی لاہور سے متعلق بیان پر معذرت",
@@ -853,14 +981,6 @@
         "img": ""
       },
       {
-        "title": "ترک صدر اردوان کی نیتن یاہو پر کڑی تنقید، ’’ظالم‘‘ قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814913/turkish-president-erdogan-strongly-criticises-netanyahu-calls-him-a-tyrant-2814913/",
-        "source": "Express",
-        "date": "2026-05-27T11:30:24+05:00",
-        "img": ""
-      },
-      {
         "title": "ایران وقت گزارنے کی کوشش کرتا رہا لیکن اب معاہدہ کرنے کے سوا کوئی راستہ نہیں؛ ٹرمپ",
         "summary": "",
         "url": "https://www.express.pk/story/2814932/iran-deal-trump-says-wait-is-over-2814932/",
@@ -874,14 +994,6 @@
         "url": "https://www.dawn.com/news/2003454/actor-mamya-shajaffar-issues-rs1b-counter-notice-to-arslan-butt-for-defamation-harassment",
         "source": "Dawn",
         "date": "2026-05-27T11:17:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "فرنچ اوپن: ناؤمی اوساکا منفرد فیشن کرکے مداحوں کی نگاہ کا مرکز بن گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814910/naomi-osaka-sparkles-in-golden-french-open-outfit-2814910/",
-        "source": "Express",
-        "date": "2026-05-27T11:03:55+05:00",
         "img": ""
       },
       {
@@ -901,36 +1013,12 @@
         "img": ""
       },
       {
-        "title": "کراچی: بخاری شاہ مزار کے قریب ٹریفک حادثے میں موٹر سائیکل سوار2افراد جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814907/karachi-two-motorcyclists-killed-in-traffic-accident-near-bukhari-shah-shrine-2814907/",
-        "source": "Express",
-        "date": "2026-05-27T10:43:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "وسیم اکرم کی شیطان کو خطرناک ان سوئنگ یارکر، ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814903/wasim-akram-throws-stones-at-the-devil-in-his-iconic-bowling-style-2814903/",
-        "source": "Express",
-        "date": "2026-05-27T10:38:16+05:00",
-        "img": ""
-      },
-      {
         "title": "PM expresses solidarity with Palestinians, Kashmiris on Eid al-Adha",
         "summary": "PM expresses solidarity with Palestinians, Kashmiris on Eid al-Adha",
         "url": "https://arynews.tv/pm-voices-solidarity-with-palestinians-kashmiris-on-eid-al-adha",
         "source": "ARY News",
         "date": "2026-05-27T10:36:29+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/10/Shehbaz-Sharif.jpg"
-      },
-      {
-        "title": "اسرائیلی فضائیہ کے جنوبی لبنان کے قصبے دبین اور شبعا میں تازہ حملے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814901/israeli-air-raids-target-southern-lebanons-dibbin-and-shebaa-towns-2814901/",
-        "source": "Express",
-        "date": "2026-05-27T10:25:28+05:00",
-        "img": ""
       },
       {
         "title": "Marsh out of Pakistan ODIs, Inglis to captain Australia",
@@ -1045,54 +1133,6 @@
         "img": ""
       },
       {
-        "title": "حالیہ صورتحال میں اصل محاذ اب معاشی جنگ ہے، ایرانی صدر مسعود پزشکیان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814915/main-battleground-now-is-economic-war-says-iranian-president-masoud-pezeshkian-2814915/",
-        "source": "Express",
-        "date": "2026-05-27T06:43:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "افزودہ یورینیم پر امریکا سے کوئی مذاکرات نہیں ہو رہے، ایران کا دوٹوک مؤقف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814911/iran-reaffirms-no-negotiations-with-us-on-enriched-uranium-issue-2814911/",
-        "source": "Express",
-        "date": "2026-05-27T06:05:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: پاکستان اسٹیل ملز سے قیمتی دھاتیں چوری کرنے میں ملوث 5 پولیس اہلکاروں سمیت 10 ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814909/karachi-10-suspects-including-5-police-officers-arrested-for-stealing-precious-metals-from-pakistan-steel-mills-2814909/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:16+00:00",
-        "img": ""
-      },
-      {
-        "title": "افغانستان میں دہشتگردی کے خطرات سے متعلق روسی خدشات نے پاکستان کے مؤقف کی تائید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814908/russian-concerns-about-terrorism-threats-in-afghanistan-support-pakistans-stance-2814908/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:11+00:00",
-        "img": ""
-      },
-      {
-        "title": "فوجی محاذ پر ناکامی کے بعد دشمن ہائبرڈ وارفیئر پر اتر آیا، ایرانی وزارتِ انٹیلی جنس کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814906/iran-claims-enemy-has-turned-to-hybrid-warfare-after-failing-on-military-front-says-intelligence-ministry-2814906/",
-        "source": "Express",
-        "date": "2026-05-27T05:42:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں عید کے روز نوجوان مرد اور خاتون کی لاشیں برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814902/bodies-of-young-man-and-woman-found-in-karachi-on-eid-2814902/",
-        "source": "Express",
-        "date": "2026-05-27T05:29:32+00:00",
-        "img": ""
-      },
-      {
         "title": "Punjab Home Department lists organisations barred from collecting animal hides on Eidul Azha",
         "summary": "<p>The Punjab Home Department on Tuesday issued a list of banned and monitored organisations ahead of Eidul Azha, urging citizens not to donate sacrificial animal hides to such groups or their affiliated organisations.</p> <p>According to a spokesperson for the department, “Providing any kind of assistance to banned or",
         "url": "https://www.dawn.com/news/2003310/punjab-home-department-lists-organisations-barred-from-collecting-animal-hides-on-eidul-azha",
@@ -1117,55 +1157,63 @@
         "img": ""
       },
       {
-        "title": "IT ministry starts registering cloud service providers to ensure data security",
-        "summary": "<p>ISLAMABAD: The Ministry of Information Technology and Telecommunication (MoITT) has started registering cloud service providers (CSPs) to ensure that services meet required standards and safeguard national and public data security.</p> <p>The government had announced strict accreditation criteria for CSPs under the ",
-        "url": "https://www.dawn.com/news/2003294/it-ministry-starts-registering-cloud-service-providers-to-ensure-data-security",
-        "source": "Dawn",
-        "date": "2026-05-26T21:28:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "Jail authorities request medical examination of alleged drug queenpin Anmol over kidney pain",
-        "summary": "<p>KARACHI: The Central jail authorities on Tuesday requested Civil Hospital Karachi to depute a medical team for the examination of alleged drug queenpin Anmol alias Pinky following complaints of kidney issues.</p> <p>In an application dated May 26, the jail superintendent requested that a medical team be deputed for ",
-        "url": "https://www.dawn.com/news/2003283/jail-authorities-request-medical-examination-of-alleged-drug-queenpin-anmol-over-kidney-pain",
-        "source": "Dawn",
-        "date": "2026-05-26T20:31:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "Prince Rahim winds up Pakistan visit after week of meetings with political leadership, development assurances",
-        "summary": "<p>Prince Rahim al-Hussaini Aga Khan V on Tuesday departed Pakistan after completing a week-long visit, during which he met the country’s top political leadership and affirmed his commitment to development in the country.</p> <p>He was seen off at the Nur Khan airbase by Parliamentary Affairs Minister Dr Tariq Fazal Ch",
-        "url": "https://www.dawn.com/news/2003265/prince-rahim-winds-up-pakistan-visit-after-week-of-meetings-with-political-leadership-development-assurances",
-        "source": "Dawn",
-        "date": "2026-05-26T19:14:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "Police arrest suspect in killing of newly married couple in Karachi's Malir: spokesperson",
-        "summary": "<p>KARACHI: The main suspect involved in the killing of a newly married couple in the Malir area yesterday was arrested by police, according to a statement issued by the Korangi police spokesperson on Tuesday.</p> <p>On Monday, a newly married couple was <a href=\"https://www.dawn.com/news/2003054\">shot dead</a> when as",
-        "url": "https://www.dawn.com/news/2003254/police-arrest-suspect-in-killing-of-newly-married-couple-in-karachis-malir-spokesperson",
-        "source": "Dawn",
-        "date": "2026-05-26T17:37:11+05:00",
-        "img": ""
-      },
-      {
         "title": "China, Pakistan reach 'new broad consensus' on boosting ties",
         "summary": "<p>China and Pakistan have reached a new broad consensus on deepening their strategic partnership, according to a joint statement issued by the countries at the end of Prime Minister Shehbaz Sharif’s visit to Beijing.</p> <p>The statement, shared by the Foreign Office (FO) on X, said, “The two sides engaged cordially a",
         "url": "https://www.dawn.com/news/2003203/china-pakistan-reach-new-broad-consensus-on-boosting-ties",
         "source": "Dawn",
         "date": "2026-05-26T14:26:34+05:00",
         "img": ""
-      },
-      {
-        "title": "Punjab PDMA directs district administrations to take precautionary measures amid heatwave during Eid",
-        "summary": "<p>LAHORE: The Provincial Disaster Management Authority (PDMA) has directed district administrations to take precautionary measures due to a heatwave during Eidul Azha holidays.</p> <p>According to the advisory, a heatwave is likely to persist from May 25 to May 31 under the influence of a high-pressure weather system ",
-        "url": "https://www.dawn.com/news/2003207/punjab-pdma-directs-district-administrations-to-take-precautionary-measures-amid-heatwave-during-eid",
-        "source": "Dawn",
-        "date": "2026-05-26T10:23:31+05:00",
-        "img": ""
       }
     ],
     "kpk": [
+      {
+        "title": "Justice Babar Sattar decides to retain official residence in Islamabad",
+        "summary": "<p>ISLAMABAD: Justice Babar Sattar, who was transferred from the Islamabad High Court (IHC) to the Peshawar High Court (PHC) last month, has decided to continue residing in the federal capital during his tenure at the provincial high court.</p> <p>Sources in the IHC told <em>Dawn</em> that Justice Sattar has formally c",
+        "url": "https://www.dawn.com/news/2003428/justice-babar-sattar-decides-to-retain-official-residence-in-islamabad",
+        "source": "Dawn",
+        "date": "2026-05-28T08:30:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "PM Shehbaz says Youm-i-Takbeer symbolises Pakistan's strength, sovereignty and national unity",
+        "summary": "<p>Prime Minister Shehbaz Sharif said on Thursday that Youm-i-Takbeer stands as a defining moment in Pakistan’s history when the nation demonstrated unwavering resolve, unity and courage by emerging as a nuclear power and restoring the strategic balance in South Asia.</p> <p>Youm-i-Takbeer marks the historic day of May",
+        "url": "https://www.dawn.com/news/2003518/pm-shehbaz-says-youm-i-takbeer-symbolises-pakistans-strength-sovereignty-and-national-unity",
+        "source": "Dawn",
+        "date": "2026-05-28T08:28:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "Development work in Islamabad's E-12 sector finally comes under the radar",
+        "summary": "<p>ISLAMABAD: The incomplete development work in E-12 sector has caught the attention of the current management of the Capital Development Authority (CDA) as its engineering wing has been tasked with taking steps to complete this sector on priority basis.</p> <p>Sources told <em>Dawn</em> that recently CDA Chairman ret",
+        "url": "https://www.dawn.com/news/2003430/development-work-in-islamabads-e-12-sector-finally-comes-under-the-radar",
+        "source": "Dawn",
+        "date": "2026-05-28T08:19:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "International Day of Markhor passes unnoticed in Chitral",
+        "summary": "<p>CHITRAL: The International Day of the Markhor passed unnoticed in Chitral as the local wildlife department failed to hold any ceremony or awareness event to mark the occasion for the second consecutive year. </p> <p>The silence is particularly stark given that Chitral hosts the largest population of Kashmir Markhor ",
+        "url": "https://www.dawn.com/news/2003321/international-day-of-markhor-passes-unnoticed-in-chitral",
+        "source": "Dawn",
+        "date": "2026-05-28T08:17:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "Health experts caution against eating meat immediately after sacrifice",
+        "summary": "<p>KARACHI: Reminding people to remember and implement the spirit of Eidul Azha, health experts on Tuesday urged the public to exercise caution regarding their dietary habits and meat consumption to avoid medical emergencies during the festive occasion.</p> <p>In a statement, Pakistan Medical Association (PMA) Secretar",
+        "url": "https://www.dawn.com/news/2003351/health-experts-caution-against-eating-meat-immediately-after-sacrifice",
+        "source": "Dawn",
+        "date": "2026-05-28T08:06:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "لانڈھی میں پراسرار طور پر زہریلی چیز کھانے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814946/youth-dies-after-mysteriously-consuming-poisonous-substance-in-landhi-2814946/",
+        "source": "Express",
+        "date": "2026-05-28T02:08:44+05:00",
+        "img": ""
+      },
       {
         "title": "South Africa added two uncapped players to World Cup squad",
         "summary": "South Africa added two uncapped players to World Cup squad",
@@ -1181,6 +1229,22 @@
         "source": "ARY News",
         "date": "2026-05-28T01:35:53+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-8-1.jpg"
+      },
+      {
+        "title": "کراچی، اختر کالونی کے قریب خوفناک ٹریفک حادثہ، ٹینکر سمیت کئی گاڑیاں آپس میں ٹکرا گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814945/terrible-traffic-accident-near-akhtar-colony-karachi-several-vehicles-including-a-tanker-collided-2814945/",
+        "source": "Express",
+        "date": "2026-05-28T01:34:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں فائرنگ کے دو واقعات، 10 سالہ بچی سمیت 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814943/two-shooting-incidents-in-karachi-2-people-including-a-10-year-old-girl-injured-2814943/",
+        "source": "Express",
+        "date": "2026-05-28T01:11:55+05:00",
+        "img": ""
       },
       {
         "title": "Enola Holmes 3 trailer gives fans first clues about new adventure",
@@ -1239,12 +1303,44 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-32.jpg"
       },
       {
+        "title": "شہباز شریف کا گورنر سندھ نہال ہاشمی کو فون، حج کی سعادت اور عیدالاضحیٰ پر مبارکباد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814944/shahbaz-sharif-calls-sindh-governor-nehal-hashmi-congratulates-him-on-the-occasion-of-hajj-and-eid-ul-adha-2814944/",
+        "source": "Express",
+        "date": "2026-05-27T20:24:55+00:00",
+        "img": ""
+      },
+      {
         "title": "Victoria Beckham opens up about raising kids amid family tension",
         "summary": "Victoria Beckham opens up about raising kids amid family tension",
         "url": "https://arynews.tv/victoria-beckham-opens-up-about-raising-kids-amid-family-tension",
         "source": "ARY News",
         "date": "2026-05-27T19:51:31+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-52.jpg"
+      },
+      {
+        "title": "دفاع وطن کیلئے آخری قطرہ خون بھی بہا دیں گے، یوم تکبیر پر آئی جی پنجاب کا پیغام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814942/ig-punjabs-message-on-youm-e-takbir-we-will-shed-even-the-last-drop-of-blood-to-defend-the-homeland-2814942/",
+        "source": "Express",
+        "date": "2026-05-27T19:29:46+00:00",
+        "img": ""
+      },
+      {
+        "title": "عیدالاضحیٰ پر بلاول بھٹو اور وزیراعظم شہباز شریف کا رابطہ، ملکی امور پر بھی تبادلہ خیال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814941/bilawal-bhutto-and-prime-minister-shehbaz-sharif-contact-on-eid-ul-adha-also-discuss-national-affairs-2814941/",
+        "source": "Express",
+        "date": "2026-05-27T19:19:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کے دفاع، سلامتی اور خودمختاری پر کوئی سمجھوتہ نہیں ہوگا، یوم تکبیر پر مسلح افواج کا عہد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814940/there-will-be-no-compromise-on-pakistans-defense-security-and-sovereignty-vows-the-armed-forces-on-youm-e-takbir-2814940/",
+        "source": "Express",
+        "date": "2026-05-27T19:11:27+00:00",
+        "img": ""
       },
       {
         "title": "Iran war divides world markets into winners, losers",
@@ -1317,6 +1413,14 @@
         "source": "ARY News",
         "date": "2026-05-27T15:57:48+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/12/Hajj-2026.jpg"
+      },
+      {
+        "title": "جگر کے مریضوں کیلئے آزمائی گئی نئی سیل تھراپی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814930/new-cell-therapy-offers-real-hope-for-liver-disease-patients-2814930/",
+        "source": "Express",
+        "date": "2026-05-27T15:50:16+05:00",
+        "img": ""
       },
       {
         "title": "CDF Munir spends Eidul Azha with frontline troops in Zhob, says brutal acts cannot weaken nation’s resolve",
@@ -1359,6 +1463,14 @@
         "img": ""
       },
       {
+        "title": "ناسا کا چاند پر بیس بنانے سے متعلق اہم اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814928/nasa-ramps-up-its-effort-to-build-2814928/",
+        "source": "Express",
+        "date": "2026-05-27T14:56:16+05:00",
+        "img": ""
+      },
+      {
         "title": "Field Marshal celebrates Eid al-Adha with frontline troops in Zhob, Balochistan: ISPR",
         "summary": "Field Marshal celebrates Eid al-Adha with frontline troops in Zhob, Balochistan: ISPR",
         "url": "https://arynews.tv/field-marshal-celebrates-eid-al-adha-with-frontline-troops-in-zhob",
@@ -1375,7 +1487,15 @@
         "img": ""
       },
       {
-        "title": "پاکستان کے دفاع پر کوئی سمجھوتہ نہیں ہو گا، یوم تکبیر پر وزیر اعطم کا دوٹوک پیغام",
+        "title": "کوٹری ریلوے اسٹیشن کے قریب مال بردار ٹرین پٹری سے اتر گئی، ڈاؤن ٹریک پر ٹرینوں کی آمدورفت معطل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814938/freight-train-derails-near-kotri-railway-station-train-traffic-suspended-on-down-track-2814938/",
+        "source": "Express",
+        "date": "2026-05-27T14:42:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کا مضبوط ایٹمی دفاع اور مسلح افواج کی تیاری دشمن کے سامنے آہنی دیوار ہے، وزیرِاعظم",
         "summary": "",
         "url": "https://www.express.pk/story/2814937/there-will-be-no-compromise-on-pakistans-defense-the-prime-ministers-categorical-message-on-youm-e-takbir-2814937/",
         "source": "Express",
@@ -1429,6 +1549,14 @@
         "source": "ARY News",
         "date": "2026-05-27T13:28:54+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/gaza.jpg"
+      },
+      {
+        "title": "بھارت: دنیا بھر سے مختلف قسم کے پیپر کپ جمع کرنے کا ریکارڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814924/indian-man-earns-world-record-2814924/",
+        "source": "Express",
+        "date": "2026-05-27T13:25:41+05:00",
+        "img": ""
       },
       {
         "title": "میئر کراچی کی لاہور سے متعلق بیان پر معذرت",
@@ -1487,14 +1615,6 @@
         "img": ""
       },
       {
-        "title": "ترک صدر اردوان کی نیتن یاہو پر کڑی تنقید، ’’ظالم‘‘ قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814913/turkish-president-erdogan-strongly-criticises-netanyahu-calls-him-a-tyrant-2814913/",
-        "source": "Express",
-        "date": "2026-05-27T11:30:24+05:00",
-        "img": ""
-      },
-      {
         "title": "ایران وقت گزارنے کی کوشش کرتا رہا لیکن اب معاہدہ کرنے کے سوا کوئی راستہ نہیں؛ ٹرمپ",
         "summary": "",
         "url": "https://www.express.pk/story/2814932/iran-deal-trump-says-wait-is-over-2814932/",
@@ -1508,14 +1628,6 @@
         "url": "https://www.dawn.com/news/2003454/actor-mamya-shajaffar-issues-rs1b-counter-notice-to-arslan-butt-for-defamation-harassment",
         "source": "Dawn",
         "date": "2026-05-27T11:17:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "فرنچ اوپن: ناؤمی اوساکا منفرد فیشن کرکے مداحوں کی نگاہ کا مرکز بن گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814910/naomi-osaka-sparkles-in-golden-french-open-outfit-2814910/",
-        "source": "Express",
-        "date": "2026-05-27T11:03:55+05:00",
         "img": ""
       },
       {
@@ -1535,36 +1647,12 @@
         "img": ""
       },
       {
-        "title": "کراچی: بخاری شاہ مزار کے قریب ٹریفک حادثے میں موٹر سائیکل سوار2افراد جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814907/karachi-two-motorcyclists-killed-in-traffic-accident-near-bukhari-shah-shrine-2814907/",
-        "source": "Express",
-        "date": "2026-05-27T10:43:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "وسیم اکرم کی شیطان کو خطرناک ان سوئنگ یارکر، ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814903/wasim-akram-throws-stones-at-the-devil-in-his-iconic-bowling-style-2814903/",
-        "source": "Express",
-        "date": "2026-05-27T10:38:16+05:00",
-        "img": ""
-      },
-      {
         "title": "PM expresses solidarity with Palestinians, Kashmiris on Eid al-Adha",
         "summary": "PM expresses solidarity with Palestinians, Kashmiris on Eid al-Adha",
         "url": "https://arynews.tv/pm-voices-solidarity-with-palestinians-kashmiris-on-eid-al-adha",
         "source": "ARY News",
         "date": "2026-05-27T10:36:29+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/10/Shehbaz-Sharif.jpg"
-      },
-      {
-        "title": "اسرائیلی فضائیہ کے جنوبی لبنان کے قصبے دبین اور شبعا میں تازہ حملے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814901/israeli-air-raids-target-southern-lebanons-dibbin-and-shebaa-towns-2814901/",
-        "source": "Express",
-        "date": "2026-05-27T10:25:28+05:00",
-        "img": ""
       },
       {
         "title": "Marsh out of Pakistan ODIs, Inglis to captain Australia",
@@ -1679,54 +1767,6 @@
         "img": ""
       },
       {
-        "title": "حالیہ صورتحال میں اصل محاذ اب معاشی جنگ ہے، ایرانی صدر مسعود پزشکیان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814915/main-battleground-now-is-economic-war-says-iranian-president-masoud-pezeshkian-2814915/",
-        "source": "Express",
-        "date": "2026-05-27T06:43:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "افزودہ یورینیم پر امریکا سے کوئی مذاکرات نہیں ہو رہے، ایران کا دوٹوک مؤقف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814911/iran-reaffirms-no-negotiations-with-us-on-enriched-uranium-issue-2814911/",
-        "source": "Express",
-        "date": "2026-05-27T06:05:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: پاکستان اسٹیل ملز سے قیمتی دھاتیں چوری کرنے میں ملوث 5 پولیس اہلکاروں سمیت 10 ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814909/karachi-10-suspects-including-5-police-officers-arrested-for-stealing-precious-metals-from-pakistan-steel-mills-2814909/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:16+00:00",
-        "img": ""
-      },
-      {
-        "title": "افغانستان میں دہشتگردی کے خطرات سے متعلق روسی خدشات نے پاکستان کے مؤقف کی تائید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814908/russian-concerns-about-terrorism-threats-in-afghanistan-support-pakistans-stance-2814908/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:11+00:00",
-        "img": ""
-      },
-      {
-        "title": "فوجی محاذ پر ناکامی کے بعد دشمن ہائبرڈ وارفیئر پر اتر آیا، ایرانی وزارتِ انٹیلی جنس کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814906/iran-claims-enemy-has-turned-to-hybrid-warfare-after-failing-on-military-front-says-intelligence-ministry-2814906/",
-        "source": "Express",
-        "date": "2026-05-27T05:42:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں عید کے روز نوجوان مرد اور خاتون کی لاشیں برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814902/bodies-of-young-man-and-woman-found-in-karachi-on-eid-2814902/",
-        "source": "Express",
-        "date": "2026-05-27T05:29:32+00:00",
-        "img": ""
-      },
-      {
         "title": "Punjab Home Department lists organisations barred from collecting animal hides on Eidul Azha",
         "summary": "<p>The Punjab Home Department on Tuesday issued a list of banned and monitored organisations ahead of Eidul Azha, urging citizens not to donate sacrificial animal hides to such groups or their affiliated organisations.</p> <p>According to a spokesperson for the department, “Providing any kind of assistance to banned or",
         "url": "https://www.dawn.com/news/2003310/punjab-home-department-lists-organisations-barred-from-collecting-animal-hides-on-eidul-azha",
@@ -1751,51 +1791,11 @@
         "img": ""
       },
       {
-        "title": "IT ministry starts registering cloud service providers to ensure data security",
-        "summary": "<p>ISLAMABAD: The Ministry of Information Technology and Telecommunication (MoITT) has started registering cloud service providers (CSPs) to ensure that services meet required standards and safeguard national and public data security.</p> <p>The government had announced strict accreditation criteria for CSPs under the ",
-        "url": "https://www.dawn.com/news/2003294/it-ministry-starts-registering-cloud-service-providers-to-ensure-data-security",
-        "source": "Dawn",
-        "date": "2026-05-26T21:28:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "Jail authorities request medical examination of alleged drug queenpin Anmol over kidney pain",
-        "summary": "<p>KARACHI: The Central jail authorities on Tuesday requested Civil Hospital Karachi to depute a medical team for the examination of alleged drug queenpin Anmol alias Pinky following complaints of kidney issues.</p> <p>In an application dated May 26, the jail superintendent requested that a medical team be deputed for ",
-        "url": "https://www.dawn.com/news/2003283/jail-authorities-request-medical-examination-of-alleged-drug-queenpin-anmol-over-kidney-pain",
-        "source": "Dawn",
-        "date": "2026-05-26T20:31:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "Prince Rahim winds up Pakistan visit after week of meetings with political leadership, development assurances",
-        "summary": "<p>Prince Rahim al-Hussaini Aga Khan V on Tuesday departed Pakistan after completing a week-long visit, during which he met the country’s top political leadership and affirmed his commitment to development in the country.</p> <p>He was seen off at the Nur Khan airbase by Parliamentary Affairs Minister Dr Tariq Fazal Ch",
-        "url": "https://www.dawn.com/news/2003265/prince-rahim-winds-up-pakistan-visit-after-week-of-meetings-with-political-leadership-development-assurances",
-        "source": "Dawn",
-        "date": "2026-05-26T19:14:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "Police arrest suspect in killing of newly married couple in Karachi's Malir: spokesperson",
-        "summary": "<p>KARACHI: The main suspect involved in the killing of a newly married couple in the Malir area yesterday was arrested by police, according to a statement issued by the Korangi police spokesperson on Tuesday.</p> <p>On Monday, a newly married couple was <a href=\"https://www.dawn.com/news/2003054\">shot dead</a> when as",
-        "url": "https://www.dawn.com/news/2003254/police-arrest-suspect-in-killing-of-newly-married-couple-in-karachis-malir-spokesperson",
-        "source": "Dawn",
-        "date": "2026-05-26T17:37:11+05:00",
-        "img": ""
-      },
-      {
         "title": "China, Pakistan reach 'new broad consensus' on boosting ties",
         "summary": "<p>China and Pakistan have reached a new broad consensus on deepening their strategic partnership, according to a joint statement issued by the countries at the end of Prime Minister Shehbaz Sharif’s visit to Beijing.</p> <p>The statement, shared by the Foreign Office (FO) on X, said, “The two sides engaged cordially a",
         "url": "https://www.dawn.com/news/2003203/china-pakistan-reach-new-broad-consensus-on-boosting-ties",
         "source": "Dawn",
         "date": "2026-05-26T14:26:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "Punjab PDMA directs district administrations to take precautionary measures amid heatwave during Eid",
-        "summary": "<p>LAHORE: The Provincial Disaster Management Authority (PDMA) has directed district administrations to take precautionary measures due to a heatwave during Eidul Azha holidays.</p> <p>According to the advisory, a heatwave is likely to persist from May 25 to May 31 under the influence of a high-pressure weather system ",
-        "url": "https://www.dawn.com/news/2003207/punjab-pdma-directs-district-administrations-to-take-precautionary-measures-amid-heatwave-during-eid",
-        "source": "Dawn",
-        "date": "2026-05-26T10:23:31+05:00",
         "img": ""
       },
       {
@@ -1849,11 +1849,107 @@
     ],
     "punjab": [
       {
+        "title": "Justice Babar Sattar decides to retain official residence in Islamabad",
+        "summary": "<p>ISLAMABAD: Justice Babar Sattar, who was transferred from the Islamabad High Court (IHC) to the Peshawar High Court (PHC) last month, has decided to continue residing in the federal capital during his tenure at the provincial high court.</p> <p>Sources in the IHC told <em>Dawn</em> that Justice Sattar has formally c",
+        "url": "https://www.dawn.com/news/2003428/justice-babar-sattar-decides-to-retain-official-residence-in-islamabad",
+        "source": "Dawn",
+        "date": "2026-05-28T08:30:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "PM Shehbaz says Youm-i-Takbeer symbolises Pakistan's strength, sovereignty and national unity",
+        "summary": "<p>Prime Minister Shehbaz Sharif said on Thursday that Youm-i-Takbeer stands as a defining moment in Pakistan’s history when the nation demonstrated unwavering resolve, unity and courage by emerging as a nuclear power and restoring the strategic balance in South Asia.</p> <p>Youm-i-Takbeer marks the historic day of May",
+        "url": "https://www.dawn.com/news/2003518/pm-shehbaz-says-youm-i-takbeer-symbolises-pakistans-strength-sovereignty-and-national-unity",
+        "source": "Dawn",
+        "date": "2026-05-28T08:28:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "Development work in Islamabad's E-12 sector finally comes under the radar",
+        "summary": "<p>ISLAMABAD: The incomplete development work in E-12 sector has caught the attention of the current management of the Capital Development Authority (CDA) as its engineering wing has been tasked with taking steps to complete this sector on priority basis.</p> <p>Sources told <em>Dawn</em> that recently CDA Chairman ret",
+        "url": "https://www.dawn.com/news/2003430/development-work-in-islamabads-e-12-sector-finally-comes-under-the-radar",
+        "source": "Dawn",
+        "date": "2026-05-28T08:19:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "International Day of Markhor passes unnoticed in Chitral",
+        "summary": "<p>CHITRAL: The International Day of the Markhor passed unnoticed in Chitral as the local wildlife department failed to hold any ceremony or awareness event to mark the occasion for the second consecutive year. </p> <p>The silence is particularly stark given that Chitral hosts the largest population of Kashmir Markhor ",
+        "url": "https://www.dawn.com/news/2003321/international-day-of-markhor-passes-unnoticed-in-chitral",
+        "source": "Dawn",
+        "date": "2026-05-28T08:17:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "Health experts caution against eating meat immediately after sacrifice",
+        "summary": "<p>KARACHI: Reminding people to remember and implement the spirit of Eidul Azha, health experts on Tuesday urged the public to exercise caution regarding their dietary habits and meat consumption to avoid medical emergencies during the festive occasion.</p> <p>In a statement, Pakistan Medical Association (PMA) Secretar",
+        "url": "https://www.dawn.com/news/2003351/health-experts-caution-against-eating-meat-immediately-after-sacrifice",
+        "source": "Dawn",
+        "date": "2026-05-28T08:06:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "لانڈھی میں پراسرار طور پر زہریلی چیز کھانے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814946/youth-dies-after-mysteriously-consuming-poisonous-substance-in-landhi-2814946/",
+        "source": "Express",
+        "date": "2026-05-28T02:08:44+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اختر کالونی کے قریب خوفناک ٹریفک حادثہ، ٹینکر سمیت کئی گاڑیاں آپس میں ٹکرا گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814945/terrible-traffic-accident-near-akhtar-colony-karachi-several-vehicles-including-a-tanker-collided-2814945/",
+        "source": "Express",
+        "date": "2026-05-28T01:34:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں فائرنگ کے دو واقعات، 10 سالہ بچی سمیت 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814943/two-shooting-incidents-in-karachi-2-people-including-a-10-year-old-girl-injured-2814943/",
+        "source": "Express",
+        "date": "2026-05-28T01:11:55+05:00",
+        "img": ""
+      },
+      {
         "title": "'US-Iran peace deal could benefit entire region,' PM tells Pezeshkian in Eid call",
         "summary": "<p>Prime Minister Shehbaz Sharif in a telephonic conversation with Iranian President Masoud Pezeshkian on Wednesday hoped that a peace deal between Iran and the US could be finalised soon.</p> <p>The Prime Minister’s Office in a statement said that President Pezeshkian had telephoned PM Shehbaz to extend Eid greetings ",
         "url": "https://www.dawn.com/news/2003497/us-iran-peace-deal-could-benefit-entire-region-pm-tells-pezeshkian-in-eid-call",
         "source": "Dawn",
         "date": "2026-05-27T23:01:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "شہباز شریف کا گورنر سندھ نہال ہاشمی کو فون، حج کی سعادت اور عیدالاضحیٰ پر مبارکباد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814944/shahbaz-sharif-calls-sindh-governor-nehal-hashmi-congratulates-him-on-the-occasion-of-hajj-and-eid-ul-adha-2814944/",
+        "source": "Express",
+        "date": "2026-05-27T20:24:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "دفاع وطن کیلئے آخری قطرہ خون بھی بہا دیں گے، یوم تکبیر پر آئی جی پنجاب کا پیغام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814942/ig-punjabs-message-on-youm-e-takbir-we-will-shed-even-the-last-drop-of-blood-to-defend-the-homeland-2814942/",
+        "source": "Express",
+        "date": "2026-05-27T19:29:46+00:00",
+        "img": ""
+      },
+      {
+        "title": "عیدالاضحیٰ پر بلاول بھٹو اور وزیراعظم شہباز شریف کا رابطہ، ملکی امور پر بھی تبادلہ خیال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814941/bilawal-bhutto-and-prime-minister-shehbaz-sharif-contact-on-eid-ul-adha-also-discuss-national-affairs-2814941/",
+        "source": "Express",
+        "date": "2026-05-27T19:19:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کے دفاع، سلامتی اور خودمختاری پر کوئی سمجھوتہ نہیں ہوگا، یوم تکبیر پر مسلح افواج کا عہد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814940/there-will-be-no-compromise-on-pakistans-defense-security-and-sovereignty-vows-the-armed-forces-on-youm-e-takbir-2814940/",
+        "source": "Express",
+        "date": "2026-05-27T19:11:27+00:00",
         "img": ""
       },
       {
@@ -1897,11 +1993,27 @@
         "img": ""
       },
       {
+        "title": "جگر کے مریضوں کیلئے آزمائی گئی نئی سیل تھراپی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814930/new-cell-therapy-offers-real-hope-for-liver-disease-patients-2814930/",
+        "source": "Express",
+        "date": "2026-05-27T15:50:16+05:00",
+        "img": ""
+      },
+      {
         "title": "CDF Munir spends Eidul Azha with frontline troops in Zhob, says brutal acts cannot weaken nation’s resolve",
         "summary": "<p>Chief of Defence Forces and Chief of the Army Staff Field Marshal Asim Munir on Wednesday spent Eidul Azha with frontline troops deployed in Balochistan’s Zhob and said “inhumane and brutal” acts cannot weaken the resolve of the armed forces or the nation, according to the military’s media wing.</p> <p>On Sunday, at",
         "url": "https://www.dawn.com/news/2003468/cdf-munir-spends-eidul-azha-with-frontline-troops-in-zhob-says-brutal-acts-cannot-weaken-nations-resolve",
         "source": "Dawn",
         "date": "2026-05-27T15:30:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "ناسا کا چاند پر بیس بنانے سے متعلق اہم اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814928/nasa-ramps-up-its-effort-to-build-2814928/",
+        "source": "Express",
+        "date": "2026-05-27T14:56:16+05:00",
         "img": ""
       },
       {
@@ -1913,7 +2025,15 @@
         "img": ""
       },
       {
-        "title": "پاکستان کے دفاع پر کوئی سمجھوتہ نہیں ہو گا، یوم تکبیر پر وزیر اعطم کا دوٹوک پیغام",
+        "title": "کوٹری ریلوے اسٹیشن کے قریب مال بردار ٹرین پٹری سے اتر گئی، ڈاؤن ٹریک پر ٹرینوں کی آمدورفت معطل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814938/freight-train-derails-near-kotri-railway-station-train-traffic-suspended-on-down-track-2814938/",
+        "source": "Express",
+        "date": "2026-05-27T14:42:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کا مضبوط ایٹمی دفاع اور مسلح افواج کی تیاری دشمن کے سامنے آہنی دیوار ہے، وزیرِاعظم",
         "summary": "",
         "url": "https://www.express.pk/story/2814937/there-will-be-no-compromise-on-pakistans-defense-the-prime-ministers-categorical-message-on-youm-e-takbir-2814937/",
         "source": "Express",
@@ -1942,6 +2062,14 @@
         "url": "https://www.express.pk/story/2814926/who-is-mohammed-odeh-martyred-by-israel-2814926/",
         "source": "Express",
         "date": "2026-05-27T13:46:25+05:00",
+        "img": ""
+      },
+      {
+        "title": "بھارت: دنیا بھر سے مختلف قسم کے پیپر کپ جمع کرنے کا ریکارڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814924/indian-man-earns-world-record-2814924/",
+        "source": "Express",
+        "date": "2026-05-27T13:25:41+05:00",
         "img": ""
       },
       {
@@ -1977,14 +2105,6 @@
         "img": ""
       },
       {
-        "title": "ترک صدر اردوان کی نیتن یاہو پر کڑی تنقید، ’’ظالم‘‘ قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814913/turkish-president-erdogan-strongly-criticises-netanyahu-calls-him-a-tyrant-2814913/",
-        "source": "Express",
-        "date": "2026-05-27T11:30:24+05:00",
-        "img": ""
-      },
-      {
         "title": "ایران وقت گزارنے کی کوشش کرتا رہا لیکن اب معاہدہ کرنے کے سوا کوئی راستہ نہیں؛ ٹرمپ",
         "summary": "",
         "url": "https://www.express.pk/story/2814932/iran-deal-trump-says-wait-is-over-2814932/",
@@ -2001,43 +2121,11 @@
         "img": ""
       },
       {
-        "title": "فرنچ اوپن: ناؤمی اوساکا منفرد فیشن کرکے مداحوں کی نگاہ کا مرکز بن گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814910/naomi-osaka-sparkles-in-golden-french-open-outfit-2814910/",
-        "source": "Express",
-        "date": "2026-05-27T11:03:55+05:00",
-        "img": ""
-      },
-      {
         "title": "معاہدے کے جو نکات ایران منظرعام پر لا رہا ہے وہ سفید جھوٹ ہیں؛ وائٹ ہاؤس",
         "summary": "",
         "url": "https://www.express.pk/story/2814929/us-white-house-iran-war-mou-points-2814929/",
         "source": "Express",
         "date": "2026-05-27T10:44:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: بخاری شاہ مزار کے قریب ٹریفک حادثے میں موٹر سائیکل سوار2افراد جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814907/karachi-two-motorcyclists-killed-in-traffic-accident-near-bukhari-shah-shrine-2814907/",
-        "source": "Express",
-        "date": "2026-05-27T10:43:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "وسیم اکرم کی شیطان کو خطرناک ان سوئنگ یارکر، ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814903/wasim-akram-throws-stones-at-the-devil-in-his-iconic-bowling-style-2814903/",
-        "source": "Express",
-        "date": "2026-05-27T10:38:16+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیلی فضائیہ کے جنوبی لبنان کے قصبے دبین اور شبعا میں تازہ حملے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814901/israeli-air-raids-target-southern-lebanons-dibbin-and-shebaa-towns-2814901/",
-        "source": "Express",
-        "date": "2026-05-27T10:25:28+05:00",
         "img": ""
       },
       {
@@ -2129,54 +2217,6 @@
         "img": ""
       },
       {
-        "title": "حالیہ صورتحال میں اصل محاذ اب معاشی جنگ ہے، ایرانی صدر مسعود پزشکیان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814915/main-battleground-now-is-economic-war-says-iranian-president-masoud-pezeshkian-2814915/",
-        "source": "Express",
-        "date": "2026-05-27T06:43:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "افزودہ یورینیم پر امریکا سے کوئی مذاکرات نہیں ہو رہے، ایران کا دوٹوک مؤقف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814911/iran-reaffirms-no-negotiations-with-us-on-enriched-uranium-issue-2814911/",
-        "source": "Express",
-        "date": "2026-05-27T06:05:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: پاکستان اسٹیل ملز سے قیمتی دھاتیں چوری کرنے میں ملوث 5 پولیس اہلکاروں سمیت 10 ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814909/karachi-10-suspects-including-5-police-officers-arrested-for-stealing-precious-metals-from-pakistan-steel-mills-2814909/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:16+00:00",
-        "img": ""
-      },
-      {
-        "title": "افغانستان میں دہشتگردی کے خطرات سے متعلق روسی خدشات نے پاکستان کے مؤقف کی تائید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814908/russian-concerns-about-terrorism-threats-in-afghanistan-support-pakistans-stance-2814908/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:11+00:00",
-        "img": ""
-      },
-      {
-        "title": "فوجی محاذ پر ناکامی کے بعد دشمن ہائبرڈ وارفیئر پر اتر آیا، ایرانی وزارتِ انٹیلی جنس کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814906/iran-claims-enemy-has-turned-to-hybrid-warfare-after-failing-on-military-front-says-intelligence-ministry-2814906/",
-        "source": "Express",
-        "date": "2026-05-27T05:42:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں عید کے روز نوجوان مرد اور خاتون کی لاشیں برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814902/bodies-of-young-man-and-woman-found-in-karachi-on-eid-2814902/",
-        "source": "Express",
-        "date": "2026-05-27T05:29:32+00:00",
-        "img": ""
-      },
-      {
         "title": "Punjab Home Department lists organisations barred from collecting animal hides on Eidul Azha",
         "summary": "<p>The Punjab Home Department on Tuesday issued a list of banned and monitored organisations ahead of Eidul Azha, urging citizens not to donate sacrificial animal hides to such groups or their affiliated organisations.</p> <p>According to a spokesperson for the department, “Providing any kind of assistance to banned or",
         "url": "https://www.dawn.com/news/2003310/punjab-home-department-lists-organisations-barred-from-collecting-animal-hides-on-eidul-azha",
@@ -2201,61 +2241,117 @@
         "img": ""
       },
       {
-        "title": "IT ministry starts registering cloud service providers to ensure data security",
-        "summary": "<p>ISLAMABAD: The Ministry of Information Technology and Telecommunication (MoITT) has started registering cloud service providers (CSPs) to ensure that services meet required standards and safeguard national and public data security.</p> <p>The government had announced strict accreditation criteria for CSPs under the ",
-        "url": "https://www.dawn.com/news/2003294/it-ministry-starts-registering-cloud-service-providers-to-ensure-data-security",
-        "source": "Dawn",
-        "date": "2026-05-26T21:28:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "Jail authorities request medical examination of alleged drug queenpin Anmol over kidney pain",
-        "summary": "<p>KARACHI: The Central jail authorities on Tuesday requested Civil Hospital Karachi to depute a medical team for the examination of alleged drug queenpin Anmol alias Pinky following complaints of kidney issues.</p> <p>In an application dated May 26, the jail superintendent requested that a medical team be deputed for ",
-        "url": "https://www.dawn.com/news/2003283/jail-authorities-request-medical-examination-of-alleged-drug-queenpin-anmol-over-kidney-pain",
-        "source": "Dawn",
-        "date": "2026-05-26T20:31:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "Prince Rahim winds up Pakistan visit after week of meetings with political leadership, development assurances",
-        "summary": "<p>Prince Rahim al-Hussaini Aga Khan V on Tuesday departed Pakistan after completing a week-long visit, during which he met the country’s top political leadership and affirmed his commitment to development in the country.</p> <p>He was seen off at the Nur Khan airbase by Parliamentary Affairs Minister Dr Tariq Fazal Ch",
-        "url": "https://www.dawn.com/news/2003265/prince-rahim-winds-up-pakistan-visit-after-week-of-meetings-with-political-leadership-development-assurances",
-        "source": "Dawn",
-        "date": "2026-05-26T19:14:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "Police arrest suspect in killing of newly married couple in Karachi's Malir: spokesperson",
-        "summary": "<p>KARACHI: The main suspect involved in the killing of a newly married couple in the Malir area yesterday was arrested by police, according to a statement issued by the Korangi police spokesperson on Tuesday.</p> <p>On Monday, a newly married couple was <a href=\"https://www.dawn.com/news/2003054\">shot dead</a> when as",
-        "url": "https://www.dawn.com/news/2003254/police-arrest-suspect-in-killing-of-newly-married-couple-in-karachis-malir-spokesperson",
-        "source": "Dawn",
-        "date": "2026-05-26T17:37:11+05:00",
-        "img": ""
-      },
-      {
         "title": "China, Pakistan reach 'new broad consensus' on boosting ties",
         "summary": "<p>China and Pakistan have reached a new broad consensus on deepening their strategic partnership, according to a joint statement issued by the countries at the end of Prime Minister Shehbaz Sharif’s visit to Beijing.</p> <p>The statement, shared by the Foreign Office (FO) on X, said, “The two sides engaged cordially a",
         "url": "https://www.dawn.com/news/2003203/china-pakistan-reach-new-broad-consensus-on-boosting-ties",
         "source": "Dawn",
         "date": "2026-05-26T14:26:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "Punjab PDMA directs district administrations to take precautionary measures amid heatwave during Eid",
-        "summary": "<p>LAHORE: The Provincial Disaster Management Authority (PDMA) has directed district administrations to take precautionary measures due to a heatwave during Eidul Azha holidays.</p> <p>According to the advisory, a heatwave is likely to persist from May 25 to May 31 under the influence of a high-pressure weather system ",
-        "url": "https://www.dawn.com/news/2003207/punjab-pdma-directs-district-administrations-to-take-precautionary-measures-amid-heatwave-during-eid",
-        "source": "Dawn",
-        "date": "2026-05-26T10:23:31+05:00",
         "img": ""
       }
     ],
     "sindh": [
       {
+        "title": "Justice Babar Sattar decides to retain official residence in Islamabad",
+        "summary": "<p>ISLAMABAD: Justice Babar Sattar, who was transferred from the Islamabad High Court (IHC) to the Peshawar High Court (PHC) last month, has decided to continue residing in the federal capital during his tenure at the provincial high court.</p> <p>Sources in the IHC told <em>Dawn</em> that Justice Sattar has formally c",
+        "url": "https://www.dawn.com/news/2003428/justice-babar-sattar-decides-to-retain-official-residence-in-islamabad",
+        "source": "Dawn",
+        "date": "2026-05-28T08:30:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "PM Shehbaz says Youm-i-Takbeer symbolises Pakistan's strength, sovereignty and national unity",
+        "summary": "<p>Prime Minister Shehbaz Sharif said on Thursday that Youm-i-Takbeer stands as a defining moment in Pakistan’s history when the nation demonstrated unwavering resolve, unity and courage by emerging as a nuclear power and restoring the strategic balance in South Asia.</p> <p>Youm-i-Takbeer marks the historic day of May",
+        "url": "https://www.dawn.com/news/2003518/pm-shehbaz-says-youm-i-takbeer-symbolises-pakistans-strength-sovereignty-and-national-unity",
+        "source": "Dawn",
+        "date": "2026-05-28T08:28:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "Development work in Islamabad's E-12 sector finally comes under the radar",
+        "summary": "<p>ISLAMABAD: The incomplete development work in E-12 sector has caught the attention of the current management of the Capital Development Authority (CDA) as its engineering wing has been tasked with taking steps to complete this sector on priority basis.</p> <p>Sources told <em>Dawn</em> that recently CDA Chairman ret",
+        "url": "https://www.dawn.com/news/2003430/development-work-in-islamabads-e-12-sector-finally-comes-under-the-radar",
+        "source": "Dawn",
+        "date": "2026-05-28T08:19:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "International Day of Markhor passes unnoticed in Chitral",
+        "summary": "<p>CHITRAL: The International Day of the Markhor passed unnoticed in Chitral as the local wildlife department failed to hold any ceremony or awareness event to mark the occasion for the second consecutive year. </p> <p>The silence is particularly stark given that Chitral hosts the largest population of Kashmir Markhor ",
+        "url": "https://www.dawn.com/news/2003321/international-day-of-markhor-passes-unnoticed-in-chitral",
+        "source": "Dawn",
+        "date": "2026-05-28T08:17:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "Health experts caution against eating meat immediately after sacrifice",
+        "summary": "<p>KARACHI: Reminding people to remember and implement the spirit of Eidul Azha, health experts on Tuesday urged the public to exercise caution regarding their dietary habits and meat consumption to avoid medical emergencies during the festive occasion.</p> <p>In a statement, Pakistan Medical Association (PMA) Secretar",
+        "url": "https://www.dawn.com/news/2003351/health-experts-caution-against-eating-meat-immediately-after-sacrifice",
+        "source": "Dawn",
+        "date": "2026-05-28T08:06:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "لانڈھی میں پراسرار طور پر زہریلی چیز کھانے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814946/youth-dies-after-mysteriously-consuming-poisonous-substance-in-landhi-2814946/",
+        "source": "Express",
+        "date": "2026-05-28T02:08:44+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اختر کالونی کے قریب خوفناک ٹریفک حادثہ، ٹینکر سمیت کئی گاڑیاں آپس میں ٹکرا گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814945/terrible-traffic-accident-near-akhtar-colony-karachi-several-vehicles-including-a-tanker-collided-2814945/",
+        "source": "Express",
+        "date": "2026-05-28T01:34:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں فائرنگ کے دو واقعات، 10 سالہ بچی سمیت 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814943/two-shooting-incidents-in-karachi-2-people-including-a-10-year-old-girl-injured-2814943/",
+        "source": "Express",
+        "date": "2026-05-28T01:11:55+05:00",
+        "img": ""
+      },
+      {
         "title": "'US-Iran peace deal could benefit entire region,' PM tells Pezeshkian in Eid call",
         "summary": "<p>Prime Minister Shehbaz Sharif in a telephonic conversation with Iranian President Masoud Pezeshkian on Wednesday hoped that a peace deal between Iran and the US could be finalised soon.</p> <p>The Prime Minister’s Office in a statement said that President Pezeshkian had telephoned PM Shehbaz to extend Eid greetings ",
         "url": "https://www.dawn.com/news/2003497/us-iran-peace-deal-could-benefit-entire-region-pm-tells-pezeshkian-in-eid-call",
         "source": "Dawn",
         "date": "2026-05-27T23:01:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "شہباز شریف کا گورنر سندھ نہال ہاشمی کو فون، حج کی سعادت اور عیدالاضحیٰ پر مبارکباد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814944/shahbaz-sharif-calls-sindh-governor-nehal-hashmi-congratulates-him-on-the-occasion-of-hajj-and-eid-ul-adha-2814944/",
+        "source": "Express",
+        "date": "2026-05-27T20:24:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "دفاع وطن کیلئے آخری قطرہ خون بھی بہا دیں گے، یوم تکبیر پر آئی جی پنجاب کا پیغام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814942/ig-punjabs-message-on-youm-e-takbir-we-will-shed-even-the-last-drop-of-blood-to-defend-the-homeland-2814942/",
+        "source": "Express",
+        "date": "2026-05-27T19:29:46+00:00",
+        "img": ""
+      },
+      {
+        "title": "عیدالاضحیٰ پر بلاول بھٹو اور وزیراعظم شہباز شریف کا رابطہ، ملکی امور پر بھی تبادلہ خیال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814941/bilawal-bhutto-and-prime-minister-shehbaz-sharif-contact-on-eid-ul-adha-also-discuss-national-affairs-2814941/",
+        "source": "Express",
+        "date": "2026-05-27T19:19:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کے دفاع، سلامتی اور خودمختاری پر کوئی سمجھوتہ نہیں ہوگا، یوم تکبیر پر مسلح افواج کا عہد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814940/there-will-be-no-compromise-on-pakistans-defense-security-and-sovereignty-vows-the-armed-forces-on-youm-e-takbir-2814940/",
+        "source": "Express",
+        "date": "2026-05-27T19:11:27+00:00",
         "img": ""
       },
       {
@@ -2299,11 +2395,27 @@
         "img": ""
       },
       {
+        "title": "جگر کے مریضوں کیلئے آزمائی گئی نئی سیل تھراپی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814930/new-cell-therapy-offers-real-hope-for-liver-disease-patients-2814930/",
+        "source": "Express",
+        "date": "2026-05-27T15:50:16+05:00",
+        "img": ""
+      },
+      {
         "title": "CDF Munir spends Eidul Azha with frontline troops in Zhob, says brutal acts cannot weaken nation’s resolve",
         "summary": "<p>Chief of Defence Forces and Chief of the Army Staff Field Marshal Asim Munir on Wednesday spent Eidul Azha with frontline troops deployed in Balochistan’s Zhob and said “inhumane and brutal” acts cannot weaken the resolve of the armed forces or the nation, according to the military’s media wing.</p> <p>On Sunday, at",
         "url": "https://www.dawn.com/news/2003468/cdf-munir-spends-eidul-azha-with-frontline-troops-in-zhob-says-brutal-acts-cannot-weaken-nations-resolve",
         "source": "Dawn",
         "date": "2026-05-27T15:30:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "ناسا کا چاند پر بیس بنانے سے متعلق اہم اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814928/nasa-ramps-up-its-effort-to-build-2814928/",
+        "source": "Express",
+        "date": "2026-05-27T14:56:16+05:00",
         "img": ""
       },
       {
@@ -2315,7 +2427,15 @@
         "img": ""
       },
       {
-        "title": "پاکستان کے دفاع پر کوئی سمجھوتہ نہیں ہو گا، یوم تکبیر پر وزیر اعطم کا دوٹوک پیغام",
+        "title": "کوٹری ریلوے اسٹیشن کے قریب مال بردار ٹرین پٹری سے اتر گئی، ڈاؤن ٹریک پر ٹرینوں کی آمدورفت معطل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814938/freight-train-derails-near-kotri-railway-station-train-traffic-suspended-on-down-track-2814938/",
+        "source": "Express",
+        "date": "2026-05-27T14:42:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کا مضبوط ایٹمی دفاع اور مسلح افواج کی تیاری دشمن کے سامنے آہنی دیوار ہے، وزیرِاعظم",
         "summary": "",
         "url": "https://www.express.pk/story/2814937/there-will-be-no-compromise-on-pakistans-defense-the-prime-ministers-categorical-message-on-youm-e-takbir-2814937/",
         "source": "Express",
@@ -2344,6 +2464,14 @@
         "url": "https://www.express.pk/story/2814926/who-is-mohammed-odeh-martyred-by-israel-2814926/",
         "source": "Express",
         "date": "2026-05-27T13:46:25+05:00",
+        "img": ""
+      },
+      {
+        "title": "بھارت: دنیا بھر سے مختلف قسم کے پیپر کپ جمع کرنے کا ریکارڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814924/indian-man-earns-world-record-2814924/",
+        "source": "Express",
+        "date": "2026-05-27T13:25:41+05:00",
         "img": ""
       },
       {
@@ -2379,14 +2507,6 @@
         "img": ""
       },
       {
-        "title": "ترک صدر اردوان کی نیتن یاہو پر کڑی تنقید، ’’ظالم‘‘ قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814913/turkish-president-erdogan-strongly-criticises-netanyahu-calls-him-a-tyrant-2814913/",
-        "source": "Express",
-        "date": "2026-05-27T11:30:24+05:00",
-        "img": ""
-      },
-      {
         "title": "ایران وقت گزارنے کی کوشش کرتا رہا لیکن اب معاہدہ کرنے کے سوا کوئی راستہ نہیں؛ ٹرمپ",
         "summary": "",
         "url": "https://www.express.pk/story/2814932/iran-deal-trump-says-wait-is-over-2814932/",
@@ -2403,43 +2523,11 @@
         "img": ""
       },
       {
-        "title": "فرنچ اوپن: ناؤمی اوساکا منفرد فیشن کرکے مداحوں کی نگاہ کا مرکز بن گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814910/naomi-osaka-sparkles-in-golden-french-open-outfit-2814910/",
-        "source": "Express",
-        "date": "2026-05-27T11:03:55+05:00",
-        "img": ""
-      },
-      {
         "title": "معاہدے کے جو نکات ایران منظرعام پر لا رہا ہے وہ سفید جھوٹ ہیں؛ وائٹ ہاؤس",
         "summary": "",
         "url": "https://www.express.pk/story/2814929/us-white-house-iran-war-mou-points-2814929/",
         "source": "Express",
         "date": "2026-05-27T10:44:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: بخاری شاہ مزار کے قریب ٹریفک حادثے میں موٹر سائیکل سوار2افراد جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814907/karachi-two-motorcyclists-killed-in-traffic-accident-near-bukhari-shah-shrine-2814907/",
-        "source": "Express",
-        "date": "2026-05-27T10:43:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "وسیم اکرم کی شیطان کو خطرناک ان سوئنگ یارکر، ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814903/wasim-akram-throws-stones-at-the-devil-in-his-iconic-bowling-style-2814903/",
-        "source": "Express",
-        "date": "2026-05-27T10:38:16+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیلی فضائیہ کے جنوبی لبنان کے قصبے دبین اور شبعا میں تازہ حملے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814901/israeli-air-raids-target-southern-lebanons-dibbin-and-shebaa-towns-2814901/",
-        "source": "Express",
-        "date": "2026-05-27T10:25:28+05:00",
         "img": ""
       },
       {
@@ -2531,54 +2619,6 @@
         "img": ""
       },
       {
-        "title": "حالیہ صورتحال میں اصل محاذ اب معاشی جنگ ہے، ایرانی صدر مسعود پزشکیان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814915/main-battleground-now-is-economic-war-says-iranian-president-masoud-pezeshkian-2814915/",
-        "source": "Express",
-        "date": "2026-05-27T06:43:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "افزودہ یورینیم پر امریکا سے کوئی مذاکرات نہیں ہو رہے، ایران کا دوٹوک مؤقف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814911/iran-reaffirms-no-negotiations-with-us-on-enriched-uranium-issue-2814911/",
-        "source": "Express",
-        "date": "2026-05-27T06:05:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: پاکستان اسٹیل ملز سے قیمتی دھاتیں چوری کرنے میں ملوث 5 پولیس اہلکاروں سمیت 10 ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814909/karachi-10-suspects-including-5-police-officers-arrested-for-stealing-precious-metals-from-pakistan-steel-mills-2814909/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:16+00:00",
-        "img": ""
-      },
-      {
-        "title": "افغانستان میں دہشتگردی کے خطرات سے متعلق روسی خدشات نے پاکستان کے مؤقف کی تائید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814908/russian-concerns-about-terrorism-threats-in-afghanistan-support-pakistans-stance-2814908/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:11+00:00",
-        "img": ""
-      },
-      {
-        "title": "فوجی محاذ پر ناکامی کے بعد دشمن ہائبرڈ وارفیئر پر اتر آیا، ایرانی وزارتِ انٹیلی جنس کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814906/iran-claims-enemy-has-turned-to-hybrid-warfare-after-failing-on-military-front-says-intelligence-ministry-2814906/",
-        "source": "Express",
-        "date": "2026-05-27T05:42:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں عید کے روز نوجوان مرد اور خاتون کی لاشیں برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814902/bodies-of-young-man-and-woman-found-in-karachi-on-eid-2814902/",
-        "source": "Express",
-        "date": "2026-05-27T05:29:32+00:00",
-        "img": ""
-      },
-      {
         "title": "Punjab Home Department lists organisations barred from collecting animal hides on Eidul Azha",
         "summary": "<p>The Punjab Home Department on Tuesday issued a list of banned and monitored organisations ahead of Eidul Azha, urging citizens not to donate sacrificial animal hides to such groups or their affiliated organisations.</p> <p>According to a spokesperson for the department, “Providing any kind of assistance to banned or",
         "url": "https://www.dawn.com/news/2003310/punjab-home-department-lists-organisations-barred-from-collecting-animal-hides-on-eidul-azha",
@@ -2603,56 +2643,64 @@
         "img": ""
       },
       {
-        "title": "IT ministry starts registering cloud service providers to ensure data security",
-        "summary": "<p>ISLAMABAD: The Ministry of Information Technology and Telecommunication (MoITT) has started registering cloud service providers (CSPs) to ensure that services meet required standards and safeguard national and public data security.</p> <p>The government had announced strict accreditation criteria for CSPs under the ",
-        "url": "https://www.dawn.com/news/2003294/it-ministry-starts-registering-cloud-service-providers-to-ensure-data-security",
-        "source": "Dawn",
-        "date": "2026-05-26T21:28:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "Jail authorities request medical examination of alleged drug queenpin Anmol over kidney pain",
-        "summary": "<p>KARACHI: The Central jail authorities on Tuesday requested Civil Hospital Karachi to depute a medical team for the examination of alleged drug queenpin Anmol alias Pinky following complaints of kidney issues.</p> <p>In an application dated May 26, the jail superintendent requested that a medical team be deputed for ",
-        "url": "https://www.dawn.com/news/2003283/jail-authorities-request-medical-examination-of-alleged-drug-queenpin-anmol-over-kidney-pain",
-        "source": "Dawn",
-        "date": "2026-05-26T20:31:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "Prince Rahim winds up Pakistan visit after week of meetings with political leadership, development assurances",
-        "summary": "<p>Prince Rahim al-Hussaini Aga Khan V on Tuesday departed Pakistan after completing a week-long visit, during which he met the country’s top political leadership and affirmed his commitment to development in the country.</p> <p>He was seen off at the Nur Khan airbase by Parliamentary Affairs Minister Dr Tariq Fazal Ch",
-        "url": "https://www.dawn.com/news/2003265/prince-rahim-winds-up-pakistan-visit-after-week-of-meetings-with-political-leadership-development-assurances",
-        "source": "Dawn",
-        "date": "2026-05-26T19:14:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "Police arrest suspect in killing of newly married couple in Karachi's Malir: spokesperson",
-        "summary": "<p>KARACHI: The main suspect involved in the killing of a newly married couple in the Malir area yesterday was arrested by police, according to a statement issued by the Korangi police spokesperson on Tuesday.</p> <p>On Monday, a newly married couple was <a href=\"https://www.dawn.com/news/2003054\">shot dead</a> when as",
-        "url": "https://www.dawn.com/news/2003254/police-arrest-suspect-in-killing-of-newly-married-couple-in-karachis-malir-spokesperson",
-        "source": "Dawn",
-        "date": "2026-05-26T17:37:11+05:00",
-        "img": ""
-      },
-      {
         "title": "China, Pakistan reach 'new broad consensus' on boosting ties",
         "summary": "<p>China and Pakistan have reached a new broad consensus on deepening their strategic partnership, according to a joint statement issued by the countries at the end of Prime Minister Shehbaz Sharif’s visit to Beijing.</p> <p>The statement, shared by the Foreign Office (FO) on X, said, “The two sides engaged cordially a",
         "url": "https://www.dawn.com/news/2003203/china-pakistan-reach-new-broad-consensus-on-boosting-ties",
         "source": "Dawn",
         "date": "2026-05-26T14:26:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "Punjab PDMA directs district administrations to take precautionary measures amid heatwave during Eid",
-        "summary": "<p>LAHORE: The Provincial Disaster Management Authority (PDMA) has directed district administrations to take precautionary measures due to a heatwave during Eidul Azha holidays.</p> <p>According to the advisory, a heatwave is likely to persist from May 25 to May 31 under the influence of a high-pressure weather system ",
-        "url": "https://www.dawn.com/news/2003207/punjab-pdma-directs-district-administrations-to-take-precautionary-measures-amid-heatwave-during-eid",
-        "source": "Dawn",
-        "date": "2026-05-26T10:23:31+05:00",
         "img": ""
       }
     ],
     "baloch": [
       {
+        "title": "Justice Babar Sattar decides to retain official residence in Islamabad",
+        "summary": "<p>ISLAMABAD: Justice Babar Sattar, who was transferred from the Islamabad High Court (IHC) to the Peshawar High Court (PHC) last month, has decided to continue residing in the federal capital during his tenure at the provincial high court.</p> <p>Sources in the IHC told <em>Dawn</em> that Justice Sattar has formally c",
+        "url": "https://www.dawn.com/news/2003428/justice-babar-sattar-decides-to-retain-official-residence-in-islamabad",
+        "source": "Dawn",
+        "date": "2026-05-28T08:30:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "PM Shehbaz says Youm-i-Takbeer symbolises Pakistan's strength, sovereignty and national unity",
+        "summary": "<p>Prime Minister Shehbaz Sharif said on Thursday that Youm-i-Takbeer stands as a defining moment in Pakistan’s history when the nation demonstrated unwavering resolve, unity and courage by emerging as a nuclear power and restoring the strategic balance in South Asia.</p> <p>Youm-i-Takbeer marks the historic day of May",
+        "url": "https://www.dawn.com/news/2003518/pm-shehbaz-says-youm-i-takbeer-symbolises-pakistans-strength-sovereignty-and-national-unity",
+        "source": "Dawn",
+        "date": "2026-05-28T08:28:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "Development work in Islamabad's E-12 sector finally comes under the radar",
+        "summary": "<p>ISLAMABAD: The incomplete development work in E-12 sector has caught the attention of the current management of the Capital Development Authority (CDA) as its engineering wing has been tasked with taking steps to complete this sector on priority basis.</p> <p>Sources told <em>Dawn</em> that recently CDA Chairman ret",
+        "url": "https://www.dawn.com/news/2003430/development-work-in-islamabads-e-12-sector-finally-comes-under-the-radar",
+        "source": "Dawn",
+        "date": "2026-05-28T08:19:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "International Day of Markhor passes unnoticed in Chitral",
+        "summary": "<p>CHITRAL: The International Day of the Markhor passed unnoticed in Chitral as the local wildlife department failed to hold any ceremony or awareness event to mark the occasion for the second consecutive year. </p> <p>The silence is particularly stark given that Chitral hosts the largest population of Kashmir Markhor ",
+        "url": "https://www.dawn.com/news/2003321/international-day-of-markhor-passes-unnoticed-in-chitral",
+        "source": "Dawn",
+        "date": "2026-05-28T08:17:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "Health experts caution against eating meat immediately after sacrifice",
+        "summary": "<p>KARACHI: Reminding people to remember and implement the spirit of Eidul Azha, health experts on Tuesday urged the public to exercise caution regarding their dietary habits and meat consumption to avoid medical emergencies during the festive occasion.</p> <p>In a statement, Pakistan Medical Association (PMA) Secretar",
+        "url": "https://www.dawn.com/news/2003351/health-experts-caution-against-eating-meat-immediately-after-sacrifice",
+        "source": "Dawn",
+        "date": "2026-05-28T08:06:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "لانڈھی میں پراسرار طور پر زہریلی چیز کھانے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814946/youth-dies-after-mysteriously-consuming-poisonous-substance-in-landhi-2814946/",
+        "source": "Express",
+        "date": "2026-05-28T02:08:44+05:00",
+        "img": ""
+      },
+      {
         "title": "South Africa added two uncapped players to World Cup squad",
         "summary": "South Africa added two uncapped players to World Cup squad",
         "url": "https://arynews.tv/south-africa-added-two-uncapped-players-to-world-cup-squad",
@@ -2667,6 +2715,22 @@
         "source": "ARY News",
         "date": "2026-05-28T01:35:53+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-8-1.jpg"
+      },
+      {
+        "title": "کراچی، اختر کالونی کے قریب خوفناک ٹریفک حادثہ، ٹینکر سمیت کئی گاڑیاں آپس میں ٹکرا گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814945/terrible-traffic-accident-near-akhtar-colony-karachi-several-vehicles-including-a-tanker-collided-2814945/",
+        "source": "Express",
+        "date": "2026-05-28T01:34:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں فائرنگ کے دو واقعات، 10 سالہ بچی سمیت 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814943/two-shooting-incidents-in-karachi-2-people-including-a-10-year-old-girl-injured-2814943/",
+        "source": "Express",
+        "date": "2026-05-28T01:11:55+05:00",
+        "img": ""
       },
       {
         "title": "Enola Holmes 3 trailer gives fans first clues about new adventure",
@@ -2725,12 +2789,44 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-32.jpg"
       },
       {
+        "title": "شہباز شریف کا گورنر سندھ نہال ہاشمی کو فون، حج کی سعادت اور عیدالاضحیٰ پر مبارکباد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814944/shahbaz-sharif-calls-sindh-governor-nehal-hashmi-congratulates-him-on-the-occasion-of-hajj-and-eid-ul-adha-2814944/",
+        "source": "Express",
+        "date": "2026-05-27T20:24:55+00:00",
+        "img": ""
+      },
+      {
         "title": "Victoria Beckham opens up about raising kids amid family tension",
         "summary": "Victoria Beckham opens up about raising kids amid family tension",
         "url": "https://arynews.tv/victoria-beckham-opens-up-about-raising-kids-amid-family-tension",
         "source": "ARY News",
         "date": "2026-05-27T19:51:31+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-52.jpg"
+      },
+      {
+        "title": "دفاع وطن کیلئے آخری قطرہ خون بھی بہا دیں گے، یوم تکبیر پر آئی جی پنجاب کا پیغام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814942/ig-punjabs-message-on-youm-e-takbir-we-will-shed-even-the-last-drop-of-blood-to-defend-the-homeland-2814942/",
+        "source": "Express",
+        "date": "2026-05-27T19:29:46+00:00",
+        "img": ""
+      },
+      {
+        "title": "عیدالاضحیٰ پر بلاول بھٹو اور وزیراعظم شہباز شریف کا رابطہ، ملکی امور پر بھی تبادلہ خیال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814941/bilawal-bhutto-and-prime-minister-shehbaz-sharif-contact-on-eid-ul-adha-also-discuss-national-affairs-2814941/",
+        "source": "Express",
+        "date": "2026-05-27T19:19:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کے دفاع، سلامتی اور خودمختاری پر کوئی سمجھوتہ نہیں ہوگا، یوم تکبیر پر مسلح افواج کا عہد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814940/there-will-be-no-compromise-on-pakistans-defense-security-and-sovereignty-vows-the-armed-forces-on-youm-e-takbir-2814940/",
+        "source": "Express",
+        "date": "2026-05-27T19:11:27+00:00",
+        "img": ""
       },
       {
         "title": "Iran war divides world markets into winners, losers",
@@ -2805,11 +2901,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/12/Hajj-2026.jpg"
       },
       {
+        "title": "جگر کے مریضوں کیلئے آزمائی گئی نئی سیل تھراپی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814930/new-cell-therapy-offers-real-hope-for-liver-disease-patients-2814930/",
+        "source": "Express",
+        "date": "2026-05-27T15:50:16+05:00",
+        "img": ""
+      },
+      {
         "title": "CDF Munir spends Eidul Azha with frontline troops in Zhob, says brutal acts cannot weaken nation’s resolve",
         "summary": "<p>Chief of Defence Forces and Chief of the Army Staff Field Marshal Asim Munir on Wednesday spent Eidul Azha with frontline troops deployed in Balochistan’s Zhob and said “inhumane and brutal” acts cannot weaken the resolve of the armed forces or the nation, according to the military’s media wing.</p> <p>On Sunday, at",
         "url": "https://www.dawn.com/news/2003468/cdf-munir-spends-eidul-azha-with-frontline-troops-in-zhob-says-brutal-acts-cannot-weaken-nations-resolve",
         "source": "Dawn",
         "date": "2026-05-27T15:30:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "ناسا کا چاند پر بیس بنانے سے متعلق اہم اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814928/nasa-ramps-up-its-effort-to-build-2814928/",
+        "source": "Express",
+        "date": "2026-05-27T14:56:16+05:00",
         "img": ""
       },
       {
@@ -2829,7 +2941,15 @@
         "img": ""
       },
       {
-        "title": "پاکستان کے دفاع پر کوئی سمجھوتہ نہیں ہو گا، یوم تکبیر پر وزیر اعطم کا دوٹوک پیغام",
+        "title": "کوٹری ریلوے اسٹیشن کے قریب مال بردار ٹرین پٹری سے اتر گئی، ڈاؤن ٹریک پر ٹرینوں کی آمدورفت معطل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814938/freight-train-derails-near-kotri-railway-station-train-traffic-suspended-on-down-track-2814938/",
+        "source": "Express",
+        "date": "2026-05-27T14:42:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کا مضبوط ایٹمی دفاع اور مسلح افواج کی تیاری دشمن کے سامنے آہنی دیوار ہے، وزیرِاعظم",
         "summary": "",
         "url": "https://www.express.pk/story/2814937/there-will-be-no-compromise-on-pakistans-defense-the-prime-ministers-categorical-message-on-youm-e-takbir-2814937/",
         "source": "Express",
@@ -2883,6 +3003,14 @@
         "source": "ARY News",
         "date": "2026-05-27T13:28:54+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/gaza.jpg"
+      },
+      {
+        "title": "بھارت: دنیا بھر سے مختلف قسم کے پیپر کپ جمع کرنے کا ریکارڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814924/indian-man-earns-world-record-2814924/",
+        "source": "Express",
+        "date": "2026-05-27T13:25:41+05:00",
+        "img": ""
       },
       {
         "title": "میئر کراچی کی لاہور سے متعلق بیان پر معذرت",
@@ -2941,14 +3069,6 @@
         "img": ""
       },
       {
-        "title": "ترک صدر اردوان کی نیتن یاہو پر کڑی تنقید، ’’ظالم‘‘ قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814913/turkish-president-erdogan-strongly-criticises-netanyahu-calls-him-a-tyrant-2814913/",
-        "source": "Express",
-        "date": "2026-05-27T11:30:24+05:00",
-        "img": ""
-      },
-      {
         "title": "ایران وقت گزارنے کی کوشش کرتا رہا لیکن اب معاہدہ کرنے کے سوا کوئی راستہ نہیں؛ ٹرمپ",
         "summary": "",
         "url": "https://www.express.pk/story/2814932/iran-deal-trump-says-wait-is-over-2814932/",
@@ -2962,14 +3082,6 @@
         "url": "https://www.dawn.com/news/2003454/actor-mamya-shajaffar-issues-rs1b-counter-notice-to-arslan-butt-for-defamation-harassment",
         "source": "Dawn",
         "date": "2026-05-27T11:17:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "فرنچ اوپن: ناؤمی اوساکا منفرد فیشن کرکے مداحوں کی نگاہ کا مرکز بن گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814910/naomi-osaka-sparkles-in-golden-french-open-outfit-2814910/",
-        "source": "Express",
-        "date": "2026-05-27T11:03:55+05:00",
         "img": ""
       },
       {
@@ -2989,36 +3101,12 @@
         "img": ""
       },
       {
-        "title": "کراچی: بخاری شاہ مزار کے قریب ٹریفک حادثے میں موٹر سائیکل سوار2افراد جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814907/karachi-two-motorcyclists-killed-in-traffic-accident-near-bukhari-shah-shrine-2814907/",
-        "source": "Express",
-        "date": "2026-05-27T10:43:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "وسیم اکرم کی شیطان کو خطرناک ان سوئنگ یارکر، ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814903/wasim-akram-throws-stones-at-the-devil-in-his-iconic-bowling-style-2814903/",
-        "source": "Express",
-        "date": "2026-05-27T10:38:16+05:00",
-        "img": ""
-      },
-      {
         "title": "PM expresses solidarity with Palestinians, Kashmiris on Eid al-Adha",
         "summary": "PM expresses solidarity with Palestinians, Kashmiris on Eid al-Adha",
         "url": "https://arynews.tv/pm-voices-solidarity-with-palestinians-kashmiris-on-eid-al-adha",
         "source": "ARY News",
         "date": "2026-05-27T10:36:29+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/10/Shehbaz-Sharif.jpg"
-      },
-      {
-        "title": "اسرائیلی فضائیہ کے جنوبی لبنان کے قصبے دبین اور شبعا میں تازہ حملے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814901/israeli-air-raids-target-southern-lebanons-dibbin-and-shebaa-towns-2814901/",
-        "source": "Express",
-        "date": "2026-05-27T10:25:28+05:00",
-        "img": ""
       },
       {
         "title": "Marsh out of Pakistan ODIs, Inglis to captain Australia",
@@ -3133,54 +3221,6 @@
         "img": ""
       },
       {
-        "title": "حالیہ صورتحال میں اصل محاذ اب معاشی جنگ ہے، ایرانی صدر مسعود پزشکیان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814915/main-battleground-now-is-economic-war-says-iranian-president-masoud-pezeshkian-2814915/",
-        "source": "Express",
-        "date": "2026-05-27T06:43:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "افزودہ یورینیم پر امریکا سے کوئی مذاکرات نہیں ہو رہے، ایران کا دوٹوک مؤقف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814911/iran-reaffirms-no-negotiations-with-us-on-enriched-uranium-issue-2814911/",
-        "source": "Express",
-        "date": "2026-05-27T06:05:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: پاکستان اسٹیل ملز سے قیمتی دھاتیں چوری کرنے میں ملوث 5 پولیس اہلکاروں سمیت 10 ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814909/karachi-10-suspects-including-5-police-officers-arrested-for-stealing-precious-metals-from-pakistan-steel-mills-2814909/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:16+00:00",
-        "img": ""
-      },
-      {
-        "title": "افغانستان میں دہشتگردی کے خطرات سے متعلق روسی خدشات نے پاکستان کے مؤقف کی تائید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814908/russian-concerns-about-terrorism-threats-in-afghanistan-support-pakistans-stance-2814908/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:11+00:00",
-        "img": ""
-      },
-      {
-        "title": "فوجی محاذ پر ناکامی کے بعد دشمن ہائبرڈ وارفیئر پر اتر آیا، ایرانی وزارتِ انٹیلی جنس کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814906/iran-claims-enemy-has-turned-to-hybrid-warfare-after-failing-on-military-front-says-intelligence-ministry-2814906/",
-        "source": "Express",
-        "date": "2026-05-27T05:42:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں عید کے روز نوجوان مرد اور خاتون کی لاشیں برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814902/bodies-of-young-man-and-woman-found-in-karachi-on-eid-2814902/",
-        "source": "Express",
-        "date": "2026-05-27T05:29:32+00:00",
-        "img": ""
-      },
-      {
         "title": "Punjab Home Department lists organisations barred from collecting animal hides on Eidul Azha",
         "summary": "<p>The Punjab Home Department on Tuesday issued a list of banned and monitored organisations ahead of Eidul Azha, urging citizens not to donate sacrificial animal hides to such groups or their affiliated organisations.</p> <p>According to a spokesperson for the department, “Providing any kind of assistance to banned or",
         "url": "https://www.dawn.com/news/2003310/punjab-home-department-lists-organisations-barred-from-collecting-animal-hides-on-eidul-azha",
@@ -3205,55 +3245,23 @@
         "img": ""
       },
       {
-        "title": "IT ministry starts registering cloud service providers to ensure data security",
-        "summary": "<p>ISLAMABAD: The Ministry of Information Technology and Telecommunication (MoITT) has started registering cloud service providers (CSPs) to ensure that services meet required standards and safeguard national and public data security.</p> <p>The government had announced strict accreditation criteria for CSPs under the ",
-        "url": "https://www.dawn.com/news/2003294/it-ministry-starts-registering-cloud-service-providers-to-ensure-data-security",
-        "source": "Dawn",
-        "date": "2026-05-26T21:28:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "Jail authorities request medical examination of alleged drug queenpin Anmol over kidney pain",
-        "summary": "<p>KARACHI: The Central jail authorities on Tuesday requested Civil Hospital Karachi to depute a medical team for the examination of alleged drug queenpin Anmol alias Pinky following complaints of kidney issues.</p> <p>In an application dated May 26, the jail superintendent requested that a medical team be deputed for ",
-        "url": "https://www.dawn.com/news/2003283/jail-authorities-request-medical-examination-of-alleged-drug-queenpin-anmol-over-kidney-pain",
-        "source": "Dawn",
-        "date": "2026-05-26T20:31:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "Prince Rahim winds up Pakistan visit after week of meetings with political leadership, development assurances",
-        "summary": "<p>Prince Rahim al-Hussaini Aga Khan V on Tuesday departed Pakistan after completing a week-long visit, during which he met the country’s top political leadership and affirmed his commitment to development in the country.</p> <p>He was seen off at the Nur Khan airbase by Parliamentary Affairs Minister Dr Tariq Fazal Ch",
-        "url": "https://www.dawn.com/news/2003265/prince-rahim-winds-up-pakistan-visit-after-week-of-meetings-with-political-leadership-development-assurances",
-        "source": "Dawn",
-        "date": "2026-05-26T19:14:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "Police arrest suspect in killing of newly married couple in Karachi's Malir: spokesperson",
-        "summary": "<p>KARACHI: The main suspect involved in the killing of a newly married couple in the Malir area yesterday was arrested by police, according to a statement issued by the Korangi police spokesperson on Tuesday.</p> <p>On Monday, a newly married couple was <a href=\"https://www.dawn.com/news/2003054\">shot dead</a> when as",
-        "url": "https://www.dawn.com/news/2003254/police-arrest-suspect-in-killing-of-newly-married-couple-in-karachis-malir-spokesperson",
-        "source": "Dawn",
-        "date": "2026-05-26T17:37:11+05:00",
-        "img": ""
-      },
-      {
         "title": "China, Pakistan reach 'new broad consensus' on boosting ties",
         "summary": "<p>China and Pakistan have reached a new broad consensus on deepening their strategic partnership, according to a joint statement issued by the countries at the end of Prime Minister Shehbaz Sharif’s visit to Beijing.</p> <p>The statement, shared by the Foreign Office (FO) on X, said, “The two sides engaged cordially a",
         "url": "https://www.dawn.com/news/2003203/china-pakistan-reach-new-broad-consensus-on-boosting-ties",
         "source": "Dawn",
         "date": "2026-05-26T14:26:34+05:00",
         "img": ""
-      },
-      {
-        "title": "Punjab PDMA directs district administrations to take precautionary measures amid heatwave during Eid",
-        "summary": "<p>LAHORE: The Provincial Disaster Management Authority (PDMA) has directed district administrations to take precautionary measures due to a heatwave during Eidul Azha holidays.</p> <p>According to the advisory, a heatwave is likely to persist from May 25 to May 31 under the influence of a high-pressure weather system ",
-        "url": "https://www.dawn.com/news/2003207/punjab-pdma-directs-district-administrations-to-take-precautionary-measures-amid-heatwave-during-eid",
-        "source": "Dawn",
-        "date": "2026-05-26T10:23:31+05:00",
-        "img": ""
       }
     ],
     "education": [
+      {
+        "title": "لانڈھی میں پراسرار طور پر زہریلی چیز کھانے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814946/youth-dies-after-mysteriously-consuming-poisonous-substance-in-landhi-2814946/",
+        "source": "Express",
+        "date": "2026-05-28T02:08:44+05:00",
+        "img": ""
+      },
       {
         "title": "South Africa added two uncapped players to World Cup squad",
         "summary": "South Africa added two uncapped players to World Cup squad",
@@ -3269,6 +3277,22 @@
         "source": "ARY News",
         "date": "2026-05-28T01:35:53+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-8-1.jpg"
+      },
+      {
+        "title": "کراچی، اختر کالونی کے قریب خوفناک ٹریفک حادثہ، ٹینکر سمیت کئی گاڑیاں آپس میں ٹکرا گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814945/terrible-traffic-accident-near-akhtar-colony-karachi-several-vehicles-including-a-tanker-collided-2814945/",
+        "source": "Express",
+        "date": "2026-05-28T01:34:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں فائرنگ کے دو واقعات، 10 سالہ بچی سمیت 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814943/two-shooting-incidents-in-karachi-2-people-including-a-10-year-old-girl-injured-2814943/",
+        "source": "Express",
+        "date": "2026-05-28T01:11:55+05:00",
+        "img": ""
       },
       {
         "title": "Enola Holmes 3 trailer gives fans first clues about new adventure",
@@ -3319,12 +3343,44 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-2-32.jpg"
       },
       {
+        "title": "شہباز شریف کا گورنر سندھ نہال ہاشمی کو فون، حج کی سعادت اور عیدالاضحیٰ پر مبارکباد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814944/shahbaz-sharif-calls-sindh-governor-nehal-hashmi-congratulates-him-on-the-occasion-of-hajj-and-eid-ul-adha-2814944/",
+        "source": "Express",
+        "date": "2026-05-27T20:24:55+00:00",
+        "img": ""
+      },
+      {
         "title": "Victoria Beckham opens up about raising kids amid family tension",
         "summary": "Victoria Beckham opens up about raising kids amid family tension",
         "url": "https://arynews.tv/victoria-beckham-opens-up-about-raising-kids-amid-family-tension",
         "source": "ARY News",
         "date": "2026-05-27T19:51:31+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-1-52.jpg"
+      },
+      {
+        "title": "دفاع وطن کیلئے آخری قطرہ خون بھی بہا دیں گے، یوم تکبیر پر آئی جی پنجاب کا پیغام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814942/ig-punjabs-message-on-youm-e-takbir-we-will-shed-even-the-last-drop-of-blood-to-defend-the-homeland-2814942/",
+        "source": "Express",
+        "date": "2026-05-27T19:29:46+00:00",
+        "img": ""
+      },
+      {
+        "title": "عیدالاضحیٰ پر بلاول بھٹو اور وزیراعظم شہباز شریف کا رابطہ، ملکی امور پر بھی تبادلہ خیال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814941/bilawal-bhutto-and-prime-minister-shehbaz-sharif-contact-on-eid-ul-adha-also-discuss-national-affairs-2814941/",
+        "source": "Express",
+        "date": "2026-05-27T19:19:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کے دفاع، سلامتی اور خودمختاری پر کوئی سمجھوتہ نہیں ہوگا، یوم تکبیر پر مسلح افواج کا عہد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814940/there-will-be-no-compromise-on-pakistans-defense-security-and-sovereignty-vows-the-armed-forces-on-youm-e-takbir-2814940/",
+        "source": "Express",
+        "date": "2026-05-27T19:11:27+00:00",
+        "img": ""
       },
       {
         "title": "Iran war divides world markets into winners, losers",
@@ -3375,6 +3431,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/12/Hajj-2026.jpg"
       },
       {
+        "title": "جگر کے مریضوں کیلئے آزمائی گئی نئی سیل تھراپی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814930/new-cell-therapy-offers-real-hope-for-liver-disease-patients-2814930/",
+        "source": "Express",
+        "date": "2026-05-27T15:50:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "ناسا کا چاند پر بیس بنانے سے متعلق اہم اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814928/nasa-ramps-up-its-effort-to-build-2814928/",
+        "source": "Express",
+        "date": "2026-05-27T14:56:16+05:00",
+        "img": ""
+      },
+      {
         "title": "Field Marshal celebrates Eid al-Adha with frontline troops in Zhob, Balochistan: ISPR",
         "summary": "Field Marshal celebrates Eid al-Adha with frontline troops in Zhob, Balochistan: ISPR",
         "url": "https://arynews.tv/field-marshal-celebrates-eid-al-adha-with-frontline-troops-in-zhob",
@@ -3391,7 +3463,15 @@
         "img": ""
       },
       {
-        "title": "پاکستان کے دفاع پر کوئی سمجھوتہ نہیں ہو گا، یوم تکبیر پر وزیر اعطم کا دوٹوک پیغام",
+        "title": "کوٹری ریلوے اسٹیشن کے قریب مال بردار ٹرین پٹری سے اتر گئی، ڈاؤن ٹریک پر ٹرینوں کی آمدورفت معطل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814938/freight-train-derails-near-kotri-railway-station-train-traffic-suspended-on-down-track-2814938/",
+        "source": "Express",
+        "date": "2026-05-27T14:42:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کا مضبوط ایٹمی دفاع اور مسلح افواج کی تیاری دشمن کے سامنے آہنی دیوار ہے، وزیرِاعظم",
         "summary": "",
         "url": "https://www.express.pk/story/2814937/there-will-be-no-compromise-on-pakistans-defense-the-prime-ministers-categorical-message-on-youm-e-takbir-2814937/",
         "source": "Express",
@@ -3437,6 +3517,14 @@
         "source": "ARY News",
         "date": "2026-05-27T13:28:54+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/gaza.jpg"
+      },
+      {
+        "title": "بھارت: دنیا بھر سے مختلف قسم کے پیپر کپ جمع کرنے کا ریکارڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814924/indian-man-earns-world-record-2814924/",
+        "source": "Express",
+        "date": "2026-05-27T13:25:41+05:00",
+        "img": ""
       },
       {
         "title": "میئر کراچی کی لاہور سے متعلق بیان پر معذرت",
@@ -3487,27 +3575,11 @@
         "img": ""
       },
       {
-        "title": "ترک صدر اردوان کی نیتن یاہو پر کڑی تنقید، ’’ظالم‘‘ قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814913/turkish-president-erdogan-strongly-criticises-netanyahu-calls-him-a-tyrant-2814913/",
-        "source": "Express",
-        "date": "2026-05-27T11:30:24+05:00",
-        "img": ""
-      },
-      {
         "title": "ایران وقت گزارنے کی کوشش کرتا رہا لیکن اب معاہدہ کرنے کے سوا کوئی راستہ نہیں؛ ٹرمپ",
         "summary": "",
         "url": "https://www.express.pk/story/2814932/iran-deal-trump-says-wait-is-over-2814932/",
         "source": "Express",
         "date": "2026-05-27T11:28:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "فرنچ اوپن: ناؤمی اوساکا منفرد فیشن کرکے مداحوں کی نگاہ کا مرکز بن گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814910/naomi-osaka-sparkles-in-golden-french-open-outfit-2814910/",
-        "source": "Express",
-        "date": "2026-05-27T11:03:55+05:00",
         "img": ""
       },
       {
@@ -3527,36 +3599,12 @@
         "img": ""
       },
       {
-        "title": "کراچی: بخاری شاہ مزار کے قریب ٹریفک حادثے میں موٹر سائیکل سوار2افراد جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814907/karachi-two-motorcyclists-killed-in-traffic-accident-near-bukhari-shah-shrine-2814907/",
-        "source": "Express",
-        "date": "2026-05-27T10:43:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "وسیم اکرم کی شیطان کو خطرناک ان سوئنگ یارکر، ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814903/wasim-akram-throws-stones-at-the-devil-in-his-iconic-bowling-style-2814903/",
-        "source": "Express",
-        "date": "2026-05-27T10:38:16+05:00",
-        "img": ""
-      },
-      {
         "title": "PM expresses solidarity with Palestinians, Kashmiris on Eid al-Adha",
         "summary": "PM expresses solidarity with Palestinians, Kashmiris on Eid al-Adha",
         "url": "https://arynews.tv/pm-voices-solidarity-with-palestinians-kashmiris-on-eid-al-adha",
         "source": "ARY News",
         "date": "2026-05-27T10:36:29+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/10/Shehbaz-Sharif.jpg"
-      },
-      {
-        "title": "اسرائیلی فضائیہ کے جنوبی لبنان کے قصبے دبین اور شبعا میں تازہ حملے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814901/israeli-air-raids-target-southern-lebanons-dibbin-and-shebaa-towns-2814901/",
-        "source": "Express",
-        "date": "2026-05-27T10:25:28+05:00",
-        "img": ""
       },
       {
         "title": "Marsh out of Pakistan ODIs, Inglis to captain Australia",
@@ -3604,54 +3652,6 @@
         "url": "https://www.express.pk/story/2814916/murad-ali-shahs-important-statement-regarding-the-28th-amendment-has-come-to-light-2814916/",
         "source": "Express",
         "date": "2026-05-27T06:48:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "حالیہ صورتحال میں اصل محاذ اب معاشی جنگ ہے، ایرانی صدر مسعود پزشکیان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814915/main-battleground-now-is-economic-war-says-iranian-president-masoud-pezeshkian-2814915/",
-        "source": "Express",
-        "date": "2026-05-27T06:43:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "افزودہ یورینیم پر امریکا سے کوئی مذاکرات نہیں ہو رہے، ایران کا دوٹوک مؤقف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814911/iran-reaffirms-no-negotiations-with-us-on-enriched-uranium-issue-2814911/",
-        "source": "Express",
-        "date": "2026-05-27T06:05:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: پاکستان اسٹیل ملز سے قیمتی دھاتیں چوری کرنے میں ملوث 5 پولیس اہلکاروں سمیت 10 ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814909/karachi-10-suspects-including-5-police-officers-arrested-for-stealing-precious-metals-from-pakistan-steel-mills-2814909/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:16+00:00",
-        "img": ""
-      },
-      {
-        "title": "افغانستان میں دہشتگردی کے خطرات سے متعلق روسی خدشات نے پاکستان کے مؤقف کی تائید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814908/russian-concerns-about-terrorism-threats-in-afghanistan-support-pakistans-stance-2814908/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:11+00:00",
-        "img": ""
-      },
-      {
-        "title": "فوجی محاذ پر ناکامی کے بعد دشمن ہائبرڈ وارفیئر پر اتر آیا، ایرانی وزارتِ انٹیلی جنس کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814906/iran-claims-enemy-has-turned-to-hybrid-warfare-after-failing-on-military-front-says-intelligence-ministry-2814906/",
-        "source": "Express",
-        "date": "2026-05-27T05:42:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں عید کے روز نوجوان مرد اور خاتون کی لاشیں برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814902/bodies-of-young-man-and-woman-found-in-karachi-on-eid-2814902/",
-        "source": "Express",
-        "date": "2026-05-27T05:29:32+00:00",
         "img": ""
       }
     ],
@@ -3859,12 +3859,68 @@
     ],
     "sports": [
       {
+        "title": "لانڈھی میں پراسرار طور پر زہریلی چیز کھانے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814946/youth-dies-after-mysteriously-consuming-poisonous-substance-in-landhi-2814946/",
+        "source": "Express",
+        "date": "2026-05-28T02:08:44+05:00",
+        "img": ""
+      },
+      {
         "title": "South Africa added two uncapped players to World Cup squad",
         "summary": "South Africa added two uncapped players to World Cup squad",
         "url": "https://arynews.tv/category/sports/south-africa-added-two-uncapped-players-to-world-cup-squad",
         "source": "ARY Sports",
         "date": "2026-05-28T02:08:09+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/FotoJet-7-2.jpg"
+      },
+      {
+        "title": "کراچی، اختر کالونی کے قریب خوفناک ٹریفک حادثہ، ٹینکر سمیت کئی گاڑیاں آپس میں ٹکرا گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814945/terrible-traffic-accident-near-akhtar-colony-karachi-several-vehicles-including-a-tanker-collided-2814945/",
+        "source": "Express",
+        "date": "2026-05-28T01:34:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں فائرنگ کے دو واقعات، 10 سالہ بچی سمیت 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814943/two-shooting-incidents-in-karachi-2-people-including-a-10-year-old-girl-injured-2814943/",
+        "source": "Express",
+        "date": "2026-05-28T01:11:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "شہباز شریف کا گورنر سندھ نہال ہاشمی کو فون، حج کی سعادت اور عیدالاضحیٰ پر مبارکباد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814944/shahbaz-sharif-calls-sindh-governor-nehal-hashmi-congratulates-him-on-the-occasion-of-hajj-and-eid-ul-adha-2814944/",
+        "source": "Express",
+        "date": "2026-05-27T20:24:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "دفاع وطن کیلئے آخری قطرہ خون بھی بہا دیں گے، یوم تکبیر پر آئی جی پنجاب کا پیغام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814942/ig-punjabs-message-on-youm-e-takbir-we-will-shed-even-the-last-drop-of-blood-to-defend-the-homeland-2814942/",
+        "source": "Express",
+        "date": "2026-05-27T19:29:46+00:00",
+        "img": ""
+      },
+      {
+        "title": "عیدالاضحیٰ پر بلاول بھٹو اور وزیراعظم شہباز شریف کا رابطہ، ملکی امور پر بھی تبادلہ خیال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814941/bilawal-bhutto-and-prime-minister-shehbaz-sharif-contact-on-eid-ul-adha-also-discuss-national-affairs-2814941/",
+        "source": "Express",
+        "date": "2026-05-27T19:19:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کے دفاع، سلامتی اور خودمختاری پر کوئی سمجھوتہ نہیں ہوگا، یوم تکبیر پر مسلح افواج کا عہد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814940/there-will-be-no-compromise-on-pakistans-defense-security-and-sovereignty-vows-the-armed-forces-on-youm-e-takbir-2814940/",
+        "source": "Express",
+        "date": "2026-05-27T19:11:27+00:00",
+        "img": ""
       },
       {
         "title": "القسام بریگیڈ کے سربراہ محمد عودہ کی نماز جنازہ میں پورا شہر امڈ آیا",
@@ -3883,6 +3939,22 @@
         "img": ""
       },
       {
+        "title": "جگر کے مریضوں کیلئے آزمائی گئی نئی سیل تھراپی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814930/new-cell-therapy-offers-real-hope-for-liver-disease-patients-2814930/",
+        "source": "Express",
+        "date": "2026-05-27T15:50:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "ناسا کا چاند پر بیس بنانے سے متعلق اہم اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814928/nasa-ramps-up-its-effort-to-build-2814928/",
+        "source": "Express",
+        "date": "2026-05-27T14:56:16+05:00",
+        "img": ""
+      },
+      {
         "title": "شہباز شریف کی کویتی ولی عہد سے ٹیلیفونک گفتگو، کویت کی عوام کے ساتھ مکمل یکجہتی کا اظہار",
         "summary": "",
         "url": "https://www.express.pk/story/2814939/shahbaz-sharifs-telephone-conversation-with-the-kuwaiti-crown-prince-expressing-complete-solidarity-with-the-people-of-kuwait-2814939/",
@@ -3891,7 +3963,15 @@
         "img": ""
       },
       {
-        "title": "پاکستان کے دفاع پر کوئی سمجھوتہ نہیں ہو گا، یوم تکبیر پر وزیر اعطم کا دوٹوک پیغام",
+        "title": "کوٹری ریلوے اسٹیشن کے قریب مال بردار ٹرین پٹری سے اتر گئی، ڈاؤن ٹریک پر ٹرینوں کی آمدورفت معطل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814938/freight-train-derails-near-kotri-railway-station-train-traffic-suspended-on-down-track-2814938/",
+        "source": "Express",
+        "date": "2026-05-27T14:42:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کا مضبوط ایٹمی دفاع اور مسلح افواج کی تیاری دشمن کے سامنے آہنی دیوار ہے، وزیرِاعظم",
         "summary": "",
         "url": "https://www.express.pk/story/2814937/there-will-be-no-compromise-on-pakistans-defense-the-prime-ministers-categorical-message-on-youm-e-takbir-2814937/",
         "source": "Express",
@@ -3912,6 +3992,14 @@
         "url": "https://www.express.pk/story/2814926/who-is-mohammed-odeh-martyred-by-israel-2814926/",
         "source": "Express",
         "date": "2026-05-27T13:46:25+05:00",
+        "img": ""
+      },
+      {
+        "title": "بھارت: دنیا بھر سے مختلف قسم کے پیپر کپ جمع کرنے کا ریکارڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814924/indian-man-earns-world-record-2814924/",
+        "source": "Express",
+        "date": "2026-05-27T13:25:41+05:00",
         "img": ""
       },
       {
@@ -3939,14 +4027,6 @@
         "img": ""
       },
       {
-        "title": "ترک صدر اردوان کی نیتن یاہو پر کڑی تنقید، ’’ظالم‘‘ قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814913/turkish-president-erdogan-strongly-criticises-netanyahu-calls-him-a-tyrant-2814913/",
-        "source": "Express",
-        "date": "2026-05-27T11:30:24+05:00",
-        "img": ""
-      },
-      {
         "title": "ایران وقت گزارنے کی کوشش کرتا رہا لیکن اب معاہدہ کرنے کے سوا کوئی راستہ نہیں؛ ٹرمپ",
         "summary": "",
         "url": "https://www.express.pk/story/2814932/iran-deal-trump-says-wait-is-over-2814932/",
@@ -3955,43 +4035,11 @@
         "img": ""
       },
       {
-        "title": "فرنچ اوپن: ناؤمی اوساکا منفرد فیشن کرکے مداحوں کی نگاہ کا مرکز بن گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814910/naomi-osaka-sparkles-in-golden-french-open-outfit-2814910/",
-        "source": "Express",
-        "date": "2026-05-27T11:03:55+05:00",
-        "img": ""
-      },
-      {
         "title": "معاہدے کے جو نکات ایران منظرعام پر لا رہا ہے وہ سفید جھوٹ ہیں؛ وائٹ ہاؤس",
         "summary": "",
         "url": "https://www.express.pk/story/2814929/us-white-house-iran-war-mou-points-2814929/",
         "source": "Express",
         "date": "2026-05-27T10:44:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: بخاری شاہ مزار کے قریب ٹریفک حادثے میں موٹر سائیکل سوار2افراد جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814907/karachi-two-motorcyclists-killed-in-traffic-accident-near-bukhari-shah-shrine-2814907/",
-        "source": "Express",
-        "date": "2026-05-27T10:43:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "وسیم اکرم کی شیطان کو خطرناک ان سوئنگ یارکر، ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814903/wasim-akram-throws-stones-at-the-devil-in-his-iconic-bowling-style-2814903/",
-        "source": "Express",
-        "date": "2026-05-27T10:38:16+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیلی فضائیہ کے جنوبی لبنان کے قصبے دبین اور شبعا میں تازہ حملے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814901/israeli-air-raids-target-southern-lebanons-dibbin-and-shebaa-towns-2814901/",
-        "source": "Express",
-        "date": "2026-05-27T10:25:28+05:00",
         "img": ""
       },
       {
@@ -4032,54 +4080,6 @@
         "url": "https://www.express.pk/story/2814916/murad-ali-shahs-important-statement-regarding-the-28th-amendment-has-come-to-light-2814916/",
         "source": "Express",
         "date": "2026-05-27T06:48:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "حالیہ صورتحال میں اصل محاذ اب معاشی جنگ ہے، ایرانی صدر مسعود پزشکیان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814915/main-battleground-now-is-economic-war-says-iranian-president-masoud-pezeshkian-2814915/",
-        "source": "Express",
-        "date": "2026-05-27T06:43:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "افزودہ یورینیم پر امریکا سے کوئی مذاکرات نہیں ہو رہے، ایران کا دوٹوک مؤقف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814911/iran-reaffirms-no-negotiations-with-us-on-enriched-uranium-issue-2814911/",
-        "source": "Express",
-        "date": "2026-05-27T06:05:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: پاکستان اسٹیل ملز سے قیمتی دھاتیں چوری کرنے میں ملوث 5 پولیس اہلکاروں سمیت 10 ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814909/karachi-10-suspects-including-5-police-officers-arrested-for-stealing-precious-metals-from-pakistan-steel-mills-2814909/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:16+00:00",
-        "img": ""
-      },
-      {
-        "title": "افغانستان میں دہشتگردی کے خطرات سے متعلق روسی خدشات نے پاکستان کے مؤقف کی تائید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814908/russian-concerns-about-terrorism-threats-in-afghanistan-support-pakistans-stance-2814908/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:11+00:00",
-        "img": ""
-      },
-      {
-        "title": "فوجی محاذ پر ناکامی کے بعد دشمن ہائبرڈ وارفیئر پر اتر آیا، ایرانی وزارتِ انٹیلی جنس کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814906/iran-claims-enemy-has-turned-to-hybrid-warfare-after-failing-on-military-front-says-intelligence-ministry-2814906/",
-        "source": "Express",
-        "date": "2026-05-27T05:42:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں عید کے روز نوجوان مرد اور خاتون کی لاشیں برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814902/bodies-of-young-man-and-woman-found-in-karachi-on-eid-2814902/",
-        "source": "Express",
-        "date": "2026-05-27T05:29:32+00:00",
         "img": ""
       },
       {
@@ -4413,6 +4413,62 @@
     ],
     "business": [
       {
+        "title": "لانڈھی میں پراسرار طور پر زہریلی چیز کھانے سے نوجوان جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814946/youth-dies-after-mysteriously-consuming-poisonous-substance-in-landhi-2814946/",
+        "source": "Express",
+        "date": "2026-05-28T02:08:44+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، اختر کالونی کے قریب خوفناک ٹریفک حادثہ، ٹینکر سمیت کئی گاڑیاں آپس میں ٹکرا گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814945/terrible-traffic-accident-near-akhtar-colony-karachi-several-vehicles-including-a-tanker-collided-2814945/",
+        "source": "Express",
+        "date": "2026-05-28T01:34:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں فائرنگ کے دو واقعات، 10 سالہ بچی سمیت 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814943/two-shooting-incidents-in-karachi-2-people-including-a-10-year-old-girl-injured-2814943/",
+        "source": "Express",
+        "date": "2026-05-28T01:11:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "شہباز شریف کا گورنر سندھ نہال ہاشمی کو فون، حج کی سعادت اور عیدالاضحیٰ پر مبارکباد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814944/shahbaz-sharif-calls-sindh-governor-nehal-hashmi-congratulates-him-on-the-occasion-of-hajj-and-eid-ul-adha-2814944/",
+        "source": "Express",
+        "date": "2026-05-27T20:24:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "دفاع وطن کیلئے آخری قطرہ خون بھی بہا دیں گے، یوم تکبیر پر آئی جی پنجاب کا پیغام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814942/ig-punjabs-message-on-youm-e-takbir-we-will-shed-even-the-last-drop-of-blood-to-defend-the-homeland-2814942/",
+        "source": "Express",
+        "date": "2026-05-27T19:29:46+00:00",
+        "img": ""
+      },
+      {
+        "title": "عیدالاضحیٰ پر بلاول بھٹو اور وزیراعظم شہباز شریف کا رابطہ، ملکی امور پر بھی تبادلہ خیال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814941/bilawal-bhutto-and-prime-minister-shehbaz-sharif-contact-on-eid-ul-adha-also-discuss-national-affairs-2814941/",
+        "source": "Express",
+        "date": "2026-05-27T19:19:20+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کے دفاع، سلامتی اور خودمختاری پر کوئی سمجھوتہ نہیں ہوگا، یوم تکبیر پر مسلح افواج کا عہد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814940/there-will-be-no-compromise-on-pakistans-defense-security-and-sovereignty-vows-the-armed-forces-on-youm-e-takbir-2814940/",
+        "source": "Express",
+        "date": "2026-05-27T19:11:27+00:00",
+        "img": ""
+      },
+      {
         "title": "القسام بریگیڈ کے سربراہ محمد عودہ کی نماز جنازہ میں پورا شہر امڈ آیا",
         "summary": "",
         "url": "https://www.express.pk/story/2814935/funeral-muhammad-odeh-alqassam-brigrade-2814935/",
@@ -4429,6 +4485,22 @@
         "img": ""
       },
       {
+        "title": "جگر کے مریضوں کیلئے آزمائی گئی نئی سیل تھراپی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814930/new-cell-therapy-offers-real-hope-for-liver-disease-patients-2814930/",
+        "source": "Express",
+        "date": "2026-05-27T15:50:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "ناسا کا چاند پر بیس بنانے سے متعلق اہم اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814928/nasa-ramps-up-its-effort-to-build-2814928/",
+        "source": "Express",
+        "date": "2026-05-27T14:56:16+05:00",
+        "img": ""
+      },
+      {
         "title": "شہباز شریف کی کویتی ولی عہد سے ٹیلیفونک گفتگو، کویت کی عوام کے ساتھ مکمل یکجہتی کا اظہار",
         "summary": "",
         "url": "https://www.express.pk/story/2814939/shahbaz-sharifs-telephone-conversation-with-the-kuwaiti-crown-prince-expressing-complete-solidarity-with-the-people-of-kuwait-2814939/",
@@ -4437,7 +4509,15 @@
         "img": ""
       },
       {
-        "title": "پاکستان کے دفاع پر کوئی سمجھوتہ نہیں ہو گا، یوم تکبیر پر وزیر اعطم کا دوٹوک پیغام",
+        "title": "کوٹری ریلوے اسٹیشن کے قریب مال بردار ٹرین پٹری سے اتر گئی، ڈاؤن ٹریک پر ٹرینوں کی آمدورفت معطل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814938/freight-train-derails-near-kotri-railway-station-train-traffic-suspended-on-down-track-2814938/",
+        "source": "Express",
+        "date": "2026-05-27T14:42:49+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کا مضبوط ایٹمی دفاع اور مسلح افواج کی تیاری دشمن کے سامنے آہنی دیوار ہے، وزیرِاعظم",
         "summary": "",
         "url": "https://www.express.pk/story/2814937/there-will-be-no-compromise-on-pakistans-defense-the-prime-ministers-categorical-message-on-youm-e-takbir-2814937/",
         "source": "Express",
@@ -4458,6 +4538,14 @@
         "url": "https://www.express.pk/story/2814926/who-is-mohammed-odeh-martyred-by-israel-2814926/",
         "source": "Express",
         "date": "2026-05-27T13:46:25+05:00",
+        "img": ""
+      },
+      {
+        "title": "بھارت: دنیا بھر سے مختلف قسم کے پیپر کپ جمع کرنے کا ریکارڈ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2814924/indian-man-earns-world-record-2814924/",
+        "source": "Express",
+        "date": "2026-05-27T13:25:41+05:00",
         "img": ""
       },
       {
@@ -4485,14 +4573,6 @@
         "img": ""
       },
       {
-        "title": "ترک صدر اردوان کی نیتن یاہو پر کڑی تنقید، ’’ظالم‘‘ قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814913/turkish-president-erdogan-strongly-criticises-netanyahu-calls-him-a-tyrant-2814913/",
-        "source": "Express",
-        "date": "2026-05-27T11:30:24+05:00",
-        "img": ""
-      },
-      {
         "title": "ایران وقت گزارنے کی کوشش کرتا رہا لیکن اب معاہدہ کرنے کے سوا کوئی راستہ نہیں؛ ٹرمپ",
         "summary": "",
         "url": "https://www.express.pk/story/2814932/iran-deal-trump-says-wait-is-over-2814932/",
@@ -4501,43 +4581,11 @@
         "img": ""
       },
       {
-        "title": "فرنچ اوپن: ناؤمی اوساکا منفرد فیشن کرکے مداحوں کی نگاہ کا مرکز بن گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814910/naomi-osaka-sparkles-in-golden-french-open-outfit-2814910/",
-        "source": "Express",
-        "date": "2026-05-27T11:03:55+05:00",
-        "img": ""
-      },
-      {
         "title": "معاہدے کے جو نکات ایران منظرعام پر لا رہا ہے وہ سفید جھوٹ ہیں؛ وائٹ ہاؤس",
         "summary": "",
         "url": "https://www.express.pk/story/2814929/us-white-house-iran-war-mou-points-2814929/",
         "source": "Express",
         "date": "2026-05-27T10:44:56+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: بخاری شاہ مزار کے قریب ٹریفک حادثے میں موٹر سائیکل سوار2افراد جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814907/karachi-two-motorcyclists-killed-in-traffic-accident-near-bukhari-shah-shrine-2814907/",
-        "source": "Express",
-        "date": "2026-05-27T10:43:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "وسیم اکرم کی شیطان کو خطرناک ان سوئنگ یارکر، ویڈیو وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814903/wasim-akram-throws-stones-at-the-devil-in-his-iconic-bowling-style-2814903/",
-        "source": "Express",
-        "date": "2026-05-27T10:38:16+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیلی فضائیہ کے جنوبی لبنان کے قصبے دبین اور شبعا میں تازہ حملے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814901/israeli-air-raids-target-southern-lebanons-dibbin-and-shebaa-towns-2814901/",
-        "source": "Express",
-        "date": "2026-05-27T10:25:28+05:00",
         "img": ""
       },
       {
@@ -4594,54 +4642,6 @@
         "url": "https://www.express.pk/story/2814916/murad-ali-shahs-important-statement-regarding-the-28th-amendment-has-come-to-light-2814916/",
         "source": "Express",
         "date": "2026-05-27T06:48:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "حالیہ صورتحال میں اصل محاذ اب معاشی جنگ ہے، ایرانی صدر مسعود پزشکیان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814915/main-battleground-now-is-economic-war-says-iranian-president-masoud-pezeshkian-2814915/",
-        "source": "Express",
-        "date": "2026-05-27T06:43:42+00:00",
-        "img": ""
-      },
-      {
-        "title": "افزودہ یورینیم پر امریکا سے کوئی مذاکرات نہیں ہو رہے، ایران کا دوٹوک مؤقف",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814911/iran-reaffirms-no-negotiations-with-us-on-enriched-uranium-issue-2814911/",
-        "source": "Express",
-        "date": "2026-05-27T06:05:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: پاکستان اسٹیل ملز سے قیمتی دھاتیں چوری کرنے میں ملوث 5 پولیس اہلکاروں سمیت 10 ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814909/karachi-10-suspects-including-5-police-officers-arrested-for-stealing-precious-metals-from-pakistan-steel-mills-2814909/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:16+00:00",
-        "img": ""
-      },
-      {
-        "title": "افغانستان میں دہشتگردی کے خطرات سے متعلق روسی خدشات نے پاکستان کے مؤقف کی تائید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814908/russian-concerns-about-terrorism-threats-in-afghanistan-support-pakistans-stance-2814908/",
-        "source": "Express",
-        "date": "2026-05-27T05:43:11+00:00",
-        "img": ""
-      },
-      {
-        "title": "فوجی محاذ پر ناکامی کے بعد دشمن ہائبرڈ وارفیئر پر اتر آیا، ایرانی وزارتِ انٹیلی جنس کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814906/iran-claims-enemy-has-turned-to-hybrid-warfare-after-failing-on-military-front-says-intelligence-ministry-2814906/",
-        "source": "Express",
-        "date": "2026-05-27T05:42:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں عید کے روز نوجوان مرد اور خاتون کی لاشیں برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2814902/bodies-of-young-man-and-woman-found-in-karachi-on-eid-2814902/",
-        "source": "Express",
-        "date": "2026-05-27T05:29:32+00:00",
         "img": ""
       },
       {
