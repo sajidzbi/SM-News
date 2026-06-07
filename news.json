@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-06T22:09:38.766878+00:00",
+  "fetched": "2026-06-07T00:00:34.230489+00:00",
   "categories": {
     "international": [
       {
@@ -41,6 +41,14 @@
         "source": "ARY News",
         "date": "2026-06-07T00:14:40+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Israel.jpg"
+      },
+      {
+        "title": "پاکستان کے وزیرِ داخلہ تہران پہنچ گئے، ’محسن نقوی ایران کے رہبر اعلیٰ مجتبیٰ خامنہ ای کے لیے پیغام لے کر آئے ہیں‘: ایرانی میڈیا",
+        "summary": "ایرانی میڈیا کے مطابق پاکستان کے وزیرِ داخلہ محسن نقوی تہران پہنچ گئے ہیں۔ ایرانی خبر رساں اداروں ارنا اور تسنیم کے مطابق، اپنے دورے کے دوران محسن نقوی کی ایران کے وزیرِ خارجہ عباس عراقچی سمیت دیگر حکام سے ملاقاتیں متوقع ہیں۔ تہران روانگی سے قبل محسن نقوی نے پاکستانی وزیر اعظم شہباز شریف سے ملاقات کی اور اپنے تہران کے ",
+        "url": "https://www.bbc.co.uk/urdu/live/c98r89r526jt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-06-07T00:00:36.278828+00:00",
+        "img": ""
       },
       {
         "title": "iOS 27: Seven Game-Changing iPhone Features Coming Soon",
@@ -104,14 +112,6 @@
         "url": "https://www.dawn.com/news/2005683/pti-alleges-pre-poll-rigging-over-security-deployment-ahead-of-gb-polls",
         "source": "Dawn",
         "date": "2026-06-06T22:17:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان کے وزیرِ داخلہ تہران پہنچ گئے، ’محسن نقوی ایران کے رہبر اعلیٰ مجتبیٰ خامنہ ای کے لیے پیغام لے کر آئے ہیں‘: ایرانی میڈیا",
-        "summary": "ایرانی میڈیا کے مطابق پاکستان کے وزیرِ داخلہ محسن نقوی تہران پہنچ گئے ہیں۔ ایرانی خبر رساں اداروں ارنا اور تسنیم کے مطابق، اپنے دورے کے دوران محسن نقوی کی ایران کے وزیرِ خارجہ عباس عراقچی سمیت دیگر حکام سے ملاقاتیں متوقع ہیں۔ تہران روانگی سے قبل محسن نقوی نے پاکستانی وزیر اعظم شہباز شریف سے ملاقات کی اور اپنے تہران کے ",
-        "url": "https://www.bbc.co.uk/urdu/live/c98r89r526jt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-06-06T22:09:41.322557+00:00",
         "img": ""
       },
       {
@@ -901,19 +901,19 @@
         "img": ""
       },
       {
-        "title": "بعد دوپہر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816339/later-in-the-afternoon-2816339/",
-        "source": "Express",
-        "date": "2026-06-06T18:23:33+05:00",
-        "img": ""
-      },
-      {
         "title": "Sharjeel laments ‘low priority’ accorded to Karachi by Centre",
         "summary": "<p>Senior Sindh Minister Sharjeel Inam Memon on Saturday criticised the federal government for what he described as a “low priority” approach towards Karachi, arguing that the country’s largest city continues to shoulder immense economic and infrastructural burdens despite its significant contribution to the national e",
         "url": "https://www.dawn.com/news/2005655/sharjeel-laments-low-priority-accorded-to-karachi-by-centre",
         "source": "Dawn",
         "date": "2026-06-06T17:54:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "نیا وفاقی بجٹ: تعلیم اور ایچ ای سی کیلیے 78.5 ارب روپے تجویز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816364/new-federal-budget-rs785-billion-proposed-for-education-and-hec-2816364/",
+        "source": "Express",
+        "date": "2026-06-06T17:03:15+00:00",
         "img": ""
       },
       {
@@ -1503,19 +1503,19 @@
         "img": ""
       },
       {
-        "title": "بعد دوپہر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816339/later-in-the-afternoon-2816339/",
-        "source": "Express",
-        "date": "2026-06-06T18:23:33+05:00",
-        "img": ""
-      },
-      {
         "title": "Sharjeel laments ‘low priority’ accorded to Karachi by Centre",
         "summary": "<p>Senior Sindh Minister Sharjeel Inam Memon on Saturday criticised the federal government for what he described as a “low priority” approach towards Karachi, arguing that the country’s largest city continues to shoulder immense economic and infrastructural burdens despite its significant contribution to the national e",
         "url": "https://www.dawn.com/news/2005655/sharjeel-laments-low-priority-accorded-to-karachi-by-centre",
         "source": "Dawn",
         "date": "2026-06-06T17:54:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "نیا وفاقی بجٹ: تعلیم اور ایچ ای سی کیلیے 78.5 ارب روپے تجویز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816364/new-federal-budget-rs785-billion-proposed-for-education-and-hec-2816364/",
+        "source": "Express",
+        "date": "2026-06-06T17:03:15+00:00",
         "img": ""
       },
       {
@@ -1985,19 +1985,19 @@
         "img": ""
       },
       {
-        "title": "بعد دوپہر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816339/later-in-the-afternoon-2816339/",
-        "source": "Express",
-        "date": "2026-06-06T18:23:33+05:00",
-        "img": ""
-      },
-      {
         "title": "Sharjeel laments ‘low priority’ accorded to Karachi by Centre",
         "summary": "<p>Senior Sindh Minister Sharjeel Inam Memon on Saturday criticised the federal government for what he described as a “low priority” approach towards Karachi, arguing that the country’s largest city continues to shoulder immense economic and infrastructural burdens despite its significant contribution to the national e",
         "url": "https://www.dawn.com/news/2005655/sharjeel-laments-low-priority-accorded-to-karachi-by-centre",
         "source": "Dawn",
         "date": "2026-06-06T17:54:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "نیا وفاقی بجٹ: تعلیم اور ایچ ای سی کیلیے 78.5 ارب روپے تجویز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816364/new-federal-budget-rs785-billion-proposed-for-education-and-hec-2816364/",
+        "source": "Express",
+        "date": "2026-06-06T17:03:15+00:00",
         "img": ""
       },
       {
@@ -2387,19 +2387,19 @@
         "img": ""
       },
       {
-        "title": "بعد دوپہر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816339/later-in-the-afternoon-2816339/",
-        "source": "Express",
-        "date": "2026-06-06T18:23:33+05:00",
-        "img": ""
-      },
-      {
         "title": "Sharjeel laments ‘low priority’ accorded to Karachi by Centre",
         "summary": "<p>Senior Sindh Minister Sharjeel Inam Memon on Saturday criticised the federal government for what he described as a “low priority” approach towards Karachi, arguing that the country’s largest city continues to shoulder immense economic and infrastructural burdens despite its significant contribution to the national e",
         "url": "https://www.dawn.com/news/2005655/sharjeel-laments-low-priority-accorded-to-karachi-by-centre",
         "source": "Dawn",
         "date": "2026-06-06T17:54:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "نیا وفاقی بجٹ: تعلیم اور ایچ ای سی کیلیے 78.5 ارب روپے تجویز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816364/new-federal-budget-rs785-billion-proposed-for-education-and-hec-2816364/",
+        "source": "Express",
+        "date": "2026-06-06T17:03:15+00:00",
         "img": ""
       },
       {
@@ -2989,19 +2989,19 @@
         "img": ""
       },
       {
-        "title": "بعد دوپہر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816339/later-in-the-afternoon-2816339/",
-        "source": "Express",
-        "date": "2026-06-06T18:23:33+05:00",
-        "img": ""
-      },
-      {
         "title": "Sharjeel laments ‘low priority’ accorded to Karachi by Centre",
         "summary": "<p>Senior Sindh Minister Sharjeel Inam Memon on Saturday criticised the federal government for what he described as a “low priority” approach towards Karachi, arguing that the country’s largest city continues to shoulder immense economic and infrastructural burdens despite its significant contribution to the national e",
         "url": "https://www.dawn.com/news/2005655/sharjeel-laments-low-priority-accorded-to-karachi-by-centre",
         "source": "Dawn",
         "date": "2026-06-06T17:54:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "نیا وفاقی بجٹ: تعلیم اور ایچ ای سی کیلیے 78.5 ارب روپے تجویز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816364/new-federal-budget-rs785-billion-proposed-for-education-and-hec-2816364/",
+        "source": "Express",
+        "date": "2026-06-06T17:03:15+00:00",
         "img": ""
       },
       {
@@ -3551,11 +3551,11 @@
         "img": ""
       },
       {
-        "title": "بعد دوپہر",
+        "title": "نیا وفاقی بجٹ: تعلیم اور ایچ ای سی کیلیے 78.5 ارب روپے تجویز",
         "summary": "",
-        "url": "https://www.express.pk/story/2816339/later-in-the-afternoon-2816339/",
+        "url": "https://www.express.pk/story/2816364/new-federal-budget-rs785-billion-proposed-for-education-and-hec-2816364/",
         "source": "Express",
-        "date": "2026-06-06T18:23:33+05:00",
+        "date": "2026-06-06T17:03:15+00:00",
         "img": ""
       },
       {
@@ -3995,14 +3995,6 @@
         "img": ""
       },
       {
-        "title": "بعد دوپہر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816339/later-in-the-afternoon-2816339/",
-        "source": "Express",
-        "date": "2026-06-06T18:23:33+05:00",
-        "img": ""
-      },
-      {
         "title": "Granollers and Zeballos retain French Open men’s doubles title",
         "summary": "Granollers and Zeballos retain French Open men’s doubles title",
         "url": "https://arynews.tv/category/sports/granollers-and-zeballos-retain-french-open-mens-doubles-title",
@@ -4025,6 +4017,14 @@
         "source": "ARY Sports",
         "date": "2026-06-06T17:11:48+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/1-25.jpg"
+      },
+      {
+        "title": "نیا وفاقی بجٹ: تعلیم اور ایچ ای سی کیلیے 78.5 ارب روپے تجویز",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816364/new-federal-budget-rs785-billion-proposed-for-education-and-hec-2816364/",
+        "source": "Express",
+        "date": "2026-06-06T17:03:15+00:00",
+        "img": ""
       },
       {
         "title": "Scaloni gives encouraging update on Messi fitness",
@@ -4517,11 +4517,11 @@
         "img": ""
       },
       {
-        "title": "بعد دوپہر",
+        "title": "نیا وفاقی بجٹ: تعلیم اور ایچ ای سی کیلیے 78.5 ارب روپے تجویز",
         "summary": "",
-        "url": "https://www.express.pk/story/2816339/later-in-the-afternoon-2816339/",
+        "url": "https://www.express.pk/story/2816364/new-federal-budget-rs785-billion-proposed-for-education-and-hec-2816364/",
         "source": "Express",
-        "date": "2026-06-06T18:23:33+05:00",
+        "date": "2026-06-06T17:03:15+00:00",
         "img": ""
       },
       {
