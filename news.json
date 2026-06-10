@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-06-09T22:20:20.108471+00:00",
+  "fetched": "2026-06-10T00:08:38.527067+00:00",
   "categories": {
     "international": [
       {
@@ -41,6 +41,14 @@
         "source": "ARY News",
         "date": "2026-06-10T00:18:57+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/NEC-meeting-postponed-Pakistan.jpg"
+      },
+      {
+        "title": "امریکہ کا ایران پر ہیلی کاپٹر مار گرانے کا الزام: اب ہمیں ردِعمل دینا پڑے گا، ڈونلڈ ٹرمپ",
+        "summary": "امریکی صدر ڈونلڈ ٹرمپ کا کہنا ہے کہ انھیں بتایا گیا ہے کہ گذشتہ رات ایرانیوں نے آبنائے ہرمز پر گشت کے دوران ایک امریکی اپاچی ہیلی کاپٹر کو مار گرایا ہے تاہم اس واقعے میں ہیلی کاپٹر میں سوار دونوں پائلٹ سوار محفوظ رہے۔ ان کا کہنا ہے کہ ’اس حملے کے جواب میں امریکہ کو لازماً ردّعمل دینا ہوگا۔‘",
+        "url": "https://www.bbc.co.uk/urdu/live/cy5vyyzd5pxt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-06-10T00:08:40.864993+00:00",
+        "img": ""
       },
       {
         "title": "Somali soccer referee denied US entry, will miss World Cup debut",
@@ -152,14 +160,6 @@
         "url": "https://www.dawn.com/news/2006369/india-nears-completion-of-strategic-himalayan-tunnel-near-china-border",
         "source": "Dawn",
         "date": "2026-06-09T22:24:41+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکہ کا ایران پر ہیلی کاپٹر مار گرانے کا الزام: اب ہمیں ردِعمل دینا پڑے گا، ڈونلڈ ٹرمپ",
-        "summary": "امریکی صدر ڈونلڈ ٹرمپ کا کہنا ہے کہ انھیں بتایا گیا ہے کہ گذشتہ رات ایرانیوں نے آبنائے ہرمز پر گشت کے دوران ایک امریکی اپاچی ہیلی کاپٹر کو مار گرایا ہے تاہم اس واقعے میں ہیلی کاپٹر میں سوار دونوں پائلٹ سوار محفوظ رہے۔ ان کا کہنا ہے کہ ’اس حملے کے جواب میں امریکہ کو لازماً ردّعمل دینا ہوگا۔‘",
-        "url": "https://www.bbc.co.uk/urdu/live/cy5vyyzd5pxt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-06-09T22:20:22.079993+00:00",
         "img": ""
       },
       {
@@ -933,6 +933,22 @@
         "img": ""
       },
       {
+        "title": "اپاچی ہیلی کاپٹر مار گرانے کے بعد امریکا نے ایران پر حملہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816785/us-attacks-iran-after-downing-apache-helicopter-2816785/",
+        "source": "Express",
+        "date": "2026-06-09T18:04:18+00:00",
+        "img": ""
+      },
+      {
+        "title": "بجٹ منظوری کی راہ ہموار، ترقیاتی بجٹ میں کٹوتی پر وفاق اور صوبے رضامند ہو گئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816784/the-path-to-budget-approval-is-paved-the-federation-and-provinces-have-agreed-to-cut-the-development-budget-2816784/",
+        "source": "Express",
+        "date": "2026-06-09T17:47:51+00:00",
+        "img": ""
+      },
+      {
         "title": "جنوبی کوریا: حکومت قیدیوں کے لیے اے سی لگانے کے فیصلے پر ڈٹ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2816764/south-korean-government-defends-to-install-air-conditioning-2816764/",
@@ -1042,22 +1058,6 @@
         "url": "https://www.express.pk/story/2816761/karachi-police-arrest-5-drug-dealers-include-woman-2816761/",
         "source": "Express",
         "date": "2026-06-09T12:39:36+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان میں82 فیصد صارفین خریداری کیلئے آرٹیفیشل انٹیلیجنس ایجنٹس پر بھروسہ کرتے ہیں، رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816760/pakist-82-consumers-buying-trust-artificial-intelligence-agents-report-2816760/",
-        "source": "Express",
-        "date": "2026-06-09T12:29:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکی فوجی کاپٹر کو ایران نے مار گرایا؛ ٹرمپ نے تصدیق کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816759/donald-trump-says-iran-attack-on-us-apache-helicopter-on-strait-of-hurmuz-2816759/",
-        "source": "Express",
-        "date": "2026-06-09T12:26:17+00:00",
         "img": ""
       },
       {
@@ -1535,6 +1535,22 @@
         "img": ""
       },
       {
+        "title": "اپاچی ہیلی کاپٹر مار گرانے کے بعد امریکا نے ایران پر حملہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816785/us-attacks-iran-after-downing-apache-helicopter-2816785/",
+        "source": "Express",
+        "date": "2026-06-09T18:04:18+00:00",
+        "img": ""
+      },
+      {
+        "title": "بجٹ منظوری کی راہ ہموار، ترقیاتی بجٹ میں کٹوتی پر وفاق اور صوبے رضامند ہو گئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816784/the-path-to-budget-approval-is-paved-the-federation-and-provinces-have-agreed-to-cut-the-development-budget-2816784/",
+        "source": "Express",
+        "date": "2026-06-09T17:47:51+00:00",
+        "img": ""
+      },
+      {
         "title": "جنوبی کوریا: حکومت قیدیوں کے لیے اے سی لگانے کے فیصلے پر ڈٹ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2816764/south-korean-government-defends-to-install-air-conditioning-2816764/",
@@ -1660,22 +1676,6 @@
         "url": "https://www.express.pk/story/2816761/karachi-police-arrest-5-drug-dealers-include-woman-2816761/",
         "source": "Express",
         "date": "2026-06-09T12:39:36+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان میں82 فیصد صارفین خریداری کیلئے آرٹیفیشل انٹیلیجنس ایجنٹس پر بھروسہ کرتے ہیں، رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816760/pakist-82-consumers-buying-trust-artificial-intelligence-agents-report-2816760/",
-        "source": "Express",
-        "date": "2026-06-09T12:29:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکی فوجی کاپٹر کو ایران نے مار گرایا؛ ٹرمپ نے تصدیق کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816759/donald-trump-says-iran-attack-on-us-apache-helicopter-on-strait-of-hurmuz-2816759/",
-        "source": "Express",
-        "date": "2026-06-09T12:26:17+00:00",
         "img": ""
       },
       {
@@ -2017,6 +2017,22 @@
         "img": ""
       },
       {
+        "title": "اپاچی ہیلی کاپٹر مار گرانے کے بعد امریکا نے ایران پر حملہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816785/us-attacks-iran-after-downing-apache-helicopter-2816785/",
+        "source": "Express",
+        "date": "2026-06-09T18:04:18+00:00",
+        "img": ""
+      },
+      {
+        "title": "بجٹ منظوری کی راہ ہموار، ترقیاتی بجٹ میں کٹوتی پر وفاق اور صوبے رضامند ہو گئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816784/the-path-to-budget-approval-is-paved-the-federation-and-provinces-have-agreed-to-cut-the-development-budget-2816784/",
+        "source": "Express",
+        "date": "2026-06-09T17:47:51+00:00",
+        "img": ""
+      },
+      {
         "title": "جنوبی کوریا: حکومت قیدیوں کے لیے اے سی لگانے کے فیصلے پر ڈٹ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2816764/south-korean-government-defends-to-install-air-conditioning-2816764/",
@@ -2126,22 +2142,6 @@
         "url": "https://www.express.pk/story/2816761/karachi-police-arrest-5-drug-dealers-include-woman-2816761/",
         "source": "Express",
         "date": "2026-06-09T12:39:36+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان میں82 فیصد صارفین خریداری کیلئے آرٹیفیشل انٹیلیجنس ایجنٹس پر بھروسہ کرتے ہیں، رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816760/pakist-82-consumers-buying-trust-artificial-intelligence-agents-report-2816760/",
-        "source": "Express",
-        "date": "2026-06-09T12:29:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکی فوجی کاپٹر کو ایران نے مار گرایا؛ ٹرمپ نے تصدیق کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816759/donald-trump-says-iran-attack-on-us-apache-helicopter-on-strait-of-hurmuz-2816759/",
-        "source": "Express",
-        "date": "2026-06-09T12:26:17+00:00",
         "img": ""
       },
       {
@@ -2419,6 +2419,22 @@
         "img": ""
       },
       {
+        "title": "اپاچی ہیلی کاپٹر مار گرانے کے بعد امریکا نے ایران پر حملہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816785/us-attacks-iran-after-downing-apache-helicopter-2816785/",
+        "source": "Express",
+        "date": "2026-06-09T18:04:18+00:00",
+        "img": ""
+      },
+      {
+        "title": "بجٹ منظوری کی راہ ہموار، ترقیاتی بجٹ میں کٹوتی پر وفاق اور صوبے رضامند ہو گئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816784/the-path-to-budget-approval-is-paved-the-federation-and-provinces-have-agreed-to-cut-the-development-budget-2816784/",
+        "source": "Express",
+        "date": "2026-06-09T17:47:51+00:00",
+        "img": ""
+      },
+      {
         "title": "جنوبی کوریا: حکومت قیدیوں کے لیے اے سی لگانے کے فیصلے پر ڈٹ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2816764/south-korean-government-defends-to-install-air-conditioning-2816764/",
@@ -2528,22 +2544,6 @@
         "url": "https://www.express.pk/story/2816761/karachi-police-arrest-5-drug-dealers-include-woman-2816761/",
         "source": "Express",
         "date": "2026-06-09T12:39:36+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان میں82 فیصد صارفین خریداری کیلئے آرٹیفیشل انٹیلیجنس ایجنٹس پر بھروسہ کرتے ہیں، رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816760/pakist-82-consumers-buying-trust-artificial-intelligence-agents-report-2816760/",
-        "source": "Express",
-        "date": "2026-06-09T12:29:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکی فوجی کاپٹر کو ایران نے مار گرایا؛ ٹرمپ نے تصدیق کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816759/donald-trump-says-iran-attack-on-us-apache-helicopter-on-strait-of-hurmuz-2816759/",
-        "source": "Express",
-        "date": "2026-06-09T12:26:17+00:00",
         "img": ""
       },
       {
@@ -3021,6 +3021,22 @@
         "img": ""
       },
       {
+        "title": "اپاچی ہیلی کاپٹر مار گرانے کے بعد امریکا نے ایران پر حملہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816785/us-attacks-iran-after-downing-apache-helicopter-2816785/",
+        "source": "Express",
+        "date": "2026-06-09T18:04:18+00:00",
+        "img": ""
+      },
+      {
+        "title": "بجٹ منظوری کی راہ ہموار، ترقیاتی بجٹ میں کٹوتی پر وفاق اور صوبے رضامند ہو گئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816784/the-path-to-budget-approval-is-paved-the-federation-and-provinces-have-agreed-to-cut-the-development-budget-2816784/",
+        "source": "Express",
+        "date": "2026-06-09T17:47:51+00:00",
+        "img": ""
+      },
+      {
         "title": "جنوبی کوریا: حکومت قیدیوں کے لیے اے سی لگانے کے فیصلے پر ڈٹ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2816764/south-korean-government-defends-to-install-air-conditioning-2816764/",
@@ -3130,22 +3146,6 @@
         "url": "https://www.express.pk/story/2816761/karachi-police-arrest-5-drug-dealers-include-woman-2816761/",
         "source": "Express",
         "date": "2026-06-09T12:39:36+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان میں82 فیصد صارفین خریداری کیلئے آرٹیفیشل انٹیلیجنس ایجنٹس پر بھروسہ کرتے ہیں، رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816760/pakist-82-consumers-buying-trust-artificial-intelligence-agents-report-2816760/",
-        "source": "Express",
-        "date": "2026-06-09T12:29:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکی فوجی کاپٹر کو ایران نے مار گرایا؛ ٹرمپ نے تصدیق کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816759/donald-trump-says-iran-attack-on-us-apache-helicopter-on-strait-of-hurmuz-2816759/",
-        "source": "Express",
-        "date": "2026-06-09T12:26:17+00:00",
         "img": ""
       },
       {
@@ -3543,6 +3543,22 @@
         "img": ""
       },
       {
+        "title": "اپاچی ہیلی کاپٹر مار گرانے کے بعد امریکا نے ایران پر حملہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816785/us-attacks-iran-after-downing-apache-helicopter-2816785/",
+        "source": "Express",
+        "date": "2026-06-09T18:04:18+00:00",
+        "img": ""
+      },
+      {
+        "title": "بجٹ منظوری کی راہ ہموار، ترقیاتی بجٹ میں کٹوتی پر وفاق اور صوبے رضامند ہو گئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816784/the-path-to-budget-approval-is-paved-the-federation-and-provinces-have-agreed-to-cut-the-development-budget-2816784/",
+        "source": "Express",
+        "date": "2026-06-09T17:47:51+00:00",
+        "img": ""
+      },
+      {
         "title": "جنوبی کوریا: حکومت قیدیوں کے لیے اے سی لگانے کے فیصلے پر ڈٹ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2816764/south-korean-government-defends-to-install-air-conditioning-2816764/",
@@ -3636,22 +3652,6 @@
         "url": "https://www.express.pk/story/2816761/karachi-police-arrest-5-drug-dealers-include-woman-2816761/",
         "source": "Express",
         "date": "2026-06-09T12:39:36+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان میں82 فیصد صارفین خریداری کیلئے آرٹیفیشل انٹیلیجنس ایجنٹس پر بھروسہ کرتے ہیں، رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816760/pakist-82-consumers-buying-trust-artificial-intelligence-agents-report-2816760/",
-        "source": "Express",
-        "date": "2026-06-09T12:29:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکی فوجی کاپٹر کو ایران نے مار گرایا؛ ٹرمپ نے تصدیق کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816759/donald-trump-says-iran-attack-on-us-apache-helicopter-on-strait-of-hurmuz-2816759/",
-        "source": "Express",
-        "date": "2026-06-09T12:26:17+00:00",
         "img": ""
       }
     ],
@@ -4011,6 +4011,22 @@
         "img": ""
       },
       {
+        "title": "اپاچی ہیلی کاپٹر مار گرانے کے بعد امریکا نے ایران پر حملہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816785/us-attacks-iran-after-downing-apache-helicopter-2816785/",
+        "source": "Express",
+        "date": "2026-06-09T18:04:18+00:00",
+        "img": ""
+      },
+      {
+        "title": "بجٹ منظوری کی راہ ہموار، ترقیاتی بجٹ میں کٹوتی پر وفاق اور صوبے رضامند ہو گئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816784/the-path-to-budget-approval-is-paved-the-federation-and-provinces-have-agreed-to-cut-the-development-budget-2816784/",
+        "source": "Express",
+        "date": "2026-06-09T17:47:51+00:00",
+        "img": ""
+      },
+      {
         "title": "جنوبی کوریا: حکومت قیدیوں کے لیے اے سی لگانے کے فیصلے پر ڈٹ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2816764/south-korean-government-defends-to-install-air-conditioning-2816764/",
@@ -4208,22 +4224,6 @@
         "url": "https://www.express.pk/story/2816761/karachi-police-arrest-5-drug-dealers-include-woman-2816761/",
         "source": "Express",
         "date": "2026-06-09T12:39:36+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان میں82 فیصد صارفین خریداری کیلئے آرٹیفیشل انٹیلیجنس ایجنٹس پر بھروسہ کرتے ہیں، رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816760/pakist-82-consumers-buying-trust-artificial-intelligence-agents-report-2816760/",
-        "source": "Express",
-        "date": "2026-06-09T12:29:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکی فوجی کاپٹر کو ایران نے مار گرایا؛ ٹرمپ نے تصدیق کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816759/donald-trump-says-iran-attack-on-us-apache-helicopter-on-strait-of-hurmuz-2816759/",
-        "source": "Express",
-        "date": "2026-06-09T12:26:17+00:00",
         "img": ""
       },
       {
@@ -4509,6 +4509,22 @@
         "img": ""
       },
       {
+        "title": "اپاچی ہیلی کاپٹر مار گرانے کے بعد امریکا نے ایران پر حملہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816785/us-attacks-iran-after-downing-apache-helicopter-2816785/",
+        "source": "Express",
+        "date": "2026-06-09T18:04:18+00:00",
+        "img": ""
+      },
+      {
+        "title": "بجٹ منظوری کی راہ ہموار، ترقیاتی بجٹ میں کٹوتی پر وفاق اور صوبے رضامند ہو گئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2816784/the-path-to-budget-approval-is-paved-the-federation-and-provinces-have-agreed-to-cut-the-development-budget-2816784/",
+        "source": "Express",
+        "date": "2026-06-09T17:47:51+00:00",
+        "img": ""
+      },
+      {
         "title": "جنوبی کوریا: حکومت قیدیوں کے لیے اے سی لگانے کے فیصلے پر ڈٹ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2816764/south-korean-government-defends-to-install-air-conditioning-2816764/",
@@ -4610,22 +4626,6 @@
         "url": "https://www.express.pk/story/2816761/karachi-police-arrest-5-drug-dealers-include-woman-2816761/",
         "source": "Express",
         "date": "2026-06-09T12:39:36+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان میں82 فیصد صارفین خریداری کیلئے آرٹیفیشل انٹیلیجنس ایجنٹس پر بھروسہ کرتے ہیں، رپورٹ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816760/pakist-82-consumers-buying-trust-artificial-intelligence-agents-report-2816760/",
-        "source": "Express",
-        "date": "2026-06-09T12:29:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں امریکی فوجی کاپٹر کو ایران نے مار گرایا؛ ٹرمپ نے تصدیق کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2816759/donald-trump-says-iran-attack-on-us-apache-helicopter-on-strait-of-hurmuz-2816759/",
-        "source": "Express",
-        "date": "2026-06-09T12:26:17+00:00",
         "img": ""
       },
       {
