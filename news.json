@@ -1,7 +1,23 @@
 {
-  "fetched": "2026-07-01T21:23:16.059465+00:00",
+  "fetched": "2026-07-01T23:09:10.856497+00:00",
   "categories": {
     "international": [
+      {
+        "title": "Belgium beat Senegal after extra time to reach last 16",
+        "summary": "Belgium beat Senegal after extra time to reach last 16",
+        "url": "https://arynews.tv/belgium-beat-senegal-after-extra-time-to-reach-last-16",
+        "source": "ARY News",
+        "date": "2026-07-02T03:51:18+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-15.jpg"
+      },
+      {
+        "title": "Spurs agree club record move for Newcastle’s Tonali",
+        "summary": "Spurs agree club record move for Newcastle’s Tonali",
+        "url": "https://arynews.tv/spurs-agree-club-record-move-for-newcastles-tonali",
+        "source": "ARY News",
+        "date": "2026-07-02T03:04:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-14.jpg"
+      },
       {
         "title": "Jovial Djokovic dismantles Tsitsipas",
         "summary": "Jovial Djokovic dismantles Tsitsipas",
@@ -211,20 +227,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Prince-William-help.jpg"
       },
       {
-        "title": "Earthquake jolts Islamabad, parts of KP",
-        "summary": "Earthquake jolts Islamabad, parts of KP",
-        "url": "https://arynews.tv/earthquake-rocks-islamabad-several-kp-cities",
-        "source": "ARY News",
-        "date": "2026-07-01T23:19:01+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
-      },
-      {
-        "title": "Why the Prince William and Kate are skipping Taylor Swift’s nuptials",
-        "summary": "Why the Prince William and Kate are skipping Taylor Swift’s nuptials",
-        "url": "https://arynews.tv/why-the-prince-william-and-kate-are-skipping-taylor-swifts-nuptials",
-        "source": "ARY News",
-        "date": "2026-07-01T23:18:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Prince-William-12.jpg"
+        "title": "ایران کے ساتھ پیش رفت مثبت، قطر میں حالیہ ملاقاتیں بھی اچھی رہیں: ٹرمپ",
+        "summary": "امریکی صدر ڈونلڈ ٹرمپ نے صحافیوں سے گفتگو کرتے ہوئے کہا ہے کہ ایران کے ساتھ جاری معاملات میں پیش رفت ’مثبت‘ ہے۔انھوں نے دعویٰ کیا کہ ایران کے جوہری پروگرام میں کمی کا عمل درست سمت میں آگے بڑھ رہا ہے۔",
+        "url": "https://www.bbc.co.uk/urdu/live/cp362x2yxqnt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-07-01T23:09:12.897449+00:00",
+        "img": ""
       },
       {
         "title": "High-profile attacks persist in June despite overall decline in terrorism: PICSS",
@@ -264,14 +272,6 @@
         "url": "https://www.dawn.com/news/2012218/sindh-revenue-board-posts-highest-ever-collection-of-over-rs370bn-in-fy26",
         "source": "Dawn",
         "date": "2026-07-01T21:27:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایران کے ساتھ پیش رفت مثبت، قطر میں حالیہ ملاقاتیں بھی اچھی رہیں: ٹرمپ",
-        "summary": "امریکی صدر ڈونلڈ ٹرمپ نے صحافیوں سے گفتگو کرتے ہوئے کہا ہے کہ ایران کے ساتھ جاری معاملات میں پیش رفت ’مثبت‘ ہے۔انھوں نے دعویٰ کیا کہ ایران کے جوہری پروگرام میں کمی کا عمل درست سمت میں آگے بڑھ رہا ہے۔",
-        "url": "https://www.bbc.co.uk/urdu/live/cp362x2yxqnt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-07-01T21:23:17.934527+00:00",
         "img": ""
       },
       {
@@ -573,6 +573,22 @@
     ],
     "national": [
       {
+        "title": "Belgium beat Senegal after extra time to reach last 16",
+        "summary": "Belgium beat Senegal after extra time to reach last 16",
+        "url": "https://arynews.tv/belgium-beat-senegal-after-extra-time-to-reach-last-16",
+        "source": "ARY News",
+        "date": "2026-07-02T03:51:18+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-15.jpg"
+      },
+      {
+        "title": "Spurs agree club record move for Newcastle’s Tonali",
+        "summary": "Spurs agree club record move for Newcastle’s Tonali",
+        "url": "https://arynews.tv/spurs-agree-club-record-move-for-newcastles-tonali",
+        "source": "ARY News",
+        "date": "2026-07-02T03:04:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-14.jpg"
+      },
+      {
         "title": "Jovial Djokovic dismantles Tsitsipas",
         "summary": "Jovial Djokovic dismantles Tsitsipas",
         "url": "https://arynews.tv/jovial-djokovic-dismantles-tsitsipas",
@@ -765,22 +781,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Prince-William-help.jpg"
       },
       {
-        "title": "Earthquake jolts Islamabad, parts of KP",
-        "summary": "Earthquake jolts Islamabad, parts of KP",
-        "url": "https://arynews.tv/earthquake-rocks-islamabad-several-kp-cities",
-        "source": "ARY News",
-        "date": "2026-07-01T23:19:01+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
-      },
-      {
-        "title": "Why the Prince William and Kate are skipping Taylor Swift’s nuptials",
-        "summary": "Why the Prince William and Kate are skipping Taylor Swift’s nuptials",
-        "url": "https://arynews.tv/why-the-prince-william-and-kate-are-skipping-taylor-swifts-nuptials",
-        "source": "ARY News",
-        "date": "2026-07-01T23:18:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Prince-William-12.jpg"
-      },
-      {
         "title": "Lahore police book tuition centre owners, contractor after roof collapse claims 14 lives",
         "summary": "<p>LAHORE: Police have registered a case against a contractor and the owners of a tuition centre, the roof of which<a href=\"https://www.dawn.com/news/2012068/lahore-in-mourning-after-14-kids-perish-in-roof-collapse\"> collapsed </a>on Tuesday, resulting in the death of 14 children.</p> <p>Deputy Inspector General (DIG) ",
         "url": "https://www.dawn.com/news/2012147/lahore-police-book-tuition-centre-owners-contractor-after-roof-collapse-claims-14-lives",
@@ -965,11 +965,27 @@
         "img": ""
       },
       {
+        "title": "نیا وفاقی بجٹ نافذ، درآمدی میک اپ، پرفیوم، لوشنز سستے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820179/new-federal-budget-implemented-imported-makeup-perfumes-lotions-cheaper-2820179/",
+        "source": "Express",
+        "date": "2026-07-01T17:35:34+00:00",
+        "img": ""
+      },
+      {
         "title": "’’نامناسب زاویوں سے تصاویر نہ بنائیں‘‘، نیہا دھوپیا پاپارازیوں پر غصہ ہوگئیں",
         "summary": "",
         "url": "https://www.express.pk/story/2820152/dont-take-pictures-from-inappropriate-angles-neha-dhupia-gets-angry-at-the-paparazzi-2820152/",
         "source": "Express",
         "date": "2026-07-01T17:29:50+05:00",
+        "img": ""
+      },
+      {
+        "title": "سماجی سرگرمیوں پر 15.33 ارب روپے خرچ کیے، اوورسیز چیمبر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820178/overseas-chamber-spends-rs-1533-billion-on-social-activities-2820178/",
+        "source": "Express",
+        "date": "2026-07-01T17:25:34+00:00",
         "img": ""
       },
       {
@@ -1074,22 +1090,6 @@
         "url": "https://www.dawn.com/news/2012142/university-of-lahore-becomes-pakistans-only-institution-ranked-among-the-worlds-top-100-in-times-ranking",
         "source": "Dawn",
         "date": "2026-07-01T11:52:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور ہائیکورٹ کی چیف جسٹس عالیہ نیلم کو سپریم کورٹ کا جج بنانے کا فیصلہ، ذرائع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820150/justice-alia-neelum-will-be-appoint-sc-judge-next-month-source-2820150/",
-        "source": "Express",
-        "date": "2026-07-01T11:47:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے یروشلم میں سفارتخانے کی تعمیر کیلئے اسرائیل سے معاہدے پر دستخط",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820149/us-israel-sign-embassy-land-agreement-2820149/",
-        "source": "Express",
-        "date": "2026-07-01T11:24:43+00:00",
         "img": ""
       },
       {
@@ -1175,6 +1175,22 @@
     ],
     "kpk": [
       {
+        "title": "Belgium beat Senegal after extra time to reach last 16",
+        "summary": "Belgium beat Senegal after extra time to reach last 16",
+        "url": "https://arynews.tv/belgium-beat-senegal-after-extra-time-to-reach-last-16",
+        "source": "ARY News",
+        "date": "2026-07-02T03:51:18+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-15.jpg"
+      },
+      {
+        "title": "Spurs agree club record move for Newcastle’s Tonali",
+        "summary": "Spurs agree club record move for Newcastle’s Tonali",
+        "url": "https://arynews.tv/spurs-agree-club-record-move-for-newcastles-tonali",
+        "source": "ARY News",
+        "date": "2026-07-02T03:04:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-14.jpg"
+      },
+      {
         "title": "Jovial Djokovic dismantles Tsitsipas",
         "summary": "Jovial Djokovic dismantles Tsitsipas",
         "url": "https://arynews.tv/jovial-djokovic-dismantles-tsitsipas",
@@ -1367,22 +1383,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Prince-William-help.jpg"
       },
       {
-        "title": "Earthquake jolts Islamabad, parts of KP",
-        "summary": "Earthquake jolts Islamabad, parts of KP",
-        "url": "https://arynews.tv/earthquake-rocks-islamabad-several-kp-cities",
-        "source": "ARY News",
-        "date": "2026-07-01T23:19:01+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
-      },
-      {
-        "title": "Why the Prince William and Kate are skipping Taylor Swift’s nuptials",
-        "summary": "Why the Prince William and Kate are skipping Taylor Swift’s nuptials",
-        "url": "https://arynews.tv/why-the-prince-william-and-kate-are-skipping-taylor-swifts-nuptials",
-        "source": "ARY News",
-        "date": "2026-07-01T23:18:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Prince-William-12.jpg"
-      },
-      {
         "title": "Lahore police book tuition centre owners, contractor after roof collapse claims 14 lives",
         "summary": "<p>LAHORE: Police have registered a case against a contractor and the owners of a tuition centre, the roof of which<a href=\"https://www.dawn.com/news/2012068/lahore-in-mourning-after-14-kids-perish-in-roof-collapse\"> collapsed </a>on Tuesday, resulting in the death of 14 children.</p> <p>Deputy Inspector General (DIG) ",
         "url": "https://www.dawn.com/news/2012147/lahore-police-book-tuition-centre-owners-contractor-after-roof-collapse-claims-14-lives",
@@ -1567,11 +1567,27 @@
         "img": ""
       },
       {
+        "title": "نیا وفاقی بجٹ نافذ، درآمدی میک اپ، پرفیوم، لوشنز سستے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820179/new-federal-budget-implemented-imported-makeup-perfumes-lotions-cheaper-2820179/",
+        "source": "Express",
+        "date": "2026-07-01T17:35:34+00:00",
+        "img": ""
+      },
+      {
         "title": "’’نامناسب زاویوں سے تصاویر نہ بنائیں‘‘، نیہا دھوپیا پاپارازیوں پر غصہ ہوگئیں",
         "summary": "",
         "url": "https://www.express.pk/story/2820152/dont-take-pictures-from-inappropriate-angles-neha-dhupia-gets-angry-at-the-paparazzi-2820152/",
         "source": "Express",
         "date": "2026-07-01T17:29:50+05:00",
+        "img": ""
+      },
+      {
+        "title": "سماجی سرگرمیوں پر 15.33 ارب روپے خرچ کیے، اوورسیز چیمبر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820178/overseas-chamber-spends-rs-1533-billion-on-social-activities-2820178/",
+        "source": "Express",
+        "date": "2026-07-01T17:25:34+00:00",
         "img": ""
       },
       {
@@ -1676,22 +1692,6 @@
         "url": "https://www.dawn.com/news/2012142/university-of-lahore-becomes-pakistans-only-institution-ranked-among-the-worlds-top-100-in-times-ranking",
         "source": "Dawn",
         "date": "2026-07-01T11:52:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور ہائیکورٹ کی چیف جسٹس عالیہ نیلم کو سپریم کورٹ کا جج بنانے کا فیصلہ، ذرائع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820150/justice-alia-neelum-will-be-appoint-sc-judge-next-month-source-2820150/",
-        "source": "Express",
-        "date": "2026-07-01T11:47:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے یروشلم میں سفارتخانے کی تعمیر کیلئے اسرائیل سے معاہدے پر دستخط",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820149/us-israel-sign-embassy-land-agreement-2820149/",
-        "source": "Express",
-        "date": "2026-07-01T11:24:43+00:00",
         "img": ""
       },
       {
@@ -2049,11 +2049,27 @@
         "img": ""
       },
       {
+        "title": "نیا وفاقی بجٹ نافذ، درآمدی میک اپ، پرفیوم، لوشنز سستے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820179/new-federal-budget-implemented-imported-makeup-perfumes-lotions-cheaper-2820179/",
+        "source": "Express",
+        "date": "2026-07-01T17:35:34+00:00",
+        "img": ""
+      },
+      {
         "title": "’’نامناسب زاویوں سے تصاویر نہ بنائیں‘‘، نیہا دھوپیا پاپارازیوں پر غصہ ہوگئیں",
         "summary": "",
         "url": "https://www.express.pk/story/2820152/dont-take-pictures-from-inappropriate-angles-neha-dhupia-gets-angry-at-the-paparazzi-2820152/",
         "source": "Express",
         "date": "2026-07-01T17:29:50+05:00",
+        "img": ""
+      },
+      {
+        "title": "سماجی سرگرمیوں پر 15.33 ارب روپے خرچ کیے، اوورسیز چیمبر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820178/overseas-chamber-spends-rs-1533-billion-on-social-activities-2820178/",
+        "source": "Express",
+        "date": "2026-07-01T17:25:34+00:00",
         "img": ""
       },
       {
@@ -2158,22 +2174,6 @@
         "url": "https://www.dawn.com/news/2012142/university-of-lahore-becomes-pakistans-only-institution-ranked-among-the-worlds-top-100-in-times-ranking",
         "source": "Dawn",
         "date": "2026-07-01T11:52:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور ہائیکورٹ کی چیف جسٹس عالیہ نیلم کو سپریم کورٹ کا جج بنانے کا فیصلہ، ذرائع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820150/justice-alia-neelum-will-be-appoint-sc-judge-next-month-source-2820150/",
-        "source": "Express",
-        "date": "2026-07-01T11:47:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے یروشلم میں سفارتخانے کی تعمیر کیلئے اسرائیل سے معاہدے پر دستخط",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820149/us-israel-sign-embassy-land-agreement-2820149/",
-        "source": "Express",
-        "date": "2026-07-01T11:24:43+00:00",
         "img": ""
       },
       {
@@ -2451,11 +2451,27 @@
         "img": ""
       },
       {
+        "title": "نیا وفاقی بجٹ نافذ، درآمدی میک اپ، پرفیوم، لوشنز سستے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820179/new-federal-budget-implemented-imported-makeup-perfumes-lotions-cheaper-2820179/",
+        "source": "Express",
+        "date": "2026-07-01T17:35:34+00:00",
+        "img": ""
+      },
+      {
         "title": "’’نامناسب زاویوں سے تصاویر نہ بنائیں‘‘، نیہا دھوپیا پاپارازیوں پر غصہ ہوگئیں",
         "summary": "",
         "url": "https://www.express.pk/story/2820152/dont-take-pictures-from-inappropriate-angles-neha-dhupia-gets-angry-at-the-paparazzi-2820152/",
         "source": "Express",
         "date": "2026-07-01T17:29:50+05:00",
+        "img": ""
+      },
+      {
+        "title": "سماجی سرگرمیوں پر 15.33 ارب روپے خرچ کیے، اوورسیز چیمبر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820178/overseas-chamber-spends-rs-1533-billion-on-social-activities-2820178/",
+        "source": "Express",
+        "date": "2026-07-01T17:25:34+00:00",
         "img": ""
       },
       {
@@ -2563,22 +2579,6 @@
         "img": ""
       },
       {
-        "title": "لاہور ہائیکورٹ کی چیف جسٹس عالیہ نیلم کو سپریم کورٹ کا جج بنانے کا فیصلہ، ذرائع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820150/justice-alia-neelum-will-be-appoint-sc-judge-next-month-source-2820150/",
-        "source": "Express",
-        "date": "2026-07-01T11:47:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے یروشلم میں سفارتخانے کی تعمیر کیلئے اسرائیل سے معاہدے پر دستخط",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820149/us-israel-sign-embassy-land-agreement-2820149/",
-        "source": "Express",
-        "date": "2026-07-01T11:24:43+00:00",
-        "img": ""
-      },
-      {
         "title": "Six cases of boys’ rape: Complainants, victims booked for changing statements in Gujrat",
         "summary": "<p>GUJRAT: Police in Gujrat have registered at least six cases against the complainants, victims and witnesses in boys’ rape cases, for withdrawing or changing statements against the suspects before the court of law. </p> <p>All the cases have been lodged with the Kakrali police station in Kharian tehsil of Gujrat dist",
         "url": "https://www.dawn.com/news/2012008/six-cases-of-boys-rape-complainants-victims-booked-for-changing-statements-in-gujrat",
@@ -2660,6 +2660,22 @@
       }
     ],
     "baloch": [
+      {
+        "title": "Belgium beat Senegal after extra time to reach last 16",
+        "summary": "Belgium beat Senegal after extra time to reach last 16",
+        "url": "https://arynews.tv/belgium-beat-senegal-after-extra-time-to-reach-last-16",
+        "source": "ARY News",
+        "date": "2026-07-02T03:51:18+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-15.jpg"
+      },
+      {
+        "title": "Spurs agree club record move for Newcastle’s Tonali",
+        "summary": "Spurs agree club record move for Newcastle’s Tonali",
+        "url": "https://arynews.tv/spurs-agree-club-record-move-for-newcastles-tonali",
+        "source": "ARY News",
+        "date": "2026-07-02T03:04:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-14.jpg"
+      },
       {
         "title": "Jovial Djokovic dismantles Tsitsipas",
         "summary": "Jovial Djokovic dismantles Tsitsipas",
@@ -2853,22 +2869,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Prince-William-help.jpg"
       },
       {
-        "title": "Earthquake jolts Islamabad, parts of KP",
-        "summary": "Earthquake jolts Islamabad, parts of KP",
-        "url": "https://arynews.tv/earthquake-rocks-islamabad-several-kp-cities",
-        "source": "ARY News",
-        "date": "2026-07-01T23:19:01+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
-      },
-      {
-        "title": "Why the Prince William and Kate are skipping Taylor Swift’s nuptials",
-        "summary": "Why the Prince William and Kate are skipping Taylor Swift’s nuptials",
-        "url": "https://arynews.tv/why-the-prince-william-and-kate-are-skipping-taylor-swifts-nuptials",
-        "source": "ARY News",
-        "date": "2026-07-01T23:18:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Prince-William-12.jpg"
-      },
-      {
         "title": "Lahore police book tuition centre owners, contractor after roof collapse claims 14 lives",
         "summary": "<p>LAHORE: Police have registered a case against a contractor and the owners of a tuition centre, the roof of which<a href=\"https://www.dawn.com/news/2012068/lahore-in-mourning-after-14-kids-perish-in-roof-collapse\"> collapsed </a>on Tuesday, resulting in the death of 14 children.</p> <p>Deputy Inspector General (DIG) ",
         "url": "https://www.dawn.com/news/2012147/lahore-police-book-tuition-centre-owners-contractor-after-roof-collapse-claims-14-lives",
@@ -3053,11 +3053,27 @@
         "img": ""
       },
       {
+        "title": "نیا وفاقی بجٹ نافذ، درآمدی میک اپ، پرفیوم، لوشنز سستے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820179/new-federal-budget-implemented-imported-makeup-perfumes-lotions-cheaper-2820179/",
+        "source": "Express",
+        "date": "2026-07-01T17:35:34+00:00",
+        "img": ""
+      },
+      {
         "title": "’’نامناسب زاویوں سے تصاویر نہ بنائیں‘‘، نیہا دھوپیا پاپارازیوں پر غصہ ہوگئیں",
         "summary": "",
         "url": "https://www.express.pk/story/2820152/dont-take-pictures-from-inappropriate-angles-neha-dhupia-gets-angry-at-the-paparazzi-2820152/",
         "source": "Express",
         "date": "2026-07-01T17:29:50+05:00",
+        "img": ""
+      },
+      {
+        "title": "سماجی سرگرمیوں پر 15.33 ارب روپے خرچ کیے، اوورسیز چیمبر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820178/overseas-chamber-spends-rs-1533-billion-on-social-activities-2820178/",
+        "source": "Express",
+        "date": "2026-07-01T17:25:34+00:00",
         "img": ""
       },
       {
@@ -3165,22 +3181,6 @@
         "img": ""
       },
       {
-        "title": "لاہور ہائیکورٹ کی چیف جسٹس عالیہ نیلم کو سپریم کورٹ کا جج بنانے کا فیصلہ، ذرائع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820150/justice-alia-neelum-will-be-appoint-sc-judge-next-month-source-2820150/",
-        "source": "Express",
-        "date": "2026-07-01T11:47:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے یروشلم میں سفارتخانے کی تعمیر کیلئے اسرائیل سے معاہدے پر دستخط",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820149/us-israel-sign-embassy-land-agreement-2820149/",
-        "source": "Express",
-        "date": "2026-07-01T11:24:43+00:00",
-        "img": ""
-      },
-      {
         "title": "Six cases of boys’ rape: Complainants, victims booked for changing statements in Gujrat",
         "summary": "<p>GUJRAT: Police in Gujrat have registered at least six cases against the complainants, victims and witnesses in boys’ rape cases, for withdrawing or changing statements against the suspects before the court of law. </p> <p>All the cases have been lodged with the Kakrali police station in Kharian tehsil of Gujrat dist",
         "url": "https://www.dawn.com/news/2012008/six-cases-of-boys-rape-complainants-victims-booked-for-changing-statements-in-gujrat",
@@ -3262,6 +3262,22 @@
       }
     ],
     "education": [
+      {
+        "title": "Belgium beat Senegal after extra time to reach last 16",
+        "summary": "Belgium beat Senegal after extra time to reach last 16",
+        "url": "https://arynews.tv/belgium-beat-senegal-after-extra-time-to-reach-last-16",
+        "source": "ARY News",
+        "date": "2026-07-02T03:51:18+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-15.jpg"
+      },
+      {
+        "title": "Spurs agree club record move for Newcastle’s Tonali",
+        "summary": "Spurs agree club record move for Newcastle’s Tonali",
+        "url": "https://arynews.tv/spurs-agree-club-record-move-for-newcastles-tonali",
+        "source": "ARY News",
+        "date": "2026-07-02T03:04:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-14.jpg"
+      },
       {
         "title": "Jovial Djokovic dismantles Tsitsipas",
         "summary": "Jovial Djokovic dismantles Tsitsipas",
@@ -3445,22 +3461,6 @@
         "source": "ARY News",
         "date": "2026-07-01T23:28:11+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Prince-William-help.jpg"
-      },
-      {
-        "title": "Earthquake jolts Islamabad, parts of KP",
-        "summary": "Earthquake jolts Islamabad, parts of KP",
-        "url": "https://arynews.tv/earthquake-rocks-islamabad-several-kp-cities",
-        "source": "ARY News",
-        "date": "2026-07-01T23:19:01+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
-      },
-      {
-        "title": "Why the Prince William and Kate are skipping Taylor Swift’s nuptials",
-        "summary": "Why the Prince William and Kate are skipping Taylor Swift’s nuptials",
-        "url": "https://arynews.tv/why-the-prince-william-and-kate-are-skipping-taylor-swifts-nuptials",
-        "source": "ARY News",
-        "date": "2026-07-01T23:18:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Prince-William-12.jpg"
       },
       {
         "title": "سسکتی انسانیت کا ریاست سے سوال",
@@ -3591,11 +3591,27 @@
         "img": ""
       },
       {
+        "title": "نیا وفاقی بجٹ نافذ، درآمدی میک اپ، پرفیوم، لوشنز سستے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820179/new-federal-budget-implemented-imported-makeup-perfumes-lotions-cheaper-2820179/",
+        "source": "Express",
+        "date": "2026-07-01T17:35:34+00:00",
+        "img": ""
+      },
+      {
         "title": "’’نامناسب زاویوں سے تصاویر نہ بنائیں‘‘، نیہا دھوپیا پاپارازیوں پر غصہ ہوگئیں",
         "summary": "",
         "url": "https://www.express.pk/story/2820152/dont-take-pictures-from-inappropriate-angles-neha-dhupia-gets-angry-at-the-paparazzi-2820152/",
         "source": "Express",
         "date": "2026-07-01T17:29:50+05:00",
+        "img": ""
+      },
+      {
+        "title": "سماجی سرگرمیوں پر 15.33 ارب روپے خرچ کیے، اوورسیز چیمبر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820178/overseas-chamber-spends-rs-1533-billion-on-social-activities-2820178/",
+        "source": "Express",
+        "date": "2026-07-01T17:25:34+00:00",
         "img": ""
       },
       {
@@ -3645,25 +3661,25 @@
         "source": "Express",
         "date": "2026-07-01T12:17:10+00:00",
         "img": ""
-      },
-      {
-        "title": "لاہور ہائیکورٹ کی چیف جسٹس عالیہ نیلم کو سپریم کورٹ کا جج بنانے کا فیصلہ، ذرائع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820150/justice-alia-neelum-will-be-appoint-sc-judge-next-month-source-2820150/",
-        "source": "Express",
-        "date": "2026-07-01T11:47:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے یروشلم میں سفارتخانے کی تعمیر کیلئے اسرائیل سے معاہدے پر دستخط",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820149/us-israel-sign-embassy-land-agreement-2820149/",
-        "source": "Express",
-        "date": "2026-07-01T11:24:43+00:00",
-        "img": ""
       }
     ],
     "science": [
+      {
+        "title": "Belgium beat Senegal after extra time to reach last 16",
+        "summary": "Belgium beat Senegal after extra time to reach last 16",
+        "url": "https://arynews.tv/belgium-beat-senegal-after-extra-time-to-reach-last-16",
+        "source": "ARY News",
+        "date": "2026-07-02T03:51:18+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-15.jpg"
+      },
+      {
+        "title": "Spurs agree club record move for Newcastle’s Tonali",
+        "summary": "Spurs agree club record move for Newcastle’s Tonali",
+        "url": "https://arynews.tv/spurs-agree-club-record-move-for-newcastles-tonali",
+        "source": "ARY News",
+        "date": "2026-07-02T03:04:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-14.jpg"
+      },
       {
         "title": "Jovial Djokovic dismantles Tsitsipas",
         "summary": "Jovial Djokovic dismantles Tsitsipas",
@@ -3847,25 +3863,25 @@
         "source": "ARY News",
         "date": "2026-07-01T23:28:11+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Prince-William-help.jpg"
-      },
-      {
-        "title": "Earthquake jolts Islamabad, parts of KP",
-        "summary": "Earthquake jolts Islamabad, parts of KP",
-        "url": "https://arynews.tv/earthquake-rocks-islamabad-several-kp-cities",
-        "source": "ARY News",
-        "date": "2026-07-01T23:19:01+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
-      },
-      {
-        "title": "Why the Prince William and Kate are skipping Taylor Swift’s nuptials",
-        "summary": "Why the Prince William and Kate are skipping Taylor Swift’s nuptials",
-        "url": "https://arynews.tv/why-the-prince-william-and-kate-are-skipping-taylor-swifts-nuptials",
-        "source": "ARY News",
-        "date": "2026-07-01T23:18:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Prince-William-12.jpg"
       }
     ],
     "sports": [
+      {
+        "title": "Belgium beat Senegal after extra time to reach last 16",
+        "summary": "Belgium beat Senegal after extra time to reach last 16",
+        "url": "https://arynews.tv/category/sports/belgium-beat-senegal-after-extra-time-to-reach-last-16",
+        "source": "ARY Sports",
+        "date": "2026-07-02T03:51:18+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-15.jpg"
+      },
+      {
+        "title": "Spurs agree club record move for Newcastle’s Tonali",
+        "summary": "Spurs agree club record move for Newcastle’s Tonali",
+        "url": "https://arynews.tv/category/sports/spurs-agree-club-record-move-for-newcastles-tonali",
+        "source": "ARY Sports",
+        "date": "2026-07-02T03:04:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-14.jpg"
+      },
       {
         "title": "Jovial Djokovic dismantles Tsitsipas",
         "summary": "Jovial Djokovic dismantles Tsitsipas",
@@ -4059,11 +4075,27 @@
         "img": ""
       },
       {
+        "title": "نیا وفاقی بجٹ نافذ، درآمدی میک اپ، پرفیوم، لوشنز سستے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820179/new-federal-budget-implemented-imported-makeup-perfumes-lotions-cheaper-2820179/",
+        "source": "Express",
+        "date": "2026-07-01T17:35:34+00:00",
+        "img": ""
+      },
+      {
         "title": "’’نامناسب زاویوں سے تصاویر نہ بنائیں‘‘، نیہا دھوپیا پاپارازیوں پر غصہ ہوگئیں",
         "summary": "",
         "url": "https://www.express.pk/story/2820152/dont-take-pictures-from-inappropriate-angles-neha-dhupia-gets-angry-at-the-paparazzi-2820152/",
         "source": "Express",
         "date": "2026-07-01T17:29:50+05:00",
+        "img": ""
+      },
+      {
+        "title": "سماجی سرگرمیوں پر 15.33 ارب روپے خرچ کیے، اوورسیز چیمبر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820178/overseas-chamber-spends-rs-1533-billion-on-social-activities-2820178/",
+        "source": "Express",
+        "date": "2026-07-01T17:25:34+00:00",
         "img": ""
       },
       {
@@ -4144,22 +4176,6 @@
         "url": "https://www.express.pk/story/2820151/pti-announces-support-for-strike-against-taxes-in-fata-and-pata-2820151/",
         "source": "Express",
         "date": "2026-07-01T12:17:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور ہائیکورٹ کی چیف جسٹس عالیہ نیلم کو سپریم کورٹ کا جج بنانے کا فیصلہ، ذرائع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820150/justice-alia-neelum-will-be-appoint-sc-judge-next-month-source-2820150/",
-        "source": "Express",
-        "date": "2026-07-01T11:47:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے یروشلم میں سفارتخانے کی تعمیر کیلئے اسرائیل سے معاہدے پر دستخط",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820149/us-israel-sign-embassy-land-agreement-2820149/",
-        "source": "Express",
-        "date": "2026-07-01T11:24:43+00:00",
         "img": ""
       },
       {
@@ -4251,28 +4267,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-2.jpg"
       },
       {
-        "title": "Haaland scores winner to send Norway into last-16",
-        "summary": "Haaland scores winner to send Norway into last-16",
-        "url": "https://arynews.tv/category/sports/haaland-scores-winner-to-send-norway-into-last-16",
-        "source": "ARY Sports",
-        "date": "2026-07-01T00:42:51+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-1.jpg"
-      },
-      {
         "title": "Haaland scores winner to send Norway into last-16 Brazil clash",
         "summary": "<p>Erling Haaland scored a late winner as Norway set up a last-16 showdown with Brazil at the World Cup after taming the Ivory Coast 2-1 in Texas on Tuesday.</p> <p>The Manchester City striker prodded in from close range, the ball dribbling in on 86 minutes for his fifth goal of the tournament.</p> <p>It was the first ",
         "url": "https://www.dawn.com/news/2011993/haaland-scores-winner-to-send-norway-into-last-16-brazil-clash",
         "source": "Dawn",
         "date": "2026-07-01T00:12:41+05:00",
         "img": ""
-      },
-      {
-        "title": "Football star Jude Bellingham shows interest in playing James Bond",
-        "summary": "Football star Jude Bellingham shows interest in playing James Bond",
-        "url": "https://arynews.tv/category/sports/football-star-jude-bellingham-shows-interest-in-playing-james-bond",
-        "source": "ARY Sports",
-        "date": "2026-06-30T21:55:38+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/FotoJet-25.jpg"
       },
       {
         "title": "Asia's FIFA World Cup debacle: Record numbers, record failures and a continent in crisis",
@@ -4581,11 +4581,27 @@
         "img": ""
       },
       {
+        "title": "نیا وفاقی بجٹ نافذ، درآمدی میک اپ، پرفیوم، لوشنز سستے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820179/new-federal-budget-implemented-imported-makeup-perfumes-lotions-cheaper-2820179/",
+        "source": "Express",
+        "date": "2026-07-01T17:35:34+00:00",
+        "img": ""
+      },
+      {
         "title": "’’نامناسب زاویوں سے تصاویر نہ بنائیں‘‘، نیہا دھوپیا پاپارازیوں پر غصہ ہوگئیں",
         "summary": "",
         "url": "https://www.express.pk/story/2820152/dont-take-pictures-from-inappropriate-angles-neha-dhupia-gets-angry-at-the-paparazzi-2820152/",
         "source": "Express",
         "date": "2026-07-01T17:29:50+05:00",
+        "img": ""
+      },
+      {
+        "title": "سماجی سرگرمیوں پر 15.33 ارب روپے خرچ کیے، اوورسیز چیمبر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2820178/overseas-chamber-spends-rs-1533-billion-on-social-activities-2820178/",
+        "source": "Express",
+        "date": "2026-07-01T17:25:34+00:00",
         "img": ""
       },
       {
@@ -4658,22 +4674,6 @@
         "url": "https://www.express.pk/story/2820151/pti-announces-support-for-strike-against-taxes-in-fata-and-pata-2820151/",
         "source": "Express",
         "date": "2026-07-01T12:17:10+00:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور ہائیکورٹ کی چیف جسٹس عالیہ نیلم کو سپریم کورٹ کا جج بنانے کا فیصلہ، ذرائع",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820150/justice-alia-neelum-will-be-appoint-sc-judge-next-month-source-2820150/",
-        "source": "Express",
-        "date": "2026-07-01T11:47:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے یروشلم میں سفارتخانے کی تعمیر کیلئے اسرائیل سے معاہدے پر دستخط",
-        "summary": "",
-        "url": "https://www.express.pk/story/2820149/us-israel-sign-embassy-land-agreement-2820149/",
-        "source": "Express",
-        "date": "2026-07-01T11:24:43+00:00",
         "img": ""
       },
       {
