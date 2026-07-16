@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-16T22:53:17.006891+00:00",
+  "fetched": "2026-07-16T23:54:35.869296+00:00",
   "categories": {
     "international": [
       {
@@ -57,6 +57,14 @@
         "source": "ARY News",
         "date": "2026-07-17T00:06:36+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/India.jpg"
+      },
+      {
+        "title": "ایران اب بھی معاہدہ کرنا چاہتا ہے، ہم اس سے بات چیت کر رہے ہیں: وائٹ ہاؤس کا دعویٰ",
+        "summary": "وائٹ ہاؤس کی ترجمان کیرولائن لیوٹ کا کہنا ہے کہ امریکی صدر ہمیشہ سفارت کاری کے ذریعے مسائل کے حل کے لیے آمادہ رہتے ہیں اور اسی لیے ایران کے خلاف آپریشن ایپک فیوری کے اختتام پر ’ہم سفارتی مرحلے میں داخل ہو گئے تھے۔‘",
+        "url": "https://www.bbc.co.uk/urdu/live/c4gygvjmrvpt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-07-16T23:54:38.282411+00:00",
+        "img": ""
       },
       {
         "title": "Vaccine recommended for 15-year olds following big outbreak",
@@ -129,14 +137,6 @@
         "source": "ARY News",
         "date": "2026-07-16T23:00:22+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Iran-reports-US-strikes-near-Bandar-Abbas-Qeshm-Island.jpg"
-      },
-      {
-        "title": "ایران اب بھی معاہدہ کرنا چاہتا ہے، ہم اس سے بات چیت کر رہے ہیں: وائٹ ہاؤس کا دعویٰ",
-        "summary": "وائٹ ہاؤس کی ترجمان کیرولائن لیوٹ کا کہنا ہے کہ امریکی صدر ہمیشہ سفارت کاری کے ذریعے مسائل کے حل کے لیے آمادہ رہتے ہیں اور اسی لیے ایران کے خلاف آپریشن ایپک فیوری کے اختتام پر ’ہم سفارتی مرحلے میں داخل ہو گئے تھے۔‘",
-        "url": "https://www.bbc.co.uk/urdu/live/c4gygvjmrvpt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-07-16T22:53:19.035615+00:00",
-        "img": ""
       },
       {
         "title": "Drama starring Michael Sheen races up to Netflix top 10",
@@ -645,6 +645,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/DeepSeek.jpg"
       },
       {
+        "title": "ملتان، بوریوالہ سلنڈر دھماکے کے 10 زخمی نشتر اسپتال منتقل، 6 کی حالت تشویشناک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822566/multanburewala-10-injured-in-cylinder-explosion-shifted-to-nishtar-hospital-6-in-critical-condition-2822566/",
+        "source": "Express",
+        "date": "2026-07-16T23:31:39+05:00",
+        "img": ""
+      },
+      {
         "title": "Uber in $15 billion deal for Delivery Hero to create global takeout giant",
         "summary": "Uber in $15 billion deal for Delivery Hero to create global takeout giant",
         "url": "https://arynews.tv/uber-enters-food-delivery-with-delivery-hero-deal",
@@ -659,6 +667,14 @@
         "source": "ARY News",
         "date": "2026-07-16T23:06:23+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Kuwait-fish-farming.jpg"
+      },
+      {
+        "title": "اولمپک گولڈ میڈلسٹ ارشد ندیم کی سلور میٹ مقابلوں میں مایوس کن کارکردگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822565/olympic-gold-medalist-arshad-nadeems-disappointing-performance-in-the-silver-meet-competitions-2822565/",
+        "source": "Express",
+        "date": "2026-07-16T23:05:21+05:00",
+        "img": ""
       },
       {
         "title": "Spain injury alert: Lamine Yamal and Pedro Porro train separately ahead of World Cup final",
@@ -677,19 +693,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Iran-reports-US-strikes-near-Bandar-Abbas-Qeshm-Island.jpg"
       },
       {
+        "title": "راولپنڈی، پولیس کا ہنی ٹریپ گینگ بے نقاب، ہیڈ کانسٹیبل سمیت 5 افراد کے خلاف مقدمہ درج",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822564/rawalpindi-police-expose-honey-trap-gang-case-registered-against-five-individuals-including-a-head-constable-2822564/",
+        "source": "Express",
+        "date": "2026-07-16T22:57:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مسلح ڈاکوؤں نے تاجر سے گن پوائنٹ پر 90 لاکھ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822563/rawalpindi-armed-robbers-looted-9-million-rupees-from-a-businessman-at-gunpoint-2822563/",
+        "source": "Express",
+        "date": "2026-07-16T22:50:58+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan becomes founding member of World Artificial Intelligence Cooperation Organisation",
         "summary": "<p>Pakistan on Thursday became a founding member of the World Artificial Intelligence Cooperation Organisation (WAICO) after Deputy Prime Minister and Foreign Minister Ishaq Dar signed the agreement establishing the forum in Shanghai, China, the Foreign Office (FO) said.</p> <p>“Deputy Prime Minister and Foreign Minist",
         "url": "https://www.dawn.com/news/2015858/pakistan-becomes-founding-member-of-world-artificial-intelligence-cooperation-organisation",
         "source": "Dawn",
         "date": "2026-07-16T22:45:30+05:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
-        "source": "Express",
-        "date": "2026-07-16T22:42:11+05:00",
         "img": ""
       },
       {
@@ -933,11 +957,11 @@
         "img": ""
       },
       {
-        "title": "فیصل قریشی کا نیا ڈراما ’چک دے انڈیا‘ کی نقل قرار، سوشل میڈیا پر تنقید",
+        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
         "summary": "",
-        "url": "https://www.express.pk/story/2822540/faisal-qureshi-new-drama-dubbed-as-a-copy-of-chak-de-india-criticized-on-social-media-2822540/",
+        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
         "source": "Express",
-        "date": "2026-07-16T17:34:13+05:00",
+        "date": "2026-07-16T17:42:11+00:00",
         "img": ""
       },
       {
@@ -946,14 +970,6 @@
         "url": "https://www.express.pk/story/2822561/saudi-arabia-has-rolled-over-pakistans-3-billion-loan-finance-minister-2822561/",
         "source": "Express",
         "date": "2026-07-16T17:28:22+00:00",
-        "img": ""
-      },
-      {
-        "title": "’رجب بٹ کون ہیں؟‘ فہد مصطفیٰ سے تنازع پر وسیم عباس کا مؤقف وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822539/who-is-rajab-butt-wasim-abbas-stance-on-the-controversy-with-fahad-mustafa-goes-viral-2822539/",
-        "source": "Express",
-        "date": "2026-07-16T17:24:17+05:00",
         "img": ""
       },
       {
@@ -1058,22 +1074,6 @@
         "url": "https://www.express.pk/story/2822543/donald-trump-to-foreign-students-journalist-visa-rules-tighten-2822543/",
         "source": "Express",
         "date": "2026-07-16T13:06:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "بنوں میں سی ٹی ڈی اور پولیس کی مشترکہ کارروائی میں 5 خارجی ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822541/ctd-and-police-operation-in-bannu-5-terrorists-killed-2822541/",
-        "source": "Express",
-        "date": "2026-07-16T12:39:35+00:00",
-        "img": ""
-      },
-      {
-        "title": "یورپی یونین کمیشن کی جی ایس پی پلس رپورٹ جاری، پاکستان زیادہ مستفید ہونے والا ملک قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822538/eu-gsp-plus-report-2822538/",
-        "source": "Express",
-        "date": "2026-07-16T12:11:17+00:00",
         "img": ""
       },
       {
@@ -1247,6 +1247,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/DeepSeek.jpg"
       },
       {
+        "title": "ملتان، بوریوالہ سلنڈر دھماکے کے 10 زخمی نشتر اسپتال منتقل، 6 کی حالت تشویشناک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822566/multanburewala-10-injured-in-cylinder-explosion-shifted-to-nishtar-hospital-6-in-critical-condition-2822566/",
+        "source": "Express",
+        "date": "2026-07-16T23:31:39+05:00",
+        "img": ""
+      },
+      {
         "title": "Uber in $15 billion deal for Delivery Hero to create global takeout giant",
         "summary": "Uber in $15 billion deal for Delivery Hero to create global takeout giant",
         "url": "https://arynews.tv/uber-enters-food-delivery-with-delivery-hero-deal",
@@ -1261,6 +1269,14 @@
         "source": "ARY News",
         "date": "2026-07-16T23:06:23+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Kuwait-fish-farming.jpg"
+      },
+      {
+        "title": "اولمپک گولڈ میڈلسٹ ارشد ندیم کی سلور میٹ مقابلوں میں مایوس کن کارکردگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822565/olympic-gold-medalist-arshad-nadeems-disappointing-performance-in-the-silver-meet-competitions-2822565/",
+        "source": "Express",
+        "date": "2026-07-16T23:05:21+05:00",
+        "img": ""
       },
       {
         "title": "Spain injury alert: Lamine Yamal and Pedro Porro train separately ahead of World Cup final",
@@ -1279,19 +1295,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Iran-reports-US-strikes-near-Bandar-Abbas-Qeshm-Island.jpg"
       },
       {
+        "title": "راولپنڈی، پولیس کا ہنی ٹریپ گینگ بے نقاب، ہیڈ کانسٹیبل سمیت 5 افراد کے خلاف مقدمہ درج",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822564/rawalpindi-police-expose-honey-trap-gang-case-registered-against-five-individuals-including-a-head-constable-2822564/",
+        "source": "Express",
+        "date": "2026-07-16T22:57:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مسلح ڈاکوؤں نے تاجر سے گن پوائنٹ پر 90 لاکھ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822563/rawalpindi-armed-robbers-looted-9-million-rupees-from-a-businessman-at-gunpoint-2822563/",
+        "source": "Express",
+        "date": "2026-07-16T22:50:58+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan becomes founding member of World Artificial Intelligence Cooperation Organisation",
         "summary": "<p>Pakistan on Thursday became a founding member of the World Artificial Intelligence Cooperation Organisation (WAICO) after Deputy Prime Minister and Foreign Minister Ishaq Dar signed the agreement establishing the forum in Shanghai, China, the Foreign Office (FO) said.</p> <p>“Deputy Prime Minister and Foreign Minist",
         "url": "https://www.dawn.com/news/2015858/pakistan-becomes-founding-member-of-world-artificial-intelligence-cooperation-organisation",
         "source": "Dawn",
         "date": "2026-07-16T22:45:30+05:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
-        "source": "Express",
-        "date": "2026-07-16T22:42:11+05:00",
         "img": ""
       },
       {
@@ -1535,11 +1559,11 @@
         "img": ""
       },
       {
-        "title": "فیصل قریشی کا نیا ڈراما ’چک دے انڈیا‘ کی نقل قرار، سوشل میڈیا پر تنقید",
+        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
         "summary": "",
-        "url": "https://www.express.pk/story/2822540/faisal-qureshi-new-drama-dubbed-as-a-copy-of-chak-de-india-criticized-on-social-media-2822540/",
+        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
         "source": "Express",
-        "date": "2026-07-16T17:34:13+05:00",
+        "date": "2026-07-16T17:42:11+00:00",
         "img": ""
       },
       {
@@ -1548,14 +1572,6 @@
         "url": "https://www.express.pk/story/2822561/saudi-arabia-has-rolled-over-pakistans-3-billion-loan-finance-minister-2822561/",
         "source": "Express",
         "date": "2026-07-16T17:28:22+00:00",
-        "img": ""
-      },
-      {
-        "title": "’رجب بٹ کون ہیں؟‘ فہد مصطفیٰ سے تنازع پر وسیم عباس کا مؤقف وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822539/who-is-rajab-butt-wasim-abbas-stance-on-the-controversy-with-fahad-mustafa-goes-viral-2822539/",
-        "source": "Express",
-        "date": "2026-07-16T17:24:17+05:00",
         "img": ""
       },
       {
@@ -1660,22 +1676,6 @@
         "url": "https://www.express.pk/story/2822543/donald-trump-to-foreign-students-journalist-visa-rules-tighten-2822543/",
         "source": "Express",
         "date": "2026-07-16T13:06:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "بنوں میں سی ٹی ڈی اور پولیس کی مشترکہ کارروائی میں 5 خارجی ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822541/ctd-and-police-operation-in-bannu-5-terrorists-killed-2822541/",
-        "source": "Express",
-        "date": "2026-07-16T12:39:35+00:00",
-        "img": ""
-      },
-      {
-        "title": "یورپی یونین کمیشن کی جی ایس پی پلس رپورٹ جاری، پاکستان زیادہ مستفید ہونے والا ملک قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822538/eu-gsp-plus-report-2822538/",
-        "source": "Express",
-        "date": "2026-07-16T12:11:17+00:00",
         "img": ""
       },
       {
@@ -1857,19 +1857,43 @@
     ],
     "punjab": [
       {
+        "title": "ملتان، بوریوالہ سلنڈر دھماکے کے 10 زخمی نشتر اسپتال منتقل، 6 کی حالت تشویشناک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822566/multanburewala-10-injured-in-cylinder-explosion-shifted-to-nishtar-hospital-6-in-critical-condition-2822566/",
+        "source": "Express",
+        "date": "2026-07-16T23:31:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "اولمپک گولڈ میڈلسٹ ارشد ندیم کی سلور میٹ مقابلوں میں مایوس کن کارکردگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822565/olympic-gold-medalist-arshad-nadeems-disappointing-performance-in-the-silver-meet-competitions-2822565/",
+        "source": "Express",
+        "date": "2026-07-16T23:05:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، پولیس کا ہنی ٹریپ گینگ بے نقاب، ہیڈ کانسٹیبل سمیت 5 افراد کے خلاف مقدمہ درج",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822564/rawalpindi-police-expose-honey-trap-gang-case-registered-against-five-individuals-including-a-head-constable-2822564/",
+        "source": "Express",
+        "date": "2026-07-16T22:57:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مسلح ڈاکوؤں نے تاجر سے گن پوائنٹ پر 90 لاکھ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822563/rawalpindi-armed-robbers-looted-9-million-rupees-from-a-businessman-at-gunpoint-2822563/",
+        "source": "Express",
+        "date": "2026-07-16T22:50:58+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan becomes founding member of World Artificial Intelligence Cooperation Organisation",
         "summary": "<p>Pakistan on Thursday became a founding member of the World Artificial Intelligence Cooperation Organisation (WAICO) after Deputy Prime Minister and Foreign Minister Ishaq Dar signed the agreement establishing the forum in Shanghai, China, the Foreign Office (FO) said.</p> <p>“Deputy Prime Minister and Foreign Minist",
         "url": "https://www.dawn.com/news/2015858/pakistan-becomes-founding-member-of-world-artificial-intelligence-cooperation-organisation",
         "source": "Dawn",
         "date": "2026-07-16T22:45:30+05:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
-        "source": "Express",
-        "date": "2026-07-16T22:42:11+05:00",
         "img": ""
       },
       {
@@ -2017,11 +2041,11 @@
         "img": ""
       },
       {
-        "title": "فیصل قریشی کا نیا ڈراما ’چک دے انڈیا‘ کی نقل قرار، سوشل میڈیا پر تنقید",
+        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
         "summary": "",
-        "url": "https://www.express.pk/story/2822540/faisal-qureshi-new-drama-dubbed-as-a-copy-of-chak-de-india-criticized-on-social-media-2822540/",
+        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
         "source": "Express",
-        "date": "2026-07-16T17:34:13+05:00",
+        "date": "2026-07-16T17:42:11+00:00",
         "img": ""
       },
       {
@@ -2030,14 +2054,6 @@
         "url": "https://www.express.pk/story/2822561/saudi-arabia-has-rolled-over-pakistans-3-billion-loan-finance-minister-2822561/",
         "source": "Express",
         "date": "2026-07-16T17:28:22+00:00",
-        "img": ""
-      },
-      {
-        "title": "’رجب بٹ کون ہیں؟‘ فہد مصطفیٰ سے تنازع پر وسیم عباس کا مؤقف وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822539/who-is-rajab-butt-wasim-abbas-stance-on-the-controversy-with-fahad-mustafa-goes-viral-2822539/",
-        "source": "Express",
-        "date": "2026-07-16T17:24:17+05:00",
         "img": ""
       },
       {
@@ -2142,22 +2158,6 @@
         "url": "https://www.express.pk/story/2822543/donald-trump-to-foreign-students-journalist-visa-rules-tighten-2822543/",
         "source": "Express",
         "date": "2026-07-16T13:06:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "بنوں میں سی ٹی ڈی اور پولیس کی مشترکہ کارروائی میں 5 خارجی ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822541/ctd-and-police-operation-in-bannu-5-terrorists-killed-2822541/",
-        "source": "Express",
-        "date": "2026-07-16T12:39:35+00:00",
-        "img": ""
-      },
-      {
-        "title": "یورپی یونین کمیشن کی جی ایس پی پلس رپورٹ جاری، پاکستان زیادہ مستفید ہونے والا ملک قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822538/eu-gsp-plus-report-2822538/",
-        "source": "Express",
-        "date": "2026-07-16T12:11:17+00:00",
         "img": ""
       },
       {
@@ -2259,19 +2259,43 @@
     ],
     "sindh": [
       {
+        "title": "ملتان، بوریوالہ سلنڈر دھماکے کے 10 زخمی نشتر اسپتال منتقل، 6 کی حالت تشویشناک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822566/multanburewala-10-injured-in-cylinder-explosion-shifted-to-nishtar-hospital-6-in-critical-condition-2822566/",
+        "source": "Express",
+        "date": "2026-07-16T23:31:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "اولمپک گولڈ میڈلسٹ ارشد ندیم کی سلور میٹ مقابلوں میں مایوس کن کارکردگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822565/olympic-gold-medalist-arshad-nadeems-disappointing-performance-in-the-silver-meet-competitions-2822565/",
+        "source": "Express",
+        "date": "2026-07-16T23:05:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، پولیس کا ہنی ٹریپ گینگ بے نقاب، ہیڈ کانسٹیبل سمیت 5 افراد کے خلاف مقدمہ درج",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822564/rawalpindi-police-expose-honey-trap-gang-case-registered-against-five-individuals-including-a-head-constable-2822564/",
+        "source": "Express",
+        "date": "2026-07-16T22:57:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مسلح ڈاکوؤں نے تاجر سے گن پوائنٹ پر 90 لاکھ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822563/rawalpindi-armed-robbers-looted-9-million-rupees-from-a-businessman-at-gunpoint-2822563/",
+        "source": "Express",
+        "date": "2026-07-16T22:50:58+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan becomes founding member of World Artificial Intelligence Cooperation Organisation",
         "summary": "<p>Pakistan on Thursday became a founding member of the World Artificial Intelligence Cooperation Organisation (WAICO) after Deputy Prime Minister and Foreign Minister Ishaq Dar signed the agreement establishing the forum in Shanghai, China, the Foreign Office (FO) said.</p> <p>“Deputy Prime Minister and Foreign Minist",
         "url": "https://www.dawn.com/news/2015858/pakistan-becomes-founding-member-of-world-artificial-intelligence-cooperation-organisation",
         "source": "Dawn",
         "date": "2026-07-16T22:45:30+05:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
-        "source": "Express",
-        "date": "2026-07-16T22:42:11+05:00",
         "img": ""
       },
       {
@@ -2419,11 +2443,11 @@
         "img": ""
       },
       {
-        "title": "فیصل قریشی کا نیا ڈراما ’چک دے انڈیا‘ کی نقل قرار، سوشل میڈیا پر تنقید",
+        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
         "summary": "",
-        "url": "https://www.express.pk/story/2822540/faisal-qureshi-new-drama-dubbed-as-a-copy-of-chak-de-india-criticized-on-social-media-2822540/",
+        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
         "source": "Express",
-        "date": "2026-07-16T17:34:13+05:00",
+        "date": "2026-07-16T17:42:11+00:00",
         "img": ""
       },
       {
@@ -2432,14 +2456,6 @@
         "url": "https://www.express.pk/story/2822561/saudi-arabia-has-rolled-over-pakistans-3-billion-loan-finance-minister-2822561/",
         "source": "Express",
         "date": "2026-07-16T17:28:22+00:00",
-        "img": ""
-      },
-      {
-        "title": "’رجب بٹ کون ہیں؟‘ فہد مصطفیٰ سے تنازع پر وسیم عباس کا مؤقف وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822539/who-is-rajab-butt-wasim-abbas-stance-on-the-controversy-with-fahad-mustafa-goes-viral-2822539/",
-        "source": "Express",
-        "date": "2026-07-16T17:24:17+05:00",
         "img": ""
       },
       {
@@ -2544,22 +2560,6 @@
         "url": "https://www.express.pk/story/2822543/donald-trump-to-foreign-students-journalist-visa-rules-tighten-2822543/",
         "source": "Express",
         "date": "2026-07-16T13:06:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "بنوں میں سی ٹی ڈی اور پولیس کی مشترکہ کارروائی میں 5 خارجی ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822541/ctd-and-police-operation-in-bannu-5-terrorists-killed-2822541/",
-        "source": "Express",
-        "date": "2026-07-16T12:39:35+00:00",
-        "img": ""
-      },
-      {
-        "title": "یورپی یونین کمیشن کی جی ایس پی پلس رپورٹ جاری، پاکستان زیادہ مستفید ہونے والا ملک قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822538/eu-gsp-plus-report-2822538/",
-        "source": "Express",
-        "date": "2026-07-16T12:11:17+00:00",
         "img": ""
       },
       {
@@ -2733,6 +2733,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/DeepSeek.jpg"
       },
       {
+        "title": "ملتان، بوریوالہ سلنڈر دھماکے کے 10 زخمی نشتر اسپتال منتقل، 6 کی حالت تشویشناک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822566/multanburewala-10-injured-in-cylinder-explosion-shifted-to-nishtar-hospital-6-in-critical-condition-2822566/",
+        "source": "Express",
+        "date": "2026-07-16T23:31:39+05:00",
+        "img": ""
+      },
+      {
         "title": "Uber in $15 billion deal for Delivery Hero to create global takeout giant",
         "summary": "Uber in $15 billion deal for Delivery Hero to create global takeout giant",
         "url": "https://arynews.tv/uber-enters-food-delivery-with-delivery-hero-deal",
@@ -2747,6 +2755,14 @@
         "source": "ARY News",
         "date": "2026-07-16T23:06:23+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Kuwait-fish-farming.jpg"
+      },
+      {
+        "title": "اولمپک گولڈ میڈلسٹ ارشد ندیم کی سلور میٹ مقابلوں میں مایوس کن کارکردگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822565/olympic-gold-medalist-arshad-nadeems-disappointing-performance-in-the-silver-meet-competitions-2822565/",
+        "source": "Express",
+        "date": "2026-07-16T23:05:21+05:00",
+        "img": ""
       },
       {
         "title": "Spain injury alert: Lamine Yamal and Pedro Porro train separately ahead of World Cup final",
@@ -2765,19 +2781,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Iran-reports-US-strikes-near-Bandar-Abbas-Qeshm-Island.jpg"
       },
       {
+        "title": "راولپنڈی، پولیس کا ہنی ٹریپ گینگ بے نقاب، ہیڈ کانسٹیبل سمیت 5 افراد کے خلاف مقدمہ درج",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822564/rawalpindi-police-expose-honey-trap-gang-case-registered-against-five-individuals-including-a-head-constable-2822564/",
+        "source": "Express",
+        "date": "2026-07-16T22:57:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مسلح ڈاکوؤں نے تاجر سے گن پوائنٹ پر 90 لاکھ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822563/rawalpindi-armed-robbers-looted-9-million-rupees-from-a-businessman-at-gunpoint-2822563/",
+        "source": "Express",
+        "date": "2026-07-16T22:50:58+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan becomes founding member of World Artificial Intelligence Cooperation Organisation",
         "summary": "<p>Pakistan on Thursday became a founding member of the World Artificial Intelligence Cooperation Organisation (WAICO) after Deputy Prime Minister and Foreign Minister Ishaq Dar signed the agreement establishing the forum in Shanghai, China, the Foreign Office (FO) said.</p> <p>“Deputy Prime Minister and Foreign Minist",
         "url": "https://www.dawn.com/news/2015858/pakistan-becomes-founding-member-of-world-artificial-intelligence-cooperation-organisation",
         "source": "Dawn",
         "date": "2026-07-16T22:45:30+05:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
-        "source": "Express",
-        "date": "2026-07-16T22:42:11+05:00",
         "img": ""
       },
       {
@@ -3021,11 +3045,11 @@
         "img": ""
       },
       {
-        "title": "فیصل قریشی کا نیا ڈراما ’چک دے انڈیا‘ کی نقل قرار، سوشل میڈیا پر تنقید",
+        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
         "summary": "",
-        "url": "https://www.express.pk/story/2822540/faisal-qureshi-new-drama-dubbed-as-a-copy-of-chak-de-india-criticized-on-social-media-2822540/",
+        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
         "source": "Express",
-        "date": "2026-07-16T17:34:13+05:00",
+        "date": "2026-07-16T17:42:11+00:00",
         "img": ""
       },
       {
@@ -3034,14 +3058,6 @@
         "url": "https://www.express.pk/story/2822561/saudi-arabia-has-rolled-over-pakistans-3-billion-loan-finance-minister-2822561/",
         "source": "Express",
         "date": "2026-07-16T17:28:22+00:00",
-        "img": ""
-      },
-      {
-        "title": "’رجب بٹ کون ہیں؟‘ فہد مصطفیٰ سے تنازع پر وسیم عباس کا مؤقف وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822539/who-is-rajab-butt-wasim-abbas-stance-on-the-controversy-with-fahad-mustafa-goes-viral-2822539/",
-        "source": "Express",
-        "date": "2026-07-16T17:24:17+05:00",
         "img": ""
       },
       {
@@ -3146,22 +3162,6 @@
         "url": "https://www.express.pk/story/2822543/donald-trump-to-foreign-students-journalist-visa-rules-tighten-2822543/",
         "source": "Express",
         "date": "2026-07-16T13:06:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "بنوں میں سی ٹی ڈی اور پولیس کی مشترکہ کارروائی میں 5 خارجی ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822541/ctd-and-police-operation-in-bannu-5-terrorists-killed-2822541/",
-        "source": "Express",
-        "date": "2026-07-16T12:39:35+00:00",
-        "img": ""
-      },
-      {
-        "title": "یورپی یونین کمیشن کی جی ایس پی پلس رپورٹ جاری، پاکستان زیادہ مستفید ہونے والا ملک قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822538/eu-gsp-plus-report-2822538/",
-        "source": "Express",
-        "date": "2026-07-16T12:11:17+00:00",
         "img": ""
       },
       {
@@ -3335,6 +3335,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/DeepSeek.jpg"
       },
       {
+        "title": "ملتان، بوریوالہ سلنڈر دھماکے کے 10 زخمی نشتر اسپتال منتقل، 6 کی حالت تشویشناک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822566/multanburewala-10-injured-in-cylinder-explosion-shifted-to-nishtar-hospital-6-in-critical-condition-2822566/",
+        "source": "Express",
+        "date": "2026-07-16T23:31:39+05:00",
+        "img": ""
+      },
+      {
         "title": "Uber in $15 billion deal for Delivery Hero to create global takeout giant",
         "summary": "Uber in $15 billion deal for Delivery Hero to create global takeout giant",
         "url": "https://arynews.tv/uber-enters-food-delivery-with-delivery-hero-deal",
@@ -3349,6 +3357,14 @@
         "source": "ARY News",
         "date": "2026-07-16T23:06:23+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Kuwait-fish-farming.jpg"
+      },
+      {
+        "title": "اولمپک گولڈ میڈلسٹ ارشد ندیم کی سلور میٹ مقابلوں میں مایوس کن کارکردگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822565/olympic-gold-medalist-arshad-nadeems-disappointing-performance-in-the-silver-meet-competitions-2822565/",
+        "source": "Express",
+        "date": "2026-07-16T23:05:21+05:00",
+        "img": ""
       },
       {
         "title": "Spain injury alert: Lamine Yamal and Pedro Porro train separately ahead of World Cup final",
@@ -3367,11 +3383,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Iran-reports-US-strikes-near-Bandar-Abbas-Qeshm-Island.jpg"
       },
       {
-        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
+        "title": "راولپنڈی، پولیس کا ہنی ٹریپ گینگ بے نقاب، ہیڈ کانسٹیبل سمیت 5 افراد کے خلاف مقدمہ درج",
         "summary": "",
-        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
+        "url": "https://www.express.pk/story/2822564/rawalpindi-police-expose-honey-trap-gang-case-registered-against-five-individuals-including-a-head-constable-2822564/",
         "source": "Express",
-        "date": "2026-07-16T22:42:11+05:00",
+        "date": "2026-07-16T22:57:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مسلح ڈاکوؤں نے تاجر سے گن پوائنٹ پر 90 لاکھ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822563/rawalpindi-armed-robbers-looted-9-million-rupees-from-a-businessman-at-gunpoint-2822563/",
+        "source": "Express",
+        "date": "2026-07-16T22:50:58+05:00",
         "img": ""
       },
       {
@@ -3551,11 +3575,11 @@
         "img": ""
       },
       {
-        "title": "فیصل قریشی کا نیا ڈراما ’چک دے انڈیا‘ کی نقل قرار، سوشل میڈیا پر تنقید",
+        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
         "summary": "",
-        "url": "https://www.express.pk/story/2822540/faisal-qureshi-new-drama-dubbed-as-a-copy-of-chak-de-india-criticized-on-social-media-2822540/",
+        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
         "source": "Express",
-        "date": "2026-07-16T17:34:13+05:00",
+        "date": "2026-07-16T17:42:11+00:00",
         "img": ""
       },
       {
@@ -3564,14 +3588,6 @@
         "url": "https://www.express.pk/story/2822561/saudi-arabia-has-rolled-over-pakistans-3-billion-loan-finance-minister-2822561/",
         "source": "Express",
         "date": "2026-07-16T17:28:22+00:00",
-        "img": ""
-      },
-      {
-        "title": "’رجب بٹ کون ہیں؟‘ فہد مصطفیٰ سے تنازع پر وسیم عباس کا مؤقف وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822539/who-is-rajab-butt-wasim-abbas-stance-on-the-controversy-with-fahad-mustafa-goes-viral-2822539/",
-        "source": "Express",
-        "date": "2026-07-16T17:24:17+05:00",
         "img": ""
       },
       {
@@ -3644,22 +3660,6 @@
         "url": "https://www.express.pk/story/2822543/donald-trump-to-foreign-students-journalist-visa-rules-tighten-2822543/",
         "source": "Express",
         "date": "2026-07-16T13:06:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "بنوں میں سی ٹی ڈی اور پولیس کی مشترکہ کارروائی میں 5 خارجی ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822541/ctd-and-police-operation-in-bannu-5-terrorists-killed-2822541/",
-        "source": "Express",
-        "date": "2026-07-16T12:39:35+00:00",
-        "img": ""
-      },
-      {
-        "title": "یورپی یونین کمیشن کی جی ایس پی پلس رپورٹ جاری، پاکستان زیادہ مستفید ہونے والا ملک قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822538/eu-gsp-plus-report-2822538/",
-        "source": "Express",
-        "date": "2026-07-16T12:11:17+00:00",
         "img": ""
       }
     ],
@@ -3875,6 +3875,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Kim-and-Lious.jpg"
       },
       {
+        "title": "ملتان، بوریوالہ سلنڈر دھماکے کے 10 زخمی نشتر اسپتال منتقل، 6 کی حالت تشویشناک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822566/multanburewala-10-injured-in-cylinder-explosion-shifted-to-nishtar-hospital-6-in-critical-condition-2822566/",
+        "source": "Express",
+        "date": "2026-07-16T23:31:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "اولمپک گولڈ میڈلسٹ ارشد ندیم کی سلور میٹ مقابلوں میں مایوس کن کارکردگی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822565/olympic-gold-medalist-arshad-nadeems-disappointing-performance-in-the-silver-meet-competitions-2822565/",
+        "source": "Express",
+        "date": "2026-07-16T23:05:21+05:00",
+        "img": ""
+      },
+      {
         "title": "Spain injury alert: Lamine Yamal and Pedro Porro train separately ahead of World Cup final",
         "summary": "Spain injury alert: Lamine Yamal and Pedro Porro train separately ahead of World Cup final",
         "url": "https://arynews.tv/category/sports/lamine-yamal-and-pedro-porro-train-separately-ahead-of-world-cup-final",
@@ -3883,11 +3899,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Lamine-Yamal-en-Porro.jpg"
       },
       {
-        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
+        "title": "راولپنڈی، پولیس کا ہنی ٹریپ گینگ بے نقاب، ہیڈ کانسٹیبل سمیت 5 افراد کے خلاف مقدمہ درج",
         "summary": "",
-        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
+        "url": "https://www.express.pk/story/2822564/rawalpindi-police-expose-honey-trap-gang-case-registered-against-five-individuals-including-a-head-constable-2822564/",
         "source": "Express",
-        "date": "2026-07-16T22:42:11+05:00",
+        "date": "2026-07-16T22:57:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مسلح ڈاکوؤں نے تاجر سے گن پوائنٹ پر 90 لاکھ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822563/rawalpindi-armed-robbers-looted-9-million-rupees-from-a-businessman-at-gunpoint-2822563/",
+        "source": "Express",
+        "date": "2026-07-16T22:50:58+05:00",
         "img": ""
       },
       {
@@ -4011,11 +4035,11 @@
         "img": ""
       },
       {
-        "title": "فیصل قریشی کا نیا ڈراما ’چک دے انڈیا‘ کی نقل قرار، سوشل میڈیا پر تنقید",
+        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
         "summary": "",
-        "url": "https://www.express.pk/story/2822540/faisal-qureshi-new-drama-dubbed-as-a-copy-of-chak-de-india-criticized-on-social-media-2822540/",
+        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
         "source": "Express",
-        "date": "2026-07-16T17:34:13+05:00",
+        "date": "2026-07-16T17:42:11+00:00",
         "img": ""
       },
       {
@@ -4024,14 +4048,6 @@
         "url": "https://www.express.pk/story/2822561/saudi-arabia-has-rolled-over-pakistans-3-billion-loan-finance-minister-2822561/",
         "source": "Express",
         "date": "2026-07-16T17:28:22+00:00",
-        "img": ""
-      },
-      {
-        "title": "’رجب بٹ کون ہیں؟‘ فہد مصطفیٰ سے تنازع پر وسیم عباس کا مؤقف وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822539/who-is-rajab-butt-wasim-abbas-stance-on-the-controversy-with-fahad-mustafa-goes-viral-2822539/",
-        "source": "Express",
-        "date": "2026-07-16T17:24:17+05:00",
         "img": ""
       },
       {
@@ -4147,27 +4163,11 @@
         "img": ""
       },
       {
-        "title": "بنوں میں سی ٹی ڈی اور پولیس کی مشترکہ کارروائی میں 5 خارجی ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822541/ctd-and-police-operation-in-bannu-5-terrorists-killed-2822541/",
-        "source": "Express",
-        "date": "2026-07-16T12:39:35+00:00",
-        "img": ""
-      },
-      {
         "title": "England's pattern of World Cup knockout elimination against top sides repeats — and wait for glory continues",
         "summary": "<p>England led. England <a href=\"https://www.dawn.com/news/2015738\">lost</a>. England went home. Again.</p> <p>Anthony Gordon’s 55th-minute goal had the Three Lions dreaming. For 30 minutes, they were the better side, disciplined and dangerous, with one foot in a first World Cup final since 1966. Then came the familiar",
         "url": "https://www.dawn.com/news/2015871/englands-pattern-of-world-cup-knockout-elimination-against-top-sides-repeats-and-wait-for-glory-continues",
         "source": "Dawn",
         "date": "2026-07-16T12:13:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "یورپی یونین کمیشن کی جی ایس پی پلس رپورٹ جاری، پاکستان زیادہ مستفید ہونے والا ملک قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822538/eu-gsp-plus-report-2822538/",
-        "source": "Express",
-        "date": "2026-07-16T12:11:17+00:00",
         "img": ""
       },
       {
@@ -4429,6 +4429,14 @@
     ],
     "business": [
       {
+        "title": "ملتان، بوریوالہ سلنڈر دھماکے کے 10 زخمی نشتر اسپتال منتقل، 6 کی حالت تشویشناک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822566/multanburewala-10-injured-in-cylinder-explosion-shifted-to-nishtar-hospital-6-in-critical-condition-2822566/",
+        "source": "Express",
+        "date": "2026-07-16T23:31:39+05:00",
+        "img": ""
+      },
+      {
         "title": "Oil industry prompts government to discourage hoarding as petrol stocks decline to 14-day cover",
         "summary": "<p>ISLAMABAD: Pakistan’s oil supply chain players appeared nervous as petrol stocks declined to a 14-day cover on Thursday, prompting the government to urgently address procedural issues and activate enforcement mechanisms to discourage hoarding for profiteering in the market.</p> <p>The decline comes amid rising price",
         "url": "https://www.dawn.com/news/2015959/oil-industry-prompts-government-to-discourage-hoarding-as-petrol-stocks-decline-to-14-day-cover",
@@ -4437,11 +4445,27 @@
         "img": ""
       },
       {
-        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
+        "title": "اولمپک گولڈ میڈلسٹ ارشد ندیم کی سلور میٹ مقابلوں میں مایوس کن کارکردگی",
         "summary": "",
-        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
+        "url": "https://www.express.pk/story/2822565/olympic-gold-medalist-arshad-nadeems-disappointing-performance-in-the-silver-meet-competitions-2822565/",
         "source": "Express",
-        "date": "2026-07-16T22:42:11+05:00",
+        "date": "2026-07-16T23:05:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، پولیس کا ہنی ٹریپ گینگ بے نقاب، ہیڈ کانسٹیبل سمیت 5 افراد کے خلاف مقدمہ درج",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822564/rawalpindi-police-expose-honey-trap-gang-case-registered-against-five-individuals-including-a-head-constable-2822564/",
+        "source": "Express",
+        "date": "2026-07-16T22:57:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "راولپنڈی، مسلح ڈاکوؤں نے تاجر سے گن پوائنٹ پر 90 لاکھ روپے لوٹ لیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2822563/rawalpindi-armed-robbers-looted-9-million-rupees-from-a-businessman-at-gunpoint-2822563/",
+        "source": "Express",
+        "date": "2026-07-16T22:50:58+05:00",
         "img": ""
       },
       {
@@ -4533,11 +4557,11 @@
         "img": ""
       },
       {
-        "title": "فیصل قریشی کا نیا ڈراما ’چک دے انڈیا‘ کی نقل قرار، سوشل میڈیا پر تنقید",
+        "title": "لاہور میں افسوسناک واقعہ، پُل عبور کرتے ہوئے دو بچے دریائے راوی میں گر گئے",
         "summary": "",
-        "url": "https://www.express.pk/story/2822540/faisal-qureshi-new-drama-dubbed-as-a-copy-of-chak-de-india-criticized-on-social-media-2822540/",
+        "url": "https://www.express.pk/story/2822562/tragic-incident-in-lahore-two-children-fell-into-the-ravi-river-while-crossing-a-bridge-2822562/",
         "source": "Express",
-        "date": "2026-07-16T17:34:13+05:00",
+        "date": "2026-07-16T17:42:11+00:00",
         "img": ""
       },
       {
@@ -4546,14 +4570,6 @@
         "url": "https://www.express.pk/story/2822561/saudi-arabia-has-rolled-over-pakistans-3-billion-loan-finance-minister-2822561/",
         "source": "Express",
         "date": "2026-07-16T17:28:22+00:00",
-        "img": ""
-      },
-      {
-        "title": "’رجب بٹ کون ہیں؟‘ فہد مصطفیٰ سے تنازع پر وسیم عباس کا مؤقف وائرل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822539/who-is-rajab-butt-wasim-abbas-stance-on-the-controversy-with-fahad-mustafa-goes-viral-2822539/",
-        "source": "Express",
-        "date": "2026-07-16T17:24:17+05:00",
         "img": ""
       },
       {
@@ -4629,27 +4645,11 @@
         "img": ""
       },
       {
-        "title": "بنوں میں سی ٹی ڈی اور پولیس کی مشترکہ کارروائی میں 5 خارجی ہلاک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822541/ctd-and-police-operation-in-bannu-5-terrorists-killed-2822541/",
-        "source": "Express",
-        "date": "2026-07-16T12:39:35+00:00",
-        "img": ""
-      },
-      {
         "title": "England's pattern of World Cup knockout elimination against top sides repeats — and wait for glory continues",
         "summary": "<p>England led. England <a href=\"https://www.dawn.com/news/2015738\">lost</a>. England went home. Again.</p> <p>Anthony Gordon’s 55th-minute goal had the Three Lions dreaming. For 30 minutes, they were the better side, disciplined and dangerous, with one foot in a first World Cup final since 1966. Then came the familiar",
         "url": "https://www.dawn.com/news/2015871/englands-pattern-of-world-cup-knockout-elimination-against-top-sides-repeats-and-wait-for-glory-continues",
         "source": "Dawn",
         "date": "2026-07-16T12:13:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "یورپی یونین کمیشن کی جی ایس پی پلس رپورٹ جاری، پاکستان زیادہ مستفید ہونے والا ملک قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2822538/eu-gsp-plus-report-2822538/",
-        "source": "Express",
-        "date": "2026-07-16T12:11:17+00:00",
         "img": ""
       },
       {
