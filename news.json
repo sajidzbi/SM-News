@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-24T22:00:47.579792+00:00",
+  "fetched": "2026-07-24T23:58:44.105529+00:00",
   "categories": {
     "international": [
       {
@@ -105,6 +105,14 @@
         "source": "ARY News",
         "date": "2026-07-25T00:01:53+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/The-Walking-Dead.jpg"
+      },
+      {
+        "title": "ٹرمپ کا چین اور روس کو ایران کے خلاف جنگ سے دور رہنے کا مشورہ، عمان کا مذاکراتی وفد تہران پہنچ گیا",
+        "summary": "امریکی صدر ڈونلڈ ٹرمپ کا کہنا ہے کہ چین اور روس کے صدور نے ان سے وعدہ کیا تھا کہ وہ ایران کو ہتھیار فروخت نہیں کریں گے۔ ادھر ایران کے سرکاری خبر رساں ادارے ارنا کے مطابق آبنائے ہرمز میں جہازوں کی آمد و رفت کا طریقہ کار طے کرنے کے لیے عمان کا ایک مذاکراتی وفد تہران پہنچ گیا ہے۔",
+        "url": "https://www.bbc.co.uk/urdu/live/c4gkxneqk77t?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-07-24T23:58:46.420708+00:00",
+        "img": ""
       },
       {
         "title": "PTA tightens SIM card sale and issuance rules",
@@ -225,14 +233,6 @@
         "source": "ARY News",
         "date": "2026-07-24T22:01:00+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Rain-in-karachi.jpg"
-      },
-      {
-        "title": "ٹرمپ کا چین اور روس کو ایران کے خلاف جنگ سے دور رہنے کا مشورہ، عمان کا مذاکراتی وفد تہران پہنچ گیا",
-        "summary": "امریکی صدر ڈونلڈ ٹرمپ کا کہنا ہے کہ چین اور روس کے صدور نے ان سے وعدہ کیا تھا کہ وہ ایران کو ہتھیار فروخت نہیں کریں گے۔ ادھر ایران کے سرکاری خبر رساں ادارے ارنا کے مطابق آبنائے ہرمز میں جہازوں کی آمد و رفت کا طریقہ کار طے کرنے کے لیے عمان کا ایک مذاکراتی وفد تہران پہنچ گیا ہے۔",
-        "url": "https://www.bbc.co.uk/urdu/live/c4gkxneqk77t?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-07-24T22:00:50.069633+00:00",
-        "img": ""
       },
       {
         "title": "Alimatravir: HIV prevention pill licensed to 129 countries",
@@ -845,11 +845,59 @@
         "img": ""
       },
       {
+        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
+        "source": "Express",
+        "date": "2026-07-24T19:00:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
+        "source": "Express",
+        "date": "2026-07-24T18:55:40+05:00",
+        "img": ""
+      },
+      {
         "title": "PMD forecasts monsoon rain, thunderstorms across the country from July 24-28",
         "summary": "<p>The Pakistan Meteorological Department (PMD) on Friday issued a weather advisory for the next three to four days, forecasting rain in southern and central parts of the country due to an active monsoon system.</p> <p>A press release issued by the Met Office said a low-pressure area was present over south-west Rajasth",
         "url": "https://www.dawn.com/news/2018038/pmd-forecasts-monsoon-rain-thunderstorms-across-the-country-from-july-24-28",
         "source": "Dawn",
         "date": "2026-07-24T18:43:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
+        "source": "Express",
+        "date": "2026-07-24T18:10:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "موٹروے ایم-2 پر گاڑی آگے جانیوالے ٹرک سے ٹکرا گئی، 2 خواتین جاں بحق، 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823970/vehicle-collides-with-a-truck-ahead-on-motorway-m-2-two-women-killed-two-people-injured-2823970/",
+        "source": "Express",
+        "date": "2026-07-24T17:55:23+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: موچکو پولیس کی بڑی کارروائی، 66 کلو اعلیٰ کوالٹی کی چرس برآمد، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823969/karachi-major-operation-in-mochko-66-kg-of-high-quality-hashish-seized-two-suspects-arrested-2823969/",
+        "source": "Express",
+        "date": "2026-07-24T17:31:40+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: صدر پاسپورٹ آفس میں ایف آئی اے کی کارروائی، دفتر کے 2 اہلکار سمیت 6 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823968/karachi-fia-operation-at-the-saddar-passport-office-six-suspects-arrested-including-two-office-employees-2823968/",
+        "source": "Express",
+        "date": "2026-07-24T17:16:48+00:00",
         "img": ""
       },
       {
@@ -885,7 +933,7 @@
         "img": ""
       },
       {
-        "title": "سعودی عرب کے یمن کی حدیدہ بندرگاہ اور کمران جزیرے پر حملے، حوثیوں سے منسلک ٹی وی کا دعویٰ",
+        "title": "سعودی اتحادی افواج کا یمن کے الحدیدہ گورنریٹ میں حوثی فوجی ٹھکانوں پر حملہ",
         "summary": "",
         "url": "https://www.express.pk/story/2823964/saudi-arabia-attacks-yemens-hodeidah-port-and-kamaran-island-houthi-linked-tv-claims-2823964/",
         "source": "Express",
@@ -997,22 +1045,6 @@
         "img": ""
       },
       {
-        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
-        "source": "Express",
-        "date": "2026-07-24T14:00:03+00:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
-        "source": "Express",
-        "date": "2026-07-24T13:55:40+00:00",
-        "img": ""
-      },
-      {
         "title": "'Unacceptable': Pakistan, 7 other countries condemn Israeli minister Ben Gvir's Al Aqsa incursion",
         "summary": "<p>A day after Israeli far-right National Security Minister Itamar Ben Gvir <a href=\"https://www.dawn.com/news/2017854\">led hundreds of Israeli Jews into Jerusalem’s Al Aqsa mosque compound</a>, Pakistan and seven other countries on Friday issued a joint statement condemning the “provocative actions”.</p> <p>The joint ",
         "url": "https://www.dawn.com/news/2018009/unacceptable-pakistan-7-other-countries-condemn-israeli-minister-ben-gvirs-al-aqsa-incursion",
@@ -1053,14 +1085,6 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
-        "source": "Express",
-        "date": "2026-07-24T13:10:47+00:00",
-        "img": ""
-      },
-      {
         "title": "پشاور؛ حسن خیل میں دہشت گردوں کا کواڈ کاپڑ سے پولیس چوکی پر حملہ، تین اہلکار زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2823944/peshawar-hassan-khail-terrorist-quadcopter-attack-police-post-three-constable-injured-2823944/",
@@ -1069,35 +1093,11 @@
         "img": ""
       },
       {
-        "title": "کوہاٹ حملے میں کسٹمز افسر اور اہلکار کی شہادت بڑا سانحہ ہے، چیئرمین ایف بی آر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823943/chairman-fbr-condemn-customs-officer-and-coop-died-in-attack-kohat-2823943/",
-        "source": "Express",
-        "date": "2026-07-24T13:01:24+00:00",
-        "img": ""
-      },
-      {
         "title": "Lt Gen Aamer Raza promoted to 4-star rank, appointed first Commander National Strategic Command",
         "summary": "<p>Prime Minister Shehbaz Sharif has announced that Lieutenant General Aamer Raza, the chief of general staff of the Pakistan Army, has been promoted to the rank of a four-star general and appointed Commander National Strategic Command (CNSC), the Prime Minister’s Office (PMO) said on Friday.</p> <p>According to the PM",
         "url": "https://www.dawn.com/news/2018019/lt-gen-aamer-raza-promoted-to-4-star-rank-appointed-first-commander-national-strategic-command",
         "source": "Dawn",
         "date": "2026-07-24T12:58:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "ہر ایرانی شہید کے بدلے ایک امریکی فوجی کو جہنم واصل کریں گے؛ کمانڈر فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823942/iran-vows-to-kill-one-member-of-us-forces-for-every-iranian-killed-2823942/",
-        "source": "Express",
-        "date": "2026-07-24T12:56:40+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب میں پہلی بار جنگلی حیات کے لیے پورٹیبل ایکسرے سروس کا آغاز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823941/portable-x-ray-service-for-wildlife-launched-for-the-first-time-in-punjab-2823941/",
-        "source": "Express",
-        "date": "2026-07-24T12:54:39+00:00",
         "img": ""
       },
       {
@@ -1447,11 +1447,59 @@
         "img": ""
       },
       {
+        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
+        "source": "Express",
+        "date": "2026-07-24T19:00:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
+        "source": "Express",
+        "date": "2026-07-24T18:55:40+05:00",
+        "img": ""
+      },
+      {
         "title": "PMD forecasts monsoon rain, thunderstorms across the country from July 24-28",
         "summary": "<p>The Pakistan Meteorological Department (PMD) on Friday issued a weather advisory for the next three to four days, forecasting rain in southern and central parts of the country due to an active monsoon system.</p> <p>A press release issued by the Met Office said a low-pressure area was present over south-west Rajasth",
         "url": "https://www.dawn.com/news/2018038/pmd-forecasts-monsoon-rain-thunderstorms-across-the-country-from-july-24-28",
         "source": "Dawn",
         "date": "2026-07-24T18:43:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
+        "source": "Express",
+        "date": "2026-07-24T18:10:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "موٹروے ایم-2 پر گاڑی آگے جانیوالے ٹرک سے ٹکرا گئی، 2 خواتین جاں بحق، 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823970/vehicle-collides-with-a-truck-ahead-on-motorway-m-2-two-women-killed-two-people-injured-2823970/",
+        "source": "Express",
+        "date": "2026-07-24T17:55:23+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: موچکو پولیس کی بڑی کارروائی، 66 کلو اعلیٰ کوالٹی کی چرس برآمد، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823969/karachi-major-operation-in-mochko-66-kg-of-high-quality-hashish-seized-two-suspects-arrested-2823969/",
+        "source": "Express",
+        "date": "2026-07-24T17:31:40+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: صدر پاسپورٹ آفس میں ایف آئی اے کی کارروائی، دفتر کے 2 اہلکار سمیت 6 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823968/karachi-fia-operation-at-the-saddar-passport-office-six-suspects-arrested-including-two-office-employees-2823968/",
+        "source": "Express",
+        "date": "2026-07-24T17:16:48+00:00",
         "img": ""
       },
       {
@@ -1487,7 +1535,7 @@
         "img": ""
       },
       {
-        "title": "سعودی عرب کے یمن کی حدیدہ بندرگاہ اور کمران جزیرے پر حملے، حوثیوں سے منسلک ٹی وی کا دعویٰ",
+        "title": "سعودی اتحادی افواج کا یمن کے الحدیدہ گورنریٹ میں حوثی فوجی ٹھکانوں پر حملہ",
         "summary": "",
         "url": "https://www.express.pk/story/2823964/saudi-arabia-attacks-yemens-hodeidah-port-and-kamaran-island-houthi-linked-tv-claims-2823964/",
         "source": "Express",
@@ -1599,22 +1647,6 @@
         "img": ""
       },
       {
-        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
-        "source": "Express",
-        "date": "2026-07-24T14:00:03+00:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
-        "source": "Express",
-        "date": "2026-07-24T13:55:40+00:00",
-        "img": ""
-      },
-      {
         "title": "'Unacceptable': Pakistan, 7 other countries condemn Israeli minister Ben Gvir's Al Aqsa incursion",
         "summary": "<p>A day after Israeli far-right National Security Minister Itamar Ben Gvir <a href=\"https://www.dawn.com/news/2017854\">led hundreds of Israeli Jews into Jerusalem’s Al Aqsa mosque compound</a>, Pakistan and seven other countries on Friday issued a joint statement condemning the “provocative actions”.</p> <p>The joint ",
         "url": "https://www.dawn.com/news/2018009/unacceptable-pakistan-7-other-countries-condemn-israeli-minister-ben-gvirs-al-aqsa-incursion",
@@ -1655,14 +1687,6 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
-        "source": "Express",
-        "date": "2026-07-24T13:10:47+00:00",
-        "img": ""
-      },
-      {
         "title": "پشاور؛ حسن خیل میں دہشت گردوں کا کواڈ کاپڑ سے پولیس چوکی پر حملہ، تین اہلکار زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2823944/peshawar-hassan-khail-terrorist-quadcopter-attack-police-post-three-constable-injured-2823944/",
@@ -1671,35 +1695,11 @@
         "img": ""
       },
       {
-        "title": "کوہاٹ حملے میں کسٹمز افسر اور اہلکار کی شہادت بڑا سانحہ ہے، چیئرمین ایف بی آر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823943/chairman-fbr-condemn-customs-officer-and-coop-died-in-attack-kohat-2823943/",
-        "source": "Express",
-        "date": "2026-07-24T13:01:24+00:00",
-        "img": ""
-      },
-      {
         "title": "Lt Gen Aamer Raza promoted to 4-star rank, appointed first Commander National Strategic Command",
         "summary": "<p>Prime Minister Shehbaz Sharif has announced that Lieutenant General Aamer Raza, the chief of general staff of the Pakistan Army, has been promoted to the rank of a four-star general and appointed Commander National Strategic Command (CNSC), the Prime Minister’s Office (PMO) said on Friday.</p> <p>According to the PM",
         "url": "https://www.dawn.com/news/2018019/lt-gen-aamer-raza-promoted-to-4-star-rank-appointed-first-commander-national-strategic-command",
         "source": "Dawn",
         "date": "2026-07-24T12:58:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "ہر ایرانی شہید کے بدلے ایک امریکی فوجی کو جہنم واصل کریں گے؛ کمانڈر فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823942/iran-vows-to-kill-one-member-of-us-forces-for-every-iranian-killed-2823942/",
-        "source": "Express",
-        "date": "2026-07-24T12:56:40+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب میں پہلی بار جنگلی حیات کے لیے پورٹیبل ایکسرے سروس کا آغاز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823941/portable-x-ray-service-for-wildlife-launched-for-the-first-time-in-punjab-2823941/",
-        "source": "Express",
-        "date": "2026-07-24T12:54:39+00:00",
         "img": ""
       },
       {
@@ -1929,11 +1929,59 @@
         "img": ""
       },
       {
+        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
+        "source": "Express",
+        "date": "2026-07-24T19:00:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
+        "source": "Express",
+        "date": "2026-07-24T18:55:40+05:00",
+        "img": ""
+      },
+      {
         "title": "PMD forecasts monsoon rain, thunderstorms across the country from July 24-28",
         "summary": "<p>The Pakistan Meteorological Department (PMD) on Friday issued a weather advisory for the next three to four days, forecasting rain in southern and central parts of the country due to an active monsoon system.</p> <p>A press release issued by the Met Office said a low-pressure area was present over south-west Rajasth",
         "url": "https://www.dawn.com/news/2018038/pmd-forecasts-monsoon-rain-thunderstorms-across-the-country-from-july-24-28",
         "source": "Dawn",
         "date": "2026-07-24T18:43:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
+        "source": "Express",
+        "date": "2026-07-24T18:10:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "موٹروے ایم-2 پر گاڑی آگے جانیوالے ٹرک سے ٹکرا گئی، 2 خواتین جاں بحق، 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823970/vehicle-collides-with-a-truck-ahead-on-motorway-m-2-two-women-killed-two-people-injured-2823970/",
+        "source": "Express",
+        "date": "2026-07-24T17:55:23+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: موچکو پولیس کی بڑی کارروائی، 66 کلو اعلیٰ کوالٹی کی چرس برآمد، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823969/karachi-major-operation-in-mochko-66-kg-of-high-quality-hashish-seized-two-suspects-arrested-2823969/",
+        "source": "Express",
+        "date": "2026-07-24T17:31:40+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: صدر پاسپورٹ آفس میں ایف آئی اے کی کارروائی، دفتر کے 2 اہلکار سمیت 6 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823968/karachi-fia-operation-at-the-saddar-passport-office-six-suspects-arrested-including-two-office-employees-2823968/",
+        "source": "Express",
+        "date": "2026-07-24T17:16:48+00:00",
         "img": ""
       },
       {
@@ -1969,7 +2017,7 @@
         "img": ""
       },
       {
-        "title": "سعودی عرب کے یمن کی حدیدہ بندرگاہ اور کمران جزیرے پر حملے، حوثیوں سے منسلک ٹی وی کا دعویٰ",
+        "title": "سعودی اتحادی افواج کا یمن کے الحدیدہ گورنریٹ میں حوثی فوجی ٹھکانوں پر حملہ",
         "summary": "",
         "url": "https://www.express.pk/story/2823964/saudi-arabia-attacks-yemens-hodeidah-port-and-kamaran-island-houthi-linked-tv-claims-2823964/",
         "source": "Express",
@@ -2081,22 +2129,6 @@
         "img": ""
       },
       {
-        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
-        "source": "Express",
-        "date": "2026-07-24T14:00:03+00:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
-        "source": "Express",
-        "date": "2026-07-24T13:55:40+00:00",
-        "img": ""
-      },
-      {
         "title": "'Unacceptable': Pakistan, 7 other countries condemn Israeli minister Ben Gvir's Al Aqsa incursion",
         "summary": "<p>A day after Israeli far-right National Security Minister Itamar Ben Gvir <a href=\"https://www.dawn.com/news/2017854\">led hundreds of Israeli Jews into Jerusalem’s Al Aqsa mosque compound</a>, Pakistan and seven other countries on Friday issued a joint statement condemning the “provocative actions”.</p> <p>The joint ",
         "url": "https://www.dawn.com/news/2018009/unacceptable-pakistan-7-other-countries-condemn-israeli-minister-ben-gvirs-al-aqsa-incursion",
@@ -2137,14 +2169,6 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
-        "source": "Express",
-        "date": "2026-07-24T13:10:47+00:00",
-        "img": ""
-      },
-      {
         "title": "پشاور؛ حسن خیل میں دہشت گردوں کا کواڈ کاپڑ سے پولیس چوکی پر حملہ، تین اہلکار زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2823944/peshawar-hassan-khail-terrorist-quadcopter-attack-police-post-three-constable-injured-2823944/",
@@ -2153,35 +2177,11 @@
         "img": ""
       },
       {
-        "title": "کوہاٹ حملے میں کسٹمز افسر اور اہلکار کی شہادت بڑا سانحہ ہے، چیئرمین ایف بی آر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823943/chairman-fbr-condemn-customs-officer-and-coop-died-in-attack-kohat-2823943/",
-        "source": "Express",
-        "date": "2026-07-24T13:01:24+00:00",
-        "img": ""
-      },
-      {
         "title": "Lt Gen Aamer Raza promoted to 4-star rank, appointed first Commander National Strategic Command",
         "summary": "<p>Prime Minister Shehbaz Sharif has announced that Lieutenant General Aamer Raza, the chief of general staff of the Pakistan Army, has been promoted to the rank of a four-star general and appointed Commander National Strategic Command (CNSC), the Prime Minister’s Office (PMO) said on Friday.</p> <p>According to the PM",
         "url": "https://www.dawn.com/news/2018019/lt-gen-aamer-raza-promoted-to-4-star-rank-appointed-first-commander-national-strategic-command",
         "source": "Dawn",
         "date": "2026-07-24T12:58:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "ہر ایرانی شہید کے بدلے ایک امریکی فوجی کو جہنم واصل کریں گے؛ کمانڈر فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823942/iran-vows-to-kill-one-member-of-us-forces-for-every-iranian-killed-2823942/",
-        "source": "Express",
-        "date": "2026-07-24T12:56:40+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب میں پہلی بار جنگلی حیات کے لیے پورٹیبل ایکسرے سروس کا آغاز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823941/portable-x-ray-service-for-wildlife-launched-for-the-first-time-in-punjab-2823941/",
-        "source": "Express",
-        "date": "2026-07-24T12:54:39+00:00",
         "img": ""
       },
       {
@@ -2331,11 +2331,59 @@
         "img": ""
       },
       {
+        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
+        "source": "Express",
+        "date": "2026-07-24T19:00:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
+        "source": "Express",
+        "date": "2026-07-24T18:55:40+05:00",
+        "img": ""
+      },
+      {
         "title": "PMD forecasts monsoon rain, thunderstorms across the country from July 24-28",
         "summary": "<p>The Pakistan Meteorological Department (PMD) on Friday issued a weather advisory for the next three to four days, forecasting rain in southern and central parts of the country due to an active monsoon system.</p> <p>A press release issued by the Met Office said a low-pressure area was present over south-west Rajasth",
         "url": "https://www.dawn.com/news/2018038/pmd-forecasts-monsoon-rain-thunderstorms-across-the-country-from-july-24-28",
         "source": "Dawn",
         "date": "2026-07-24T18:43:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
+        "source": "Express",
+        "date": "2026-07-24T18:10:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "موٹروے ایم-2 پر گاڑی آگے جانیوالے ٹرک سے ٹکرا گئی، 2 خواتین جاں بحق، 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823970/vehicle-collides-with-a-truck-ahead-on-motorway-m-2-two-women-killed-two-people-injured-2823970/",
+        "source": "Express",
+        "date": "2026-07-24T17:55:23+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: موچکو پولیس کی بڑی کارروائی، 66 کلو اعلیٰ کوالٹی کی چرس برآمد، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823969/karachi-major-operation-in-mochko-66-kg-of-high-quality-hashish-seized-two-suspects-arrested-2823969/",
+        "source": "Express",
+        "date": "2026-07-24T17:31:40+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: صدر پاسپورٹ آفس میں ایف آئی اے کی کارروائی، دفتر کے 2 اہلکار سمیت 6 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823968/karachi-fia-operation-at-the-saddar-passport-office-six-suspects-arrested-including-two-office-employees-2823968/",
+        "source": "Express",
+        "date": "2026-07-24T17:16:48+00:00",
         "img": ""
       },
       {
@@ -2371,7 +2419,7 @@
         "img": ""
       },
       {
-        "title": "سعودی عرب کے یمن کی حدیدہ بندرگاہ اور کمران جزیرے پر حملے، حوثیوں سے منسلک ٹی وی کا دعویٰ",
+        "title": "سعودی اتحادی افواج کا یمن کے الحدیدہ گورنریٹ میں حوثی فوجی ٹھکانوں پر حملہ",
         "summary": "",
         "url": "https://www.express.pk/story/2823964/saudi-arabia-attacks-yemens-hodeidah-port-and-kamaran-island-houthi-linked-tv-claims-2823964/",
         "source": "Express",
@@ -2483,22 +2531,6 @@
         "img": ""
       },
       {
-        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
-        "source": "Express",
-        "date": "2026-07-24T14:00:03+00:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
-        "source": "Express",
-        "date": "2026-07-24T13:55:40+00:00",
-        "img": ""
-      },
-      {
         "title": "'Unacceptable': Pakistan, 7 other countries condemn Israeli minister Ben Gvir's Al Aqsa incursion",
         "summary": "<p>A day after Israeli far-right National Security Minister Itamar Ben Gvir <a href=\"https://www.dawn.com/news/2017854\">led hundreds of Israeli Jews into Jerusalem’s Al Aqsa mosque compound</a>, Pakistan and seven other countries on Friday issued a joint statement condemning the “provocative actions”.</p> <p>The joint ",
         "url": "https://www.dawn.com/news/2018009/unacceptable-pakistan-7-other-countries-condemn-israeli-minister-ben-gvirs-al-aqsa-incursion",
@@ -2539,14 +2571,6 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
-        "source": "Express",
-        "date": "2026-07-24T13:10:47+00:00",
-        "img": ""
-      },
-      {
         "title": "پشاور؛ حسن خیل میں دہشت گردوں کا کواڈ کاپڑ سے پولیس چوکی پر حملہ، تین اہلکار زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2823944/peshawar-hassan-khail-terrorist-quadcopter-attack-police-post-three-constable-injured-2823944/",
@@ -2555,35 +2579,11 @@
         "img": ""
       },
       {
-        "title": "کوہاٹ حملے میں کسٹمز افسر اور اہلکار کی شہادت بڑا سانحہ ہے، چیئرمین ایف بی آر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823943/chairman-fbr-condemn-customs-officer-and-coop-died-in-attack-kohat-2823943/",
-        "source": "Express",
-        "date": "2026-07-24T13:01:24+00:00",
-        "img": ""
-      },
-      {
         "title": "Lt Gen Aamer Raza promoted to 4-star rank, appointed first Commander National Strategic Command",
         "summary": "<p>Prime Minister Shehbaz Sharif has announced that Lieutenant General Aamer Raza, the chief of general staff of the Pakistan Army, has been promoted to the rank of a four-star general and appointed Commander National Strategic Command (CNSC), the Prime Minister’s Office (PMO) said on Friday.</p> <p>According to the PM",
         "url": "https://www.dawn.com/news/2018019/lt-gen-aamer-raza-promoted-to-4-star-rank-appointed-first-commander-national-strategic-command",
         "source": "Dawn",
         "date": "2026-07-24T12:58:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "ہر ایرانی شہید کے بدلے ایک امریکی فوجی کو جہنم واصل کریں گے؛ کمانڈر فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823942/iran-vows-to-kill-one-member-of-us-forces-for-every-iranian-killed-2823942/",
-        "source": "Express",
-        "date": "2026-07-24T12:56:40+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب میں پہلی بار جنگلی حیات کے لیے پورٹیبل ایکسرے سروس کا آغاز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823941/portable-x-ray-service-for-wildlife-launched-for-the-first-time-in-punjab-2823941/",
-        "source": "Express",
-        "date": "2026-07-24T12:54:39+00:00",
         "img": ""
       },
       {
@@ -2933,11 +2933,59 @@
         "img": ""
       },
       {
+        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
+        "source": "Express",
+        "date": "2026-07-24T19:00:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
+        "source": "Express",
+        "date": "2026-07-24T18:55:40+05:00",
+        "img": ""
+      },
+      {
         "title": "PMD forecasts monsoon rain, thunderstorms across the country from July 24-28",
         "summary": "<p>The Pakistan Meteorological Department (PMD) on Friday issued a weather advisory for the next three to four days, forecasting rain in southern and central parts of the country due to an active monsoon system.</p> <p>A press release issued by the Met Office said a low-pressure area was present over south-west Rajasth",
         "url": "https://www.dawn.com/news/2018038/pmd-forecasts-monsoon-rain-thunderstorms-across-the-country-from-july-24-28",
         "source": "Dawn",
         "date": "2026-07-24T18:43:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
+        "source": "Express",
+        "date": "2026-07-24T18:10:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "موٹروے ایم-2 پر گاڑی آگے جانیوالے ٹرک سے ٹکرا گئی، 2 خواتین جاں بحق، 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823970/vehicle-collides-with-a-truck-ahead-on-motorway-m-2-two-women-killed-two-people-injured-2823970/",
+        "source": "Express",
+        "date": "2026-07-24T17:55:23+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: موچکو پولیس کی بڑی کارروائی، 66 کلو اعلیٰ کوالٹی کی چرس برآمد، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823969/karachi-major-operation-in-mochko-66-kg-of-high-quality-hashish-seized-two-suspects-arrested-2823969/",
+        "source": "Express",
+        "date": "2026-07-24T17:31:40+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: صدر پاسپورٹ آفس میں ایف آئی اے کی کارروائی، دفتر کے 2 اہلکار سمیت 6 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823968/karachi-fia-operation-at-the-saddar-passport-office-six-suspects-arrested-including-two-office-employees-2823968/",
+        "source": "Express",
+        "date": "2026-07-24T17:16:48+00:00",
         "img": ""
       },
       {
@@ -2973,7 +3021,7 @@
         "img": ""
       },
       {
-        "title": "سعودی عرب کے یمن کی حدیدہ بندرگاہ اور کمران جزیرے پر حملے، حوثیوں سے منسلک ٹی وی کا دعویٰ",
+        "title": "سعودی اتحادی افواج کا یمن کے الحدیدہ گورنریٹ میں حوثی فوجی ٹھکانوں پر حملہ",
         "summary": "",
         "url": "https://www.express.pk/story/2823964/saudi-arabia-attacks-yemens-hodeidah-port-and-kamaran-island-houthi-linked-tv-claims-2823964/",
         "source": "Express",
@@ -3085,22 +3133,6 @@
         "img": ""
       },
       {
-        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
-        "source": "Express",
-        "date": "2026-07-24T14:00:03+00:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
-        "source": "Express",
-        "date": "2026-07-24T13:55:40+00:00",
-        "img": ""
-      },
-      {
         "title": "'Unacceptable': Pakistan, 7 other countries condemn Israeli minister Ben Gvir's Al Aqsa incursion",
         "summary": "<p>A day after Israeli far-right National Security Minister Itamar Ben Gvir <a href=\"https://www.dawn.com/news/2017854\">led hundreds of Israeli Jews into Jerusalem’s Al Aqsa mosque compound</a>, Pakistan and seven other countries on Friday issued a joint statement condemning the “provocative actions”.</p> <p>The joint ",
         "url": "https://www.dawn.com/news/2018009/unacceptable-pakistan-7-other-countries-condemn-israeli-minister-ben-gvirs-al-aqsa-incursion",
@@ -3141,14 +3173,6 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
-        "source": "Express",
-        "date": "2026-07-24T13:10:47+00:00",
-        "img": ""
-      },
-      {
         "title": "پشاور؛ حسن خیل میں دہشت گردوں کا کواڈ کاپڑ سے پولیس چوکی پر حملہ، تین اہلکار زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2823944/peshawar-hassan-khail-terrorist-quadcopter-attack-police-post-three-constable-injured-2823944/",
@@ -3157,35 +3181,11 @@
         "img": ""
       },
       {
-        "title": "کوہاٹ حملے میں کسٹمز افسر اور اہلکار کی شہادت بڑا سانحہ ہے، چیئرمین ایف بی آر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823943/chairman-fbr-condemn-customs-officer-and-coop-died-in-attack-kohat-2823943/",
-        "source": "Express",
-        "date": "2026-07-24T13:01:24+00:00",
-        "img": ""
-      },
-      {
         "title": "Lt Gen Aamer Raza promoted to 4-star rank, appointed first Commander National Strategic Command",
         "summary": "<p>Prime Minister Shehbaz Sharif has announced that Lieutenant General Aamer Raza, the chief of general staff of the Pakistan Army, has been promoted to the rank of a four-star general and appointed Commander National Strategic Command (CNSC), the Prime Minister’s Office (PMO) said on Friday.</p> <p>According to the PM",
         "url": "https://www.dawn.com/news/2018019/lt-gen-aamer-raza-promoted-to-4-star-rank-appointed-first-commander-national-strategic-command",
         "source": "Dawn",
         "date": "2026-07-24T12:58:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "ہر ایرانی شہید کے بدلے ایک امریکی فوجی کو جہنم واصل کریں گے؛ کمانڈر فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823942/iran-vows-to-kill-one-member-of-us-forces-for-every-iranian-killed-2823942/",
-        "source": "Express",
-        "date": "2026-07-24T12:56:40+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب میں پہلی بار جنگلی حیات کے لیے پورٹیبل ایکسرے سروس کا آغاز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823941/portable-x-ray-service-for-wildlife-launched-for-the-first-time-in-punjab-2823941/",
-        "source": "Express",
-        "date": "2026-07-24T12:54:39+00:00",
         "img": ""
       },
       {
@@ -3463,6 +3463,54 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Donald-Trump-on-Strait-of-Hormuz.jpg"
       },
       {
+        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
+        "source": "Express",
+        "date": "2026-07-24T19:00:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
+        "source": "Express",
+        "date": "2026-07-24T18:55:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
+        "source": "Express",
+        "date": "2026-07-24T18:10:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "موٹروے ایم-2 پر گاڑی آگے جانیوالے ٹرک سے ٹکرا گئی، 2 خواتین جاں بحق، 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823970/vehicle-collides-with-a-truck-ahead-on-motorway-m-2-two-women-killed-two-people-injured-2823970/",
+        "source": "Express",
+        "date": "2026-07-24T17:55:23+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: موچکو پولیس کی بڑی کارروائی، 66 کلو اعلیٰ کوالٹی کی چرس برآمد، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823969/karachi-major-operation-in-mochko-66-kg-of-high-quality-hashish-seized-two-suspects-arrested-2823969/",
+        "source": "Express",
+        "date": "2026-07-24T17:31:40+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: صدر پاسپورٹ آفس میں ایف آئی اے کی کارروائی، دفتر کے 2 اہلکار سمیت 6 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823968/karachi-fia-operation-at-the-saddar-passport-office-six-suspects-arrested-including-two-office-employees-2823968/",
+        "source": "Express",
+        "date": "2026-07-24T17:16:48+00:00",
+        "img": ""
+      },
+      {
         "title": "بحرین اور کویت کے ایران میں خفیہ فضائی حملے، امریکا کا خلیج عمان میں ایل پی جی ٹینکر پر حملہ",
         "summary": "",
         "url": "https://www.express.pk/story/2823967/bahrain-and-kuwait-conduct-covert-airstrikes-in-iran-us-attacks-lpg-tanker-in-the-gulf-of-oman-2823967/",
@@ -3487,7 +3535,7 @@
         "img": ""
       },
       {
-        "title": "سعودی عرب کے یمن کی حدیدہ بندرگاہ اور کمران جزیرے پر حملے، حوثیوں سے منسلک ٹی وی کا دعویٰ",
+        "title": "سعودی اتحادی افواج کا یمن کے الحدیدہ گورنریٹ میں حوثی فوجی ٹھکانوں پر حملہ",
         "summary": "",
         "url": "https://www.express.pk/story/2823964/saudi-arabia-attacks-yemens-hodeidah-port-and-kamaran-island-houthi-linked-tv-claims-2823964/",
         "source": "Express",
@@ -3583,22 +3631,6 @@
         "img": ""
       },
       {
-        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
-        "source": "Express",
-        "date": "2026-07-24T14:00:03+00:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
-        "source": "Express",
-        "date": "2026-07-24T13:55:40+00:00",
-        "img": ""
-      },
-      {
         "title": "پیپلزپارٹی نے اجازت نہ ملنے پر مینار پاکستان سے جلسے کا مقام تبدیل کردیا",
         "summary": "",
         "url": "https://www.express.pk/story/2823949/ppp-changes-venue-of-rally-from-minar-e-pakistan-2823949/",
@@ -3623,43 +3655,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
-        "source": "Express",
-        "date": "2026-07-24T13:10:47+00:00",
-        "img": ""
-      },
-      {
         "title": "پشاور؛ حسن خیل میں دہشت گردوں کا کواڈ کاپڑ سے پولیس چوکی پر حملہ، تین اہلکار زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2823944/peshawar-hassan-khail-terrorist-quadcopter-attack-police-post-three-constable-injured-2823944/",
         "source": "Express",
         "date": "2026-07-24T13:09:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "کوہاٹ حملے میں کسٹمز افسر اور اہلکار کی شہادت بڑا سانحہ ہے، چیئرمین ایف بی آر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823943/chairman-fbr-condemn-customs-officer-and-coop-died-in-attack-kohat-2823943/",
-        "source": "Express",
-        "date": "2026-07-24T13:01:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "ہر ایرانی شہید کے بدلے ایک امریکی فوجی کو جہنم واصل کریں گے؛ کمانڈر فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823942/iran-vows-to-kill-one-member-of-us-forces-for-every-iranian-killed-2823942/",
-        "source": "Express",
-        "date": "2026-07-24T12:56:40+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب میں پہلی بار جنگلی حیات کے لیے پورٹیبل ایکسرے سروس کا آغاز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823941/portable-x-ray-service-for-wildlife-launched-for-the-first-time-in-punjab-2823941/",
-        "source": "Express",
-        "date": "2026-07-24T12:54:39+00:00",
         "img": ""
       }
     ],
@@ -3899,6 +3899,30 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-121.jpg"
       },
       {
+        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
+        "source": "Express",
+        "date": "2026-07-24T19:00:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
+        "source": "Express",
+        "date": "2026-07-24T18:55:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
+        "source": "Express",
+        "date": "2026-07-24T18:10:47+05:00",
+        "img": ""
+      },
+      {
         "title": "Leclerc on top for Ferrari but suffers car failure",
         "summary": "Leclerc on top for Ferrari but suffers car failure",
         "url": "https://arynews.tv/leclerc-on-top-for-ferrari-but-suffers-car-failure",
@@ -3913,6 +3937,30 @@
         "source": "ARY Sports",
         "date": "2026-07-24T17:58:54+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-119.jpg"
+      },
+      {
+        "title": "موٹروے ایم-2 پر گاڑی آگے جانیوالے ٹرک سے ٹکرا گئی، 2 خواتین جاں بحق، 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823970/vehicle-collides-with-a-truck-ahead-on-motorway-m-2-two-women-killed-two-people-injured-2823970/",
+        "source": "Express",
+        "date": "2026-07-24T17:55:23+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: موچکو پولیس کی بڑی کارروائی، 66 کلو اعلیٰ کوالٹی کی چرس برآمد، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823969/karachi-major-operation-in-mochko-66-kg-of-high-quality-hashish-seized-two-suspects-arrested-2823969/",
+        "source": "Express",
+        "date": "2026-07-24T17:31:40+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: صدر پاسپورٹ آفس میں ایف آئی اے کی کارروائی، دفتر کے 2 اہلکار سمیت 6 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823968/karachi-fia-operation-at-the-saddar-passport-office-six-suspects-arrested-including-two-office-employees-2823968/",
+        "source": "Express",
+        "date": "2026-07-24T17:16:48+00:00",
+        "img": ""
       },
       {
         "title": "بحرین اور کویت کے ایران میں خفیہ فضائی حملے، امریکا کا خلیج عمان میں ایل پی جی ٹینکر پر حملہ",
@@ -3955,7 +4003,7 @@
         "img": ""
       },
       {
-        "title": "سعودی عرب کے یمن کی حدیدہ بندرگاہ اور کمران جزیرے پر حملے، حوثیوں سے منسلک ٹی وی کا دعویٰ",
+        "title": "سعودی اتحادی افواج کا یمن کے الحدیدہ گورنریٹ میں حوثی فوجی ٹھکانوں پر حملہ",
         "summary": "",
         "url": "https://www.express.pk/story/2823964/saudi-arabia-attacks-yemens-hodeidah-port-and-kamaran-island-houthi-linked-tv-claims-2823964/",
         "source": "Express",
@@ -4075,27 +4123,11 @@
         "img": ""
       },
       {
-        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
-        "source": "Express",
-        "date": "2026-07-24T14:00:03+00:00",
-        "img": ""
-      },
-      {
         "title": "India, Pakistan among teams handed direct Asian Games men's cricket knockout berths",
         "summary": "<p>India, Bangladesh, Pakistan and Sri Lanka secured direct entry into the men’s cricket knockout stage at the 2026 Asian Games after the draw was announced on Thursday.</p> <p>The 10-team men’s competition, <a rel=\"noopener noreferrer\" target=\"_blank\" class=\"link--external\" href=\"https://www.pcb.com.pk/press-release-d",
         "url": "https://www.dawn.com/news/2018033/india-pakistan-among-teams-handed-direct-asian-games-mens-cricket-knockout-berths",
         "source": "Dawn",
         "date": "2026-07-24T13:59:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
-        "source": "Express",
-        "date": "2026-07-24T13:55:40+00:00",
         "img": ""
       },
       {
@@ -4139,14 +4171,6 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
-        "source": "Express",
-        "date": "2026-07-24T13:10:47+00:00",
-        "img": ""
-      },
-      {
         "title": "پشاور؛ حسن خیل میں دہشت گردوں کا کواڈ کاپڑ سے پولیس چوکی پر حملہ، تین اہلکار زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2823944/peshawar-hassan-khail-terrorist-quadcopter-attack-police-post-three-constable-injured-2823944/",
@@ -4163,36 +4187,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-114.jpg"
       },
       {
-        "title": "کوہاٹ حملے میں کسٹمز افسر اور اہلکار کی شہادت بڑا سانحہ ہے، چیئرمین ایف بی آر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823943/chairman-fbr-condemn-customs-officer-and-coop-died-in-attack-kohat-2823943/",
-        "source": "Express",
-        "date": "2026-07-24T13:01:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "ہر ایرانی شہید کے بدلے ایک امریکی فوجی کو جہنم واصل کریں گے؛ کمانڈر فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823942/iran-vows-to-kill-one-member-of-us-forces-for-every-iranian-killed-2823942/",
-        "source": "Express",
-        "date": "2026-07-24T12:56:40+00:00",
-        "img": ""
-      },
-      {
         "title": "Modric extends contract with AC Milan",
         "summary": "Modric extends contract with AC Milan",
         "url": "https://arynews.tv/modric-extends-contract-with-ac-milan",
         "source": "ARY Sports",
         "date": "2026-07-24T12:55:13+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-113.jpg"
-      },
-      {
-        "title": "پنجاب میں پہلی بار جنگلی حیات کے لیے پورٹیبل ایکسرے سروس کا آغاز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823941/portable-x-ray-service-for-wildlife-launched-for-the-first-time-in-punjab-2823941/",
-        "source": "Express",
-        "date": "2026-07-24T12:54:39+00:00",
-        "img": ""
       },
       {
         "title": "Brian Lara Stadium hosts maiden Test as West Indies face Pakistan",
@@ -4429,6 +4429,54 @@
         "img": ""
       },
       {
+        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
+        "source": "Express",
+        "date": "2026-07-24T19:00:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
+        "source": "Express",
+        "date": "2026-07-24T18:55:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
+        "source": "Express",
+        "date": "2026-07-24T18:10:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "موٹروے ایم-2 پر گاڑی آگے جانیوالے ٹرک سے ٹکرا گئی، 2 خواتین جاں بحق، 2 افراد زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823970/vehicle-collides-with-a-truck-ahead-on-motorway-m-2-two-women-killed-two-people-injured-2823970/",
+        "source": "Express",
+        "date": "2026-07-24T17:55:23+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: موچکو پولیس کی بڑی کارروائی، 66 کلو اعلیٰ کوالٹی کی چرس برآمد، 2 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823969/karachi-major-operation-in-mochko-66-kg-of-high-quality-hashish-seized-two-suspects-arrested-2823969/",
+        "source": "Express",
+        "date": "2026-07-24T17:31:40+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: صدر پاسپورٹ آفس میں ایف آئی اے کی کارروائی، دفتر کے 2 اہلکار سمیت 6 ملزمان گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2823968/karachi-fia-operation-at-the-saddar-passport-office-six-suspects-arrested-including-two-office-employees-2823968/",
+        "source": "Express",
+        "date": "2026-07-24T17:16:48+00:00",
+        "img": ""
+      },
+      {
         "title": "Gen Raza's appointment as CNSC completes military overhaul under 27th Amendment, signals impending reshuffle",
         "summary": "<p>The government on Friday moved another step towards completing the restructuring of its higher military command initiated under last year’s 27th Constitutional Amendment by appointing Gen Syed Aamer Raza as the country’s first Commander of the National Strategic Command (CNSC), a newly created four-star office that ",
         "url": "https://www.dawn.com/news/2018052/gen-razas-appointment-as-cnsc-completes-military-overhaul-under-27th-amendment-signals-impending-reshuffle",
@@ -4461,7 +4509,7 @@
         "img": ""
       },
       {
-        "title": "سعودی عرب کے یمن کی حدیدہ بندرگاہ اور کمران جزیرے پر حملے، حوثیوں سے منسلک ٹی وی کا دعویٰ",
+        "title": "سعودی اتحادی افواج کا یمن کے الحدیدہ گورنریٹ میں حوثی فوجی ٹھکانوں پر حملہ",
         "summary": "",
         "url": "https://www.express.pk/story/2823964/saudi-arabia-attacks-yemens-hodeidah-port-and-kamaran-island-houthi-linked-tv-claims-2823964/",
         "source": "Express",
@@ -4557,22 +4605,6 @@
         "img": ""
       },
       {
-        "title": "پاکستانی اسپنر عثمان طارق کی پریکٹس پر جوڈ بیلنگھم کا تبصرہ!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823951/jude-bellingham-usman-tariq-2823951/",
-        "source": "Express",
-        "date": "2026-07-24T14:00:03+00:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا جدید ترین اسٹیلتھ جنگی طیارہ گر کر تباہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823950/russian-war-plan-crash-2823950/",
-        "source": "Express",
-        "date": "2026-07-24T13:55:40+00:00",
-        "img": ""
-      },
-      {
         "title": "پیپلزپارٹی نے اجازت نہ ملنے پر مینار پاکستان سے جلسے کا مقام تبدیل کردیا",
         "summary": "",
         "url": "https://www.express.pk/story/2823949/ppp-changes-venue-of-rally-from-minar-e-pakistan-2823949/",
@@ -4597,43 +4629,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں کھدائی کے دوران دو قدیم مورتیاں دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823945/two-ancient-statues-discovered-during-excavations-in-karachi-2823945/",
-        "source": "Express",
-        "date": "2026-07-24T13:10:47+00:00",
-        "img": ""
-      },
-      {
         "title": "پشاور؛ حسن خیل میں دہشت گردوں کا کواڈ کاپڑ سے پولیس چوکی پر حملہ، تین اہلکار زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2823944/peshawar-hassan-khail-terrorist-quadcopter-attack-police-post-three-constable-injured-2823944/",
         "source": "Express",
         "date": "2026-07-24T13:09:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "کوہاٹ حملے میں کسٹمز افسر اور اہلکار کی شہادت بڑا سانحہ ہے، چیئرمین ایف بی آر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823943/chairman-fbr-condemn-customs-officer-and-coop-died-in-attack-kohat-2823943/",
-        "source": "Express",
-        "date": "2026-07-24T13:01:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "ہر ایرانی شہید کے بدلے ایک امریکی فوجی کو جہنم واصل کریں گے؛ کمانڈر فوج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823942/iran-vows-to-kill-one-member-of-us-forces-for-every-iranian-killed-2823942/",
-        "source": "Express",
-        "date": "2026-07-24T12:56:40+00:00",
-        "img": ""
-      },
-      {
-        "title": "پنجاب میں پہلی بار جنگلی حیات کے لیے پورٹیبل ایکسرے سروس کا آغاز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2823941/portable-x-ray-service-for-wildlife-launched-for-the-first-time-in-punjab-2823941/",
-        "source": "Express",
-        "date": "2026-07-24T12:54:39+00:00",
         "img": ""
       },
       {
