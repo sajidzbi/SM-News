@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-07-27T22:01:32.459012+00:00",
+  "fetched": "2026-07-27T23:58:35.064211+00:00",
   "categories": {
     "international": [
       {
@@ -73,6 +73,14 @@
         "source": "ARY News",
         "date": "2026-07-28T00:03:56+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/FotoJet-19-2.jpg"
+      },
+      {
+        "title": "پاکستان کی سعودی عرب میں ڈرون حملے کی مذمت، ٹرمپ کا ایران کے ساتھ ’انتہائی سنجیدہ‘ مذاکرات کا دعویٰ",
+        "summary": "پاکستان نے سعودی عرب میں ڈرون حملے کی مذمت کرتے ہوئے کہا کہ اس طرح کے اشتعال انگیز حملے پورے خطے میں امن و استحکام کے لیے سنگین خطرہ ہیں۔ دوسری جانب امریکی صدر ڈونلڈ ٹرمپ نے دعویٰ کیا ہے کہ ایران کے ساتھ ’انتہائی سنجیدہ‘ مذاکرات جاری ہیں، جو اگر ناکام ہوئے تو اس پر ’انتہائی سخت‘ حملہ کیا جائے گا۔",
+        "url": "https://www.bbc.co.uk/urdu/live/cd7lvj8xlvlt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-07-27T23:58:37.611597+00:00",
+        "img": ""
       },
       {
         "title": "LA-4 Khari Sharif Complete Unofficial Result",
@@ -177,14 +185,6 @@
         "source": "ARY News",
         "date": "2026-07-27T22:20:13+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Snap-Map.jpg"
-      },
-      {
-        "title": "پاکستان کی سعودی عرب میں ڈرون حملے کی مذمت، ٹرمپ کا ایران کے ساتھ ’انتہائی سنجیدہ‘ مذاکرات کا دعویٰ",
-        "summary": "پاکستان نے سعودی عرب میں ڈرون حملے کی مذمت کرتے ہوئے کہا کہ اس طرح کے اشتعال انگیز حملے پورے خطے میں امن و استحکام کے لیے سنگین خطرہ ہیں۔ دوسری جانب امریکی صدر ڈونلڈ ٹرمپ نے دعویٰ کیا ہے کہ ایران کے ساتھ ’انتہائی سنجیدہ‘ مذاکرات جاری ہیں، جو اگر ناکام ہوئے تو اس پر ’انتہائی سخت‘ حملہ کیا جائے گا۔",
-        "url": "https://www.bbc.co.uk/urdu/live/cd7lvj8xlvlt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-07-27T22:01:35.852797+00:00",
-        "img": ""
       },
       {
         "title": "Lahore High Court issues key ruling on Haq Mehr after khula",
@@ -853,6 +853,38 @@
         "img": ""
       },
       {
+        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
+        "source": "Express",
+        "date": "2026-07-27T17:52:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "گزشتہ مالی سال ترقیاتی منصوبوں پر 916 ارب روپے خرچ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824400/rs-916-billion-spent-on-development-projects-last-fiscal-year-2824400/",
+        "source": "Express",
+        "date": "2026-07-27T17:30:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
+        "source": "Express",
+        "date": "2026-07-27T17:28:25+05:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر انتخابات، راجہ پرویز اشرف نے فوج کی نگرانی میں دوبارہ پولنگ کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824399/azad-kashmir-elections-raja-pervaiz-ashraf-demands-re-polling-under-army-supervision-2824399/",
+        "source": "Express",
+        "date": "2026-07-27T17:12:18+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، پاکستان بازار میں پولیس اور ڈاکوؤں کے درمیان مقابلے میں پولیس اہلکار شہید، دو ڈاکو ہلاک",
         "summary": "",
         "url": "https://www.express.pk/story/2824398/karachi-police-officer-martyred-and-two-bandits-killed-in-an-encounter-between-police-and-bandits-in-pakistan-bazaar-2824398/",
@@ -1029,14 +1061,6 @@
         "img": ""
       },
       {
-        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
-        "source": "Express",
-        "date": "2026-07-27T12:52:38+00:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان کی سعودی عرب پر ڈرون حملوں کی شدید مذمت، مکمل یکجہتی کا اظہار",
         "summary": "",
         "url": "https://www.express.pk/story/2824374/pakistan-condemn-drone-attack-saudia-arabia-2824374/",
@@ -1050,30 +1074,6 @@
         "url": "https://www.express.pk/story/2824373/are-you-addicted-to-drinking-soft-drinks-every-day-also-know-the-health-risks-2824373/",
         "source": "Express",
         "date": "2026-07-27T12:37:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
-        "source": "Express",
-        "date": "2026-07-27T12:28:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایف بی آر نے ایکسپورٹرز کی سہولت اور ہراسانی روکنے کیلیے کمیٹیاں تشکیل دے دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824367/fbr-forms-committees-for-facilitate-exporters-2824367/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں بارش کا سبب بننے والا سسٹم ختم ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824366/the-weather-system-that-caused-rain-in-karachi-has-dissipated-2824366/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:07+00:00",
         "img": ""
       },
       {
@@ -1455,6 +1455,38 @@
         "img": ""
       },
       {
+        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
+        "source": "Express",
+        "date": "2026-07-27T17:52:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "گزشتہ مالی سال ترقیاتی منصوبوں پر 916 ارب روپے خرچ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824400/rs-916-billion-spent-on-development-projects-last-fiscal-year-2824400/",
+        "source": "Express",
+        "date": "2026-07-27T17:30:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
+        "source": "Express",
+        "date": "2026-07-27T17:28:25+05:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر انتخابات، راجہ پرویز اشرف نے فوج کی نگرانی میں دوبارہ پولنگ کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824399/azad-kashmir-elections-raja-pervaiz-ashraf-demands-re-polling-under-army-supervision-2824399/",
+        "source": "Express",
+        "date": "2026-07-27T17:12:18+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، پاکستان بازار میں پولیس اور ڈاکوؤں کے درمیان مقابلے میں پولیس اہلکار شہید، دو ڈاکو ہلاک",
         "summary": "",
         "url": "https://www.express.pk/story/2824398/karachi-police-officer-martyred-and-two-bandits-killed-in-an-encounter-between-police-and-bandits-in-pakistan-bazaar-2824398/",
@@ -1639,14 +1671,6 @@
         "img": ""
       },
       {
-        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
-        "source": "Express",
-        "date": "2026-07-27T12:52:38+00:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان کی سعودی عرب پر ڈرون حملوں کی شدید مذمت، مکمل یکجہتی کا اظہار",
         "summary": "",
         "url": "https://www.express.pk/story/2824374/pakistan-condemn-drone-attack-saudia-arabia-2824374/",
@@ -1660,30 +1684,6 @@
         "url": "https://www.express.pk/story/2824373/are-you-addicted-to-drinking-soft-drinks-every-day-also-know-the-health-risks-2824373/",
         "source": "Express",
         "date": "2026-07-27T12:37:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
-        "source": "Express",
-        "date": "2026-07-27T12:28:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایف بی آر نے ایکسپورٹرز کی سہولت اور ہراسانی روکنے کیلیے کمیٹیاں تشکیل دے دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824367/fbr-forms-committees-for-facilitate-exporters-2824367/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں بارش کا سبب بننے والا سسٹم ختم ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824366/the-weather-system-that-caused-rain-in-karachi-has-dissipated-2824366/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:07+00:00",
         "img": ""
       },
       {
@@ -1937,6 +1937,38 @@
         "img": ""
       },
       {
+        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
+        "source": "Express",
+        "date": "2026-07-27T17:52:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "گزشتہ مالی سال ترقیاتی منصوبوں پر 916 ارب روپے خرچ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824400/rs-916-billion-spent-on-development-projects-last-fiscal-year-2824400/",
+        "source": "Express",
+        "date": "2026-07-27T17:30:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
+        "source": "Express",
+        "date": "2026-07-27T17:28:25+05:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر انتخابات، راجہ پرویز اشرف نے فوج کی نگرانی میں دوبارہ پولنگ کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824399/azad-kashmir-elections-raja-pervaiz-ashraf-demands-re-polling-under-army-supervision-2824399/",
+        "source": "Express",
+        "date": "2026-07-27T17:12:18+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، پاکستان بازار میں پولیس اور ڈاکوؤں کے درمیان مقابلے میں پولیس اہلکار شہید، دو ڈاکو ہلاک",
         "summary": "",
         "url": "https://www.express.pk/story/2824398/karachi-police-officer-martyred-and-two-bandits-killed-in-an-encounter-between-police-and-bandits-in-pakistan-bazaar-2824398/",
@@ -2113,14 +2145,6 @@
         "img": ""
       },
       {
-        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
-        "source": "Express",
-        "date": "2026-07-27T12:52:38+00:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان کی سعودی عرب پر ڈرون حملوں کی شدید مذمت، مکمل یکجہتی کا اظہار",
         "summary": "",
         "url": "https://www.express.pk/story/2824374/pakistan-condemn-drone-attack-saudia-arabia-2824374/",
@@ -2134,30 +2158,6 @@
         "url": "https://www.express.pk/story/2824373/are-you-addicted-to-drinking-soft-drinks-every-day-also-know-the-health-risks-2824373/",
         "source": "Express",
         "date": "2026-07-27T12:37:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
-        "source": "Express",
-        "date": "2026-07-27T12:28:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایف بی آر نے ایکسپورٹرز کی سہولت اور ہراسانی روکنے کیلیے کمیٹیاں تشکیل دے دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824367/fbr-forms-committees-for-facilitate-exporters-2824367/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں بارش کا سبب بننے والا سسٹم ختم ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824366/the-weather-system-that-caused-rain-in-karachi-has-dissipated-2824366/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:07+00:00",
         "img": ""
       },
       {
@@ -2339,6 +2339,38 @@
         "img": ""
       },
       {
+        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
+        "source": "Express",
+        "date": "2026-07-27T17:52:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "گزشتہ مالی سال ترقیاتی منصوبوں پر 916 ارب روپے خرچ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824400/rs-916-billion-spent-on-development-projects-last-fiscal-year-2824400/",
+        "source": "Express",
+        "date": "2026-07-27T17:30:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
+        "source": "Express",
+        "date": "2026-07-27T17:28:25+05:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر انتخابات، راجہ پرویز اشرف نے فوج کی نگرانی میں دوبارہ پولنگ کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824399/azad-kashmir-elections-raja-pervaiz-ashraf-demands-re-polling-under-army-supervision-2824399/",
+        "source": "Express",
+        "date": "2026-07-27T17:12:18+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، پاکستان بازار میں پولیس اور ڈاکوؤں کے درمیان مقابلے میں پولیس اہلکار شہید، دو ڈاکو ہلاک",
         "summary": "",
         "url": "https://www.express.pk/story/2824398/karachi-police-officer-martyred-and-two-bandits-killed-in-an-encounter-between-police-and-bandits-in-pakistan-bazaar-2824398/",
@@ -2515,14 +2547,6 @@
         "img": ""
       },
       {
-        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
-        "source": "Express",
-        "date": "2026-07-27T12:52:38+00:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان کی سعودی عرب پر ڈرون حملوں کی شدید مذمت، مکمل یکجہتی کا اظہار",
         "summary": "",
         "url": "https://www.express.pk/story/2824374/pakistan-condemn-drone-attack-saudia-arabia-2824374/",
@@ -2536,30 +2560,6 @@
         "url": "https://www.express.pk/story/2824373/are-you-addicted-to-drinking-soft-drinks-every-day-also-know-the-health-risks-2824373/",
         "source": "Express",
         "date": "2026-07-27T12:37:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
-        "source": "Express",
-        "date": "2026-07-27T12:28:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایف بی آر نے ایکسپورٹرز کی سہولت اور ہراسانی روکنے کیلیے کمیٹیاں تشکیل دے دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824367/fbr-forms-committees-for-facilitate-exporters-2824367/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں بارش کا سبب بننے والا سسٹم ختم ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824366/the-weather-system-that-caused-rain-in-karachi-has-dissipated-2824366/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:07+00:00",
         "img": ""
       },
       {
@@ -2941,6 +2941,38 @@
         "img": ""
       },
       {
+        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
+        "source": "Express",
+        "date": "2026-07-27T17:52:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "گزشتہ مالی سال ترقیاتی منصوبوں پر 916 ارب روپے خرچ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824400/rs-916-billion-spent-on-development-projects-last-fiscal-year-2824400/",
+        "source": "Express",
+        "date": "2026-07-27T17:30:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
+        "source": "Express",
+        "date": "2026-07-27T17:28:25+05:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر انتخابات، راجہ پرویز اشرف نے فوج کی نگرانی میں دوبارہ پولنگ کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824399/azad-kashmir-elections-raja-pervaiz-ashraf-demands-re-polling-under-army-supervision-2824399/",
+        "source": "Express",
+        "date": "2026-07-27T17:12:18+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، پاکستان بازار میں پولیس اور ڈاکوؤں کے درمیان مقابلے میں پولیس اہلکار شہید، دو ڈاکو ہلاک",
         "summary": "",
         "url": "https://www.express.pk/story/2824398/karachi-police-officer-martyred-and-two-bandits-killed-in-an-encounter-between-police-and-bandits-in-pakistan-bazaar-2824398/",
@@ -3117,14 +3149,6 @@
         "img": ""
       },
       {
-        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
-        "source": "Express",
-        "date": "2026-07-27T12:52:38+00:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان کی سعودی عرب پر ڈرون حملوں کی شدید مذمت، مکمل یکجہتی کا اظہار",
         "summary": "",
         "url": "https://www.express.pk/story/2824374/pakistan-condemn-drone-attack-saudia-arabia-2824374/",
@@ -3138,30 +3162,6 @@
         "url": "https://www.express.pk/story/2824373/are-you-addicted-to-drinking-soft-drinks-every-day-also-know-the-health-risks-2824373/",
         "source": "Express",
         "date": "2026-07-27T12:37:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
-        "source": "Express",
-        "date": "2026-07-27T12:28:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایف بی آر نے ایکسپورٹرز کی سہولت اور ہراسانی روکنے کیلیے کمیٹیاں تشکیل دے دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824367/fbr-forms-committees-for-facilitate-exporters-2824367/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں بارش کا سبب بننے والا سسٹم ختم ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824366/the-weather-system-that-caused-rain-in-karachi-has-dissipated-2824366/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:07+00:00",
         "img": ""
       },
       {
@@ -3463,6 +3463,38 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/General-Amir-Raza.jpg"
       },
       {
+        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
+        "source": "Express",
+        "date": "2026-07-27T17:52:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "گزشتہ مالی سال ترقیاتی منصوبوں پر 916 ارب روپے خرچ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824400/rs-916-billion-spent-on-development-projects-last-fiscal-year-2824400/",
+        "source": "Express",
+        "date": "2026-07-27T17:30:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
+        "source": "Express",
+        "date": "2026-07-27T17:28:25+05:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر انتخابات، راجہ پرویز اشرف نے فوج کی نگرانی میں دوبارہ پولنگ کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824399/azad-kashmir-elections-raja-pervaiz-ashraf-demands-re-polling-under-army-supervision-2824399/",
+        "source": "Express",
+        "date": "2026-07-27T17:12:18+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، پاکستان بازار میں پولیس اور ڈاکوؤں کے درمیان مقابلے میں پولیس اہلکار شہید، دو ڈاکو ہلاک",
         "summary": "",
         "url": "https://www.express.pk/story/2824398/karachi-police-officer-martyred-and-two-bandits-killed-in-an-encounter-between-police-and-bandits-in-pakistan-bazaar-2824398/",
@@ -3615,14 +3647,6 @@
         "img": ""
       },
       {
-        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
-        "source": "Express",
-        "date": "2026-07-27T12:52:38+00:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان کی سعودی عرب پر ڈرون حملوں کی شدید مذمت، مکمل یکجہتی کا اظہار",
         "summary": "",
         "url": "https://www.express.pk/story/2824374/pakistan-condemn-drone-attack-saudia-arabia-2824374/",
@@ -3636,30 +3660,6 @@
         "url": "https://www.express.pk/story/2824373/are-you-addicted-to-drinking-soft-drinks-every-day-also-know-the-health-risks-2824373/",
         "source": "Express",
         "date": "2026-07-27T12:37:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
-        "source": "Express",
-        "date": "2026-07-27T12:28:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایف بی آر نے ایکسپورٹرز کی سہولت اور ہراسانی روکنے کیلیے کمیٹیاں تشکیل دے دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824367/fbr-forms-committees-for-facilitate-exporters-2824367/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں بارش کا سبب بننے والا سسٹم ختم ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824366/the-weather-system-that-caused-rain-in-karachi-has-dissipated-2824366/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:07+00:00",
         "img": ""
       }
     ],
@@ -3883,12 +3883,44 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Dani-Olmo.jpg"
       },
       {
+        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
+        "source": "Express",
+        "date": "2026-07-27T17:52:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "گزشتہ مالی سال ترقیاتی منصوبوں پر 916 ارب روپے خرچ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824400/rs-916-billion-spent-on-development-projects-last-fiscal-year-2824400/",
+        "source": "Express",
+        "date": "2026-07-27T17:30:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
+        "source": "Express",
+        "date": "2026-07-27T17:28:25+05:00",
+        "img": ""
+      },
+      {
         "title": "Schedule, squads announced for National Champions Cup",
         "summary": "Schedule, squads announced for National Champions Cup",
         "url": "https://arynews.tv/schedule-squads-announced-for-national-champions-cup",
         "source": "ARY Sports",
         "date": "2026-07-27T17:17:46+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/1-138.jpg"
+      },
+      {
+        "title": "آزاد کشمیر انتخابات، راجہ پرویز اشرف نے فوج کی نگرانی میں دوبارہ پولنگ کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824399/azad-kashmir-elections-raja-pervaiz-ashraf-demands-re-polling-under-army-supervision-2824399/",
+        "source": "Express",
+        "date": "2026-07-27T17:12:18+00:00",
+        "img": ""
       },
       {
         "title": "PSG miss out as Real Madrid move closer to signing Yan Diomande",
@@ -4107,14 +4139,6 @@
         "img": ""
       },
       {
-        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
-        "source": "Express",
-        "date": "2026-07-27T12:52:38+00:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان کی سعودی عرب پر ڈرون حملوں کی شدید مذمت، مکمل یکجہتی کا اظہار",
         "summary": "",
         "url": "https://www.express.pk/story/2824374/pakistan-condemn-drone-attack-saudia-arabia-2824374/",
@@ -4131,36 +4155,12 @@
         "img": ""
       },
       {
-        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
-        "source": "Express",
-        "date": "2026-07-27T12:28:25+00:00",
-        "img": ""
-      },
-      {
         "title": "Arantxa Snchez Vicario reveals how $41 million fortune ‘vanished’",
         "summary": "Arantxa Snchez Vicario reveals how $41 million fortune ‘vanished’",
         "url": "https://arynews.tv/arantxa-snchez-vicario-reveals-how-41-million-fortune-vanished",
         "source": "ARY Sports",
         "date": "2026-07-27T11:55:08+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Arantxa-Sanchez-Vicario.jpg"
-      },
-      {
-        "title": "ایف بی آر نے ایکسپورٹرز کی سہولت اور ہراسانی روکنے کیلیے کمیٹیاں تشکیل دے دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824367/fbr-forms-committees-for-facilitate-exporters-2824367/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں بارش کا سبب بننے والا سسٹم ختم ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824366/the-weather-system-that-caused-rain-in-karachi-has-dissipated-2824366/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:07+00:00",
-        "img": ""
       },
       {
         "title": "Pakistan seize control but Hope, Joseph fight on as West Indies reach 303-7 at lunch",
@@ -4461,6 +4461,38 @@
         "img": ""
       },
       {
+        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
+        "source": "Express",
+        "date": "2026-07-27T17:52:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "گزشتہ مالی سال ترقیاتی منصوبوں پر 916 ارب روپے خرچ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824400/rs-916-billion-spent-on-development-projects-last-fiscal-year-2824400/",
+        "source": "Express",
+        "date": "2026-07-27T17:30:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
+        "source": "Express",
+        "date": "2026-07-27T17:28:25+05:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر انتخابات، راجہ پرویز اشرف نے فوج کی نگرانی میں دوبارہ پولنگ کا مطالبہ کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2824399/azad-kashmir-elections-raja-pervaiz-ashraf-demands-re-polling-under-army-supervision-2824399/",
+        "source": "Express",
+        "date": "2026-07-27T17:12:18+00:00",
+        "img": ""
+      },
+      {
         "title": "PSX opens week in the green, gains more than 7,000 points to close above 178,000 mark",
         "summary": "<p>The Pakistan Stock Exchange’s (PSX) benchmark index opened the week on a strong note, gaining more than 7,000 points to close above the 178,000-point threshold on Monday.</p> <p>The KSE-100 index had gained 4,501.33 points to reach 175,522.53 points by 9:50am from the previous close of 171,021.20 points. By 3:09pm, ",
         "url": "https://www.dawn.com/news/2018715/psx-opens-week-in-the-green-gains-more-than-7000-points-to-close-above-178000-mark",
@@ -4621,14 +4653,6 @@
         "img": ""
       },
       {
-        "title": "فلم ’کالا ہرن‘ تنازع، سلمان خان کے حق میں بڑا عدالتی فیصلہ آگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824375/kala-haran-film-controversy-big-court-verdict-in-favor-of-salman-khan-2824375/",
-        "source": "Express",
-        "date": "2026-07-27T12:52:38+00:00",
-        "img": ""
-      },
-      {
         "title": "پاکستان کی سعودی عرب پر ڈرون حملوں کی شدید مذمت، مکمل یکجہتی کا اظہار",
         "summary": "",
         "url": "https://www.express.pk/story/2824374/pakistan-condemn-drone-attack-saudia-arabia-2824374/",
@@ -4642,30 +4666,6 @@
         "url": "https://www.express.pk/story/2824373/are-you-addicted-to-drinking-soft-drinks-every-day-also-know-the-health-risks-2824373/",
         "source": "Express",
         "date": "2026-07-27T12:37:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "بچے جنک فوڈ کے عادی ہو رہے ہیں؟ انہیں صحت مند غذا کی طرف کیسے راغب کریں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824372/are-children-getting-addicted-to-junk-food-how-to-attract-them-towards-a-healthy-diet-2824372/",
-        "source": "Express",
-        "date": "2026-07-27T12:28:25+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایف بی آر نے ایکسپورٹرز کی سہولت اور ہراسانی روکنے کیلیے کمیٹیاں تشکیل دے دیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824367/fbr-forms-committees-for-facilitate-exporters-2824367/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں بارش کا سبب بننے والا سسٹم ختم ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2824366/the-weather-system-that-caused-rain-in-karachi-has-dissipated-2824366/",
-        "source": "Express",
-        "date": "2026-07-27T11:14:07+00:00",
         "img": ""
       },
       {
