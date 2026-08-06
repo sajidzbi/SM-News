@@ -1,7 +1,31 @@
 {
-  "fetched": "2026-08-05T23:55:28.979140+00:00",
+  "fetched": "2026-08-06T02:11:46.643147+00:00",
   "categories": {
     "international": [
+      {
+        "title": "Govt raises petrol price by Rs4.45, cuts HSD by Rs2",
+        "summary": "<iframe id=\"raw-html-6a73ebebe7db6\" class=\"raw-html-embed\" style=\"width: 100%; min-height: 50px; max-height: 9200px; border: none; overflow: hidden;\" scrolling=\"no\" srcdoc=\"<!DOCTYPE html> <html> <head> <style> body { margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; overflow-wrap: anywhere; } <",
+        "url": "https://www.dawn.com/news/2020812/govt-raises-petrol-price-by-rs445-cuts-hsd-by-rs2",
+        "source": "Dawn",
+        "date": "2026-08-06T07:05:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "Govt will complete tenure, Shehbaz to remain PM for five years: Naqvi",
+        "summary": "<p>Interior Minister Mohsin Naqvi on Wednesday said the incumbent government would complete its constitutional term and Prime Minister Shehbaz Sharif would remain in office for the full five-year tenure.</p> <p>Naqvi made the remarks while speaking to the media outside the Interior Ministry in Islamabad, a week after s",
+        "url": "https://www.dawn.com/news/2020813/govt-will-complete-tenure-shehbaz-to-remain-pm-for-five-years-naqvi",
+        "source": "Dawn",
+        "date": "2026-08-06T07:02:37+05:00",
+        "img": ""
+      },
+      {
+        "title": "عمران خان، بشریٰ بی بی کو انصاف اور ملاقاتوں کی اجازت دی جائے، مطالبات نہ مانے تو 27 ستمبر کو اسلام آباد کی طرف مارچ کریں گے: سہیل آفریدی",
+        "summary": "پاکستان کے صوبہ خیبرپختونخوا کے وزیراعلیٰ سہیل آفریدی نے کہا کہ ’اگر ان مطالبات پر پیش رفت نہ ہوئی تو 27 ستمبر کو ملک بھر سے کارکن اسلام آباد کا رخ کریں گے۔ ان کے بقول، پارٹی آئینی اور جمہوری حق کے طور پر پرامن احتجاج کرے گی۔‘",
+        "url": "https://www.bbc.co.uk/urdu/live/cj3v0ngd7qwlt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-06T02:11:48.830482+00:00",
+        "img": ""
+      },
       {
         "title": "Sophia Myles calls James Franco her “worst co-star”",
         "summary": "Sophia Myles calls James Franco her “worst co-star”",
@@ -75,14 +99,6 @@
         "img": ""
       },
       {
-        "title": "Govt raises petrol price by Rs4.45, cuts HSD by Rs2",
-        "summary": "<iframe id=\"raw-html-6a738bb397ab3\" class=\"raw-html-embed\" style=\"width: 100%; min-height: 50px; max-height: 9200px; border: none; overflow: hidden;\" scrolling=\"no\" srcdoc=\"<!DOCTYPE html> <html> <head> <style> body { margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; overflow-wrap: anywhere; } <",
-        "url": "https://www.dawn.com/news/2020812/govt-raises-petrol-price-by-rs445-cuts-hsd-by-rs2",
-        "source": "Dawn",
-        "date": "2026-08-06T00:14:59+05:00",
-        "img": ""
-      },
-      {
         "title": "The only Royal who can make Princess Kate “lose her cool” identified",
         "summary": "The only Royal who can make Princess Kate “lose her cool” identified",
         "url": "https://arynews.tv/the-only-royal-who-can-make-princess-kate-lose-her-cool-identified",
@@ -105,22 +121,6 @@
         "source": "ARY News",
         "date": "2026-08-06T00:02:15+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Oil-2.jpg"
-      },
-      {
-        "title": "Govt will complete tenure, Shehbaz to remain PM for five years: Naqvi",
-        "summary": "<p>Interior Minister Mohsin Naqvi on Wednesday said the incumbent government would complete its constitutional term and Prime Minister Shehbaz Sharif would remain in office for the full five-year tenure.</p> <p>Naqvi made the remarks while speaking to the media outside the Interior Ministry in Islamabad, a week after s",
-        "url": "https://www.dawn.com/news/2020813/govt-will-complete-tenure-shehbaz-to-remain-pm-for-five-years-naqvi",
-        "source": "Dawn",
-        "date": "2026-08-05T23:57:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "عمران خان، بشریٰ بی بی کو انصاف اور ملاقاتوں کی اجازت دی جائے، مطالبات نہ مانے تو 27 ستمبر کو اسلام آباد کی طرف مارچ کریں گے: سہیل آفریدی",
-        "summary": "پاکستان کے صوبہ خیبرپختونخوا کے وزیراعلیٰ سہیل آفریدی نے کہا کہ ’اگر ان مطالبات پر پیش رفت نہ ہوئی تو 27 ستمبر کو ملک بھر سے کارکن اسلام آباد کا رخ کریں گے۔ ان کے بقول، پارٹی آئینی اور جمہوری حق کے طور پر پرامن احتجاج کرے گی۔‘",
-        "url": "https://www.bbc.co.uk/urdu/live/cj3v0ngd7qwlt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-05T23:55:31.728548+00:00",
-        "img": ""
       },
       {
         "title": "Mother loses custody of children over social media post",
@@ -573,6 +573,14 @@
     ],
     "national": [
       {
+        "title": "Govt will complete tenure, Shehbaz to remain PM for five years: Naqvi",
+        "summary": "<p>Interior Minister Mohsin Naqvi on Wednesday said the incumbent government would complete its constitutional term and Prime Minister Shehbaz Sharif would remain in office for the full five-year tenure.</p> <p>Naqvi made the remarks while speaking to the media outside the Interior Ministry in Islamabad, a week after s",
+        "url": "https://www.dawn.com/news/2020813/govt-will-complete-tenure-shehbaz-to-remain-pm-for-five-years-naqvi",
+        "source": "Dawn",
+        "date": "2026-08-06T07:02:37+05:00",
+        "img": ""
+      },
+      {
         "title": "Sophia Myles calls James Franco her “worst co-star”",
         "summary": "Sophia Myles calls James Franco her “worst co-star”",
         "url": "https://arynews.tv/sophia-myles-calls-james-franco-her-worst-co-star",
@@ -611,6 +619,14 @@
         "source": "ARY News",
         "date": "2026-08-06T00:39:26+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2023/12/zepbound.jpg"
+      },
+      {
+        "title": "کراچی، آرام باغ میں پولیس مقابلہ، ایک زخمی سمیت 2 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825890/karachi-police-encounter-in-aram-bagh-two-robbers-arrested-including-one-injured-2825890/",
+        "source": "Express",
+        "date": "2026-08-06T00:36:40+05:00",
+        "img": ""
       },
       {
         "title": "Petrol Price in Pakistan for August 6",
@@ -659,14 +675,6 @@
         "source": "ARY News",
         "date": "2026-08-06T00:02:15+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Oil-2.jpg"
-      },
-      {
-        "title": "Govt will complete tenure, Shehbaz to remain PM for five years: Naqvi",
-        "summary": "<p>Interior Minister Mohsin Naqvi on Wednesday said the incumbent government would complete its constitutional term and Prime Minister Shehbaz Sharif would remain in office for the full five-year tenure.</p> <p>Naqvi made the remarks while speaking to the media outside the Interior Ministry in Islamabad, a week after s",
-        "url": "https://www.dawn.com/news/2020813/govt-will-complete-tenure-shehbaz-to-remain-pm-for-five-years-naqvi",
-        "source": "Dawn",
-        "date": "2026-08-05T23:57:46+05:00",
-        "img": ""
       },
       {
         "title": "Mother loses custody of children over social media post",
@@ -861,11 +869,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Prince-William-4.jpg"
       },
       {
+        "title": "غزہ میں فوجی کارروائیاں نہیں رکیں گی، اسرائیلی آرمی چیف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825893/military-operations-in-gaza-will-not-stop-israeli-army-chief-2825893/",
+        "source": "Express",
+        "date": "2026-08-05T20:21:31+00:00",
+        "img": ""
+      },
+      {
         "title": "سری لنکا سے شکست کے بعد قومی ویمن کرکٹ ٹیم وطن واپس پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2825881/the-national-womens-team-has-returned-home-after-the-defeat-against-sri-lanka-2825881/",
         "source": "Express",
         "date": "2026-08-05T20:10:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "واشنگٹن میں سفارت خانہ پاکستان میں یوم استحصال کشمیر پر خصوصی ویبنار کا انعقاد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825892/special-webinar-held-at-the-embassy-of-pakistan-in-washington-on-kashmir-exploitation-day-2825892/",
+        "source": "Express",
+        "date": "2026-08-05T20:09:38+00:00",
         "img": ""
       },
       {
@@ -885,6 +909,14 @@
         "img": ""
       },
       {
+        "title": "امریکا دوبارہ اپنے سابقہ وعدوں کی پاسداری پر آمادہ ہے، ایرانی نائب وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825891/us-willing-to-honor-its-past-commitments-again-iranian-deputy-foreign-minister-2825891/",
+        "source": "Express",
+        "date": "2026-08-05T19:49:42+00:00",
+        "img": ""
+      },
+      {
         "title": "سام سنگ نے گوگل سے پہلے 38 نئی اینڈرائیڈ سیکیورٹی اپ ڈیٹس کی تصدیق کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2825877/samsung-beats-google-to-confirm-38-new-android-security-updates-2825877/",
@@ -898,6 +930,14 @@
         "url": "https://www.dawn.com/news/2020765/no-sovereignty-over-east-jerusalem-dar-condemns-al-aqsa-incursions-by-extremist-israeli-settlers",
         "source": "Dawn",
         "date": "2026-08-05T19:43:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
+        "source": "Express",
+        "date": "2026-08-05T19:12:11+05:00",
         "img": ""
       },
       {
@@ -933,27 +973,11 @@
         "img": ""
       },
       {
-        "title": "آئی ٹی ایف ماسٹرز ورلڈ ٹیم چیمپئن شپ: پاکستان نے امریکا کو 0-3 سے شکست دے دی",
+        "title": "ججز تقرر، صدر کوئی بھی سمری مسترد کر سکتا ہے، ذرائع ایوان صدر",
         "summary": "",
-        "url": "https://www.express.pk/story/2825865/itf-masters-world-team-championship-pakistan-defeated-the-usa-3-0-2825865/",
+        "url": "https://www.express.pk/story/2825889/regarding-the-appointment-of-judges-the-president-can-reject-any-summary-presidency-sources-2825889/",
         "source": "Express",
-        "date": "2026-08-05T18:18:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسپیس ایکس کا بے قابو راکٹ چاند سے ٹکرا گیا!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825863/spacex-rocket-crashed-into-moon-2825863/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "یونان میں برطانوی خاتون کا بہیمانہ قتل؛ افغان باکسر کو امریکی اہلیہ نے پکڑوا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825862/uk-woman-killed-greece-by-afghan-boxer-for-money-2825862/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
+        "date": "2026-08-05T17:28:06+00:00",
         "img": ""
       },
       {
@@ -997,14 +1021,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
-        "source": "Express",
-        "date": "2026-08-05T14:12:11+00:00",
-        "img": ""
-      },
-      {
         "title": "ایران کا آبنائے ہرمز میں بارودی سرنگیں ہٹانے کیلیے یورپی ممالک کو اجازت دینے پر غور",
         "summary": "",
         "url": "https://www.express.pk/story/2825872/iran-weighs-allowing-europe-to-clear-mines-in-hormuz-2825872/",
@@ -1029,14 +1045,6 @@
         "img": ""
       },
       {
-        "title": "پیٹرولیم لیوی بھتہ کے خلاف 7 اگست کو ملک گیر فیصلہ کن احتجاج ہوگا، حافظ نعیم الرحمان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825864/nationwide-decisive-protest-against-petroleum-levy-extortion-on-7-august-2825864/",
-        "source": "Express",
-        "date": "2026-08-05T13:17:08+00:00",
-        "img": ""
-      },
-      {
         "title": "Karachi police register case under terrorism law following scuffle at MQM-P's Karachi headquarters",
         "summary": "<p>Karachi police have registered a case under terrorism charges following a scuffle between two groups at the Muttahida Qaumi Movement-Pakistan’s headquarters in Karachi on Sunday.</p> <p>The first information report, dated August 4 and a copy of which is available with <em>Dawn</em>, was registered at the New Town po",
         "url": "https://www.dawn.com/news/2020759/karachi-police-register-case-under-terrorism-law-following-scuffle-at-mqm-ps-karachi-headquarters",
@@ -1050,14 +1058,6 @@
         "url": "https://www.dawn.com/news/2020761/ihc-moved-over-delay-in-presidential-nod-for-judicial-appointments",
         "source": "Dawn",
         "date": "2026-08-05T13:08:30+05:00",
-        "img": ""
-      },
-      {
-        "title": "شہباز حکومت 5 سال پورے کرے گی لیکن نظام تباہ ہوچکا ہے، محسن نقوی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825860/mohsin-naqvi-said-shehbaz-govt-will-complete-5-years-but-system-has-collapsed-2825860/",
-        "source": "Express",
-        "date": "2026-08-05T12:33:14+00:00",
         "img": ""
       },
       {
@@ -1175,6 +1175,14 @@
     ],
     "kpk": [
       {
+        "title": "Govt will complete tenure, Shehbaz to remain PM for five years: Naqvi",
+        "summary": "<p>Interior Minister Mohsin Naqvi on Wednesday said the incumbent government would complete its constitutional term and Prime Minister Shehbaz Sharif would remain in office for the full five-year tenure.</p> <p>Naqvi made the remarks while speaking to the media outside the Interior Ministry in Islamabad, a week after s",
+        "url": "https://www.dawn.com/news/2020813/govt-will-complete-tenure-shehbaz-to-remain-pm-for-five-years-naqvi",
+        "source": "Dawn",
+        "date": "2026-08-06T07:02:37+05:00",
+        "img": ""
+      },
+      {
         "title": "Sophia Myles calls James Franco her “worst co-star”",
         "summary": "Sophia Myles calls James Franco her “worst co-star”",
         "url": "https://arynews.tv/sophia-myles-calls-james-franco-her-worst-co-star",
@@ -1213,6 +1221,14 @@
         "source": "ARY News",
         "date": "2026-08-06T00:39:26+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2023/12/zepbound.jpg"
+      },
+      {
+        "title": "کراچی، آرام باغ میں پولیس مقابلہ، ایک زخمی سمیت 2 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825890/karachi-police-encounter-in-aram-bagh-two-robbers-arrested-including-one-injured-2825890/",
+        "source": "Express",
+        "date": "2026-08-06T00:36:40+05:00",
+        "img": ""
       },
       {
         "title": "Petrol Price in Pakistan for August 6",
@@ -1261,14 +1277,6 @@
         "source": "ARY News",
         "date": "2026-08-06T00:02:15+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Oil-2.jpg"
-      },
-      {
-        "title": "Govt will complete tenure, Shehbaz to remain PM for five years: Naqvi",
-        "summary": "<p>Interior Minister Mohsin Naqvi on Wednesday said the incumbent government would complete its constitutional term and Prime Minister Shehbaz Sharif would remain in office for the full five-year tenure.</p> <p>Naqvi made the remarks while speaking to the media outside the Interior Ministry in Islamabad, a week after s",
-        "url": "https://www.dawn.com/news/2020813/govt-will-complete-tenure-shehbaz-to-remain-pm-for-five-years-naqvi",
-        "source": "Dawn",
-        "date": "2026-08-05T23:57:46+05:00",
-        "img": ""
       },
       {
         "title": "Mother loses custody of children over social media post",
@@ -1463,11 +1471,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Prince-William-4.jpg"
       },
       {
+        "title": "غزہ میں فوجی کارروائیاں نہیں رکیں گی، اسرائیلی آرمی چیف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825893/military-operations-in-gaza-will-not-stop-israeli-army-chief-2825893/",
+        "source": "Express",
+        "date": "2026-08-05T20:21:31+00:00",
+        "img": ""
+      },
+      {
         "title": "سری لنکا سے شکست کے بعد قومی ویمن کرکٹ ٹیم وطن واپس پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2825881/the-national-womens-team-has-returned-home-after-the-defeat-against-sri-lanka-2825881/",
         "source": "Express",
         "date": "2026-08-05T20:10:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "واشنگٹن میں سفارت خانہ پاکستان میں یوم استحصال کشمیر پر خصوصی ویبنار کا انعقاد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825892/special-webinar-held-at-the-embassy-of-pakistan-in-washington-on-kashmir-exploitation-day-2825892/",
+        "source": "Express",
+        "date": "2026-08-05T20:09:38+00:00",
         "img": ""
       },
       {
@@ -1487,6 +1511,14 @@
         "img": ""
       },
       {
+        "title": "امریکا دوبارہ اپنے سابقہ وعدوں کی پاسداری پر آمادہ ہے، ایرانی نائب وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825891/us-willing-to-honor-its-past-commitments-again-iranian-deputy-foreign-minister-2825891/",
+        "source": "Express",
+        "date": "2026-08-05T19:49:42+00:00",
+        "img": ""
+      },
+      {
         "title": "سام سنگ نے گوگل سے پہلے 38 نئی اینڈرائیڈ سیکیورٹی اپ ڈیٹس کی تصدیق کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2825877/samsung-beats-google-to-confirm-38-new-android-security-updates-2825877/",
@@ -1500,6 +1532,14 @@
         "url": "https://www.dawn.com/news/2020765/no-sovereignty-over-east-jerusalem-dar-condemns-al-aqsa-incursions-by-extremist-israeli-settlers",
         "source": "Dawn",
         "date": "2026-08-05T19:43:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
+        "source": "Express",
+        "date": "2026-08-05T19:12:11+05:00",
         "img": ""
       },
       {
@@ -1535,27 +1575,11 @@
         "img": ""
       },
       {
-        "title": "آئی ٹی ایف ماسٹرز ورلڈ ٹیم چیمپئن شپ: پاکستان نے امریکا کو 0-3 سے شکست دے دی",
+        "title": "ججز تقرر، صدر کوئی بھی سمری مسترد کر سکتا ہے، ذرائع ایوان صدر",
         "summary": "",
-        "url": "https://www.express.pk/story/2825865/itf-masters-world-team-championship-pakistan-defeated-the-usa-3-0-2825865/",
+        "url": "https://www.express.pk/story/2825889/regarding-the-appointment-of-judges-the-president-can-reject-any-summary-presidency-sources-2825889/",
         "source": "Express",
-        "date": "2026-08-05T18:18:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسپیس ایکس کا بے قابو راکٹ چاند سے ٹکرا گیا!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825863/spacex-rocket-crashed-into-moon-2825863/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "یونان میں برطانوی خاتون کا بہیمانہ قتل؛ افغان باکسر کو امریکی اہلیہ نے پکڑوا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825862/uk-woman-killed-greece-by-afghan-boxer-for-money-2825862/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
+        "date": "2026-08-05T17:28:06+00:00",
         "img": ""
       },
       {
@@ -1599,14 +1623,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
-        "source": "Express",
-        "date": "2026-08-05T14:12:11+00:00",
-        "img": ""
-      },
-      {
         "title": "ایران کا آبنائے ہرمز میں بارودی سرنگیں ہٹانے کیلیے یورپی ممالک کو اجازت دینے پر غور",
         "summary": "",
         "url": "https://www.express.pk/story/2825872/iran-weighs-allowing-europe-to-clear-mines-in-hormuz-2825872/",
@@ -1631,14 +1647,6 @@
         "img": ""
       },
       {
-        "title": "پیٹرولیم لیوی بھتہ کے خلاف 7 اگست کو ملک گیر فیصلہ کن احتجاج ہوگا، حافظ نعیم الرحمان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825864/nationwide-decisive-protest-against-petroleum-levy-extortion-on-7-august-2825864/",
-        "source": "Express",
-        "date": "2026-08-05T13:17:08+00:00",
-        "img": ""
-      },
-      {
         "title": "Karachi police register case under terrorism law following scuffle at MQM-P's Karachi headquarters",
         "summary": "<p>Karachi police have registered a case under terrorism charges following a scuffle between two groups at the Muttahida Qaumi Movement-Pakistan’s headquarters in Karachi on Sunday.</p> <p>The first information report, dated August 4 and a copy of which is available with <em>Dawn</em>, was registered at the New Town po",
         "url": "https://www.dawn.com/news/2020759/karachi-police-register-case-under-terrorism-law-following-scuffle-at-mqm-ps-karachi-headquarters",
@@ -1652,14 +1660,6 @@
         "url": "https://www.dawn.com/news/2020761/ihc-moved-over-delay-in-presidential-nod-for-judicial-appointments",
         "source": "Dawn",
         "date": "2026-08-05T13:08:30+05:00",
-        "img": ""
-      },
-      {
-        "title": "شہباز حکومت 5 سال پورے کرے گی لیکن نظام تباہ ہوچکا ہے، محسن نقوی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825860/mohsin-naqvi-said-shehbaz-govt-will-complete-5-years-but-system-has-collapsed-2825860/",
-        "source": "Express",
-        "date": "2026-08-05T12:33:14+00:00",
         "img": ""
       },
       {
@@ -1861,7 +1861,15 @@
         "summary": "<p>Interior Minister Mohsin Naqvi on Wednesday said the incumbent government would complete its constitutional term and Prime Minister Shehbaz Sharif would remain in office for the full five-year tenure.</p> <p>Naqvi made the remarks while speaking to the media outside the Interior Ministry in Islamabad, a week after s",
         "url": "https://www.dawn.com/news/2020813/govt-will-complete-tenure-shehbaz-to-remain-pm-for-five-years-naqvi",
         "source": "Dawn",
-        "date": "2026-08-05T23:57:46+05:00",
+        "date": "2026-08-06T07:02:37+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، آرام باغ میں پولیس مقابلہ، ایک زخمی سمیت 2 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825890/karachi-police-encounter-in-aram-bagh-two-robbers-arrested-including-one-injured-2825890/",
+        "source": "Express",
+        "date": "2026-08-06T00:36:40+05:00",
         "img": ""
       },
       {
@@ -1945,11 +1953,27 @@
         "img": ""
       },
       {
+        "title": "غزہ میں فوجی کارروائیاں نہیں رکیں گی، اسرائیلی آرمی چیف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825893/military-operations-in-gaza-will-not-stop-israeli-army-chief-2825893/",
+        "source": "Express",
+        "date": "2026-08-05T20:21:31+00:00",
+        "img": ""
+      },
+      {
         "title": "سری لنکا سے شکست کے بعد قومی ویمن کرکٹ ٹیم وطن واپس پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2825881/the-national-womens-team-has-returned-home-after-the-defeat-against-sri-lanka-2825881/",
         "source": "Express",
         "date": "2026-08-05T20:10:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "واشنگٹن میں سفارت خانہ پاکستان میں یوم استحصال کشمیر پر خصوصی ویبنار کا انعقاد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825892/special-webinar-held-at-the-embassy-of-pakistan-in-washington-on-kashmir-exploitation-day-2825892/",
+        "source": "Express",
+        "date": "2026-08-05T20:09:38+00:00",
         "img": ""
       },
       {
@@ -1969,6 +1993,14 @@
         "img": ""
       },
       {
+        "title": "امریکا دوبارہ اپنے سابقہ وعدوں کی پاسداری پر آمادہ ہے، ایرانی نائب وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825891/us-willing-to-honor-its-past-commitments-again-iranian-deputy-foreign-minister-2825891/",
+        "source": "Express",
+        "date": "2026-08-05T19:49:42+00:00",
+        "img": ""
+      },
+      {
         "title": "سام سنگ نے گوگل سے پہلے 38 نئی اینڈرائیڈ سیکیورٹی اپ ڈیٹس کی تصدیق کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2825877/samsung-beats-google-to-confirm-38-new-android-security-updates-2825877/",
@@ -1982,6 +2014,14 @@
         "url": "https://www.dawn.com/news/2020765/no-sovereignty-over-east-jerusalem-dar-condemns-al-aqsa-incursions-by-extremist-israeli-settlers",
         "source": "Dawn",
         "date": "2026-08-05T19:43:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
+        "source": "Express",
+        "date": "2026-08-05T19:12:11+05:00",
         "img": ""
       },
       {
@@ -2017,27 +2057,11 @@
         "img": ""
       },
       {
-        "title": "آئی ٹی ایف ماسٹرز ورلڈ ٹیم چیمپئن شپ: پاکستان نے امریکا کو 0-3 سے شکست دے دی",
+        "title": "ججز تقرر، صدر کوئی بھی سمری مسترد کر سکتا ہے، ذرائع ایوان صدر",
         "summary": "",
-        "url": "https://www.express.pk/story/2825865/itf-masters-world-team-championship-pakistan-defeated-the-usa-3-0-2825865/",
+        "url": "https://www.express.pk/story/2825889/regarding-the-appointment-of-judges-the-president-can-reject-any-summary-presidency-sources-2825889/",
         "source": "Express",
-        "date": "2026-08-05T18:18:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسپیس ایکس کا بے قابو راکٹ چاند سے ٹکرا گیا!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825863/spacex-rocket-crashed-into-moon-2825863/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "یونان میں برطانوی خاتون کا بہیمانہ قتل؛ افغان باکسر کو امریکی اہلیہ نے پکڑوا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825862/uk-woman-killed-greece-by-afghan-boxer-for-money-2825862/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
+        "date": "2026-08-05T17:28:06+00:00",
         "img": ""
       },
       {
@@ -2081,14 +2105,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
-        "source": "Express",
-        "date": "2026-08-05T14:12:11+00:00",
-        "img": ""
-      },
-      {
         "title": "ایران کا آبنائے ہرمز میں بارودی سرنگیں ہٹانے کیلیے یورپی ممالک کو اجازت دینے پر غور",
         "summary": "",
         "url": "https://www.express.pk/story/2825872/iran-weighs-allowing-europe-to-clear-mines-in-hormuz-2825872/",
@@ -2113,14 +2129,6 @@
         "img": ""
       },
       {
-        "title": "پیٹرولیم لیوی بھتہ کے خلاف 7 اگست کو ملک گیر فیصلہ کن احتجاج ہوگا، حافظ نعیم الرحمان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825864/nationwide-decisive-protest-against-petroleum-levy-extortion-on-7-august-2825864/",
-        "source": "Express",
-        "date": "2026-08-05T13:17:08+00:00",
-        "img": ""
-      },
-      {
         "title": "Karachi police register case under terrorism law following scuffle at MQM-P's Karachi headquarters",
         "summary": "<p>Karachi police have registered a case under terrorism charges following a scuffle between two groups at the Muttahida Qaumi Movement-Pakistan’s headquarters in Karachi on Sunday.</p> <p>The first information report, dated August 4 and a copy of which is available with <em>Dawn</em>, was registered at the New Town po",
         "url": "https://www.dawn.com/news/2020759/karachi-police-register-case-under-terrorism-law-following-scuffle-at-mqm-ps-karachi-headquarters",
@@ -2134,14 +2142,6 @@
         "url": "https://www.dawn.com/news/2020761/ihc-moved-over-delay-in-presidential-nod-for-judicial-appointments",
         "source": "Dawn",
         "date": "2026-08-05T13:08:30+05:00",
-        "img": ""
-      },
-      {
-        "title": "شہباز حکومت 5 سال پورے کرے گی لیکن نظام تباہ ہوچکا ہے، محسن نقوی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825860/mohsin-naqvi-said-shehbaz-govt-will-complete-5-years-but-system-has-collapsed-2825860/",
-        "source": "Express",
-        "date": "2026-08-05T12:33:14+00:00",
         "img": ""
       },
       {
@@ -2263,7 +2263,15 @@
         "summary": "<p>Interior Minister Mohsin Naqvi on Wednesday said the incumbent government would complete its constitutional term and Prime Minister Shehbaz Sharif would remain in office for the full five-year tenure.</p> <p>Naqvi made the remarks while speaking to the media outside the Interior Ministry in Islamabad, a week after s",
         "url": "https://www.dawn.com/news/2020813/govt-will-complete-tenure-shehbaz-to-remain-pm-for-five-years-naqvi",
         "source": "Dawn",
-        "date": "2026-08-05T23:57:46+05:00",
+        "date": "2026-08-06T07:02:37+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، آرام باغ میں پولیس مقابلہ، ایک زخمی سمیت 2 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825890/karachi-police-encounter-in-aram-bagh-two-robbers-arrested-including-one-injured-2825890/",
+        "source": "Express",
+        "date": "2026-08-06T00:36:40+05:00",
         "img": ""
       },
       {
@@ -2347,11 +2355,27 @@
         "img": ""
       },
       {
+        "title": "غزہ میں فوجی کارروائیاں نہیں رکیں گی، اسرائیلی آرمی چیف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825893/military-operations-in-gaza-will-not-stop-israeli-army-chief-2825893/",
+        "source": "Express",
+        "date": "2026-08-05T20:21:31+00:00",
+        "img": ""
+      },
+      {
         "title": "سری لنکا سے شکست کے بعد قومی ویمن کرکٹ ٹیم وطن واپس پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2825881/the-national-womens-team-has-returned-home-after-the-defeat-against-sri-lanka-2825881/",
         "source": "Express",
         "date": "2026-08-05T20:10:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "واشنگٹن میں سفارت خانہ پاکستان میں یوم استحصال کشمیر پر خصوصی ویبنار کا انعقاد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825892/special-webinar-held-at-the-embassy-of-pakistan-in-washington-on-kashmir-exploitation-day-2825892/",
+        "source": "Express",
+        "date": "2026-08-05T20:09:38+00:00",
         "img": ""
       },
       {
@@ -2371,6 +2395,14 @@
         "img": ""
       },
       {
+        "title": "امریکا دوبارہ اپنے سابقہ وعدوں کی پاسداری پر آمادہ ہے، ایرانی نائب وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825891/us-willing-to-honor-its-past-commitments-again-iranian-deputy-foreign-minister-2825891/",
+        "source": "Express",
+        "date": "2026-08-05T19:49:42+00:00",
+        "img": ""
+      },
+      {
         "title": "سام سنگ نے گوگل سے پہلے 38 نئی اینڈرائیڈ سیکیورٹی اپ ڈیٹس کی تصدیق کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2825877/samsung-beats-google-to-confirm-38-new-android-security-updates-2825877/",
@@ -2384,6 +2416,14 @@
         "url": "https://www.dawn.com/news/2020765/no-sovereignty-over-east-jerusalem-dar-condemns-al-aqsa-incursions-by-extremist-israeli-settlers",
         "source": "Dawn",
         "date": "2026-08-05T19:43:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
+        "source": "Express",
+        "date": "2026-08-05T19:12:11+05:00",
         "img": ""
       },
       {
@@ -2419,27 +2459,11 @@
         "img": ""
       },
       {
-        "title": "آئی ٹی ایف ماسٹرز ورلڈ ٹیم چیمپئن شپ: پاکستان نے امریکا کو 0-3 سے شکست دے دی",
+        "title": "ججز تقرر، صدر کوئی بھی سمری مسترد کر سکتا ہے، ذرائع ایوان صدر",
         "summary": "",
-        "url": "https://www.express.pk/story/2825865/itf-masters-world-team-championship-pakistan-defeated-the-usa-3-0-2825865/",
+        "url": "https://www.express.pk/story/2825889/regarding-the-appointment-of-judges-the-president-can-reject-any-summary-presidency-sources-2825889/",
         "source": "Express",
-        "date": "2026-08-05T18:18:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسپیس ایکس کا بے قابو راکٹ چاند سے ٹکرا گیا!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825863/spacex-rocket-crashed-into-moon-2825863/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "یونان میں برطانوی خاتون کا بہیمانہ قتل؛ افغان باکسر کو امریکی اہلیہ نے پکڑوا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825862/uk-woman-killed-greece-by-afghan-boxer-for-money-2825862/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
+        "date": "2026-08-05T17:28:06+00:00",
         "img": ""
       },
       {
@@ -2483,14 +2507,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
-        "source": "Express",
-        "date": "2026-08-05T14:12:11+00:00",
-        "img": ""
-      },
-      {
         "title": "ایران کا آبنائے ہرمز میں بارودی سرنگیں ہٹانے کیلیے یورپی ممالک کو اجازت دینے پر غور",
         "summary": "",
         "url": "https://www.express.pk/story/2825872/iran-weighs-allowing-europe-to-clear-mines-in-hormuz-2825872/",
@@ -2515,14 +2531,6 @@
         "img": ""
       },
       {
-        "title": "پیٹرولیم لیوی بھتہ کے خلاف 7 اگست کو ملک گیر فیصلہ کن احتجاج ہوگا، حافظ نعیم الرحمان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825864/nationwide-decisive-protest-against-petroleum-levy-extortion-on-7-august-2825864/",
-        "source": "Express",
-        "date": "2026-08-05T13:17:08+00:00",
-        "img": ""
-      },
-      {
         "title": "Karachi police register case under terrorism law following scuffle at MQM-P's Karachi headquarters",
         "summary": "<p>Karachi police have registered a case under terrorism charges following a scuffle between two groups at the Muttahida Qaumi Movement-Pakistan’s headquarters in Karachi on Sunday.</p> <p>The first information report, dated August 4 and a copy of which is available with <em>Dawn</em>, was registered at the New Town po",
         "url": "https://www.dawn.com/news/2020759/karachi-police-register-case-under-terrorism-law-following-scuffle-at-mqm-ps-karachi-headquarters",
@@ -2536,14 +2544,6 @@
         "url": "https://www.dawn.com/news/2020761/ihc-moved-over-delay-in-presidential-nod-for-judicial-appointments",
         "source": "Dawn",
         "date": "2026-08-05T13:08:30+05:00",
-        "img": ""
-      },
-      {
-        "title": "شہباز حکومت 5 سال پورے کرے گی لیکن نظام تباہ ہوچکا ہے، محسن نقوی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825860/mohsin-naqvi-said-shehbaz-govt-will-complete-5-years-but-system-has-collapsed-2825860/",
-        "source": "Express",
-        "date": "2026-08-05T12:33:14+00:00",
         "img": ""
       },
       {
@@ -2661,6 +2661,14 @@
     ],
     "baloch": [
       {
+        "title": "Govt will complete tenure, Shehbaz to remain PM for five years: Naqvi",
+        "summary": "<p>Interior Minister Mohsin Naqvi on Wednesday said the incumbent government would complete its constitutional term and Prime Minister Shehbaz Sharif would remain in office for the full five-year tenure.</p> <p>Naqvi made the remarks while speaking to the media outside the Interior Ministry in Islamabad, a week after s",
+        "url": "https://www.dawn.com/news/2020813/govt-will-complete-tenure-shehbaz-to-remain-pm-for-five-years-naqvi",
+        "source": "Dawn",
+        "date": "2026-08-06T07:02:37+05:00",
+        "img": ""
+      },
+      {
         "title": "Sophia Myles calls James Franco her “worst co-star”",
         "summary": "Sophia Myles calls James Franco her “worst co-star”",
         "url": "https://arynews.tv/sophia-myles-calls-james-franco-her-worst-co-star",
@@ -2699,6 +2707,14 @@
         "source": "ARY News",
         "date": "2026-08-06T00:39:26+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2023/12/zepbound.jpg"
+      },
+      {
+        "title": "کراچی، آرام باغ میں پولیس مقابلہ، ایک زخمی سمیت 2 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825890/karachi-police-encounter-in-aram-bagh-two-robbers-arrested-including-one-injured-2825890/",
+        "source": "Express",
+        "date": "2026-08-06T00:36:40+05:00",
+        "img": ""
       },
       {
         "title": "Petrol Price in Pakistan for August 6",
@@ -2747,14 +2763,6 @@
         "source": "ARY News",
         "date": "2026-08-06T00:02:15+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Oil-2.jpg"
-      },
-      {
-        "title": "Govt will complete tenure, Shehbaz to remain PM for five years: Naqvi",
-        "summary": "<p>Interior Minister Mohsin Naqvi on Wednesday said the incumbent government would complete its constitutional term and Prime Minister Shehbaz Sharif would remain in office for the full five-year tenure.</p> <p>Naqvi made the remarks while speaking to the media outside the Interior Ministry in Islamabad, a week after s",
-        "url": "https://www.dawn.com/news/2020813/govt-will-complete-tenure-shehbaz-to-remain-pm-for-five-years-naqvi",
-        "source": "Dawn",
-        "date": "2026-08-05T23:57:46+05:00",
-        "img": ""
       },
       {
         "title": "Mother loses custody of children over social media post",
@@ -2949,11 +2957,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Prince-William-4.jpg"
       },
       {
+        "title": "غزہ میں فوجی کارروائیاں نہیں رکیں گی، اسرائیلی آرمی چیف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825893/military-operations-in-gaza-will-not-stop-israeli-army-chief-2825893/",
+        "source": "Express",
+        "date": "2026-08-05T20:21:31+00:00",
+        "img": ""
+      },
+      {
         "title": "سری لنکا سے شکست کے بعد قومی ویمن کرکٹ ٹیم وطن واپس پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2825881/the-national-womens-team-has-returned-home-after-the-defeat-against-sri-lanka-2825881/",
         "source": "Express",
         "date": "2026-08-05T20:10:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "واشنگٹن میں سفارت خانہ پاکستان میں یوم استحصال کشمیر پر خصوصی ویبنار کا انعقاد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825892/special-webinar-held-at-the-embassy-of-pakistan-in-washington-on-kashmir-exploitation-day-2825892/",
+        "source": "Express",
+        "date": "2026-08-05T20:09:38+00:00",
         "img": ""
       },
       {
@@ -2973,6 +2997,14 @@
         "img": ""
       },
       {
+        "title": "امریکا دوبارہ اپنے سابقہ وعدوں کی پاسداری پر آمادہ ہے، ایرانی نائب وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825891/us-willing-to-honor-its-past-commitments-again-iranian-deputy-foreign-minister-2825891/",
+        "source": "Express",
+        "date": "2026-08-05T19:49:42+00:00",
+        "img": ""
+      },
+      {
         "title": "سام سنگ نے گوگل سے پہلے 38 نئی اینڈرائیڈ سیکیورٹی اپ ڈیٹس کی تصدیق کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2825877/samsung-beats-google-to-confirm-38-new-android-security-updates-2825877/",
@@ -2986,6 +3018,14 @@
         "url": "https://www.dawn.com/news/2020765/no-sovereignty-over-east-jerusalem-dar-condemns-al-aqsa-incursions-by-extremist-israeli-settlers",
         "source": "Dawn",
         "date": "2026-08-05T19:43:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
+        "source": "Express",
+        "date": "2026-08-05T19:12:11+05:00",
         "img": ""
       },
       {
@@ -3021,27 +3061,11 @@
         "img": ""
       },
       {
-        "title": "آئی ٹی ایف ماسٹرز ورلڈ ٹیم چیمپئن شپ: پاکستان نے امریکا کو 0-3 سے شکست دے دی",
+        "title": "ججز تقرر، صدر کوئی بھی سمری مسترد کر سکتا ہے، ذرائع ایوان صدر",
         "summary": "",
-        "url": "https://www.express.pk/story/2825865/itf-masters-world-team-championship-pakistan-defeated-the-usa-3-0-2825865/",
+        "url": "https://www.express.pk/story/2825889/regarding-the-appointment-of-judges-the-president-can-reject-any-summary-presidency-sources-2825889/",
         "source": "Express",
-        "date": "2026-08-05T18:18:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسپیس ایکس کا بے قابو راکٹ چاند سے ٹکرا گیا!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825863/spacex-rocket-crashed-into-moon-2825863/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "یونان میں برطانوی خاتون کا بہیمانہ قتل؛ افغان باکسر کو امریکی اہلیہ نے پکڑوا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825862/uk-woman-killed-greece-by-afghan-boxer-for-money-2825862/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
+        "date": "2026-08-05T17:28:06+00:00",
         "img": ""
       },
       {
@@ -3085,14 +3109,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
-        "source": "Express",
-        "date": "2026-08-05T14:12:11+00:00",
-        "img": ""
-      },
-      {
         "title": "ایران کا آبنائے ہرمز میں بارودی سرنگیں ہٹانے کیلیے یورپی ممالک کو اجازت دینے پر غور",
         "summary": "",
         "url": "https://www.express.pk/story/2825872/iran-weighs-allowing-europe-to-clear-mines-in-hormuz-2825872/",
@@ -3117,14 +3133,6 @@
         "img": ""
       },
       {
-        "title": "پیٹرولیم لیوی بھتہ کے خلاف 7 اگست کو ملک گیر فیصلہ کن احتجاج ہوگا، حافظ نعیم الرحمان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825864/nationwide-decisive-protest-against-petroleum-levy-extortion-on-7-august-2825864/",
-        "source": "Express",
-        "date": "2026-08-05T13:17:08+00:00",
-        "img": ""
-      },
-      {
         "title": "Karachi police register case under terrorism law following scuffle at MQM-P's Karachi headquarters",
         "summary": "<p>Karachi police have registered a case under terrorism charges following a scuffle between two groups at the Muttahida Qaumi Movement-Pakistan’s headquarters in Karachi on Sunday.</p> <p>The first information report, dated August 4 and a copy of which is available with <em>Dawn</em>, was registered at the New Town po",
         "url": "https://www.dawn.com/news/2020759/karachi-police-register-case-under-terrorism-law-following-scuffle-at-mqm-ps-karachi-headquarters",
@@ -3138,14 +3146,6 @@
         "url": "https://www.dawn.com/news/2020761/ihc-moved-over-delay-in-presidential-nod-for-judicial-appointments",
         "source": "Dawn",
         "date": "2026-08-05T13:08:30+05:00",
-        "img": ""
-      },
-      {
-        "title": "شہباز حکومت 5 سال پورے کرے گی لیکن نظام تباہ ہوچکا ہے، محسن نقوی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825860/mohsin-naqvi-said-shehbaz-govt-will-complete-5-years-but-system-has-collapsed-2825860/",
-        "source": "Express",
-        "date": "2026-08-05T12:33:14+00:00",
         "img": ""
       },
       {
@@ -3303,6 +3303,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2023/12/zepbound.jpg"
       },
       {
+        "title": "کراچی، آرام باغ میں پولیس مقابلہ، ایک زخمی سمیت 2 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825890/karachi-police-encounter-in-aram-bagh-two-robbers-arrested-including-one-injured-2825890/",
+        "source": "Express",
+        "date": "2026-08-06T00:36:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Petrol Price in Pakistan for August 6",
         "summary": "Petrol Price in Pakistan for August 6",
         "url": "https://arynews.tv/petrol-price-in-pakistan-for-august-6",
@@ -3519,11 +3527,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Prince-William-4.jpg"
       },
       {
+        "title": "غزہ میں فوجی کارروائیاں نہیں رکیں گی، اسرائیلی آرمی چیف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825893/military-operations-in-gaza-will-not-stop-israeli-army-chief-2825893/",
+        "source": "Express",
+        "date": "2026-08-05T20:21:31+00:00",
+        "img": ""
+      },
+      {
         "title": "سری لنکا سے شکست کے بعد قومی ویمن کرکٹ ٹیم وطن واپس پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2825881/the-national-womens-team-has-returned-home-after-the-defeat-against-sri-lanka-2825881/",
         "source": "Express",
         "date": "2026-08-05T20:10:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "واشنگٹن میں سفارت خانہ پاکستان میں یوم استحصال کشمیر پر خصوصی ویبنار کا انعقاد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825892/special-webinar-held-at-the-embassy-of-pakistan-in-washington-on-kashmir-exploitation-day-2825892/",
+        "source": "Express",
+        "date": "2026-08-05T20:09:38+00:00",
         "img": ""
       },
       {
@@ -3543,11 +3567,27 @@
         "img": ""
       },
       {
+        "title": "امریکا دوبارہ اپنے سابقہ وعدوں کی پاسداری پر آمادہ ہے، ایرانی نائب وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825891/us-willing-to-honor-its-past-commitments-again-iranian-deputy-foreign-minister-2825891/",
+        "source": "Express",
+        "date": "2026-08-05T19:49:42+00:00",
+        "img": ""
+      },
+      {
         "title": "سام سنگ نے گوگل سے پہلے 38 نئی اینڈرائیڈ سیکیورٹی اپ ڈیٹس کی تصدیق کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2825877/samsung-beats-google-to-confirm-38-new-android-security-updates-2825877/",
         "source": "Express",
         "date": "2026-08-05T19:49:32+05:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
+        "source": "Express",
+        "date": "2026-08-05T19:12:11+05:00",
         "img": ""
       },
       {
@@ -3583,27 +3623,11 @@
         "img": ""
       },
       {
-        "title": "آئی ٹی ایف ماسٹرز ورلڈ ٹیم چیمپئن شپ: پاکستان نے امریکا کو 0-3 سے شکست دے دی",
+        "title": "ججز تقرر، صدر کوئی بھی سمری مسترد کر سکتا ہے، ذرائع ایوان صدر",
         "summary": "",
-        "url": "https://www.express.pk/story/2825865/itf-masters-world-team-championship-pakistan-defeated-the-usa-3-0-2825865/",
+        "url": "https://www.express.pk/story/2825889/regarding-the-appointment-of-judges-the-president-can-reject-any-summary-presidency-sources-2825889/",
         "source": "Express",
-        "date": "2026-08-05T18:18:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسپیس ایکس کا بے قابو راکٹ چاند سے ٹکرا گیا!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825863/spacex-rocket-crashed-into-moon-2825863/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "یونان میں برطانوی خاتون کا بہیمانہ قتل؛ افغان باکسر کو امریکی اہلیہ نے پکڑوا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825862/uk-woman-killed-greece-by-afghan-boxer-for-money-2825862/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
+        "date": "2026-08-05T17:28:06+00:00",
         "img": ""
       },
       {
@@ -3623,14 +3647,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
-        "source": "Express",
-        "date": "2026-08-05T14:12:11+00:00",
-        "img": ""
-      },
-      {
         "title": "ایران کا آبنائے ہرمز میں بارودی سرنگیں ہٹانے کیلیے یورپی ممالک کو اجازت دینے پر غور",
         "summary": "",
         "url": "https://www.express.pk/story/2825872/iran-weighs-allowing-europe-to-clear-mines-in-hormuz-2825872/",
@@ -3644,22 +3660,6 @@
         "url": "https://www.express.pk/story/2825870/karachi-sharae-bhutto-speedy-vehicle-crush-suzuki-pickup-woman-killed-2825870/",
         "source": "Express",
         "date": "2026-08-05T13:51:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرولیم لیوی بھتہ کے خلاف 7 اگست کو ملک گیر فیصلہ کن احتجاج ہوگا، حافظ نعیم الرحمان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825864/nationwide-decisive-protest-against-petroleum-levy-extortion-on-7-august-2825864/",
-        "source": "Express",
-        "date": "2026-08-05T13:17:08+00:00",
-        "img": ""
-      },
-      {
-        "title": "شہباز حکومت 5 سال پورے کرے گی لیکن نظام تباہ ہوچکا ہے، محسن نقوی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825860/mohsin-naqvi-said-shehbaz-govt-will-complete-5-years-but-system-has-collapsed-2825860/",
-        "source": "Express",
-        "date": "2026-08-05T12:33:14+00:00",
         "img": ""
       }
     ],
@@ -3867,6 +3867,14 @@
     ],
     "sports": [
       {
+        "title": "کراچی، آرام باغ میں پولیس مقابلہ، ایک زخمی سمیت 2 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825890/karachi-police-encounter-in-aram-bagh-two-robbers-arrested-including-one-injured-2825890/",
+        "source": "Express",
+        "date": "2026-08-06T00:36:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan beat West Indies by eight wickets to draw series",
         "summary": "<p>Pakistan beat the West Indies by eight wickets on the fourth day of the second and final Test at Queen’s Park Oval in Trinidad on Wednesday to level the series.</p> <p><a href=\"https://www.dawn.com/news/2019337\">Beaten by 90 runs in the first Test</a> the previous week, the visitors were left with a target of only 7",
         "url": "https://www.dawn.com/news/2020814/pakistan-beat-west-indies-by-eight-wickets-to-draw-series",
@@ -3939,11 +3947,27 @@
         "img": ""
       },
       {
+        "title": "غزہ میں فوجی کارروائیاں نہیں رکیں گی، اسرائیلی آرمی چیف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825893/military-operations-in-gaza-will-not-stop-israeli-army-chief-2825893/",
+        "source": "Express",
+        "date": "2026-08-05T20:21:31+00:00",
+        "img": ""
+      },
+      {
         "title": "سری لنکا سے شکست کے بعد قومی ویمن کرکٹ ٹیم وطن واپس پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2825881/the-national-womens-team-has-returned-home-after-the-defeat-against-sri-lanka-2825881/",
         "source": "Express",
         "date": "2026-08-05T20:10:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "واشنگٹن میں سفارت خانہ پاکستان میں یوم استحصال کشمیر پر خصوصی ویبنار کا انعقاد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825892/special-webinar-held-at-the-embassy-of-pakistan-in-washington-on-kashmir-exploitation-day-2825892/",
+        "source": "Express",
+        "date": "2026-08-05T20:09:38+00:00",
         "img": ""
       },
       {
@@ -3963,11 +3987,27 @@
         "img": ""
       },
       {
+        "title": "امریکا دوبارہ اپنے سابقہ وعدوں کی پاسداری پر آمادہ ہے، ایرانی نائب وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825891/us-willing-to-honor-its-past-commitments-again-iranian-deputy-foreign-minister-2825891/",
+        "source": "Express",
+        "date": "2026-08-05T19:49:42+00:00",
+        "img": ""
+      },
+      {
         "title": "سام سنگ نے گوگل سے پہلے 38 نئی اینڈرائیڈ سیکیورٹی اپ ڈیٹس کی تصدیق کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2825877/samsung-beats-google-to-confirm-38-new-android-security-updates-2825877/",
         "source": "Express",
         "date": "2026-08-05T19:49:32+05:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
+        "source": "Express",
+        "date": "2026-08-05T19:12:11+05:00",
         "img": ""
       },
       {
@@ -4011,14 +4051,6 @@
         "img": ""
       },
       {
-        "title": "آئی ٹی ایف ماسٹرز ورلڈ ٹیم چیمپئن شپ: پاکستان نے امریکا کو 0-3 سے شکست دے دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825865/itf-masters-world-team-championship-pakistan-defeated-the-usa-3-0-2825865/",
-        "source": "Express",
-        "date": "2026-08-05T18:18:07+05:00",
-        "img": ""
-      },
-      {
         "title": "Infantino and the failed deal affair — What they said",
         "summary": "<p>FIFA president Gianni Infantino probably hoped things would return to business as usual after <a href=\"https://www.dawn.com/news/2019907/fifa-scraps-private-investment-plan-after-fierce-backlash-from-officials-worldwide\">shelving</a> his much-criticised plan to allow <a href=\"https://www.dawn.com/news/2019037\">priva",
         "url": "https://www.dawn.com/news/2020788/infantino-and-the-failed-deal-affair-what-they-said",
@@ -4027,19 +4059,11 @@
         "img": ""
       },
       {
-        "title": "اسپیس ایکس کا بے قابو راکٹ چاند سے ٹکرا گیا!",
+        "title": "ججز تقرر، صدر کوئی بھی سمری مسترد کر سکتا ہے، ذرائع ایوان صدر",
         "summary": "",
-        "url": "https://www.express.pk/story/2825863/spacex-rocket-crashed-into-moon-2825863/",
+        "url": "https://www.express.pk/story/2825889/regarding-the-appointment-of-judges-the-president-can-reject-any-summary-presidency-sources-2825889/",
         "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "یونان میں برطانوی خاتون کا بہیمانہ قتل؛ افغان باکسر کو امریکی اہلیہ نے پکڑوا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825862/uk-woman-killed-greece-by-afghan-boxer-for-money-2825862/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
+        "date": "2026-08-05T17:28:06+00:00",
         "img": ""
       },
       {
@@ -4115,14 +4139,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
-        "source": "Express",
-        "date": "2026-08-05T14:12:11+00:00",
-        "img": ""
-      },
-      {
         "title": "ایران کا آبنائے ہرمز میں بارودی سرنگیں ہٹانے کیلیے یورپی ممالک کو اجازت دینے پر غور",
         "summary": "",
         "url": "https://www.express.pk/story/2825872/iran-weighs-allowing-europe-to-clear-mines-in-hormuz-2825872/",
@@ -4144,22 +4160,6 @@
         "url": "https://www.express.pk/story/2825870/karachi-sharae-bhutto-speedy-vehicle-crush-suzuki-pickup-woman-killed-2825870/",
         "source": "Express",
         "date": "2026-08-05T13:51:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرولیم لیوی بھتہ کے خلاف 7 اگست کو ملک گیر فیصلہ کن احتجاج ہوگا، حافظ نعیم الرحمان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825864/nationwide-decisive-protest-against-petroleum-levy-extortion-on-7-august-2825864/",
-        "source": "Express",
-        "date": "2026-08-05T13:17:08+00:00",
-        "img": ""
-      },
-      {
-        "title": "شہباز حکومت 5 سال پورے کرے گی لیکن نظام تباہ ہوچکا ہے، محسن نقوی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825860/mohsin-naqvi-said-shehbaz-govt-will-complete-5-years-but-system-has-collapsed-2825860/",
-        "source": "Express",
-        "date": "2026-08-05T12:33:14+00:00",
         "img": ""
       },
       {
@@ -4422,10 +4422,18 @@
     "business": [
       {
         "title": "Govt raises petrol price by Rs4.45, cuts HSD by Rs2",
-        "summary": "<iframe id=\"raw-html-6a738bb397ab3\" class=\"raw-html-embed\" style=\"width: 100%; min-height: 50px; max-height: 9200px; border: none; overflow: hidden;\" scrolling=\"no\" srcdoc=\"<!DOCTYPE html> <html> <head> <style> body { margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; overflow-wrap: anywhere; } <",
+        "summary": "<iframe id=\"raw-html-6a73ebebe7db6\" class=\"raw-html-embed\" style=\"width: 100%; min-height: 50px; max-height: 9200px; border: none; overflow: hidden;\" scrolling=\"no\" srcdoc=\"<!DOCTYPE html> <html> <head> <style> body { margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; overflow-wrap: anywhere; } <",
         "url": "https://www.dawn.com/news/2020812/govt-raises-petrol-price-by-rs445-cuts-hsd-by-rs2",
         "source": "Dawn",
-        "date": "2026-08-06T00:14:59+05:00",
+        "date": "2026-08-06T07:05:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، آرام باغ میں پولیس مقابلہ، ایک زخمی سمیت 2 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825890/karachi-police-encounter-in-aram-bagh-two-robbers-arrested-including-one-injured-2825890/",
+        "source": "Express",
+        "date": "2026-08-06T00:36:40+05:00",
         "img": ""
       },
       {
@@ -4485,11 +4493,27 @@
         "img": ""
       },
       {
+        "title": "غزہ میں فوجی کارروائیاں نہیں رکیں گی، اسرائیلی آرمی چیف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825893/military-operations-in-gaza-will-not-stop-israeli-army-chief-2825893/",
+        "source": "Express",
+        "date": "2026-08-05T20:21:31+00:00",
+        "img": ""
+      },
+      {
         "title": "سری لنکا سے شکست کے بعد قومی ویمن کرکٹ ٹیم وطن واپس پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2825881/the-national-womens-team-has-returned-home-after-the-defeat-against-sri-lanka-2825881/",
         "source": "Express",
         "date": "2026-08-05T20:10:58+05:00",
+        "img": ""
+      },
+      {
+        "title": "واشنگٹن میں سفارت خانہ پاکستان میں یوم استحصال کشمیر پر خصوصی ویبنار کا انعقاد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825892/special-webinar-held-at-the-embassy-of-pakistan-in-washington-on-kashmir-exploitation-day-2825892/",
+        "source": "Express",
+        "date": "2026-08-05T20:09:38+00:00",
         "img": ""
       },
       {
@@ -4509,11 +4533,27 @@
         "img": ""
       },
       {
+        "title": "امریکا دوبارہ اپنے سابقہ وعدوں کی پاسداری پر آمادہ ہے، ایرانی نائب وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825891/us-willing-to-honor-its-past-commitments-again-iranian-deputy-foreign-minister-2825891/",
+        "source": "Express",
+        "date": "2026-08-05T19:49:42+00:00",
+        "img": ""
+      },
+      {
         "title": "سام سنگ نے گوگل سے پہلے 38 نئی اینڈرائیڈ سیکیورٹی اپ ڈیٹس کی تصدیق کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2825877/samsung-beats-google-to-confirm-38-new-android-security-updates-2825877/",
         "source": "Express",
         "date": "2026-08-05T19:49:32+05:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
+        "source": "Express",
+        "date": "2026-08-05T19:12:11+05:00",
         "img": ""
       },
       {
@@ -4557,27 +4597,11 @@
         "img": ""
       },
       {
-        "title": "آئی ٹی ایف ماسٹرز ورلڈ ٹیم چیمپئن شپ: پاکستان نے امریکا کو 0-3 سے شکست دے دی",
+        "title": "ججز تقرر، صدر کوئی بھی سمری مسترد کر سکتا ہے، ذرائع ایوان صدر",
         "summary": "",
-        "url": "https://www.express.pk/story/2825865/itf-masters-world-team-championship-pakistan-defeated-the-usa-3-0-2825865/",
+        "url": "https://www.express.pk/story/2825889/regarding-the-appointment-of-judges-the-president-can-reject-any-summary-presidency-sources-2825889/",
         "source": "Express",
-        "date": "2026-08-05T18:18:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسپیس ایکس کا بے قابو راکٹ چاند سے ٹکرا گیا!",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825863/spacex-rocket-crashed-into-moon-2825863/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
-        "img": ""
-      },
-      {
-        "title": "یونان میں برطانوی خاتون کا بہیمانہ قتل؛ افغان باکسر کو امریکی اہلیہ نے پکڑوا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825862/uk-woman-killed-greece-by-afghan-boxer-for-money-2825862/",
-        "source": "Express",
-        "date": "2026-08-05T17:53:34+05:00",
+        "date": "2026-08-05T17:28:06+00:00",
         "img": ""
       },
       {
@@ -4597,14 +4621,6 @@
         "img": ""
       },
       {
-        "title": "حکومت نے پیٹرول کی قیمت میں اضافہ کردیا، نوٹیفکیشن جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825875/petrol-prices-increase-notification-issued-2825875/",
-        "source": "Express",
-        "date": "2026-08-05T14:12:11+00:00",
-        "img": ""
-      },
-      {
         "title": "ایران کا آبنائے ہرمز میں بارودی سرنگیں ہٹانے کیلیے یورپی ممالک کو اجازت دینے پر غور",
         "summary": "",
         "url": "https://www.express.pk/story/2825872/iran-weighs-allowing-europe-to-clear-mines-in-hormuz-2825872/",
@@ -4618,22 +4634,6 @@
         "url": "https://www.express.pk/story/2825870/karachi-sharae-bhutto-speedy-vehicle-crush-suzuki-pickup-woman-killed-2825870/",
         "source": "Express",
         "date": "2026-08-05T13:51:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرولیم لیوی بھتہ کے خلاف 7 اگست کو ملک گیر فیصلہ کن احتجاج ہوگا، حافظ نعیم الرحمان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825864/nationwide-decisive-protest-against-petroleum-levy-extortion-on-7-august-2825864/",
-        "source": "Express",
-        "date": "2026-08-05T13:17:08+00:00",
-        "img": ""
-      },
-      {
-        "title": "شہباز حکومت 5 سال پورے کرے گی لیکن نظام تباہ ہوچکا ہے، محسن نقوی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2825860/mohsin-naqvi-said-shehbaz-govt-will-complete-5-years-but-system-has-collapsed-2825860/",
-        "source": "Express",
-        "date": "2026-08-05T12:33:14+00:00",
         "img": ""
       },
       {
