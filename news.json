@@ -1,29 +1,165 @@
 {
-  "fetched": "2026-08-09T03:28:54.282575+00:00",
+  "fetched": "2026-08-09T04:59:06.389410+00:00",
   "categories": {
     "international": [
+      {
+        "title": "A press ban doesn't silence a story. It just removes the ability to verify it",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021613/ban-to-what-end\">https://www.dawn.com/news/2021613/ban-to-what-end</a></p>",
+        "url": "https://www.dawn.com/news/2021687/a-press-ban-doesnt-silence-a-story-it-just-removes-the-ability-to-verify-it",
+        "source": "Dawn",
+        "date": "2026-08-09T09:55:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "Islamabad Medical and Dental College launches clinical AI certification",
+        "summary": "<p>ISLAMABAD: The Islamabad Medical and Dental College (IMDC), in collaboration with Shaheed Zulfikar Ali Bhutto Medical University (SZABMU), has launched a clinical artificial intelligence (AI) healthcare certificate programme aimed at equipping healthcare professionals with the international standard skills.</p> <p>T",
+        "url": "https://www.dawn.com/news/2021532/islamabad-medical-and-dental-college-launches-clinical-ai-certification",
+        "source": "Dawn",
+        "date": "2026-08-09T09:52:44+05:00",
+        "img": ""
+      },
+      {
+        "title": "GB activists pay tribute to mountaineers lost in Broad Peak avalanche",
+        "summary": "<p>GILGIT: Civil society activists from Gilgit-Baltistan organised a candlelight vigil in Islamabad to pay tribute to the mountaineers who <a href=\"https://www.dawn.com/news/2019914\">lost their lives</a> in the recent avalanche on Broad Peak.</p> <p>A large number of citizens from different walks of life attended the e",
+        "url": "https://www.dawn.com/news/2021523/gb-activists-pay-tribute-to-mountaineers-lost-in-broad-peak-avalanche",
+        "source": "Dawn",
+        "date": "2026-08-09T09:51:06+05:00",
+        "img": ""
+      },
+      {
+        "title": "Accelerated Skills Development Programme students complain about harassment, stipend denial at KP's UET",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021544\">https://www.dawn.com/news/2021544</a></p>",
+        "url": "https://www.dawn.com/news/2021686/accelerated-skills-development-programme-students-complain-about-harassment-stipend-denial-at-kps-uet",
+        "source": "Dawn",
+        "date": "2026-08-09T09:45:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Pakistan's counterterrorism paradox",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021616/counterterrorism-paradox\">https://www.dawn.com/news/2021616/counterterrorism-paradox</a></p>",
+        "url": "https://www.dawn.com/news/2021685/pakistans-counterterrorism-paradox",
+        "source": "Dawn",
+        "date": "2026-08-09T09:39:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "‘Conservation, responsible utilisation’ of chilghoza forests afoot in KP",
+        "summary": "<p>PESHAWAR: The Khyber Pakhtunkhwa forestry department’s Directorate of Non-Timber Forest Products has developed the Chilghoza Forest Ecosystem Management Plan as a strategic framework for conservation, restoration, responsible utilisation of pine nut forests, which generate over Rs10 billion annually for the province",
+        "url": "https://www.dawn.com/news/2021546/conservation-responsible-utilisation-of-chilghoza-forests-afoot-in-kp",
+        "source": "Dawn",
+        "date": "2026-08-09T09:34:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "Harmonisation of non-wage facilities for district judiciary awaits KP govt nod",
+        "summary": "<p>PESHAWAR: Two summaries put up by the Peshawar High Court to the Khyber Pakhtunkhwa government in March this year are awaiting approval for the harmonisation of non-wage facilities offered to the district judiciary throughout the country in line with a decision of the National Judicial Policy Making Committee (NJPMC",
+        "url": "https://www.dawn.com/news/2021549/harmonisation-of-non-wage-facilities-for-district-judiciary-awaits-kp-govt-nod",
+        "source": "Dawn",
+        "date": "2026-08-09T09:32:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Colombia’s new president vows to defeat narco-terrorists",
+        "summary": "<p>CALI: Colombian President Abelardo de la Espriella vowed to restore order and eradicate “narco-terrorists” in a fiery first speech as leader on Friday.</p> <p>The US-backed millionaire flew by helicopter to address soldiers in a military garrison after his inauguration in the southwestern city of Cali.</p> <p>His ma",
+        "url": "https://www.dawn.com/news/2021637/colombias-new-president-vows-to-defeat-narco-terrorists",
+        "source": "Dawn",
+        "date": "2026-08-09T09:24:10+05:00",
+        "img": ""
+      },
+      {
+        "title": "Editorial: Deemed not a military axis, the Makkah defence pact will hopefully promote unity in the Muslim world",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021619\">https://www.dawn.com/news/2021619</a></p>",
+        "url": "https://www.dawn.com/news/2021684/editorial-deemed-not-a-military-axis-the-makkah-defence-pact-will-hopefully-promote-unity-in-the-muslim-world",
+        "source": "Dawn",
+        "date": "2026-08-09T09:22:37+05:00",
+        "img": ""
+      },
+      {
+        "title": "Ex-president Joe Biden’s cancer has spread, is very painful, son says",
+        "summary": "Ex-president Joe Biden’s cancer has spread, is very painful, son says",
+        "url": "https://arynews.tv/joe-bidens-cancer-has-spread-is-very-painful-son-says",
+        "source": "ARY News",
+        "date": "2026-08-09T09:17:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Joe-Biden-cancer-spread-son.jpg"
+      },
+      {
+        "title": "Israelis infiltrate Lebanese village, build barrier",
+        "summary": "<p>BEIRUT: Israeli troops infiltrated a Lebanese village placed under the control of Lebanon’s army as part of a June <a href=\"https://www.dawn.com/news/2005110\">agreement</a>, building an earthen barrier there overnight, state media and the local mayor said on Saturday.</p> <p>A correspondent saw the barrier, situated",
+        "url": "https://www.dawn.com/news/2021635/israelis-infiltrate-lebanese-village-build-barrier",
+        "source": "Dawn",
+        "date": "2026-08-09T09:16:53+05:00",
+        "img": ""
+      },
+      {
+        "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+        "summary": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+        "url": "https://arynews.tv/iran-says-deal-on-strait-of-hormuz-is-close",
+        "source": "ARY News",
+        "date": "2026-08-09T09:08:58+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Strait-of-Hormuz-Iran-IRGC-close.jpg"
+      },
+      {
+        "title": "Fire extinguished at Aramco refinery in Jazan, Saudi Arabia says",
+        "summary": "<p>Firefighters extinguished a fire that broke out early on Sunday at a facility at Aramco’s Jazan refinery in southwestern Saudi Arabia, the Saudi Energy Ministry said, adding that there were no injuries.</p> <p>Aramco’s industrial security teams had brought the fire under control and the relevant authorities were com",
+        "url": "https://www.dawn.com/news/2021681/fire-extinguished-at-aramco-refinery-in-jazan-saudi-arabia-says",
+        "source": "Dawn",
+        "date": "2026-08-09T09:06:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "Zelensky visits Russian ally Serbia as Moscow intensifies strikes on Kyiv",
+        "summary": "<p>BELGRADE/SOFIA: President Volodymyr Zelensky made his first official visit to Serbia — a rare European country still closely aligned with Moscow — on Saturday as Ukraine seeks to bolster international support in the face of intensifying Russian strikes.</p> <p>Zelensky received a ceremonial welcome as talks with his",
+        "url": "https://www.dawn.com/news/2021642/zelensky-visits-russian-ally-serbia-as-moscow-intensifies-strikes-on-kyiv",
+        "source": "Dawn",
+        "date": "2026-08-09T09:04:00+05:00",
+        "img": ""
+      },
+      {
+        "title": "xAI releases Grok Imagine Image 2.0",
+        "summary": "xAI releases Grok Imagine Image 2.0",
+        "url": "https://arynews.tv/xai-releases-grok-imagine-image-2-0",
+        "source": "ARY News",
+        "date": "2026-08-09T08:56:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/xAI-Grok-image-2.0.jpg"
+      },
+      {
+        "title": "Hub industries face acute water crisis as leaders allege systematic deprivation of water share",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021623\">https://www.dawn.com/news/2021623</a></p>",
+        "url": "https://www.dawn.com/news/2021680/hub-industries-face-acute-water-crisis-as-leaders-allege-systematic-deprivation-of-water-share",
+        "source": "Dawn",
+        "date": "2026-08-09T08:50:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "Pakistan bags one gold, two silver medals at Nuclear Science Olympiad in Saudi Arabia",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021650\">https://www.dawn.com/news/2021650</a></p>",
+        "url": "https://www.dawn.com/news/2021678/pakistan-bags-one-gold-two-silver-medals-at-nuclear-science-olympiad-in-saudi-arabia",
+        "source": "Dawn",
+        "date": "2026-08-09T08:36:18+05:00",
+        "img": ""
+      },
+      {
+        "title": "Farmers block National Highway in Balochistan's Naseerabad over closure of irrigation water",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021646\">https://www.dawn.com/news/2021646</a></p>",
+        "url": "https://www.dawn.com/news/2021677/farmers-block-national-highway-in-balochistans-naseerabad-over-closure-of-irrigation-water",
+        "source": "Dawn",
+        "date": "2026-08-09T08:30:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "Unregulated placer gold mining in streams, rivers threaten ecosystem of Gilgit-Baltistan",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021627\">https://www.dawn.com/news/2021627</a></p>",
+        "url": "https://www.dawn.com/news/2021676/unregulated-placer-gold-mining-in-streams-rivers-threaten-ecosystem-of-gilgit-baltistan",
+        "source": "Dawn",
+        "date": "2026-08-09T08:25:40+05:00",
+        "img": ""
+      },
       {
         "title": "The price of collecting a BISP stipend: Agents deducting Rs1,500 to Rs2,000 from payments, say beneficiaries",
         "summary": "<p><a href=\"https://www.dawn.com/news/2021629\">https://www.dawn.com/news/2021629</a></p>",
         "url": "https://www.dawn.com/news/2021672/the-price-of-collecting-a-bisp-stipend-agents-deducting-rs1500-to-rs2000-from-payments-say-beneficiaries",
         "source": "Dawn",
         "date": "2026-08-09T08:22:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "Pakistan bags three medals at Nuclear Science Olympiad",
-        "summary": "<p>ISLAMABAD: A Pakis­tan team has won one gold and two silver medals at the 3rd International Nuclear Science Olympiad (INSO-2026), held in Jeddah, Saudi Arabia from Aug 2 to 8.</p> <p>Supported by the Inter­national Atomic Energy Agency (IAEA), the competition brought together around 120 students and experts from 19 ",
-        "url": "https://www.dawn.com/news/2021650/pakistan-bags-three-medals-at-nuclear-science-olympiad",
-        "source": "Dawn",
-        "date": "2026-08-09T08:21:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "Poonch medical college closure threatens academic year of 500 students",
-        "summary": "<p>• DC urges civil society, elected representatives to help reopen institution by tomorrow<br>• Says nursing college registration also at risk due to protests in Rawalakot</p> <p>MUZAFFARABAD: A senior government official in the troubled Poonch district of Azad Jammu and Kashmir (AJK) has appealed to civil society, lo",
-        "url": "https://www.dawn.com/news/2021648/poonch-medical-college-closure-threatens-academic-year-of-500-students",
-        "source": "Dawn",
-        "date": "2026-08-09T08:15:11+05:00",
         "img": ""
       },
       {
@@ -35,30 +171,6 @@
         "img": ""
       },
       {
-        "title": "Unregulated placer gold mining raises concerns in GB",
-        "summary": "<figure class='media w-full sm:w-4/5 media--center media--uneven media--stretch' data-original-src='https://i.dawn.com/large/2026/08/09051532b918cf8.webp'> <div class='media__item '><picture><img src='https://i.dawn.com/large/2026/08/09051532b918cf8.webp' alt=' A recently sealed placer gold extraction site in Hunza. &m",
-        "url": "https://www.dawn.com/news/2021627/unregulated-placer-gold-mining-raises-concerns-in-gb",
-        "source": "Dawn",
-        "date": "2026-08-09T07:48:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "IHC seeks govt reply over withholding tax hike on goods transportation",
-        "summary": "<p>• Petitioners term concessional treatment of oil tanker contractors ‘discriminatory’<br>• Argue distinction based merely on nature of goods being transported</p> <p>ISLAMABAD: The Islamabad High Court (IHC) has sought responses from the federal government, the Federal Board of Revenue (FBR) and other respondents on ",
-        "url": "https://www.dawn.com/news/2021632/ihc-seeks-govt-reply-over-withholding-tax-hike-on-goods-transportation",
-        "source": "Dawn",
-        "date": "2026-08-09T07:44:35+05:00",
-        "img": ""
-      },
-      {
-        "title": "SC sets aside orders to restore BISP retailer’s blocked ID",
-        "summary": "<p>ISLAMABAD: The Supreme Court on Saturday ruled that a complaint filed by a Point-of-Sale (PoS) agent against the Ben­azir Income Support Programme (BISP) over the blocking of his retailer ID was not maintainable under consumer protection laws, as the relationship did not constitute a “consumer service” arrangement.<",
-        "url": "https://www.dawn.com/news/2021654/sc-sets-aside-orders-to-restore-bisp-retailers-blocked-id",
-        "source": "Dawn",
-        "date": "2026-08-09T07:32:37+05:00",
-        "img": ""
-      },
-      {
         "title": "Transporters’ strike threatens industry, exports as movement of over 400,000 goods-carrying vehicles suspended",
         "summary": "<p><a href=\"https://www.dawn.com/news/2021626\">https://www.dawn.com/news/2021626</a></p>",
         "url": "https://www.dawn.com/news/2021669/transporters-strike-threatens-industry-exports-as-movement-of-over-400000-goods-carrying-vehicles-suspended",
@@ -67,19 +179,75 @@
         "img": ""
       },
       {
-        "title": "Iran links Hormuz reopening to US meeting promises",
-        "summary": "<p>• Pezeshkian insists now is ‘best time’ to end war as Iran ‘victorious’<br>• Tehran seeks US compensation, end to threats, lifting of sanctions<br>• Muscat terms talks ‘positive’; Araghchi sees deal ‘very close’<br>• UAE accuses Iran of hitting another tanker<br>• Trump’s top general seeks an ‘off-ramp’ from the war",
-        "url": "https://www.dawn.com/news/2021656/iran-links-hormuz-reopening-to-us-meeting-promises",
+        "title": "Torkham road blocked for second day against trader’s kidnapping",
+        "summary": "<p>KHYBER: The main Peshawar-Torkham Highway remained blocked for the second consecutive day on Saturday as protesters refused to end their protest till the recovery of an abducted local trader.</p> <p>Unidentified persons abducted Lal Zareef alias Haji Landai on Friday morning when stepped out of his home in Landi Kot",
+        "url": "https://www.dawn.com/news/2021543/torkham-road-blocked-for-second-day-against-traders-kidnapping",
         "source": "Dawn",
-        "date": "2026-08-09T07:20:24+05:00",
+        "date": "2026-08-09T05:45:57+05:00",
         "img": ""
       },
       {
-        "title": "امریکہ نے ایران کے جوہری پروگرام کو’تباہ‘ کر دیا ہے: امریکی نائب صدر کا دعویٰ",
-        "summary": "سنیچر کو فاکس نیوز کو دیے گئے انٹرویو میں جے ڈی وینس کا کہنا تھا کہ امریکہ نے ایران کی غیر روایتی عسکری صلاحیت بھی شدید کم کر دی ہے۔ نائب امریکی صدر کا کہنا تھا کہ واشنگٹن اس بات کا جائزہ لے رہا ہے کہ آیا ایران ایسی طویل مدتی تبدیلیاں کرنے کے لیے تیار ہے جن کے نتیجے میں امریکہ کے ساتھ تعلقات بہتر ہو سکیں۔",
+        "title": "RDA asked to complete Murree Road beautification, marking work",
+        "summary": "<p>RAWALPINDI: Commissioner Salman Ghani on Saturday asked the Rawalpindi Development Authority (RDA) to improve the condition of Murree Road and launch beautification and road-marking work as soon as possible.</p> <p>The commissioner stated this while chairing a meeting at the RDA to review the proposed road-marking a",
+        "url": "https://www.dawn.com/news/2021531/rda-asked-to-complete-murree-road-beautification-marking-work",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Land revenue dept told to expedite division of joint holdings",
+        "summary": "<p>RAWALPINDI: The district administration on Saturday asked the land revenue department to speed up work on the distribution of joint land holdings to avoid litigation related to land in the district.</p> <p>To streamline property distribution, the provincial government launched the ‘Wanda Karao, Sukh Pao’ initiative,",
+        "url": "https://www.dawn.com/news/2021533/land-revenue-dept-told-to-expedite-division-of-joint-holdings",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "US Senate confirms Trump’s ex-lawyer as attorney general",
+        "summary": "<p>WASHINGTON: The US Senate confirmed President Donald Trump’s former personal lawyer Todd Blanche as attorney general on Saturday after Republican lawmakers shrugged off Democratic concerns over politicisation of the Department of Justice.</p> <p>Blanche, who has already been serving as the top US law enforcement off",
+        "url": "https://www.dawn.com/news/2021639/us-senate-confirms-trumps-ex-lawyer-as-attorney-general",
+        "source": "Dawn",
+        "date": "2026-08-09T05:43:00+05:00",
+        "img": ""
+      },
+      {
+        "title": "Bodies of five missing climbers spotted in Nepal",
+        "summary": "<p>KATHMANDU: Nepali rescue workers have spotted five bodies at a site where the same number of climbers went missing last year, officials said on Saturday.</p> <p>Three foreign climbers an Italian Canadian, an Italian and a German and two Nepali nationals have been missing since November last year after being struck b",
+        "url": "https://www.dawn.com/news/2021643/bodies-of-five-missing-climbers-spotted-in-nepal",
+        "source": "Dawn",
+        "date": "2026-08-09T05:43:00+05:00",
+        "img": ""
+      },
+      {
+        "title": "Blink Capital faces FIA fraud probe",
+        "summary": "<p>ISLAMABAD: After investigating over 35 complaints of misappropriation of Rs446.66 million, the Securities and Exchange Commission of Pakistan (SECP) has referred the case of M/s Blink Capital Management (Pvt) Ltd to the Federal Investigation Agency (FIA). for further investigation and appropriate action under the la",
+        "url": "https://www.dawn.com/news/2021622/blink-capital-faces-fia-fraud-probe",
+        "source": "Dawn",
+        "date": "2026-08-09T05:42:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "عمان کے ساتھ ’مثبت مذاکرات‘ کے باوجود آبنائے ہرمز کھولنے کے لیے ایران کی امریکہ کے سامنے چھ شرائط",
+        "summary": "ایران کی سپریم نیشنل سکیورٹی کونسل کے مطابق ان شرائط میں پابندیوں میں نرمی، جنگی نقصانات کا معاوضہ ادا کرنا، ایرانی بندرگاہوں کی بحری ناکہ بندی کا فوری خاتمہ، ایران کے خلاف دھمکیاں بند کرنا اور ایران کے منجمد اثاثوں کی بحالی شامل ہیں۔",
         "url": "https://www.bbc.co.uk/urdu/live/c6vgwx1e5jjkt?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
-        "date": "2026-08-09T03:28:56.591723+00:00",
+        "date": "2026-08-09T04:59:08.836625+00:00",
+        "img": ""
+      },
+      {
+        "title": "پیار کرنے والوں اور دھوکے بازوں کے لیے یکساں پرکشش اجتماعی شادی: ’ایک دلہن نے تو اپنے بھائی کو دولہا ظاہر کردیا‘",
+        "summary": "یہ منصوبہ کم آمدنی والے افراد کے لیے ہے جو شادی سے وابستہ بھاری مالی اخراجات برداشت نہیں کر سکتے۔ اس منصوبے کی مقبولیت کا اندازہ اس بات سے لگایا جا سکتا ہے کہ اس سال 5,000 جوڑوں نے درخواست دی۔",
+        "url": "https://www.bbc.com/urdu/articles/cp875v55022o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-09T04:24:43+00:00",
+        "img": ""
+      },
+      {
+        "title": "خضدار: حکومت کی جانب سے اسما جتک کے والد سمیت دیگر افراد کے قتل کی تحقیقات کے لیے کمیٹی قائم",
+        "summary": "سرکاری نوٹیفکیشن کے مطابق کمیٹی واقعات کے حقائق اور محرکات کا جائزہ لے گی، متعلقہ اداروں کے ردعمل کا تجزیہ کرے گی اور ممکنہ غفلت یا کوتاہی کی نشاندہی کرے گی۔",
+        "url": "https://www.bbc.com/urdu/articles/cg45dxqz9n3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-09T04:02:00+00:00",
         "img": ""
       },
       {
@@ -115,14 +283,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-09T001346.042.jpg"
       },
       {
-        "title": "Voting on remaining AJK Poonch division seats may be held by Aug 20-21, says CEC",
-        "summary": "<p>MUZAFFARABAD: Azad Jammu and Kashmir (AJK) Chief Election Commissioner Justice (retd) Ghulam Mustafa Mughal said on Saturday that the Election Commission had decided, for security reasons, to first complete the electoral process in four constituencies of Bagh and Haveli districts and hinted that polls in the remaini",
-        "url": "https://www.dawn.com/news/2021521/voting-on-remaining-ajk-poonch-division-seats-may-be-held-by-aug-20-21-says-cec",
-        "source": "Dawn",
-        "date": "2026-08-09T00:00:39+05:00",
-        "img": ""
-      },
-      {
         "title": "Democrats plan Trump investigations over impeachment if they win House, sources say",
         "summary": "Democrats plan Trump investigations over impeachment if they win House, sources say",
         "url": "https://arynews.tv/democrats-plan-trump-investigations-over-impeachment-if-they-win-house",
@@ -155,14 +315,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Homeland-security.jpg"
       },
       {
-        "title": "Initial findings of second post-mortem show multiple injuries on Mir Raza Ali, police surgeon says",
-        "summary": "<p>The initial findings of the second post-mortem examination of 25-year-old business owner Mir Raza Ali revealed multiple injuries and a congealed black substance in his mouth and throat, Police Surgeon Dr Summaiya Syed said on Saturday.</p> <p>Raza, owner of eatery Wafflix, had gone missing on July 28. The 25-year-ol",
-        "url": "https://www.dawn.com/news/2021482/initial-findings-of-second-post-mortem-show-multiple-injuries-on-mir-raza-ali-police-surgeon-says",
-        "source": "Dawn",
-        "date": "2026-08-08T23:27:43+05:00",
-        "img": ""
-      },
-      {
         "title": "Chuwi GTBook X gaming laptop launches with older RTX 3050 GPU",
         "summary": "Chuwi GTBook X gaming laptop launches with older RTX 3050 GPU",
         "url": "https://arynews.tv/chuwi-gtbook-x-gaming-laptop-launches-with-rtx-3050-gpu",
@@ -177,14 +329,6 @@
         "source": "ARY News",
         "date": "2026-08-08T23:18:08+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Peanut.jpg"
-      },
-      {
-        "title": "JI announces Aug 16 sit-ins in provincial capitals to protest petroleum levy",
-        "summary": "<p>LAHORE: Jamaat-i-Islami Pakistan (JI) has decided to intensify its campaign against the petroleum levy and inflation, announcing simultaneous sit-ins in all four provincial capitals on August 16 to press the government to withdraw the levy.</p> <p>The decision was taken after extensive deliberations at a special mee",
-        "url": "https://www.dawn.com/news/2021518/ji-announces-aug-16-sit-ins-in-provincial-capitals-to-protest-petroleum-levy",
-        "source": "Dawn",
-        "date": "2026-08-08T23:17:09+05:00",
-        "img": ""
       },
       {
         "title": "Mir Raza case: Post-mortem report finds multiple injuries",
@@ -235,28 +379,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Raza-Ali-9.jpg"
       },
       {
-        "title": "Hamas says still ready to go ahead with Gaza plan",
-        "summary": "<p>Hamas said on Saturday it remained ready to proceed with a US-backed <a href=\"https://www.dawn.com/news/2019749\">Gaza peace plan</a> and urged pressure on Israel, which insists it did not agree to the latest part of the deal.</p> <p>Hamas informed US President <a href=\"https://www.dawn.com/news/1969546\">Donald Trump",
-        "url": "https://www.dawn.com/news/2021507/hamas-says-still-ready-to-go-ahead-with-gaza-plan",
-        "source": "Dawn",
-        "date": "2026-08-08T20:19:57+05:00",
-        "img": ""
-      },
-      {
         "title": "Princess Lilibet teaches Meghan Markle a daily lesson",
         "summary": "Princess Lilibet teaches Meghan Markle a daily lesson",
         "url": "https://arynews.tv/princess-lilibet-teaches-meghan-markle-a-daily-lesson",
         "source": "ARY News",
         "date": "2026-08-08T20:09:14+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Meghan-Lilibet.jpg"
-      },
-      {
-        "title": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall",
-        "summary": "<p>Typhoon Dolphin lashed Japan’s southern Okinawa prefecture on Saturday, injuring six people and cutting power to more than 50,000 buildings, while China shut ports and halted ferries ahead of the storm’s expected arrival on its east coast.</p> <p>Five elderly people, three of whom fell due to strong winds, suffered ",
-        "url": "https://www.dawn.com/news/2021508/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall",
-        "source": "Dawn",
-        "date": "2026-08-08T19:58:05+05:00",
-        "img": ""
       },
       {
         "title": "Cyclosporiasis cases keep shoppers and grocers on edge in Michigan",
@@ -273,14 +401,6 @@
         "source": "ARY News",
         "date": "2026-08-08T19:56:30+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Export.jpg"
-      },
-      {
-        "title": "OpenAI flags possible critical cybersecurity risk in upcoming model Astra, tightens controls",
-        "summary": "<p>OpenAI said on Friday it cannot rule out that its upcoming AI model, Astra, has “critical” cybersecurity capabilities, prompting the startup to pause some internal development and trigger safety protocols.</p> <p>Under OpenAI’s safety guidelines, a model reaches the “critical” threshold if it can autonomously identi",
-        "url": "https://www.dawn.com/news/2021506/openai-flags-possible-critical-cybersecurity-risk-in-upcoming-model-astra-tightens-controls",
-        "source": "Dawn",
-        "date": "2026-08-08T19:42:39+05:00",
-        "img": ""
       },
       {
         "title": "‘No overloaded vehicle allowed on motorways’",
@@ -307,22 +427,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/cement-price-pakistan.jpg"
       },
       {
-        "title": "Rana Sanaullah says PML-N will form govt in AJK with two-thirds majority",
-        "summary": "<p>Adviser to the Prime Minister on Political Affairs Rana Sanaullah said on Saturday that the PML-N would form the government in Azad Jammu and Kashmir (AJK) with a two-thirds majority.</p> <p>He made the remarks while addressing a rally in Bagh ahead of the <a href=\"https://www.dawn.com/news/2021240\">third phase</a> ",
-        "url": "https://www.dawn.com/news/2021480/rana-sanaullah-says-pml-n-will-form-govt-in-ajk-with-two-thirds-majority",
-        "source": "Dawn",
-        "date": "2026-08-08T19:05:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "India's 'cockroach' protest movement keeps heat on Modi",
-        "summary": "<p>Two weeks after <a href=\"https://www.dawn.com/news/2017491\">youth-led protests</a> forced India’s education minister to <a href=\"https://www.dawn.com/news/2018286\">resign</a>, Prime Minister Narendra Modi’s government is grappling with the fallout from one of its toughest political challenges in years.</p> <p>Led by",
-        "url": "https://www.dawn.com/news/2021494/indias-cockroach-protest-movement-keeps-heat-on-modi",
-        "source": "Dawn",
-        "date": "2026-08-08T18:58:53+05:00",
-        "img": ""
-      },
-      {
         "title": "Jorge Messi, father of Lionel Messi, dies aged 68",
         "summary": "Jorge Messi, father of Lionel Messi, dies aged 68",
         "url": "https://arynews.tv/jorge-messi-father-of-lionel-messi-dies-aged-68",
@@ -331,83 +435,11 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-54.jpg"
       },
       {
-        "title": "Mir Raza case: Police examine parents’ divorce records",
-        "summary": "Mir Raza case: Police examine parents’ divorce records",
-        "url": "https://arynews.tv/mir-raza-case-police-examine-parents-divorce-records",
-        "source": "ARY News",
-        "date": "2026-08-08T18:42:27+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Raza.jpg"
-      },
-      {
-        "title": "Prince Harry, Meghan Markle’s next step may surprise William and Kate",
-        "summary": "Prince Harry, Meghan Markle’s next step may surprise William and Kate",
-        "url": "https://arynews.tv/prince-harry-meghan-markles-next-step-may-surprise-william-and-kate",
-        "source": "ARY News",
-        "date": "2026-08-08T18:30:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-4-1.jpg"
-      },
-      {
-        "title": "Editorial: The country needs to reform forensic, medico-legal services to address prosecution gaps",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021431\">https://www.dawn.com/news/2021431</a></p>",
-        "url": "https://www.dawn.com/news/2021500/editorial-the-country-needs-to-reform-forensic-medico-legal-services-to-address-prosecution-gaps",
-        "source": "Dawn",
-        "date": "2026-08-08T18:22:41+05:00",
-        "img": ""
-      },
-      {
         "title": "’میر رضا علی کو پیٹھ سے گولی لگی‘: کراچی کے نوجوان تاجر کی نئی پوسٹ مارٹم رپورٹ میں کیا سامنے آیا؟",
         "summary": "25 سالہ نوجوان میر رضا کی موت کی اصل وجہ جاننے کے لیے آٹھ سینیئر ڈاکٹروں اور فارنزک ماہرین پر مشتمل خصوصی میڈیکل بورڈ نے سوسائٹی قبرستان میں قبر کشائی کے بعد دوسرا پوسٹ مارٹم کیا۔",
         "url": "https://www.bbc.com/urdu/articles/c235rgxj9k2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
         "date": "2026-08-08T18:15:54+00:00",
-        "img": ""
-      },
-      {
-        "title": "Spain deploys 275 firefighters to tackle Andalusia forest blaze",
-        "summary": "Spain deploys 275 firefighters to tackle Andalusia forest blaze",
-        "url": "https://arynews.tv/spain-deploys-275-firefighters-to-tackle-andalusia-forest-blaze",
-        "source": "ARY News",
-        "date": "2026-08-08T18:12:24+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-08T180925.692.jpg"
-      },
-      {
-        "title": "Scientists turn to sharks to improve hurricane predictions",
-        "summary": "<p>From the killer shark of <em>Jaws</em> to the tornado-tossed predators of the <em>Sharknado</em> movies, films have long portrayed sharks as objects of summer fear.</p> <p>But when a shark cuts through the waters off the US East Coast, it now may be doing more than hunting. It may also be gathering data that helps s",
-        "url": "https://www.dawn.com/news/2021499/scientists-turn-to-sharks-to-improve-hurricane-predictions",
-        "source": "Dawn",
-        "date": "2026-08-08T18:00:44+05:00",
-        "img": ""
-      },
-      {
-        "title": "The Odyssey becomes 5th film of 2026 to cross $1bn in ticket sales",
-        "summary": "<p><a href=\"https://images.dawn.com/news/1195652/the-odyssey-becomes-5th-film-of-2026-to-cross-1bn-in-ticket-sales\">https://images.dawn.com/news/1195652/the-odyssey-becomes-5th-film-of-2026-to-cross-1bn-in-ticket-sales</a></p>",
-        "url": "https://www.dawn.com/news/2021498/the-odyssey-becomes-5th-film-of-2026-to-cross-1bn-in-ticket-sales",
-        "source": "Dawn",
-        "date": "2026-08-08T17:48:44+05:00",
-        "img": ""
-      },
-      {
-        "title": "Pakistan, New Zealand seek to boost cooperation in agri, education sectors",
-        "summary": "<p>Pakistan and New Zealand discussed boosting cooperation in various fields, with a special focus on agriculture and education, as the two sides held a Joint Trade Committee (JTC) meeting in Wellington, the Foreign Office (FO) said on Saturday.</p> <p>The third Pakistan-New Zealand JTC meeting and the fifth round of P",
-        "url": "https://www.dawn.com/news/2021491/pakistan-new-zealand-seek-to-boost-cooperation-in-agri-education-sectors",
-        "source": "Dawn",
-        "date": "2026-08-08T17:46:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "خیبر پختونخوا میں اراکینِ اسمبلی اور ان کے شریکِ حیات کو تاحیات سرکاری پاسپورٹ جاری کرنے کی سہولت ختم",
-        "summary": "پاکستان کے صوبہ خیبر پختونخوا اسمبلی نے ارکان اسمبلی کے اختیارات، مراعات اور استحقاق سے متعلق اپریل میں منظور کیے گئے قانون میں ترامیم منظور کرتے ہوئے تاحیات سرکاری پاسپورٹ کی سہولت ختم کر دی ہے۔",
-        "url": "https://www.bbc.com/urdu/articles/cx2vzp8q4l8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-08T17:31:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "Heavy rain disrupts traffic, daily life in Lahore’s low-lying areas",
-        "summary": "<p>LAHORE: <a href=\"https://www.dawn.com/news/2021348/rain-in-central-punjab\">Heavy rain</a> lashed Lahore on Saturday, inundating low-lying areas, major roads and several underpasses, making movement difficult for pedestrians and motorists in different parts of the city.</p> <p>The downpour <a href=\"https://www.dawn.c",
-        "url": "https://www.dawn.com/news/2021490/heavy-rain-disrupts-traffic-daily-life-in-lahores-low-lying-areas",
-        "source": "Dawn",
-        "date": "2026-08-08T17:02:16+05:00",
         "img": ""
       },
       {
@@ -419,35 +451,11 @@
         "img": ""
       },
       {
-        "title": "Adnan Siddiqui to announce contestants for Tamasha season five today, shooting to start on Sunday",
-        "summary": "<p><a href=\"https://images.dawn.com/news/1195651\">https://images.dawn.com/news/1195651</a></p>",
-        "url": "https://www.dawn.com/news/2021484/adnan-siddiqui-to-announce-contestants-for-tamasha-season-five-today-shooting-to-start-on-sunday",
-        "source": "Dawn",
-        "date": "2026-08-08T15:02:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "OIC welcomes Pak-Saudi-Turkiye joint defence pact, calls it 'important strategic step'",
-        "summary": "<p>The Organisation of Islamic Cooperation (OIC) has welcomed the <a href=\"https://www.dawn.com/news/2021248\">signing</a> of the Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Türkiye, terming it an “important strategic step”.</p> <p>The pact aims to strengthen collective deterrence and empowers the ",
-        "url": "https://www.dawn.com/news/2021475/oic-welcomes-pak-saudi-turkiye-joint-defence-pact-calls-it-important-strategic-step",
-        "source": "Dawn",
-        "date": "2026-08-08T14:42:30+05:00",
-        "img": ""
-      },
-      {
         "title": "’اس نے ستاروں کی روشنی ڈھانپ لی تھی‘: بگرام کے آسمان پر اڑتی دیوہیکل تکون نما ’پراسرار شے‘ کیا تھی؟",
         "summary": "ایک بہت بڑی شے مغرب سے مشرق کی جانب اس علاقے کے اوپر حرکت کرتی دکھائی دی جس کی شکل ایک مثلث جیسی تھی۔ یہ شے خاموشی سے مستقل رفتار اور بلندی پر حرکت کر رہی تھی، غالباً تقریباً 150 ناٹ کی رفتار سے اور اس پر کوئی روشنی نظر نہیں آ رہی تھی۔",
         "url": "https://www.bbc.com/urdu/articles/cp8e73k72m3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
         "date": "2026-08-08T13:18:06+00:00",
-        "img": ""
-      },
-      {
-        "title": "Senate, NA leadership pledge closer cooperation for stable parliamentary system",
-        "summary": "<p>ISLAMABAD: The leadership of the Senate and National Assembly on Saturday agreed to enhance institutional cooperation and coordination for a stable parliamentary democratic system.</p> <p>According to a statement issued by the Senate Secretariat, Senate Chairman Yousuf Raza Gilani met National Assembly Speaker Sarda",
-        "url": "https://www.dawn.com/news/2021469/senate-na-leadership-pledge-closer-cooperation-for-stable-parliamentary-system",
-        "source": "Dawn",
-        "date": "2026-08-08T12:38:57+05:00",
         "img": ""
       },
       {
@@ -504,14 +512,6 @@
         "url": "https://www.bbc.com/urdu/articles/cp9ejy48z4vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
         "date": "2026-08-08T04:12:20+00:00",
-        "img": ""
-      },
-      {
-        "title": "’مکہ مشترکہ دفاعی معاہدہ‘ اہم کیوں ہے اور یہ اسرائیل اور ایران سمیت خطے کے لیے کیا معنی رکھتا ہے؟",
-        "summary": "سعودی عرب، پاکستان اور ترکی نے ’مکہ مشترکہ دفاعی معاہدے‘ پر دستخط کر دیے ہیں، جس کے تحت ان تینوں ممالک میں سے ’کسی ایک ملک پر مسلح حملہ، سب پر حملہ تصور کیا جائے گا۔‘ بی بی سی نے تجزیہ کاروں سے بات کر کے یہ جاننے کی کوشش کی ہے کہ یہ معاہدہ اِن تینوں ممالک سمیت خطے کے لیے کیا معنی رکھتا ہے۔",
-        "url": "https://www.bbc.com/urdu/articles/c5y42re0qe0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-07T13:58:07+00:00",
         "img": ""
       },
       {
@@ -573,19 +573,131 @@
     ],
     "national": [
       {
+        "title": "A press ban doesn't silence a story. It just removes the ability to verify it",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021613/ban-to-what-end\">https://www.dawn.com/news/2021613/ban-to-what-end</a></p>",
+        "url": "https://www.dawn.com/news/2021687/a-press-ban-doesnt-silence-a-story-it-just-removes-the-ability-to-verify-it",
+        "source": "Dawn",
+        "date": "2026-08-09T09:55:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "Islamabad Medical and Dental College launches clinical AI certification",
+        "summary": "<p>ISLAMABAD: The Islamabad Medical and Dental College (IMDC), in collaboration with Shaheed Zulfikar Ali Bhutto Medical University (SZABMU), has launched a clinical artificial intelligence (AI) healthcare certificate programme aimed at equipping healthcare professionals with the international standard skills.</p> <p>T",
+        "url": "https://www.dawn.com/news/2021532/islamabad-medical-and-dental-college-launches-clinical-ai-certification",
+        "source": "Dawn",
+        "date": "2026-08-09T09:52:44+05:00",
+        "img": ""
+      },
+      {
+        "title": "GB activists pay tribute to mountaineers lost in Broad Peak avalanche",
+        "summary": "<p>GILGIT: Civil society activists from Gilgit-Baltistan organised a candlelight vigil in Islamabad to pay tribute to the mountaineers who <a href=\"https://www.dawn.com/news/2019914\">lost their lives</a> in the recent avalanche on Broad Peak.</p> <p>A large number of citizens from different walks of life attended the e",
+        "url": "https://www.dawn.com/news/2021523/gb-activists-pay-tribute-to-mountaineers-lost-in-broad-peak-avalanche",
+        "source": "Dawn",
+        "date": "2026-08-09T09:51:06+05:00",
+        "img": ""
+      },
+      {
+        "title": "Accelerated Skills Development Programme students complain about harassment, stipend denial at KP's UET",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021544\">https://www.dawn.com/news/2021544</a></p>",
+        "url": "https://www.dawn.com/news/2021686/accelerated-skills-development-programme-students-complain-about-harassment-stipend-denial-at-kps-uet",
+        "source": "Dawn",
+        "date": "2026-08-09T09:45:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Pakistan's counterterrorism paradox",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021616/counterterrorism-paradox\">https://www.dawn.com/news/2021616/counterterrorism-paradox</a></p>",
+        "url": "https://www.dawn.com/news/2021685/pakistans-counterterrorism-paradox",
+        "source": "Dawn",
+        "date": "2026-08-09T09:39:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "‘Conservation, responsible utilisation’ of chilghoza forests afoot in KP",
+        "summary": "<p>PESHAWAR: The Khyber Pakhtunkhwa forestry department’s Directorate of Non-Timber Forest Products has developed the Chilghoza Forest Ecosystem Management Plan as a strategic framework for conservation, restoration, responsible utilisation of pine nut forests, which generate over Rs10 billion annually for the province",
+        "url": "https://www.dawn.com/news/2021546/conservation-responsible-utilisation-of-chilghoza-forests-afoot-in-kp",
+        "source": "Dawn",
+        "date": "2026-08-09T09:34:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "Harmonisation of non-wage facilities for district judiciary awaits KP govt nod",
+        "summary": "<p>PESHAWAR: Two summaries put up by the Peshawar High Court to the Khyber Pakhtunkhwa government in March this year are awaiting approval for the harmonisation of non-wage facilities offered to the district judiciary throughout the country in line with a decision of the National Judicial Policy Making Committee (NJPMC",
+        "url": "https://www.dawn.com/news/2021549/harmonisation-of-non-wage-facilities-for-district-judiciary-awaits-kp-govt-nod",
+        "source": "Dawn",
+        "date": "2026-08-09T09:32:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Ex-president Joe Biden’s cancer has spread, is very painful, son says",
+        "summary": "Ex-president Joe Biden’s cancer has spread, is very painful, son says",
+        "url": "https://arynews.tv/joe-bidens-cancer-has-spread-is-very-painful-son-says",
+        "source": "ARY News",
+        "date": "2026-08-09T09:17:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Joe-Biden-cancer-spread-son.jpg"
+      },
+      {
+        "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+        "summary": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+        "url": "https://arynews.tv/iran-says-deal-on-strait-of-hormuz-is-close",
+        "source": "ARY News",
+        "date": "2026-08-09T09:08:58+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Strait-of-Hormuz-Iran-IRGC-close.jpg"
+      },
+      {
+        "title": "xAI releases Grok Imagine Image 2.0",
+        "summary": "xAI releases Grok Imagine Image 2.0",
+        "url": "https://arynews.tv/xai-releases-grok-imagine-image-2-0",
+        "source": "ARY News",
+        "date": "2026-08-09T08:56:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/xAI-Grok-image-2.0.jpg"
+      },
+      {
+        "title": "Hub industries face acute water crisis as leaders allege systematic deprivation of water share",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021623\">https://www.dawn.com/news/2021623</a></p>",
+        "url": "https://www.dawn.com/news/2021680/hub-industries-face-acute-water-crisis-as-leaders-allege-systematic-deprivation-of-water-share",
+        "source": "Dawn",
+        "date": "2026-08-09T08:50:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "Civil awards approved for 78 martyrs, ghazis",
+        "summary": "<p>ISLAMABAD: A special committee on gallantry awards, chaired by Interior Minister Mohsin Naqvi, on Saturday approved civil awards for martyrs who laid down their lives for the country and ghazis who displayed exceptional courage and bravery.</p> <p>The committee approved civil honours for 78 individuals in various ca",
+        "url": "https://www.dawn.com/news/2021645/civil-awards-approved-for-78-martyrs-ghazis",
+        "source": "Dawn",
+        "date": "2026-08-09T08:38:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "Pakistan bags one gold, two silver medals at Nuclear Science Olympiad in Saudi Arabia",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021650\">https://www.dawn.com/news/2021650</a></p>",
+        "url": "https://www.dawn.com/news/2021678/pakistan-bags-one-gold-two-silver-medals-at-nuclear-science-olympiad-in-saudi-arabia",
+        "source": "Dawn",
+        "date": "2026-08-09T08:36:18+05:00",
+        "img": ""
+      },
+      {
+        "title": "LG by-polls in Balochistan's Khuzdar, Kalat, Hub postponed",
+        "summary": "<p>QUETTA: The Election Commission of Pakistan (ECP) has postponed the second phase of local government by-elections for seats in Khuzdar, Kalat and Hub districts of Balochistan due to the prevailing law and order situation, while the scheduled by-polls in Zhob, Loralai and Sibi will be held on Sunday.</p> <p>All arran",
+        "url": "https://www.dawn.com/news/2021647/lg-by-polls-in-balochistans-khuzdar-kalat-hub-postponed",
+        "source": "Dawn",
+        "date": "2026-08-09T08:33:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "Farmers block National Highway in Balochistan's Naseerabad over closure of irrigation water",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021646\">https://www.dawn.com/news/2021646</a></p>",
+        "url": "https://www.dawn.com/news/2021677/farmers-block-national-highway-in-balochistans-naseerabad-over-closure-of-irrigation-water",
+        "source": "Dawn",
+        "date": "2026-08-09T08:30:46+05:00",
+        "img": ""
+      },
+      {
         "title": "Unregulated placer gold mining in streams, rivers threaten ecosystem of Gilgit-Baltistan",
         "summary": "<p><a href=\"https://www.dawn.com/news/2021627\">https://www.dawn.com/news/2021627</a></p>",
         "url": "https://www.dawn.com/news/2021676/unregulated-placer-gold-mining-in-streams-rivers-threaten-ecosystem-of-gilgit-baltistan",
         "source": "Dawn",
         "date": "2026-08-09T08:25:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "Pakistan bags three medals at Nuclear Science Olympiad",
-        "summary": "<p>ISLAMABAD: A Pakis­tan team has won one gold and two silver medals at the 3rd International Nuclear Science Olympiad (INSO-2026), held in Jeddah, Saudi Arabia from Aug 2 to 8.</p> <p>Supported by the Inter­national Atomic Energy Agency (IAEA), the competition brought together around 120 students and experts from 19 ",
-        "url": "https://www.dawn.com/news/2021650/pakistan-bags-three-medals-at-nuclear-science-olympiad",
-        "source": "Dawn",
-        "date": "2026-08-09T08:21:28+05:00",
         "img": ""
       },
       {
@@ -605,14 +717,6 @@
         "img": ""
       },
       {
-        "title": "IHC seeks govt reply over withholding tax hike on goods transportation",
-        "summary": "<p>• Petitioners term concessional treatment of oil tanker contractors ‘discriminatory’<br>• Argue distinction based merely on nature of goods being transported</p> <p>ISLAMABAD: The Islamabad High Court (IHC) has sought responses from the federal government, the Federal Board of Revenue (FBR) and other respondents on ",
-        "url": "https://www.dawn.com/news/2021632/ihc-seeks-govt-reply-over-withholding-tax-hike-on-goods-transportation",
-        "source": "Dawn",
-        "date": "2026-08-09T07:44:35+05:00",
-        "img": ""
-      },
-      {
         "title": "SC sets aside orders to restore BISP retailer’s blocked ID",
         "summary": "<p>ISLAMABAD: The Supreme Court on Saturday ruled that a complaint filed by a Point-of-Sale (PoS) agent against the Ben­azir Income Support Programme (BISP) over the blocking of his retailer ID was not maintainable under consumer protection laws, as the relationship did not constitute a “consumer service” arrangement.<",
         "url": "https://www.dawn.com/news/2021654/sc-sets-aside-orders-to-restore-bisp-retailers-blocked-id",
@@ -626,6 +730,30 @@
         "url": "https://www.dawn.com/news/2021669/transporters-strike-threatens-industry-exports-as-movement-of-over-400000-goods-carrying-vehicles-suspended",
         "source": "Dawn",
         "date": "2026-08-09T07:26:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "Torkham road blocked for second day against trader’s kidnapping",
+        "summary": "<p>KHYBER: The main Peshawar-Torkham Highway remained blocked for the second consecutive day on Saturday as protesters refused to end their protest till the recovery of an abducted local trader.</p> <p>Unidentified persons abducted Lal Zareef alias Haji Landai on Friday morning when stepped out of his home in Landi Kot",
+        "url": "https://www.dawn.com/news/2021543/torkham-road-blocked-for-second-day-against-traders-kidnapping",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "RDA asked to complete Murree Road beautification, marking work",
+        "summary": "<p>RAWALPINDI: Commissioner Salman Ghani on Saturday asked the Rawalpindi Development Authority (RDA) to improve the condition of Murree Road and launch beautification and road-marking work as soon as possible.</p> <p>The commissioner stated this while chairing a meeting at the RDA to review the proposed road-marking a",
+        "url": "https://www.dawn.com/news/2021531/rda-asked-to-complete-murree-road-beautification-marking-work",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Land revenue dept told to expedite division of joint holdings",
+        "summary": "<p>RAWALPINDI: The district administration on Saturday asked the land revenue department to speed up work on the distribution of joint land holdings to avoid litigation related to land in the district.</p> <p>To streamline property distribution, the provincial government launched the ‘Wanda Karao, Sukh Pao’ initiative,",
+        "url": "https://www.dawn.com/news/2021533/land-revenue-dept-told-to-expedite-division-of-joint-holdings",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:51+05:00",
         "img": ""
       },
       {
@@ -853,14 +981,6 @@
         "img": ""
       },
       {
-        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
-        "source": "Express",
-        "date": "2026-08-08T19:39:33+05:00",
-        "img": ""
-      },
-      {
         "title": "‘No overloaded vehicle allowed on motorways’",
         "summary": "‘No overloaded vehicle allowed on motorways’",
         "url": "https://arynews.tv/no-overloaded-vehicle-allowed-on-motorways",
@@ -941,6 +1061,14 @@
         "img": ""
       },
       {
+        "title": "کیا پروموشنل ایونٹ میں پریتی زنٹا نے عامر خان کو نظر انداز کیا تھا؟ حقیقت سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826388/did-preity-zinta-ignore-aamir-khan-at-a-promotional-event-the-truth-has-come-out-2826388/",
+        "source": "Express",
+        "date": "2026-08-08T18:57:26+05:00",
+        "img": ""
+      },
+      {
         "title": "پسپائی",
         "summary": "",
         "url": "https://www.express.pk/story/2826387/retreat-2826387/",
@@ -965,6 +1093,14 @@
         "img": ""
       },
       {
+        "title": "سوارا بھاسکر ڈینگی کا شکار ہوگئیں، اسپتال میں داخل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826383/swara-bhaskar-falls-victim-to-dengue-admitted-to-hospital-2826383/",
+        "source": "Express",
+        "date": "2026-08-08T18:49:48+05:00",
+        "img": ""
+      },
+      {
         "title": "اپنا کچرا ساتھ لے کر جائیں!",
         "summary": "",
         "url": "https://www.express.pk/story/2826382/take-your-trash-with-you-2826382/",
@@ -981,14 +1117,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-54.jpg"
       },
       {
-        "title": "Mir Raza case: Police examine parents’ divorce records",
-        "summary": "Mir Raza case: Police examine parents’ divorce records",
-        "url": "https://arynews.tv/mir-raza-case-police-examine-parents-divorce-records",
-        "source": "ARY News",
-        "date": "2026-08-08T18:42:27+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Raza.jpg"
-      },
-      {
         "title": "کراچی میں انکروچمنٹ آپریشن کے دوران ٹیم پر حملہ اور ہنگامہ آرائی کرنے پر 33 ملزمان گرفتار",
         "summary": "",
         "url": "https://www.express.pk/story/2826380/33-suspects-arrested-for-attacking-team-and-creating-ruckus-during-encroachment-operation-in-karachi-2826380/",
@@ -1002,46 +1130,6 @@
         "url": "https://www.express.pk/story/2826378/karachi-met-dep-forecast-drizzle-in-the-city-2826378/",
         "source": "Express",
         "date": "2026-08-08T18:39:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "کامریڈ نذیر عباسی اور جین زی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826377/comrade-nazir-abbasi-and-jane-zee-2826377/",
-        "source": "Express",
-        "date": "2026-08-08T18:36:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "Prince Harry, Meghan Markle’s next step may surprise William and Kate",
-        "summary": "Prince Harry, Meghan Markle’s next step may surprise William and Kate",
-        "url": "https://arynews.tv/prince-harry-meghan-markles-next-step-may-surprise-william-and-kate",
-        "source": "ARY News",
-        "date": "2026-08-08T18:30:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-4-1.jpg"
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826375/mecca-defense-pact-2826375/",
-        "source": "Express",
-        "date": "2026-08-08T18:27:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "Spain deploys 275 firefighters to tackle Andalusia forest blaze",
-        "summary": "Spain deploys 275 firefighters to tackle Andalusia forest blaze",
-        "url": "https://arynews.tv/spain-deploys-275-firefighters-to-tackle-andalusia-forest-blaze",
-        "source": "ARY News",
-        "date": "2026-08-08T18:12:24+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-08T180925.692.jpg"
-      },
-      {
-        "title": "Heavy rain disrupts traffic, daily life in Lahore’s low-lying areas",
-        "summary": "<p>LAHORE: <a href=\"https://www.dawn.com/news/2021348/rain-in-central-punjab\">Heavy rain</a> lashed Lahore on Saturday, inundating low-lying areas, major roads and several underpasses, making movement difficult for pedestrians and motorists in different parts of the city.</p> <p>The downpour <a href=\"https://www.dawn.c",
-        "url": "https://www.dawn.com/news/2021490/heavy-rain-disrupts-traffic-daily-life-in-lahores-low-lying-areas",
-        "source": "Dawn",
-        "date": "2026-08-08T17:02:16+05:00",
         "img": ""
       },
       {
@@ -1061,11 +1149,11 @@
         "img": ""
       },
       {
-        "title": "OIC welcomes Pak-Saudi-Turkiye joint defence pact, calls it 'important strategic step'",
-        "summary": "<p>The Organisation of Islamic Cooperation (OIC) has welcomed the <a href=\"https://www.dawn.com/news/2021248\">signing</a> of the Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Türkiye, terming it an “important strategic step”.</p> <p>The pact aims to strengthen collective deterrence and empowers the ",
-        "url": "https://www.dawn.com/news/2021475/oic-welcomes-pak-saudi-turkiye-joint-defence-pact-calls-it-important-strategic-step",
-        "source": "Dawn",
-        "date": "2026-08-08T14:42:30+05:00",
+        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
+        "source": "Express",
+        "date": "2026-08-08T14:39:33+00:00",
         "img": ""
       },
       {
@@ -1082,112 +1170,136 @@
         "url": "https://www.express.pk/story/2826391/us-j-d-vance-iran-confirm-not-to-toll-tax-strait-of-hurmuz-2826391/",
         "source": "Express",
         "date": "2026-08-08T14:05:16+00:00",
-        "img": ""
-      },
-      {
-        "title": "Senate, NA leadership pledge closer cooperation for stable parliamentary system",
-        "summary": "<p>ISLAMABAD: The leadership of the Senate and National Assembly on Saturday agreed to enhance institutional cooperation and coordination for a stable parliamentary democratic system.</p> <p>According to a statement issued by the Senate Secretariat, Senate Chairman Yousuf Raza Gilani met National Assembly Speaker Sarda",
-        "url": "https://www.dawn.com/news/2021469/senate-na-leadership-pledge-closer-cooperation-for-stable-parliamentary-system",
-        "source": "Dawn",
-        "date": "2026-08-08T12:38:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "Naqvi sets Sept 30 deadline for Safe City expansion in Islamabad",
-        "summary": "<p>ISLAMABAD: Interior Minister Mohsin Naqvi on Friday directed that the Islamabad Safe City expansion project be completed by Sept 30.</p> <p>During a visit to the Safe City Headquarters with Minister of State for Interior Tallal Chaudhry, the minister chaired a special meeting to review progress on the project.</p> <",
-        "url": "https://www.dawn.com/news/2021319/naqvi-sets-sept-30-deadline-for-safe-city-expansion-in-islamabad",
-        "source": "Dawn",
-        "date": "2026-08-08T09:12:47+05:00",
-        "img": ""
-      },
-      {
-        "title": "35 officers posted against newly created additional assistant commissioners posts across Punjab",
-        "summary": "<p>LAHORE: The Punjab government on Friday posted 35 PAS and PMS officers against newly created additional assistant commissioners (AACs) posts in tehsils across the province to ease mounting governance pressure on district administration amid, what it called, an unprecedented expansion in governance and public service",
-        "url": "https://www.dawn.com/news/2021354/35-officers-posted-against-newly-created-additional-assistant-commissioners-posts-across-punjab",
-        "source": "Dawn",
-        "date": "2026-08-08T08:43:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "Five more cops in Lahore get bail in AGP Mansoor Awan's house raid case",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021356\">https://www.dawn.com/news/2021356</a></p>",
-        "url": "https://www.dawn.com/news/2021452/five-more-cops-in-lahore-get-bail-in-agp-mansoor-awans-house-raid-case",
-        "source": "Dawn",
-        "date": "2026-08-08T08:41:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "Customer data in bank is property, its misuse may be a crime: LHC",
-        "summary": "<p>LAHORE: The Lahore High Court (LHC) has ruled that customer data entrusted to a bank constitutes “property” under the law and its dishonest misuse may amount to criminal breach of trust.</p> <p>Justice Tariq Saleem Sheikh issued the ruling granting post-arrest bail to a telecom franchise operator accused in a multi-",
-        "url": "https://www.dawn.com/news/2021357/customer-data-in-bank-is-property-its-misuse-may-be-a-crime-lhc",
-        "source": "Dawn",
-        "date": "2026-08-08T08:36:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "Govt restores original medical board for exhumation of IBA graduate Mir Raza Ali's body",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021395\">https://www.dawn.com/news/2021395</a></p>",
-        "url": "https://www.dawn.com/news/2021449/govt-restores-original-medical-board-for-exhumation-of-iba-graduate-mir-raza-alis-body",
-        "source": "Dawn",
-        "date": "2026-08-08T08:29:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "NAB chief urges withdrawal of Rs500m graft probe limit",
-        "summary": "<p>• Tells Senate panel bureau’s hands are tied under amended law to act against govt officials<br>• Says private sector accounts for 45pc of corruption</p> <p>ISLAMABAD: The National Account­abi­lity Bureau (NAB) on Friday urged the government to withdraw a <a href=\"https://www.dawn.com/news/1711341\">restriction </a>t",
-        "url": "https://www.dawn.com/news/2021393/nab-chief-urges-withdrawal-of-rs500m-graft-probe-limit",
-        "source": "Dawn",
-        "date": "2026-08-08T08:02:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "Broad Peak search for bodies of 3 climbers paused",
-        "summary": "<p>• Mission to resume once weather improves<br>• Bodies of Nirmal Purja, four other foreign climbers flown to Islamabad for repatriation to their respective countries</p> <p>GILGIT: The search operation to recover the remains of Pakistani mountaineer Sohail Sakhi and two foreign climbers missing after the <a href=\"htt",
-        "url": "https://www.dawn.com/news/2021394/broad-peak-search-for-bodies-of-3-climbers-paused",
-        "source": "Dawn",
-        "date": "2026-08-08T07:56:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "Mine reforms sought after Sorange tragedy",
-        "summary": "<p>QUETTA: The National Labour Federation (NLF) Balochistan, while expressing serious concern over the deteriorating safety situation in coal mines, has demanded reforms in mine safety in the wake of the recent coal mine tragedy that <a href=\"https://www.dawn.com/news/2020034/quetta-mine-search-op-ends-as-last-two-bodi",
-        "url": "https://www.dawn.com/news/2021387/mine-reforms-sought-after-sorange-tragedy",
-        "source": "Dawn",
-        "date": "2026-08-08T07:52:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "Govt's legal team to meet Presidency officials amid efforts to end deadlock over judges’ appointments",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021417\">https://www.dawn.com/news/2021417</a></p>",
-        "url": "https://www.dawn.com/news/2021441/govts-legal-team-to-meet-presidency-officials-amid-efforts-to-end-deadlock-over-judges-appointments",
-        "source": "Dawn",
-        "date": "2026-08-08T07:17:16+05:00",
-        "img": ""
-      },
-      {
-        "title": "PHC rejects pleas of former Afghan judge, two others against arrest, deportation",
-        "summary": "<p>PESHAWAR: Peshawar High Court has rejected the pleas of a former judge of Afghanistan’s Supreme Court, a female social activist and an official of former Afghan intelligence directorate as well as their family members for protection against their arrest and deportation by Pakistani law-enforcement agencies.</p> <p>A",
-        "url": "https://www.dawn.com/news/2021316/phc-rejects-pleas-of-former-afghan-judge-two-others-against-arrest-deportation",
-        "source": "Dawn",
-        "date": "2026-08-08T05:23:55+05:00",
         "img": ""
       }
     ],
     "kpk": [
       {
+        "title": "A press ban doesn't silence a story. It just removes the ability to verify it",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021613/ban-to-what-end\">https://www.dawn.com/news/2021613/ban-to-what-end</a></p>",
+        "url": "https://www.dawn.com/news/2021687/a-press-ban-doesnt-silence-a-story-it-just-removes-the-ability-to-verify-it",
+        "source": "Dawn",
+        "date": "2026-08-09T09:55:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "Islamabad Medical and Dental College launches clinical AI certification",
+        "summary": "<p>ISLAMABAD: The Islamabad Medical and Dental College (IMDC), in collaboration with Shaheed Zulfikar Ali Bhutto Medical University (SZABMU), has launched a clinical artificial intelligence (AI) healthcare certificate programme aimed at equipping healthcare professionals with the international standard skills.</p> <p>T",
+        "url": "https://www.dawn.com/news/2021532/islamabad-medical-and-dental-college-launches-clinical-ai-certification",
+        "source": "Dawn",
+        "date": "2026-08-09T09:52:44+05:00",
+        "img": ""
+      },
+      {
+        "title": "GB activists pay tribute to mountaineers lost in Broad Peak avalanche",
+        "summary": "<p>GILGIT: Civil society activists from Gilgit-Baltistan organised a candlelight vigil in Islamabad to pay tribute to the mountaineers who <a href=\"https://www.dawn.com/news/2019914\">lost their lives</a> in the recent avalanche on Broad Peak.</p> <p>A large number of citizens from different walks of life attended the e",
+        "url": "https://www.dawn.com/news/2021523/gb-activists-pay-tribute-to-mountaineers-lost-in-broad-peak-avalanche",
+        "source": "Dawn",
+        "date": "2026-08-09T09:51:06+05:00",
+        "img": ""
+      },
+      {
+        "title": "Accelerated Skills Development Programme students complain about harassment, stipend denial at KP's UET",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021544\">https://www.dawn.com/news/2021544</a></p>",
+        "url": "https://www.dawn.com/news/2021686/accelerated-skills-development-programme-students-complain-about-harassment-stipend-denial-at-kps-uet",
+        "source": "Dawn",
+        "date": "2026-08-09T09:45:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Pakistan's counterterrorism paradox",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021616/counterterrorism-paradox\">https://www.dawn.com/news/2021616/counterterrorism-paradox</a></p>",
+        "url": "https://www.dawn.com/news/2021685/pakistans-counterterrorism-paradox",
+        "source": "Dawn",
+        "date": "2026-08-09T09:39:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "‘Conservation, responsible utilisation’ of chilghoza forests afoot in KP",
+        "summary": "<p>PESHAWAR: The Khyber Pakhtunkhwa forestry department’s Directorate of Non-Timber Forest Products has developed the Chilghoza Forest Ecosystem Management Plan as a strategic framework for conservation, restoration, responsible utilisation of pine nut forests, which generate over Rs10 billion annually for the province",
+        "url": "https://www.dawn.com/news/2021546/conservation-responsible-utilisation-of-chilghoza-forests-afoot-in-kp",
+        "source": "Dawn",
+        "date": "2026-08-09T09:34:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "Harmonisation of non-wage facilities for district judiciary awaits KP govt nod",
+        "summary": "<p>PESHAWAR: Two summaries put up by the Peshawar High Court to the Khyber Pakhtunkhwa government in March this year are awaiting approval for the harmonisation of non-wage facilities offered to the district judiciary throughout the country in line with a decision of the National Judicial Policy Making Committee (NJPMC",
+        "url": "https://www.dawn.com/news/2021549/harmonisation-of-non-wage-facilities-for-district-judiciary-awaits-kp-govt-nod",
+        "source": "Dawn",
+        "date": "2026-08-09T09:32:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Ex-president Joe Biden’s cancer has spread, is very painful, son says",
+        "summary": "Ex-president Joe Biden’s cancer has spread, is very painful, son says",
+        "url": "https://arynews.tv/joe-bidens-cancer-has-spread-is-very-painful-son-says",
+        "source": "ARY News",
+        "date": "2026-08-09T09:17:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Joe-Biden-cancer-spread-son.jpg"
+      },
+      {
+        "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+        "summary": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+        "url": "https://arynews.tv/iran-says-deal-on-strait-of-hormuz-is-close",
+        "source": "ARY News",
+        "date": "2026-08-09T09:08:58+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Strait-of-Hormuz-Iran-IRGC-close.jpg"
+      },
+      {
+        "title": "xAI releases Grok Imagine Image 2.0",
+        "summary": "xAI releases Grok Imagine Image 2.0",
+        "url": "https://arynews.tv/xai-releases-grok-imagine-image-2-0",
+        "source": "ARY News",
+        "date": "2026-08-09T08:56:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/xAI-Grok-image-2.0.jpg"
+      },
+      {
+        "title": "Hub industries face acute water crisis as leaders allege systematic deprivation of water share",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021623\">https://www.dawn.com/news/2021623</a></p>",
+        "url": "https://www.dawn.com/news/2021680/hub-industries-face-acute-water-crisis-as-leaders-allege-systematic-deprivation-of-water-share",
+        "source": "Dawn",
+        "date": "2026-08-09T08:50:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "Civil awards approved for 78 martyrs, ghazis",
+        "summary": "<p>ISLAMABAD: A special committee on gallantry awards, chaired by Interior Minister Mohsin Naqvi, on Saturday approved civil awards for martyrs who laid down their lives for the country and ghazis who displayed exceptional courage and bravery.</p> <p>The committee approved civil honours for 78 individuals in various ca",
+        "url": "https://www.dawn.com/news/2021645/civil-awards-approved-for-78-martyrs-ghazis",
+        "source": "Dawn",
+        "date": "2026-08-09T08:38:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "Pakistan bags one gold, two silver medals at Nuclear Science Olympiad in Saudi Arabia",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021650\">https://www.dawn.com/news/2021650</a></p>",
+        "url": "https://www.dawn.com/news/2021678/pakistan-bags-one-gold-two-silver-medals-at-nuclear-science-olympiad-in-saudi-arabia",
+        "source": "Dawn",
+        "date": "2026-08-09T08:36:18+05:00",
+        "img": ""
+      },
+      {
+        "title": "LG by-polls in Balochistan's Khuzdar, Kalat, Hub postponed",
+        "summary": "<p>QUETTA: The Election Commission of Pakistan (ECP) has postponed the second phase of local government by-elections for seats in Khuzdar, Kalat and Hub districts of Balochistan due to the prevailing law and order situation, while the scheduled by-polls in Zhob, Loralai and Sibi will be held on Sunday.</p> <p>All arran",
+        "url": "https://www.dawn.com/news/2021647/lg-by-polls-in-balochistans-khuzdar-kalat-hub-postponed",
+        "source": "Dawn",
+        "date": "2026-08-09T08:33:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "Farmers block National Highway in Balochistan's Naseerabad over closure of irrigation water",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021646\">https://www.dawn.com/news/2021646</a></p>",
+        "url": "https://www.dawn.com/news/2021677/farmers-block-national-highway-in-balochistans-naseerabad-over-closure-of-irrigation-water",
+        "source": "Dawn",
+        "date": "2026-08-09T08:30:46+05:00",
+        "img": ""
+      },
+      {
         "title": "Unregulated placer gold mining in streams, rivers threaten ecosystem of Gilgit-Baltistan",
         "summary": "<p><a href=\"https://www.dawn.com/news/2021627\">https://www.dawn.com/news/2021627</a></p>",
         "url": "https://www.dawn.com/news/2021676/unregulated-placer-gold-mining-in-streams-rivers-threaten-ecosystem-of-gilgit-baltistan",
         "source": "Dawn",
         "date": "2026-08-09T08:25:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "Pakistan bags three medals at Nuclear Science Olympiad",
-        "summary": "<p>ISLAMABAD: A Pakis­tan team has won one gold and two silver medals at the 3rd International Nuclear Science Olympiad (INSO-2026), held in Jeddah, Saudi Arabia from Aug 2 to 8.</p> <p>Supported by the Inter­national Atomic Energy Agency (IAEA), the competition brought together around 120 students and experts from 19 ",
-        "url": "https://www.dawn.com/news/2021650/pakistan-bags-three-medals-at-nuclear-science-olympiad",
-        "source": "Dawn",
-        "date": "2026-08-09T08:21:28+05:00",
         "img": ""
       },
       {
@@ -1207,14 +1319,6 @@
         "img": ""
       },
       {
-        "title": "IHC seeks govt reply over withholding tax hike on goods transportation",
-        "summary": "<p>• Petitioners term concessional treatment of oil tanker contractors ‘discriminatory’<br>• Argue distinction based merely on nature of goods being transported</p> <p>ISLAMABAD: The Islamabad High Court (IHC) has sought responses from the federal government, the Federal Board of Revenue (FBR) and other respondents on ",
-        "url": "https://www.dawn.com/news/2021632/ihc-seeks-govt-reply-over-withholding-tax-hike-on-goods-transportation",
-        "source": "Dawn",
-        "date": "2026-08-09T07:44:35+05:00",
-        "img": ""
-      },
-      {
         "title": "SC sets aside orders to restore BISP retailer’s blocked ID",
         "summary": "<p>ISLAMABAD: The Supreme Court on Saturday ruled that a complaint filed by a Point-of-Sale (PoS) agent against the Ben­azir Income Support Programme (BISP) over the blocking of his retailer ID was not maintainable under consumer protection laws, as the relationship did not constitute a “consumer service” arrangement.<",
         "url": "https://www.dawn.com/news/2021654/sc-sets-aside-orders-to-restore-bisp-retailers-blocked-id",
@@ -1228,6 +1332,30 @@
         "url": "https://www.dawn.com/news/2021669/transporters-strike-threatens-industry-exports-as-movement-of-over-400000-goods-carrying-vehicles-suspended",
         "source": "Dawn",
         "date": "2026-08-09T07:26:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "Torkham road blocked for second day against trader’s kidnapping",
+        "summary": "<p>KHYBER: The main Peshawar-Torkham Highway remained blocked for the second consecutive day on Saturday as protesters refused to end their protest till the recovery of an abducted local trader.</p> <p>Unidentified persons abducted Lal Zareef alias Haji Landai on Friday morning when stepped out of his home in Landi Kot",
+        "url": "https://www.dawn.com/news/2021543/torkham-road-blocked-for-second-day-against-traders-kidnapping",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "RDA asked to complete Murree Road beautification, marking work",
+        "summary": "<p>RAWALPINDI: Commissioner Salman Ghani on Saturday asked the Rawalpindi Development Authority (RDA) to improve the condition of Murree Road and launch beautification and road-marking work as soon as possible.</p> <p>The commissioner stated this while chairing a meeting at the RDA to review the proposed road-marking a",
+        "url": "https://www.dawn.com/news/2021531/rda-asked-to-complete-murree-road-beautification-marking-work",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Land revenue dept told to expedite division of joint holdings",
+        "summary": "<p>RAWALPINDI: The district administration on Saturday asked the land revenue department to speed up work on the distribution of joint land holdings to avoid litigation related to land in the district.</p> <p>To streamline property distribution, the provincial government launched the ‘Wanda Karao, Sukh Pao’ initiative,",
+        "url": "https://www.dawn.com/news/2021533/land-revenue-dept-told-to-expedite-division-of-joint-holdings",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:51+05:00",
         "img": ""
       },
       {
@@ -1455,14 +1583,6 @@
         "img": ""
       },
       {
-        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
-        "source": "Express",
-        "date": "2026-08-08T19:39:33+05:00",
-        "img": ""
-      },
-      {
         "title": "‘No overloaded vehicle allowed on motorways’",
         "summary": "‘No overloaded vehicle allowed on motorways’",
         "url": "https://arynews.tv/no-overloaded-vehicle-allowed-on-motorways",
@@ -1543,6 +1663,14 @@
         "img": ""
       },
       {
+        "title": "کیا پروموشنل ایونٹ میں پریتی زنٹا نے عامر خان کو نظر انداز کیا تھا؟ حقیقت سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826388/did-preity-zinta-ignore-aamir-khan-at-a-promotional-event-the-truth-has-come-out-2826388/",
+        "source": "Express",
+        "date": "2026-08-08T18:57:26+05:00",
+        "img": ""
+      },
+      {
         "title": "پسپائی",
         "summary": "",
         "url": "https://www.express.pk/story/2826387/retreat-2826387/",
@@ -1567,6 +1695,14 @@
         "img": ""
       },
       {
+        "title": "سوارا بھاسکر ڈینگی کا شکار ہوگئیں، اسپتال میں داخل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826383/swara-bhaskar-falls-victim-to-dengue-admitted-to-hospital-2826383/",
+        "source": "Express",
+        "date": "2026-08-08T18:49:48+05:00",
+        "img": ""
+      },
+      {
         "title": "اپنا کچرا ساتھ لے کر جائیں!",
         "summary": "",
         "url": "https://www.express.pk/story/2826382/take-your-trash-with-you-2826382/",
@@ -1583,14 +1719,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-54.jpg"
       },
       {
-        "title": "Mir Raza case: Police examine parents’ divorce records",
-        "summary": "Mir Raza case: Police examine parents’ divorce records",
-        "url": "https://arynews.tv/mir-raza-case-police-examine-parents-divorce-records",
-        "source": "ARY News",
-        "date": "2026-08-08T18:42:27+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Raza.jpg"
-      },
-      {
         "title": "کراچی میں انکروچمنٹ آپریشن کے دوران ٹیم پر حملہ اور ہنگامہ آرائی کرنے پر 33 ملزمان گرفتار",
         "summary": "",
         "url": "https://www.express.pk/story/2826380/33-suspects-arrested-for-attacking-team-and-creating-ruckus-during-encroachment-operation-in-karachi-2826380/",
@@ -1604,46 +1732,6 @@
         "url": "https://www.express.pk/story/2826378/karachi-met-dep-forecast-drizzle-in-the-city-2826378/",
         "source": "Express",
         "date": "2026-08-08T18:39:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "کامریڈ نذیر عباسی اور جین زی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826377/comrade-nazir-abbasi-and-jane-zee-2826377/",
-        "source": "Express",
-        "date": "2026-08-08T18:36:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "Prince Harry, Meghan Markle’s next step may surprise William and Kate",
-        "summary": "Prince Harry, Meghan Markle’s next step may surprise William and Kate",
-        "url": "https://arynews.tv/prince-harry-meghan-markles-next-step-may-surprise-william-and-kate",
-        "source": "ARY News",
-        "date": "2026-08-08T18:30:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-4-1.jpg"
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826375/mecca-defense-pact-2826375/",
-        "source": "Express",
-        "date": "2026-08-08T18:27:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "Spain deploys 275 firefighters to tackle Andalusia forest blaze",
-        "summary": "Spain deploys 275 firefighters to tackle Andalusia forest blaze",
-        "url": "https://arynews.tv/spain-deploys-275-firefighters-to-tackle-andalusia-forest-blaze",
-        "source": "ARY News",
-        "date": "2026-08-08T18:12:24+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-08T180925.692.jpg"
-      },
-      {
-        "title": "Heavy rain disrupts traffic, daily life in Lahore’s low-lying areas",
-        "summary": "<p>LAHORE: <a href=\"https://www.dawn.com/news/2021348/rain-in-central-punjab\">Heavy rain</a> lashed Lahore on Saturday, inundating low-lying areas, major roads and several underpasses, making movement difficult for pedestrians and motorists in different parts of the city.</p> <p>The downpour <a href=\"https://www.dawn.c",
-        "url": "https://www.dawn.com/news/2021490/heavy-rain-disrupts-traffic-daily-life-in-lahores-low-lying-areas",
-        "source": "Dawn",
-        "date": "2026-08-08T17:02:16+05:00",
         "img": ""
       },
       {
@@ -1663,11 +1751,11 @@
         "img": ""
       },
       {
-        "title": "OIC welcomes Pak-Saudi-Turkiye joint defence pact, calls it 'important strategic step'",
-        "summary": "<p>The Organisation of Islamic Cooperation (OIC) has welcomed the <a href=\"https://www.dawn.com/news/2021248\">signing</a> of the Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Türkiye, terming it an “important strategic step”.</p> <p>The pact aims to strengthen collective deterrence and empowers the ",
-        "url": "https://www.dawn.com/news/2021475/oic-welcomes-pak-saudi-turkiye-joint-defence-pact-calls-it-important-strategic-step",
-        "source": "Dawn",
-        "date": "2026-08-08T14:42:30+05:00",
+        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
+        "source": "Express",
+        "date": "2026-08-08T14:39:33+00:00",
         "img": ""
       },
       {
@@ -1684,86 +1772,6 @@
         "url": "https://www.express.pk/story/2826391/us-j-d-vance-iran-confirm-not-to-toll-tax-strait-of-hurmuz-2826391/",
         "source": "Express",
         "date": "2026-08-08T14:05:16+00:00",
-        "img": ""
-      },
-      {
-        "title": "Senate, NA leadership pledge closer cooperation for stable parliamentary system",
-        "summary": "<p>ISLAMABAD: The leadership of the Senate and National Assembly on Saturday agreed to enhance institutional cooperation and coordination for a stable parliamentary democratic system.</p> <p>According to a statement issued by the Senate Secretariat, Senate Chairman Yousuf Raza Gilani met National Assembly Speaker Sarda",
-        "url": "https://www.dawn.com/news/2021469/senate-na-leadership-pledge-closer-cooperation-for-stable-parliamentary-system",
-        "source": "Dawn",
-        "date": "2026-08-08T12:38:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "Naqvi sets Sept 30 deadline for Safe City expansion in Islamabad",
-        "summary": "<p>ISLAMABAD: Interior Minister Mohsin Naqvi on Friday directed that the Islamabad Safe City expansion project be completed by Sept 30.</p> <p>During a visit to the Safe City Headquarters with Minister of State for Interior Tallal Chaudhry, the minister chaired a special meeting to review progress on the project.</p> <",
-        "url": "https://www.dawn.com/news/2021319/naqvi-sets-sept-30-deadline-for-safe-city-expansion-in-islamabad",
-        "source": "Dawn",
-        "date": "2026-08-08T09:12:47+05:00",
-        "img": ""
-      },
-      {
-        "title": "35 officers posted against newly created additional assistant commissioners posts across Punjab",
-        "summary": "<p>LAHORE: The Punjab government on Friday posted 35 PAS and PMS officers against newly created additional assistant commissioners (AACs) posts in tehsils across the province to ease mounting governance pressure on district administration amid, what it called, an unprecedented expansion in governance and public service",
-        "url": "https://www.dawn.com/news/2021354/35-officers-posted-against-newly-created-additional-assistant-commissioners-posts-across-punjab",
-        "source": "Dawn",
-        "date": "2026-08-08T08:43:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "Five more cops in Lahore get bail in AGP Mansoor Awan's house raid case",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021356\">https://www.dawn.com/news/2021356</a></p>",
-        "url": "https://www.dawn.com/news/2021452/five-more-cops-in-lahore-get-bail-in-agp-mansoor-awans-house-raid-case",
-        "source": "Dawn",
-        "date": "2026-08-08T08:41:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "Customer data in bank is property, its misuse may be a crime: LHC",
-        "summary": "<p>LAHORE: The Lahore High Court (LHC) has ruled that customer data entrusted to a bank constitutes “property” under the law and its dishonest misuse may amount to criminal breach of trust.</p> <p>Justice Tariq Saleem Sheikh issued the ruling granting post-arrest bail to a telecom franchise operator accused in a multi-",
-        "url": "https://www.dawn.com/news/2021357/customer-data-in-bank-is-property-its-misuse-may-be-a-crime-lhc",
-        "source": "Dawn",
-        "date": "2026-08-08T08:36:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "Govt restores original medical board for exhumation of IBA graduate Mir Raza Ali's body",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021395\">https://www.dawn.com/news/2021395</a></p>",
-        "url": "https://www.dawn.com/news/2021449/govt-restores-original-medical-board-for-exhumation-of-iba-graduate-mir-raza-alis-body",
-        "source": "Dawn",
-        "date": "2026-08-08T08:29:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "NAB chief urges withdrawal of Rs500m graft probe limit",
-        "summary": "<p>• Tells Senate panel bureau’s hands are tied under amended law to act against govt officials<br>• Says private sector accounts for 45pc of corruption</p> <p>ISLAMABAD: The National Account­abi­lity Bureau (NAB) on Friday urged the government to withdraw a <a href=\"https://www.dawn.com/news/1711341\">restriction </a>t",
-        "url": "https://www.dawn.com/news/2021393/nab-chief-urges-withdrawal-of-rs500m-graft-probe-limit",
-        "source": "Dawn",
-        "date": "2026-08-08T08:02:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "Broad Peak search for bodies of 3 climbers paused",
-        "summary": "<p>• Mission to resume once weather improves<br>• Bodies of Nirmal Purja, four other foreign climbers flown to Islamabad for repatriation to their respective countries</p> <p>GILGIT: The search operation to recover the remains of Pakistani mountaineer Sohail Sakhi and two foreign climbers missing after the <a href=\"htt",
-        "url": "https://www.dawn.com/news/2021394/broad-peak-search-for-bodies-of-3-climbers-paused",
-        "source": "Dawn",
-        "date": "2026-08-08T07:56:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "Mine reforms sought after Sorange tragedy",
-        "summary": "<p>QUETTA: The National Labour Federation (NLF) Balochistan, while expressing serious concern over the deteriorating safety situation in coal mines, has demanded reforms in mine safety in the wake of the recent coal mine tragedy that <a href=\"https://www.dawn.com/news/2020034/quetta-mine-search-op-ends-as-last-two-bodi",
-        "url": "https://www.dawn.com/news/2021387/mine-reforms-sought-after-sorange-tragedy",
-        "source": "Dawn",
-        "date": "2026-08-08T07:52:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "Govt's legal team to meet Presidency officials amid efforts to end deadlock over judges’ appointments",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021417\">https://www.dawn.com/news/2021417</a></p>",
-        "url": "https://www.dawn.com/news/2021441/govts-legal-team-to-meet-presidency-officials-amid-efforts-to-end-deadlock-over-judges-appointments",
-        "source": "Dawn",
-        "date": "2026-08-08T07:17:16+05:00",
         "img": ""
       },
       {
@@ -1796,14 +1804,6 @@
         "url": "https://khybernews.tv/saudi-arabia-turkiye-pakistan-sign-makkah-defence-pact/",
         "source": "Khyber News",
         "date": "2026-08-08T05:54:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "PHC rejects pleas of former Afghan judge, two others against arrest, deportation",
-        "summary": "<p>PESHAWAR: Peshawar High Court has rejected the pleas of a former judge of Afghanistan’s Supreme Court, a female social activist and an official of former Afghan intelligence directorate as well as their family members for protection against their arrest and deportation by Pakistani law-enforcement agencies.</p> <p>A",
-        "url": "https://www.dawn.com/news/2021316/phc-rejects-pleas-of-former-afghan-judge-two-others-against-arrest-deportation",
-        "source": "Dawn",
-        "date": "2026-08-08T05:23:55+05:00",
         "img": ""
       },
       {
@@ -1857,19 +1857,107 @@
     ],
     "punjab": [
       {
+        "title": "A press ban doesn't silence a story. It just removes the ability to verify it",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021613/ban-to-what-end\">https://www.dawn.com/news/2021613/ban-to-what-end</a></p>",
+        "url": "https://www.dawn.com/news/2021687/a-press-ban-doesnt-silence-a-story-it-just-removes-the-ability-to-verify-it",
+        "source": "Dawn",
+        "date": "2026-08-09T09:55:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "Islamabad Medical and Dental College launches clinical AI certification",
+        "summary": "<p>ISLAMABAD: The Islamabad Medical and Dental College (IMDC), in collaboration with Shaheed Zulfikar Ali Bhutto Medical University (SZABMU), has launched a clinical artificial intelligence (AI) healthcare certificate programme aimed at equipping healthcare professionals with the international standard skills.</p> <p>T",
+        "url": "https://www.dawn.com/news/2021532/islamabad-medical-and-dental-college-launches-clinical-ai-certification",
+        "source": "Dawn",
+        "date": "2026-08-09T09:52:44+05:00",
+        "img": ""
+      },
+      {
+        "title": "GB activists pay tribute to mountaineers lost in Broad Peak avalanche",
+        "summary": "<p>GILGIT: Civil society activists from Gilgit-Baltistan organised a candlelight vigil in Islamabad to pay tribute to the mountaineers who <a href=\"https://www.dawn.com/news/2019914\">lost their lives</a> in the recent avalanche on Broad Peak.</p> <p>A large number of citizens from different walks of life attended the e",
+        "url": "https://www.dawn.com/news/2021523/gb-activists-pay-tribute-to-mountaineers-lost-in-broad-peak-avalanche",
+        "source": "Dawn",
+        "date": "2026-08-09T09:51:06+05:00",
+        "img": ""
+      },
+      {
+        "title": "Accelerated Skills Development Programme students complain about harassment, stipend denial at KP's UET",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021544\">https://www.dawn.com/news/2021544</a></p>",
+        "url": "https://www.dawn.com/news/2021686/accelerated-skills-development-programme-students-complain-about-harassment-stipend-denial-at-kps-uet",
+        "source": "Dawn",
+        "date": "2026-08-09T09:45:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Pakistan's counterterrorism paradox",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021616/counterterrorism-paradox\">https://www.dawn.com/news/2021616/counterterrorism-paradox</a></p>",
+        "url": "https://www.dawn.com/news/2021685/pakistans-counterterrorism-paradox",
+        "source": "Dawn",
+        "date": "2026-08-09T09:39:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "‘Conservation, responsible utilisation’ of chilghoza forests afoot in KP",
+        "summary": "<p>PESHAWAR: The Khyber Pakhtunkhwa forestry department’s Directorate of Non-Timber Forest Products has developed the Chilghoza Forest Ecosystem Management Plan as a strategic framework for conservation, restoration, responsible utilisation of pine nut forests, which generate over Rs10 billion annually for the province",
+        "url": "https://www.dawn.com/news/2021546/conservation-responsible-utilisation-of-chilghoza-forests-afoot-in-kp",
+        "source": "Dawn",
+        "date": "2026-08-09T09:34:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "Harmonisation of non-wage facilities for district judiciary awaits KP govt nod",
+        "summary": "<p>PESHAWAR: Two summaries put up by the Peshawar High Court to the Khyber Pakhtunkhwa government in March this year are awaiting approval for the harmonisation of non-wage facilities offered to the district judiciary throughout the country in line with a decision of the National Judicial Policy Making Committee (NJPMC",
+        "url": "https://www.dawn.com/news/2021549/harmonisation-of-non-wage-facilities-for-district-judiciary-awaits-kp-govt-nod",
+        "source": "Dawn",
+        "date": "2026-08-09T09:32:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Hub industries face acute water crisis as leaders allege systematic deprivation of water share",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021623\">https://www.dawn.com/news/2021623</a></p>",
+        "url": "https://www.dawn.com/news/2021680/hub-industries-face-acute-water-crisis-as-leaders-allege-systematic-deprivation-of-water-share",
+        "source": "Dawn",
+        "date": "2026-08-09T08:50:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "Civil awards approved for 78 martyrs, ghazis",
+        "summary": "<p>ISLAMABAD: A special committee on gallantry awards, chaired by Interior Minister Mohsin Naqvi, on Saturday approved civil awards for martyrs who laid down their lives for the country and ghazis who displayed exceptional courage and bravery.</p> <p>The committee approved civil honours for 78 individuals in various ca",
+        "url": "https://www.dawn.com/news/2021645/civil-awards-approved-for-78-martyrs-ghazis",
+        "source": "Dawn",
+        "date": "2026-08-09T08:38:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "Pakistan bags one gold, two silver medals at Nuclear Science Olympiad in Saudi Arabia",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021650\">https://www.dawn.com/news/2021650</a></p>",
+        "url": "https://www.dawn.com/news/2021678/pakistan-bags-one-gold-two-silver-medals-at-nuclear-science-olympiad-in-saudi-arabia",
+        "source": "Dawn",
+        "date": "2026-08-09T08:36:18+05:00",
+        "img": ""
+      },
+      {
+        "title": "LG by-polls in Balochistan's Khuzdar, Kalat, Hub postponed",
+        "summary": "<p>QUETTA: The Election Commission of Pakistan (ECP) has postponed the second phase of local government by-elections for seats in Khuzdar, Kalat and Hub districts of Balochistan due to the prevailing law and order situation, while the scheduled by-polls in Zhob, Loralai and Sibi will be held on Sunday.</p> <p>All arran",
+        "url": "https://www.dawn.com/news/2021647/lg-by-polls-in-balochistans-khuzdar-kalat-hub-postponed",
+        "source": "Dawn",
+        "date": "2026-08-09T08:33:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "Farmers block National Highway in Balochistan's Naseerabad over closure of irrigation water",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021646\">https://www.dawn.com/news/2021646</a></p>",
+        "url": "https://www.dawn.com/news/2021677/farmers-block-national-highway-in-balochistans-naseerabad-over-closure-of-irrigation-water",
+        "source": "Dawn",
+        "date": "2026-08-09T08:30:46+05:00",
+        "img": ""
+      },
+      {
         "title": "Unregulated placer gold mining in streams, rivers threaten ecosystem of Gilgit-Baltistan",
         "summary": "<p><a href=\"https://www.dawn.com/news/2021627\">https://www.dawn.com/news/2021627</a></p>",
         "url": "https://www.dawn.com/news/2021676/unregulated-placer-gold-mining-in-streams-rivers-threaten-ecosystem-of-gilgit-baltistan",
         "source": "Dawn",
         "date": "2026-08-09T08:25:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "Pakistan bags three medals at Nuclear Science Olympiad",
-        "summary": "<p>ISLAMABAD: A Pakis­tan team has won one gold and two silver medals at the 3rd International Nuclear Science Olympiad (INSO-2026), held in Jeddah, Saudi Arabia from Aug 2 to 8.</p> <p>Supported by the Inter­national Atomic Energy Agency (IAEA), the competition brought together around 120 students and experts from 19 ",
-        "url": "https://www.dawn.com/news/2021650/pakistan-bags-three-medals-at-nuclear-science-olympiad",
-        "source": "Dawn",
-        "date": "2026-08-09T08:21:28+05:00",
         "img": ""
       },
       {
@@ -1889,14 +1977,6 @@
         "img": ""
       },
       {
-        "title": "IHC seeks govt reply over withholding tax hike on goods transportation",
-        "summary": "<p>• Petitioners term concessional treatment of oil tanker contractors ‘discriminatory’<br>• Argue distinction based merely on nature of goods being transported</p> <p>ISLAMABAD: The Islamabad High Court (IHC) has sought responses from the federal government, the Federal Board of Revenue (FBR) and other respondents on ",
-        "url": "https://www.dawn.com/news/2021632/ihc-seeks-govt-reply-over-withholding-tax-hike-on-goods-transportation",
-        "source": "Dawn",
-        "date": "2026-08-09T07:44:35+05:00",
-        "img": ""
-      },
-      {
         "title": "SC sets aside orders to restore BISP retailer’s blocked ID",
         "summary": "<p>ISLAMABAD: The Supreme Court on Saturday ruled that a complaint filed by a Point-of-Sale (PoS) agent against the Ben­azir Income Support Programme (BISP) over the blocking of his retailer ID was not maintainable under consumer protection laws, as the relationship did not constitute a “consumer service” arrangement.<",
         "url": "https://www.dawn.com/news/2021654/sc-sets-aside-orders-to-restore-bisp-retailers-blocked-id",
@@ -1910,6 +1990,30 @@
         "url": "https://www.dawn.com/news/2021669/transporters-strike-threatens-industry-exports-as-movement-of-over-400000-goods-carrying-vehicles-suspended",
         "source": "Dawn",
         "date": "2026-08-09T07:26:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "Torkham road blocked for second day against trader’s kidnapping",
+        "summary": "<p>KHYBER: The main Peshawar-Torkham Highway remained blocked for the second consecutive day on Saturday as protesters refused to end their protest till the recovery of an abducted local trader.</p> <p>Unidentified persons abducted Lal Zareef alias Haji Landai on Friday morning when stepped out of his home in Landi Kot",
+        "url": "https://www.dawn.com/news/2021543/torkham-road-blocked-for-second-day-against-traders-kidnapping",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "RDA asked to complete Murree Road beautification, marking work",
+        "summary": "<p>RAWALPINDI: Commissioner Salman Ghani on Saturday asked the Rawalpindi Development Authority (RDA) to improve the condition of Murree Road and launch beautification and road-marking work as soon as possible.</p> <p>The commissioner stated this while chairing a meeting at the RDA to review the proposed road-marking a",
+        "url": "https://www.dawn.com/news/2021531/rda-asked-to-complete-murree-road-beautification-marking-work",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Land revenue dept told to expedite division of joint holdings",
+        "summary": "<p>RAWALPINDI: The district administration on Saturday asked the land revenue department to speed up work on the distribution of joint land holdings to avoid litigation related to land in the district.</p> <p>To streamline property distribution, the provincial government launched the ‘Wanda Karao, Sukh Pao’ initiative,",
+        "url": "https://www.dawn.com/news/2021533/land-revenue-dept-told-to-expedite-division-of-joint-holdings",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:51+05:00",
         "img": ""
       },
       {
@@ -1993,14 +2097,6 @@
         "img": ""
       },
       {
-        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
-        "source": "Express",
-        "date": "2026-08-08T19:39:33+05:00",
-        "img": ""
-      },
-      {
         "title": "اے آئی ایجنٹس کے سائبر حملوں کے لیے گروپ چیٹ بنانے سے متعلق انکشاف!",
         "summary": "",
         "url": "https://www.express.pk/story/2826395/swarms-of-openai-systems-2826395/",
@@ -2057,6 +2153,14 @@
         "img": ""
       },
       {
+        "title": "کیا پروموشنل ایونٹ میں پریتی زنٹا نے عامر خان کو نظر انداز کیا تھا؟ حقیقت سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826388/did-preity-zinta-ignore-aamir-khan-at-a-promotional-event-the-truth-has-come-out-2826388/",
+        "source": "Express",
+        "date": "2026-08-08T18:57:26+05:00",
+        "img": ""
+      },
+      {
         "title": "پسپائی",
         "summary": "",
         "url": "https://www.express.pk/story/2826387/retreat-2826387/",
@@ -2078,6 +2182,14 @@
         "url": "https://www.express.pk/story/2826384/mecca-defense-pact-the-other-side-of-the-coin-should-also-be-clear-2826384/",
         "source": "Express",
         "date": "2026-08-08T18:49:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "سوارا بھاسکر ڈینگی کا شکار ہوگئیں، اسپتال میں داخل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826383/swara-bhaskar-falls-victim-to-dengue-admitted-to-hospital-2826383/",
+        "source": "Express",
+        "date": "2026-08-08T18:49:48+05:00",
         "img": ""
       },
       {
@@ -2105,30 +2217,6 @@
         "img": ""
       },
       {
-        "title": "کامریڈ نذیر عباسی اور جین زی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826377/comrade-nazir-abbasi-and-jane-zee-2826377/",
-        "source": "Express",
-        "date": "2026-08-08T18:36:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826375/mecca-defense-pact-2826375/",
-        "source": "Express",
-        "date": "2026-08-08T18:27:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "Heavy rain disrupts traffic, daily life in Lahore’s low-lying areas",
-        "summary": "<p>LAHORE: <a href=\"https://www.dawn.com/news/2021348/rain-in-central-punjab\">Heavy rain</a> lashed Lahore on Saturday, inundating low-lying areas, major roads and several underpasses, making movement difficult for pedestrians and motorists in different parts of the city.</p> <p>The downpour <a href=\"https://www.dawn.c",
-        "url": "https://www.dawn.com/news/2021490/heavy-rain-disrupts-traffic-daily-life-in-lahores-low-lying-areas",
-        "source": "Dawn",
-        "date": "2026-08-08T17:02:16+05:00",
-        "img": ""
-      },
-      {
         "title": "پاک سعودی ترک دفاعی معاہدہ، کراچی سبز و سرخ روشنیوں میں نہا گیا",
         "summary": "",
         "url": "https://www.express.pk/story/2826400/pakistan-saudi-turkey-defense-agreement-karachi-bathed-in-green-and-red-lights-2826400/",
@@ -2145,11 +2233,11 @@
         "img": ""
       },
       {
-        "title": "OIC welcomes Pak-Saudi-Turkiye joint defence pact, calls it 'important strategic step'",
-        "summary": "<p>The Organisation of Islamic Cooperation (OIC) has welcomed the <a href=\"https://www.dawn.com/news/2021248\">signing</a> of the Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Türkiye, terming it an “important strategic step”.</p> <p>The pact aims to strengthen collective deterrence and empowers the ",
-        "url": "https://www.dawn.com/news/2021475/oic-welcomes-pak-saudi-turkiye-joint-defence-pact-calls-it-important-strategic-step",
-        "source": "Dawn",
-        "date": "2026-08-08T14:42:30+05:00",
+        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
+        "source": "Express",
+        "date": "2026-08-08T14:39:33+00:00",
         "img": ""
       },
       {
@@ -2166,112 +2254,112 @@
         "url": "https://www.express.pk/story/2826391/us-j-d-vance-iran-confirm-not-to-toll-tax-strait-of-hurmuz-2826391/",
         "source": "Express",
         "date": "2026-08-08T14:05:16+00:00",
-        "img": ""
-      },
-      {
-        "title": "Senate, NA leadership pledge closer cooperation for stable parliamentary system",
-        "summary": "<p>ISLAMABAD: The leadership of the Senate and National Assembly on Saturday agreed to enhance institutional cooperation and coordination for a stable parliamentary democratic system.</p> <p>According to a statement issued by the Senate Secretariat, Senate Chairman Yousuf Raza Gilani met National Assembly Speaker Sarda",
-        "url": "https://www.dawn.com/news/2021469/senate-na-leadership-pledge-closer-cooperation-for-stable-parliamentary-system",
-        "source": "Dawn",
-        "date": "2026-08-08T12:38:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "Naqvi sets Sept 30 deadline for Safe City expansion in Islamabad",
-        "summary": "<p>ISLAMABAD: Interior Minister Mohsin Naqvi on Friday directed that the Islamabad Safe City expansion project be completed by Sept 30.</p> <p>During a visit to the Safe City Headquarters with Minister of State for Interior Tallal Chaudhry, the minister chaired a special meeting to review progress on the project.</p> <",
-        "url": "https://www.dawn.com/news/2021319/naqvi-sets-sept-30-deadline-for-safe-city-expansion-in-islamabad",
-        "source": "Dawn",
-        "date": "2026-08-08T09:12:47+05:00",
-        "img": ""
-      },
-      {
-        "title": "35 officers posted against newly created additional assistant commissioners posts across Punjab",
-        "summary": "<p>LAHORE: The Punjab government on Friday posted 35 PAS and PMS officers against newly created additional assistant commissioners (AACs) posts in tehsils across the province to ease mounting governance pressure on district administration amid, what it called, an unprecedented expansion in governance and public service",
-        "url": "https://www.dawn.com/news/2021354/35-officers-posted-against-newly-created-additional-assistant-commissioners-posts-across-punjab",
-        "source": "Dawn",
-        "date": "2026-08-08T08:43:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "Five more cops in Lahore get bail in AGP Mansoor Awan's house raid case",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021356\">https://www.dawn.com/news/2021356</a></p>",
-        "url": "https://www.dawn.com/news/2021452/five-more-cops-in-lahore-get-bail-in-agp-mansoor-awans-house-raid-case",
-        "source": "Dawn",
-        "date": "2026-08-08T08:41:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "Customer data in bank is property, its misuse may be a crime: LHC",
-        "summary": "<p>LAHORE: The Lahore High Court (LHC) has ruled that customer data entrusted to a bank constitutes “property” under the law and its dishonest misuse may amount to criminal breach of trust.</p> <p>Justice Tariq Saleem Sheikh issued the ruling granting post-arrest bail to a telecom franchise operator accused in a multi-",
-        "url": "https://www.dawn.com/news/2021357/customer-data-in-bank-is-property-its-misuse-may-be-a-crime-lhc",
-        "source": "Dawn",
-        "date": "2026-08-08T08:36:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "Govt restores original medical board for exhumation of IBA graduate Mir Raza Ali's body",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021395\">https://www.dawn.com/news/2021395</a></p>",
-        "url": "https://www.dawn.com/news/2021449/govt-restores-original-medical-board-for-exhumation-of-iba-graduate-mir-raza-alis-body",
-        "source": "Dawn",
-        "date": "2026-08-08T08:29:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "NAB chief urges withdrawal of Rs500m graft probe limit",
-        "summary": "<p>• Tells Senate panel bureau’s hands are tied under amended law to act against govt officials<br>• Says private sector accounts for 45pc of corruption</p> <p>ISLAMABAD: The National Account­abi­lity Bureau (NAB) on Friday urged the government to withdraw a <a href=\"https://www.dawn.com/news/1711341\">restriction </a>t",
-        "url": "https://www.dawn.com/news/2021393/nab-chief-urges-withdrawal-of-rs500m-graft-probe-limit",
-        "source": "Dawn",
-        "date": "2026-08-08T08:02:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "Broad Peak search for bodies of 3 climbers paused",
-        "summary": "<p>• Mission to resume once weather improves<br>• Bodies of Nirmal Purja, four other foreign climbers flown to Islamabad for repatriation to their respective countries</p> <p>GILGIT: The search operation to recover the remains of Pakistani mountaineer Sohail Sakhi and two foreign climbers missing after the <a href=\"htt",
-        "url": "https://www.dawn.com/news/2021394/broad-peak-search-for-bodies-of-3-climbers-paused",
-        "source": "Dawn",
-        "date": "2026-08-08T07:56:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "Mine reforms sought after Sorange tragedy",
-        "summary": "<p>QUETTA: The National Labour Federation (NLF) Balochistan, while expressing serious concern over the deteriorating safety situation in coal mines, has demanded reforms in mine safety in the wake of the recent coal mine tragedy that <a href=\"https://www.dawn.com/news/2020034/quetta-mine-search-op-ends-as-last-two-bodi",
-        "url": "https://www.dawn.com/news/2021387/mine-reforms-sought-after-sorange-tragedy",
-        "source": "Dawn",
-        "date": "2026-08-08T07:52:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "Govt's legal team to meet Presidency officials amid efforts to end deadlock over judges’ appointments",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021417\">https://www.dawn.com/news/2021417</a></p>",
-        "url": "https://www.dawn.com/news/2021441/govts-legal-team-to-meet-presidency-officials-amid-efforts-to-end-deadlock-over-judges-appointments",
-        "source": "Dawn",
-        "date": "2026-08-08T07:17:16+05:00",
-        "img": ""
-      },
-      {
-        "title": "PHC rejects pleas of former Afghan judge, two others against arrest, deportation",
-        "summary": "<p>PESHAWAR: Peshawar High Court has rejected the pleas of a former judge of Afghanistan’s Supreme Court, a female social activist and an official of former Afghan intelligence directorate as well as their family members for protection against their arrest and deportation by Pakistani law-enforcement agencies.</p> <p>A",
-        "url": "https://www.dawn.com/news/2021316/phc-rejects-pleas-of-former-afghan-judge-two-others-against-arrest-deportation",
-        "source": "Dawn",
-        "date": "2026-08-08T05:23:55+05:00",
         "img": ""
       }
     ],
     "sindh": [
       {
+        "title": "A press ban doesn't silence a story. It just removes the ability to verify it",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021613/ban-to-what-end\">https://www.dawn.com/news/2021613/ban-to-what-end</a></p>",
+        "url": "https://www.dawn.com/news/2021687/a-press-ban-doesnt-silence-a-story-it-just-removes-the-ability-to-verify-it",
+        "source": "Dawn",
+        "date": "2026-08-09T09:55:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "Islamabad Medical and Dental College launches clinical AI certification",
+        "summary": "<p>ISLAMABAD: The Islamabad Medical and Dental College (IMDC), in collaboration with Shaheed Zulfikar Ali Bhutto Medical University (SZABMU), has launched a clinical artificial intelligence (AI) healthcare certificate programme aimed at equipping healthcare professionals with the international standard skills.</p> <p>T",
+        "url": "https://www.dawn.com/news/2021532/islamabad-medical-and-dental-college-launches-clinical-ai-certification",
+        "source": "Dawn",
+        "date": "2026-08-09T09:52:44+05:00",
+        "img": ""
+      },
+      {
+        "title": "GB activists pay tribute to mountaineers lost in Broad Peak avalanche",
+        "summary": "<p>GILGIT: Civil society activists from Gilgit-Baltistan organised a candlelight vigil in Islamabad to pay tribute to the mountaineers who <a href=\"https://www.dawn.com/news/2019914\">lost their lives</a> in the recent avalanche on Broad Peak.</p> <p>A large number of citizens from different walks of life attended the e",
+        "url": "https://www.dawn.com/news/2021523/gb-activists-pay-tribute-to-mountaineers-lost-in-broad-peak-avalanche",
+        "source": "Dawn",
+        "date": "2026-08-09T09:51:06+05:00",
+        "img": ""
+      },
+      {
+        "title": "Accelerated Skills Development Programme students complain about harassment, stipend denial at KP's UET",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021544\">https://www.dawn.com/news/2021544</a></p>",
+        "url": "https://www.dawn.com/news/2021686/accelerated-skills-development-programme-students-complain-about-harassment-stipend-denial-at-kps-uet",
+        "source": "Dawn",
+        "date": "2026-08-09T09:45:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Pakistan's counterterrorism paradox",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021616/counterterrorism-paradox\">https://www.dawn.com/news/2021616/counterterrorism-paradox</a></p>",
+        "url": "https://www.dawn.com/news/2021685/pakistans-counterterrorism-paradox",
+        "source": "Dawn",
+        "date": "2026-08-09T09:39:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "‘Conservation, responsible utilisation’ of chilghoza forests afoot in KP",
+        "summary": "<p>PESHAWAR: The Khyber Pakhtunkhwa forestry department’s Directorate of Non-Timber Forest Products has developed the Chilghoza Forest Ecosystem Management Plan as a strategic framework for conservation, restoration, responsible utilisation of pine nut forests, which generate over Rs10 billion annually for the province",
+        "url": "https://www.dawn.com/news/2021546/conservation-responsible-utilisation-of-chilghoza-forests-afoot-in-kp",
+        "source": "Dawn",
+        "date": "2026-08-09T09:34:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "Harmonisation of non-wage facilities for district judiciary awaits KP govt nod",
+        "summary": "<p>PESHAWAR: Two summaries put up by the Peshawar High Court to the Khyber Pakhtunkhwa government in March this year are awaiting approval for the harmonisation of non-wage facilities offered to the district judiciary throughout the country in line with a decision of the National Judicial Policy Making Committee (NJPMC",
+        "url": "https://www.dawn.com/news/2021549/harmonisation-of-non-wage-facilities-for-district-judiciary-awaits-kp-govt-nod",
+        "source": "Dawn",
+        "date": "2026-08-09T09:32:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Hub industries face acute water crisis as leaders allege systematic deprivation of water share",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021623\">https://www.dawn.com/news/2021623</a></p>",
+        "url": "https://www.dawn.com/news/2021680/hub-industries-face-acute-water-crisis-as-leaders-allege-systematic-deprivation-of-water-share",
+        "source": "Dawn",
+        "date": "2026-08-09T08:50:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "Civil awards approved for 78 martyrs, ghazis",
+        "summary": "<p>ISLAMABAD: A special committee on gallantry awards, chaired by Interior Minister Mohsin Naqvi, on Saturday approved civil awards for martyrs who laid down their lives for the country and ghazis who displayed exceptional courage and bravery.</p> <p>The committee approved civil honours for 78 individuals in various ca",
+        "url": "https://www.dawn.com/news/2021645/civil-awards-approved-for-78-martyrs-ghazis",
+        "source": "Dawn",
+        "date": "2026-08-09T08:38:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "Pakistan bags one gold, two silver medals at Nuclear Science Olympiad in Saudi Arabia",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021650\">https://www.dawn.com/news/2021650</a></p>",
+        "url": "https://www.dawn.com/news/2021678/pakistan-bags-one-gold-two-silver-medals-at-nuclear-science-olympiad-in-saudi-arabia",
+        "source": "Dawn",
+        "date": "2026-08-09T08:36:18+05:00",
+        "img": ""
+      },
+      {
+        "title": "LG by-polls in Balochistan's Khuzdar, Kalat, Hub postponed",
+        "summary": "<p>QUETTA: The Election Commission of Pakistan (ECP) has postponed the second phase of local government by-elections for seats in Khuzdar, Kalat and Hub districts of Balochistan due to the prevailing law and order situation, while the scheduled by-polls in Zhob, Loralai and Sibi will be held on Sunday.</p> <p>All arran",
+        "url": "https://www.dawn.com/news/2021647/lg-by-polls-in-balochistans-khuzdar-kalat-hub-postponed",
+        "source": "Dawn",
+        "date": "2026-08-09T08:33:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "Farmers block National Highway in Balochistan's Naseerabad over closure of irrigation water",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021646\">https://www.dawn.com/news/2021646</a></p>",
+        "url": "https://www.dawn.com/news/2021677/farmers-block-national-highway-in-balochistans-naseerabad-over-closure-of-irrigation-water",
+        "source": "Dawn",
+        "date": "2026-08-09T08:30:46+05:00",
+        "img": ""
+      },
+      {
         "title": "Unregulated placer gold mining in streams, rivers threaten ecosystem of Gilgit-Baltistan",
         "summary": "<p><a href=\"https://www.dawn.com/news/2021627\">https://www.dawn.com/news/2021627</a></p>",
         "url": "https://www.dawn.com/news/2021676/unregulated-placer-gold-mining-in-streams-rivers-threaten-ecosystem-of-gilgit-baltistan",
         "source": "Dawn",
         "date": "2026-08-09T08:25:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "Pakistan bags three medals at Nuclear Science Olympiad",
-        "summary": "<p>ISLAMABAD: A Pakis­tan team has won one gold and two silver medals at the 3rd International Nuclear Science Olympiad (INSO-2026), held in Jeddah, Saudi Arabia from Aug 2 to 8.</p> <p>Supported by the Inter­national Atomic Energy Agency (IAEA), the competition brought together around 120 students and experts from 19 ",
-        "url": "https://www.dawn.com/news/2021650/pakistan-bags-three-medals-at-nuclear-science-olympiad",
-        "source": "Dawn",
-        "date": "2026-08-09T08:21:28+05:00",
         "img": ""
       },
       {
@@ -2291,14 +2379,6 @@
         "img": ""
       },
       {
-        "title": "IHC seeks govt reply over withholding tax hike on goods transportation",
-        "summary": "<p>• Petitioners term concessional treatment of oil tanker contractors ‘discriminatory’<br>• Argue distinction based merely on nature of goods being transported</p> <p>ISLAMABAD: The Islamabad High Court (IHC) has sought responses from the federal government, the Federal Board of Revenue (FBR) and other respondents on ",
-        "url": "https://www.dawn.com/news/2021632/ihc-seeks-govt-reply-over-withholding-tax-hike-on-goods-transportation",
-        "source": "Dawn",
-        "date": "2026-08-09T07:44:35+05:00",
-        "img": ""
-      },
-      {
         "title": "SC sets aside orders to restore BISP retailer’s blocked ID",
         "summary": "<p>ISLAMABAD: The Supreme Court on Saturday ruled that a complaint filed by a Point-of-Sale (PoS) agent against the Ben­azir Income Support Programme (BISP) over the blocking of his retailer ID was not maintainable under consumer protection laws, as the relationship did not constitute a “consumer service” arrangement.<",
         "url": "https://www.dawn.com/news/2021654/sc-sets-aside-orders-to-restore-bisp-retailers-blocked-id",
@@ -2312,6 +2392,30 @@
         "url": "https://www.dawn.com/news/2021669/transporters-strike-threatens-industry-exports-as-movement-of-over-400000-goods-carrying-vehicles-suspended",
         "source": "Dawn",
         "date": "2026-08-09T07:26:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "Torkham road blocked for second day against trader’s kidnapping",
+        "summary": "<p>KHYBER: The main Peshawar-Torkham Highway remained blocked for the second consecutive day on Saturday as protesters refused to end their protest till the recovery of an abducted local trader.</p> <p>Unidentified persons abducted Lal Zareef alias Haji Landai on Friday morning when stepped out of his home in Landi Kot",
+        "url": "https://www.dawn.com/news/2021543/torkham-road-blocked-for-second-day-against-traders-kidnapping",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "RDA asked to complete Murree Road beautification, marking work",
+        "summary": "<p>RAWALPINDI: Commissioner Salman Ghani on Saturday asked the Rawalpindi Development Authority (RDA) to improve the condition of Murree Road and launch beautification and road-marking work as soon as possible.</p> <p>The commissioner stated this while chairing a meeting at the RDA to review the proposed road-marking a",
+        "url": "https://www.dawn.com/news/2021531/rda-asked-to-complete-murree-road-beautification-marking-work",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Land revenue dept told to expedite division of joint holdings",
+        "summary": "<p>RAWALPINDI: The district administration on Saturday asked the land revenue department to speed up work on the distribution of joint land holdings to avoid litigation related to land in the district.</p> <p>To streamline property distribution, the provincial government launched the ‘Wanda Karao, Sukh Pao’ initiative,",
+        "url": "https://www.dawn.com/news/2021533/land-revenue-dept-told-to-expedite-division-of-joint-holdings",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:51+05:00",
         "img": ""
       },
       {
@@ -2395,14 +2499,6 @@
         "img": ""
       },
       {
-        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
-        "source": "Express",
-        "date": "2026-08-08T19:39:33+05:00",
-        "img": ""
-      },
-      {
         "title": "اے آئی ایجنٹس کے سائبر حملوں کے لیے گروپ چیٹ بنانے سے متعلق انکشاف!",
         "summary": "",
         "url": "https://www.express.pk/story/2826395/swarms-of-openai-systems-2826395/",
@@ -2459,6 +2555,14 @@
         "img": ""
       },
       {
+        "title": "کیا پروموشنل ایونٹ میں پریتی زنٹا نے عامر خان کو نظر انداز کیا تھا؟ حقیقت سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826388/did-preity-zinta-ignore-aamir-khan-at-a-promotional-event-the-truth-has-come-out-2826388/",
+        "source": "Express",
+        "date": "2026-08-08T18:57:26+05:00",
+        "img": ""
+      },
+      {
         "title": "پسپائی",
         "summary": "",
         "url": "https://www.express.pk/story/2826387/retreat-2826387/",
@@ -2480,6 +2584,14 @@
         "url": "https://www.express.pk/story/2826384/mecca-defense-pact-the-other-side-of-the-coin-should-also-be-clear-2826384/",
         "source": "Express",
         "date": "2026-08-08T18:49:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "سوارا بھاسکر ڈینگی کا شکار ہوگئیں، اسپتال میں داخل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826383/swara-bhaskar-falls-victim-to-dengue-admitted-to-hospital-2826383/",
+        "source": "Express",
+        "date": "2026-08-08T18:49:48+05:00",
         "img": ""
       },
       {
@@ -2507,30 +2619,6 @@
         "img": ""
       },
       {
-        "title": "کامریڈ نذیر عباسی اور جین زی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826377/comrade-nazir-abbasi-and-jane-zee-2826377/",
-        "source": "Express",
-        "date": "2026-08-08T18:36:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826375/mecca-defense-pact-2826375/",
-        "source": "Express",
-        "date": "2026-08-08T18:27:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "Heavy rain disrupts traffic, daily life in Lahore’s low-lying areas",
-        "summary": "<p>LAHORE: <a href=\"https://www.dawn.com/news/2021348/rain-in-central-punjab\">Heavy rain</a> lashed Lahore on Saturday, inundating low-lying areas, major roads and several underpasses, making movement difficult for pedestrians and motorists in different parts of the city.</p> <p>The downpour <a href=\"https://www.dawn.c",
-        "url": "https://www.dawn.com/news/2021490/heavy-rain-disrupts-traffic-daily-life-in-lahores-low-lying-areas",
-        "source": "Dawn",
-        "date": "2026-08-08T17:02:16+05:00",
-        "img": ""
-      },
-      {
         "title": "پاک سعودی ترک دفاعی معاہدہ، کراچی سبز و سرخ روشنیوں میں نہا گیا",
         "summary": "",
         "url": "https://www.express.pk/story/2826400/pakistan-saudi-turkey-defense-agreement-karachi-bathed-in-green-and-red-lights-2826400/",
@@ -2547,11 +2635,11 @@
         "img": ""
       },
       {
-        "title": "OIC welcomes Pak-Saudi-Turkiye joint defence pact, calls it 'important strategic step'",
-        "summary": "<p>The Organisation of Islamic Cooperation (OIC) has welcomed the <a href=\"https://www.dawn.com/news/2021248\">signing</a> of the Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Türkiye, terming it an “important strategic step”.</p> <p>The pact aims to strengthen collective deterrence and empowers the ",
-        "url": "https://www.dawn.com/news/2021475/oic-welcomes-pak-saudi-turkiye-joint-defence-pact-calls-it-important-strategic-step",
-        "source": "Dawn",
-        "date": "2026-08-08T14:42:30+05:00",
+        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
+        "source": "Express",
+        "date": "2026-08-08T14:39:33+00:00",
         "img": ""
       },
       {
@@ -2568,112 +2656,136 @@
         "url": "https://www.express.pk/story/2826391/us-j-d-vance-iran-confirm-not-to-toll-tax-strait-of-hurmuz-2826391/",
         "source": "Express",
         "date": "2026-08-08T14:05:16+00:00",
-        "img": ""
-      },
-      {
-        "title": "Senate, NA leadership pledge closer cooperation for stable parliamentary system",
-        "summary": "<p>ISLAMABAD: The leadership of the Senate and National Assembly on Saturday agreed to enhance institutional cooperation and coordination for a stable parliamentary democratic system.</p> <p>According to a statement issued by the Senate Secretariat, Senate Chairman Yousuf Raza Gilani met National Assembly Speaker Sarda",
-        "url": "https://www.dawn.com/news/2021469/senate-na-leadership-pledge-closer-cooperation-for-stable-parliamentary-system",
-        "source": "Dawn",
-        "date": "2026-08-08T12:38:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "Naqvi sets Sept 30 deadline for Safe City expansion in Islamabad",
-        "summary": "<p>ISLAMABAD: Interior Minister Mohsin Naqvi on Friday directed that the Islamabad Safe City expansion project be completed by Sept 30.</p> <p>During a visit to the Safe City Headquarters with Minister of State for Interior Tallal Chaudhry, the minister chaired a special meeting to review progress on the project.</p> <",
-        "url": "https://www.dawn.com/news/2021319/naqvi-sets-sept-30-deadline-for-safe-city-expansion-in-islamabad",
-        "source": "Dawn",
-        "date": "2026-08-08T09:12:47+05:00",
-        "img": ""
-      },
-      {
-        "title": "35 officers posted against newly created additional assistant commissioners posts across Punjab",
-        "summary": "<p>LAHORE: The Punjab government on Friday posted 35 PAS and PMS officers against newly created additional assistant commissioners (AACs) posts in tehsils across the province to ease mounting governance pressure on district administration amid, what it called, an unprecedented expansion in governance and public service",
-        "url": "https://www.dawn.com/news/2021354/35-officers-posted-against-newly-created-additional-assistant-commissioners-posts-across-punjab",
-        "source": "Dawn",
-        "date": "2026-08-08T08:43:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "Five more cops in Lahore get bail in AGP Mansoor Awan's house raid case",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021356\">https://www.dawn.com/news/2021356</a></p>",
-        "url": "https://www.dawn.com/news/2021452/five-more-cops-in-lahore-get-bail-in-agp-mansoor-awans-house-raid-case",
-        "source": "Dawn",
-        "date": "2026-08-08T08:41:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "Customer data in bank is property, its misuse may be a crime: LHC",
-        "summary": "<p>LAHORE: The Lahore High Court (LHC) has ruled that customer data entrusted to a bank constitutes “property” under the law and its dishonest misuse may amount to criminal breach of trust.</p> <p>Justice Tariq Saleem Sheikh issued the ruling granting post-arrest bail to a telecom franchise operator accused in a multi-",
-        "url": "https://www.dawn.com/news/2021357/customer-data-in-bank-is-property-its-misuse-may-be-a-crime-lhc",
-        "source": "Dawn",
-        "date": "2026-08-08T08:36:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "Govt restores original medical board for exhumation of IBA graduate Mir Raza Ali's body",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021395\">https://www.dawn.com/news/2021395</a></p>",
-        "url": "https://www.dawn.com/news/2021449/govt-restores-original-medical-board-for-exhumation-of-iba-graduate-mir-raza-alis-body",
-        "source": "Dawn",
-        "date": "2026-08-08T08:29:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "NAB chief urges withdrawal of Rs500m graft probe limit",
-        "summary": "<p>• Tells Senate panel bureau’s hands are tied under amended law to act against govt officials<br>• Says private sector accounts for 45pc of corruption</p> <p>ISLAMABAD: The National Account­abi­lity Bureau (NAB) on Friday urged the government to withdraw a <a href=\"https://www.dawn.com/news/1711341\">restriction </a>t",
-        "url": "https://www.dawn.com/news/2021393/nab-chief-urges-withdrawal-of-rs500m-graft-probe-limit",
-        "source": "Dawn",
-        "date": "2026-08-08T08:02:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "Broad Peak search for bodies of 3 climbers paused",
-        "summary": "<p>• Mission to resume once weather improves<br>• Bodies of Nirmal Purja, four other foreign climbers flown to Islamabad for repatriation to their respective countries</p> <p>GILGIT: The search operation to recover the remains of Pakistani mountaineer Sohail Sakhi and two foreign climbers missing after the <a href=\"htt",
-        "url": "https://www.dawn.com/news/2021394/broad-peak-search-for-bodies-of-3-climbers-paused",
-        "source": "Dawn",
-        "date": "2026-08-08T07:56:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "Mine reforms sought after Sorange tragedy",
-        "summary": "<p>QUETTA: The National Labour Federation (NLF) Balochistan, while expressing serious concern over the deteriorating safety situation in coal mines, has demanded reforms in mine safety in the wake of the recent coal mine tragedy that <a href=\"https://www.dawn.com/news/2020034/quetta-mine-search-op-ends-as-last-two-bodi",
-        "url": "https://www.dawn.com/news/2021387/mine-reforms-sought-after-sorange-tragedy",
-        "source": "Dawn",
-        "date": "2026-08-08T07:52:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "Govt's legal team to meet Presidency officials amid efforts to end deadlock over judges’ appointments",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021417\">https://www.dawn.com/news/2021417</a></p>",
-        "url": "https://www.dawn.com/news/2021441/govts-legal-team-to-meet-presidency-officials-amid-efforts-to-end-deadlock-over-judges-appointments",
-        "source": "Dawn",
-        "date": "2026-08-08T07:17:16+05:00",
-        "img": ""
-      },
-      {
-        "title": "PHC rejects pleas of former Afghan judge, two others against arrest, deportation",
-        "summary": "<p>PESHAWAR: Peshawar High Court has rejected the pleas of a former judge of Afghanistan’s Supreme Court, a female social activist and an official of former Afghan intelligence directorate as well as their family members for protection against their arrest and deportation by Pakistani law-enforcement agencies.</p> <p>A",
-        "url": "https://www.dawn.com/news/2021316/phc-rejects-pleas-of-former-afghan-judge-two-others-against-arrest-deportation",
-        "source": "Dawn",
-        "date": "2026-08-08T05:23:55+05:00",
         "img": ""
       }
     ],
     "baloch": [
       {
+        "title": "A press ban doesn't silence a story. It just removes the ability to verify it",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021613/ban-to-what-end\">https://www.dawn.com/news/2021613/ban-to-what-end</a></p>",
+        "url": "https://www.dawn.com/news/2021687/a-press-ban-doesnt-silence-a-story-it-just-removes-the-ability-to-verify-it",
+        "source": "Dawn",
+        "date": "2026-08-09T09:55:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "Islamabad Medical and Dental College launches clinical AI certification",
+        "summary": "<p>ISLAMABAD: The Islamabad Medical and Dental College (IMDC), in collaboration with Shaheed Zulfikar Ali Bhutto Medical University (SZABMU), has launched a clinical artificial intelligence (AI) healthcare certificate programme aimed at equipping healthcare professionals with the international standard skills.</p> <p>T",
+        "url": "https://www.dawn.com/news/2021532/islamabad-medical-and-dental-college-launches-clinical-ai-certification",
+        "source": "Dawn",
+        "date": "2026-08-09T09:52:44+05:00",
+        "img": ""
+      },
+      {
+        "title": "GB activists pay tribute to mountaineers lost in Broad Peak avalanche",
+        "summary": "<p>GILGIT: Civil society activists from Gilgit-Baltistan organised a candlelight vigil in Islamabad to pay tribute to the mountaineers who <a href=\"https://www.dawn.com/news/2019914\">lost their lives</a> in the recent avalanche on Broad Peak.</p> <p>A large number of citizens from different walks of life attended the e",
+        "url": "https://www.dawn.com/news/2021523/gb-activists-pay-tribute-to-mountaineers-lost-in-broad-peak-avalanche",
+        "source": "Dawn",
+        "date": "2026-08-09T09:51:06+05:00",
+        "img": ""
+      },
+      {
+        "title": "Accelerated Skills Development Programme students complain about harassment, stipend denial at KP's UET",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021544\">https://www.dawn.com/news/2021544</a></p>",
+        "url": "https://www.dawn.com/news/2021686/accelerated-skills-development-programme-students-complain-about-harassment-stipend-denial-at-kps-uet",
+        "source": "Dawn",
+        "date": "2026-08-09T09:45:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Pakistan's counterterrorism paradox",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021616/counterterrorism-paradox\">https://www.dawn.com/news/2021616/counterterrorism-paradox</a></p>",
+        "url": "https://www.dawn.com/news/2021685/pakistans-counterterrorism-paradox",
+        "source": "Dawn",
+        "date": "2026-08-09T09:39:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "‘Conservation, responsible utilisation’ of chilghoza forests afoot in KP",
+        "summary": "<p>PESHAWAR: The Khyber Pakhtunkhwa forestry department’s Directorate of Non-Timber Forest Products has developed the Chilghoza Forest Ecosystem Management Plan as a strategic framework for conservation, restoration, responsible utilisation of pine nut forests, which generate over Rs10 billion annually for the province",
+        "url": "https://www.dawn.com/news/2021546/conservation-responsible-utilisation-of-chilghoza-forests-afoot-in-kp",
+        "source": "Dawn",
+        "date": "2026-08-09T09:34:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "Harmonisation of non-wage facilities for district judiciary awaits KP govt nod",
+        "summary": "<p>PESHAWAR: Two summaries put up by the Peshawar High Court to the Khyber Pakhtunkhwa government in March this year are awaiting approval for the harmonisation of non-wage facilities offered to the district judiciary throughout the country in line with a decision of the National Judicial Policy Making Committee (NJPMC",
+        "url": "https://www.dawn.com/news/2021549/harmonisation-of-non-wage-facilities-for-district-judiciary-awaits-kp-govt-nod",
+        "source": "Dawn",
+        "date": "2026-08-09T09:32:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Ex-president Joe Biden’s cancer has spread, is very painful, son says",
+        "summary": "Ex-president Joe Biden’s cancer has spread, is very painful, son says",
+        "url": "https://arynews.tv/joe-bidens-cancer-has-spread-is-very-painful-son-says",
+        "source": "ARY News",
+        "date": "2026-08-09T09:17:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Joe-Biden-cancer-spread-son.jpg"
+      },
+      {
+        "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+        "summary": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+        "url": "https://arynews.tv/iran-says-deal-on-strait-of-hormuz-is-close",
+        "source": "ARY News",
+        "date": "2026-08-09T09:08:58+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Strait-of-Hormuz-Iran-IRGC-close.jpg"
+      },
+      {
+        "title": "xAI releases Grok Imagine Image 2.0",
+        "summary": "xAI releases Grok Imagine Image 2.0",
+        "url": "https://arynews.tv/xai-releases-grok-imagine-image-2-0",
+        "source": "ARY News",
+        "date": "2026-08-09T08:56:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/xAI-Grok-image-2.0.jpg"
+      },
+      {
+        "title": "Hub industries face acute water crisis as leaders allege systematic deprivation of water share",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021623\">https://www.dawn.com/news/2021623</a></p>",
+        "url": "https://www.dawn.com/news/2021680/hub-industries-face-acute-water-crisis-as-leaders-allege-systematic-deprivation-of-water-share",
+        "source": "Dawn",
+        "date": "2026-08-09T08:50:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "Civil awards approved for 78 martyrs, ghazis",
+        "summary": "<p>ISLAMABAD: A special committee on gallantry awards, chaired by Interior Minister Mohsin Naqvi, on Saturday approved civil awards for martyrs who laid down their lives for the country and ghazis who displayed exceptional courage and bravery.</p> <p>The committee approved civil honours for 78 individuals in various ca",
+        "url": "https://www.dawn.com/news/2021645/civil-awards-approved-for-78-martyrs-ghazis",
+        "source": "Dawn",
+        "date": "2026-08-09T08:38:49+05:00",
+        "img": ""
+      },
+      {
+        "title": "Pakistan bags one gold, two silver medals at Nuclear Science Olympiad in Saudi Arabia",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021650\">https://www.dawn.com/news/2021650</a></p>",
+        "url": "https://www.dawn.com/news/2021678/pakistan-bags-one-gold-two-silver-medals-at-nuclear-science-olympiad-in-saudi-arabia",
+        "source": "Dawn",
+        "date": "2026-08-09T08:36:18+05:00",
+        "img": ""
+      },
+      {
+        "title": "LG by-polls in Balochistan's Khuzdar, Kalat, Hub postponed",
+        "summary": "<p>QUETTA: The Election Commission of Pakistan (ECP) has postponed the second phase of local government by-elections for seats in Khuzdar, Kalat and Hub districts of Balochistan due to the prevailing law and order situation, while the scheduled by-polls in Zhob, Loralai and Sibi will be held on Sunday.</p> <p>All arran",
+        "url": "https://www.dawn.com/news/2021647/lg-by-polls-in-balochistans-khuzdar-kalat-hub-postponed",
+        "source": "Dawn",
+        "date": "2026-08-09T08:33:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "Farmers block National Highway in Balochistan's Naseerabad over closure of irrigation water",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021646\">https://www.dawn.com/news/2021646</a></p>",
+        "url": "https://www.dawn.com/news/2021677/farmers-block-national-highway-in-balochistans-naseerabad-over-closure-of-irrigation-water",
+        "source": "Dawn",
+        "date": "2026-08-09T08:30:46+05:00",
+        "img": ""
+      },
+      {
         "title": "Unregulated placer gold mining in streams, rivers threaten ecosystem of Gilgit-Baltistan",
         "summary": "<p><a href=\"https://www.dawn.com/news/2021627\">https://www.dawn.com/news/2021627</a></p>",
         "url": "https://www.dawn.com/news/2021676/unregulated-placer-gold-mining-in-streams-rivers-threaten-ecosystem-of-gilgit-baltistan",
         "source": "Dawn",
         "date": "2026-08-09T08:25:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "Pakistan bags three medals at Nuclear Science Olympiad",
-        "summary": "<p>ISLAMABAD: A Pakis­tan team has won one gold and two silver medals at the 3rd International Nuclear Science Olympiad (INSO-2026), held in Jeddah, Saudi Arabia from Aug 2 to 8.</p> <p>Supported by the Inter­national Atomic Energy Agency (IAEA), the competition brought together around 120 students and experts from 19 ",
-        "url": "https://www.dawn.com/news/2021650/pakistan-bags-three-medals-at-nuclear-science-olympiad",
-        "source": "Dawn",
-        "date": "2026-08-09T08:21:28+05:00",
         "img": ""
       },
       {
@@ -2693,14 +2805,6 @@
         "img": ""
       },
       {
-        "title": "IHC seeks govt reply over withholding tax hike on goods transportation",
-        "summary": "<p>• Petitioners term concessional treatment of oil tanker contractors ‘discriminatory’<br>• Argue distinction based merely on nature of goods being transported</p> <p>ISLAMABAD: The Islamabad High Court (IHC) has sought responses from the federal government, the Federal Board of Revenue (FBR) and other respondents on ",
-        "url": "https://www.dawn.com/news/2021632/ihc-seeks-govt-reply-over-withholding-tax-hike-on-goods-transportation",
-        "source": "Dawn",
-        "date": "2026-08-09T07:44:35+05:00",
-        "img": ""
-      },
-      {
         "title": "SC sets aside orders to restore BISP retailer’s blocked ID",
         "summary": "<p>ISLAMABAD: The Supreme Court on Saturday ruled that a complaint filed by a Point-of-Sale (PoS) agent against the Ben­azir Income Support Programme (BISP) over the blocking of his retailer ID was not maintainable under consumer protection laws, as the relationship did not constitute a “consumer service” arrangement.<",
         "url": "https://www.dawn.com/news/2021654/sc-sets-aside-orders-to-restore-bisp-retailers-blocked-id",
@@ -2714,6 +2818,30 @@
         "url": "https://www.dawn.com/news/2021669/transporters-strike-threatens-industry-exports-as-movement-of-over-400000-goods-carrying-vehicles-suspended",
         "source": "Dawn",
         "date": "2026-08-09T07:26:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "Torkham road blocked for second day against trader’s kidnapping",
+        "summary": "<p>KHYBER: The main Peshawar-Torkham Highway remained blocked for the second consecutive day on Saturday as protesters refused to end their protest till the recovery of an abducted local trader.</p> <p>Unidentified persons abducted Lal Zareef alias Haji Landai on Friday morning when stepped out of his home in Landi Kot",
+        "url": "https://www.dawn.com/news/2021543/torkham-road-blocked-for-second-day-against-traders-kidnapping",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "RDA asked to complete Murree Road beautification, marking work",
+        "summary": "<p>RAWALPINDI: Commissioner Salman Ghani on Saturday asked the Rawalpindi Development Authority (RDA) to improve the condition of Murree Road and launch beautification and road-marking work as soon as possible.</p> <p>The commissioner stated this while chairing a meeting at the RDA to review the proposed road-marking a",
+        "url": "https://www.dawn.com/news/2021531/rda-asked-to-complete-murree-road-beautification-marking-work",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "Land revenue dept told to expedite division of joint holdings",
+        "summary": "<p>RAWALPINDI: The district administration on Saturday asked the land revenue department to speed up work on the distribution of joint land holdings to avoid litigation related to land in the district.</p> <p>To streamline property distribution, the provincial government launched the ‘Wanda Karao, Sukh Pao’ initiative,",
+        "url": "https://www.dawn.com/news/2021533/land-revenue-dept-told-to-expedite-division-of-joint-holdings",
+        "source": "Dawn",
+        "date": "2026-08-09T05:45:51+05:00",
         "img": ""
       },
       {
@@ -2941,14 +3069,6 @@
         "img": ""
       },
       {
-        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
-        "source": "Express",
-        "date": "2026-08-08T19:39:33+05:00",
-        "img": ""
-      },
-      {
         "title": "‘No overloaded vehicle allowed on motorways’",
         "summary": "‘No overloaded vehicle allowed on motorways’",
         "url": "https://arynews.tv/no-overloaded-vehicle-allowed-on-motorways",
@@ -3029,6 +3149,14 @@
         "img": ""
       },
       {
+        "title": "کیا پروموشنل ایونٹ میں پریتی زنٹا نے عامر خان کو نظر انداز کیا تھا؟ حقیقت سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826388/did-preity-zinta-ignore-aamir-khan-at-a-promotional-event-the-truth-has-come-out-2826388/",
+        "source": "Express",
+        "date": "2026-08-08T18:57:26+05:00",
+        "img": ""
+      },
+      {
         "title": "پسپائی",
         "summary": "",
         "url": "https://www.express.pk/story/2826387/retreat-2826387/",
@@ -3053,6 +3181,14 @@
         "img": ""
       },
       {
+        "title": "سوارا بھاسکر ڈینگی کا شکار ہوگئیں، اسپتال میں داخل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826383/swara-bhaskar-falls-victim-to-dengue-admitted-to-hospital-2826383/",
+        "source": "Express",
+        "date": "2026-08-08T18:49:48+05:00",
+        "img": ""
+      },
+      {
         "title": "اپنا کچرا ساتھ لے کر جائیں!",
         "summary": "",
         "url": "https://www.express.pk/story/2826382/take-your-trash-with-you-2826382/",
@@ -3069,14 +3205,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-54.jpg"
       },
       {
-        "title": "Mir Raza case: Police examine parents’ divorce records",
-        "summary": "Mir Raza case: Police examine parents’ divorce records",
-        "url": "https://arynews.tv/mir-raza-case-police-examine-parents-divorce-records",
-        "source": "ARY News",
-        "date": "2026-08-08T18:42:27+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Raza.jpg"
-      },
-      {
         "title": "کراچی میں انکروچمنٹ آپریشن کے دوران ٹیم پر حملہ اور ہنگامہ آرائی کرنے پر 33 ملزمان گرفتار",
         "summary": "",
         "url": "https://www.express.pk/story/2826380/33-suspects-arrested-for-attacking-team-and-creating-ruckus-during-encroachment-operation-in-karachi-2826380/",
@@ -3090,46 +3218,6 @@
         "url": "https://www.express.pk/story/2826378/karachi-met-dep-forecast-drizzle-in-the-city-2826378/",
         "source": "Express",
         "date": "2026-08-08T18:39:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "کامریڈ نذیر عباسی اور جین زی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826377/comrade-nazir-abbasi-and-jane-zee-2826377/",
-        "source": "Express",
-        "date": "2026-08-08T18:36:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "Prince Harry, Meghan Markle’s next step may surprise William and Kate",
-        "summary": "Prince Harry, Meghan Markle’s next step may surprise William and Kate",
-        "url": "https://arynews.tv/prince-harry-meghan-markles-next-step-may-surprise-william-and-kate",
-        "source": "ARY News",
-        "date": "2026-08-08T18:30:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-4-1.jpg"
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826375/mecca-defense-pact-2826375/",
-        "source": "Express",
-        "date": "2026-08-08T18:27:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "Spain deploys 275 firefighters to tackle Andalusia forest blaze",
-        "summary": "Spain deploys 275 firefighters to tackle Andalusia forest blaze",
-        "url": "https://arynews.tv/spain-deploys-275-firefighters-to-tackle-andalusia-forest-blaze",
-        "source": "ARY News",
-        "date": "2026-08-08T18:12:24+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-08T180925.692.jpg"
-      },
-      {
-        "title": "Heavy rain disrupts traffic, daily life in Lahore’s low-lying areas",
-        "summary": "<p>LAHORE: <a href=\"https://www.dawn.com/news/2021348/rain-in-central-punjab\">Heavy rain</a> lashed Lahore on Saturday, inundating low-lying areas, major roads and several underpasses, making movement difficult for pedestrians and motorists in different parts of the city.</p> <p>The downpour <a href=\"https://www.dawn.c",
-        "url": "https://www.dawn.com/news/2021490/heavy-rain-disrupts-traffic-daily-life-in-lahores-low-lying-areas",
-        "source": "Dawn",
-        "date": "2026-08-08T17:02:16+05:00",
         "img": ""
       },
       {
@@ -3149,11 +3237,11 @@
         "img": ""
       },
       {
-        "title": "OIC welcomes Pak-Saudi-Turkiye joint defence pact, calls it 'important strategic step'",
-        "summary": "<p>The Organisation of Islamic Cooperation (OIC) has welcomed the <a href=\"https://www.dawn.com/news/2021248\">signing</a> of the Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Türkiye, terming it an “important strategic step”.</p> <p>The pact aims to strengthen collective deterrence and empowers the ",
-        "url": "https://www.dawn.com/news/2021475/oic-welcomes-pak-saudi-turkiye-joint-defence-pact-calls-it-important-strategic-step",
-        "source": "Dawn",
-        "date": "2026-08-08T14:42:30+05:00",
+        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
+        "source": "Express",
+        "date": "2026-08-08T14:39:33+00:00",
         "img": ""
       },
       {
@@ -3171,97 +3259,33 @@
         "source": "Express",
         "date": "2026-08-08T14:05:16+00:00",
         "img": ""
-      },
-      {
-        "title": "Senate, NA leadership pledge closer cooperation for stable parliamentary system",
-        "summary": "<p>ISLAMABAD: The leadership of the Senate and National Assembly on Saturday agreed to enhance institutional cooperation and coordination for a stable parliamentary democratic system.</p> <p>According to a statement issued by the Senate Secretariat, Senate Chairman Yousuf Raza Gilani met National Assembly Speaker Sarda",
-        "url": "https://www.dawn.com/news/2021469/senate-na-leadership-pledge-closer-cooperation-for-stable-parliamentary-system",
-        "source": "Dawn",
-        "date": "2026-08-08T12:38:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "Naqvi sets Sept 30 deadline for Safe City expansion in Islamabad",
-        "summary": "<p>ISLAMABAD: Interior Minister Mohsin Naqvi on Friday directed that the Islamabad Safe City expansion project be completed by Sept 30.</p> <p>During a visit to the Safe City Headquarters with Minister of State for Interior Tallal Chaudhry, the minister chaired a special meeting to review progress on the project.</p> <",
-        "url": "https://www.dawn.com/news/2021319/naqvi-sets-sept-30-deadline-for-safe-city-expansion-in-islamabad",
-        "source": "Dawn",
-        "date": "2026-08-08T09:12:47+05:00",
-        "img": ""
-      },
-      {
-        "title": "35 officers posted against newly created additional assistant commissioners posts across Punjab",
-        "summary": "<p>LAHORE: The Punjab government on Friday posted 35 PAS and PMS officers against newly created additional assistant commissioners (AACs) posts in tehsils across the province to ease mounting governance pressure on district administration amid, what it called, an unprecedented expansion in governance and public service",
-        "url": "https://www.dawn.com/news/2021354/35-officers-posted-against-newly-created-additional-assistant-commissioners-posts-across-punjab",
-        "source": "Dawn",
-        "date": "2026-08-08T08:43:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "Five more cops in Lahore get bail in AGP Mansoor Awan's house raid case",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021356\">https://www.dawn.com/news/2021356</a></p>",
-        "url": "https://www.dawn.com/news/2021452/five-more-cops-in-lahore-get-bail-in-agp-mansoor-awans-house-raid-case",
-        "source": "Dawn",
-        "date": "2026-08-08T08:41:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "Customer data in bank is property, its misuse may be a crime: LHC",
-        "summary": "<p>LAHORE: The Lahore High Court (LHC) has ruled that customer data entrusted to a bank constitutes “property” under the law and its dishonest misuse may amount to criminal breach of trust.</p> <p>Justice Tariq Saleem Sheikh issued the ruling granting post-arrest bail to a telecom franchise operator accused in a multi-",
-        "url": "https://www.dawn.com/news/2021357/customer-data-in-bank-is-property-its-misuse-may-be-a-crime-lhc",
-        "source": "Dawn",
-        "date": "2026-08-08T08:36:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "Govt restores original medical board for exhumation of IBA graduate Mir Raza Ali's body",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021395\">https://www.dawn.com/news/2021395</a></p>",
-        "url": "https://www.dawn.com/news/2021449/govt-restores-original-medical-board-for-exhumation-of-iba-graduate-mir-raza-alis-body",
-        "source": "Dawn",
-        "date": "2026-08-08T08:29:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "NAB chief urges withdrawal of Rs500m graft probe limit",
-        "summary": "<p>• Tells Senate panel bureau’s hands are tied under amended law to act against govt officials<br>• Says private sector accounts for 45pc of corruption</p> <p>ISLAMABAD: The National Account­abi­lity Bureau (NAB) on Friday urged the government to withdraw a <a href=\"https://www.dawn.com/news/1711341\">restriction </a>t",
-        "url": "https://www.dawn.com/news/2021393/nab-chief-urges-withdrawal-of-rs500m-graft-probe-limit",
-        "source": "Dawn",
-        "date": "2026-08-08T08:02:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "Broad Peak search for bodies of 3 climbers paused",
-        "summary": "<p>• Mission to resume once weather improves<br>• Bodies of Nirmal Purja, four other foreign climbers flown to Islamabad for repatriation to their respective countries</p> <p>GILGIT: The search operation to recover the remains of Pakistani mountaineer Sohail Sakhi and two foreign climbers missing after the <a href=\"htt",
-        "url": "https://www.dawn.com/news/2021394/broad-peak-search-for-bodies-of-3-climbers-paused",
-        "source": "Dawn",
-        "date": "2026-08-08T07:56:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "Mine reforms sought after Sorange tragedy",
-        "summary": "<p>QUETTA: The National Labour Federation (NLF) Balochistan, while expressing serious concern over the deteriorating safety situation in coal mines, has demanded reforms in mine safety in the wake of the recent coal mine tragedy that <a href=\"https://www.dawn.com/news/2020034/quetta-mine-search-op-ends-as-last-two-bodi",
-        "url": "https://www.dawn.com/news/2021387/mine-reforms-sought-after-sorange-tragedy",
-        "source": "Dawn",
-        "date": "2026-08-08T07:52:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "Govt's legal team to meet Presidency officials amid efforts to end deadlock over judges’ appointments",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2021417\">https://www.dawn.com/news/2021417</a></p>",
-        "url": "https://www.dawn.com/news/2021441/govts-legal-team-to-meet-presidency-officials-amid-efforts-to-end-deadlock-over-judges-appointments",
-        "source": "Dawn",
-        "date": "2026-08-08T07:17:16+05:00",
-        "img": ""
-      },
-      {
-        "title": "PHC rejects pleas of former Afghan judge, two others against arrest, deportation",
-        "summary": "<p>PESHAWAR: Peshawar High Court has rejected the pleas of a former judge of Afghanistan’s Supreme Court, a female social activist and an official of former Afghan intelligence directorate as well as their family members for protection against their arrest and deportation by Pakistani law-enforcement agencies.</p> <p>A",
-        "url": "https://www.dawn.com/news/2021316/phc-rejects-pleas-of-former-afghan-judge-two-others-against-arrest-deportation",
-        "source": "Dawn",
-        "date": "2026-08-08T05:23:55+05:00",
-        "img": ""
       }
     ],
     "education": [
+      {
+        "title": "Ex-president Joe Biden’s cancer has spread, is very painful, son says",
+        "summary": "Ex-president Joe Biden’s cancer has spread, is very painful, son says",
+        "url": "https://arynews.tv/joe-bidens-cancer-has-spread-is-very-painful-son-says",
+        "source": "ARY News",
+        "date": "2026-08-09T09:17:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Joe-Biden-cancer-spread-son.jpg"
+      },
+      {
+        "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+        "summary": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+        "url": "https://arynews.tv/iran-says-deal-on-strait-of-hormuz-is-close",
+        "source": "ARY News",
+        "date": "2026-08-09T09:08:58+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Strait-of-Hormuz-Iran-IRGC-close.jpg"
+      },
+      {
+        "title": "xAI releases Grok Imagine Image 2.0",
+        "summary": "xAI releases Grok Imagine Image 2.0",
+        "url": "https://arynews.tv/xai-releases-grok-imagine-image-2-0",
+        "source": "ARY News",
+        "date": "2026-08-09T08:56:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/xAI-Grok-image-2.0.jpg"
+      },
       {
         "title": "Galaxy sign Spanish veteran Sergi Roberto",
         "summary": "Galaxy sign Spanish veteran Sergi Roberto",
@@ -3463,14 +3487,6 @@
         "img": ""
       },
       {
-        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
-        "source": "Express",
-        "date": "2026-08-08T19:39:33+05:00",
-        "img": ""
-      },
-      {
         "title": "‘No overloaded vehicle allowed on motorways’",
         "summary": "‘No overloaded vehicle allowed on motorways’",
         "url": "https://arynews.tv/no-overloaded-vehicle-allowed-on-motorways",
@@ -3543,6 +3559,14 @@
         "img": ""
       },
       {
+        "title": "کیا پروموشنل ایونٹ میں پریتی زنٹا نے عامر خان کو نظر انداز کیا تھا؟ حقیقت سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826388/did-preity-zinta-ignore-aamir-khan-at-a-promotional-event-the-truth-has-come-out-2826388/",
+        "source": "Express",
+        "date": "2026-08-08T18:57:26+05:00",
+        "img": ""
+      },
+      {
         "title": "پسپائی",
         "summary": "",
         "url": "https://www.express.pk/story/2826387/retreat-2826387/",
@@ -3567,6 +3591,14 @@
         "img": ""
       },
       {
+        "title": "سوارا بھاسکر ڈینگی کا شکار ہوگئیں، اسپتال میں داخل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826383/swara-bhaskar-falls-victim-to-dengue-admitted-to-hospital-2826383/",
+        "source": "Express",
+        "date": "2026-08-08T18:49:48+05:00",
+        "img": ""
+      },
+      {
         "title": "اپنا کچرا ساتھ لے کر جائیں!",
         "summary": "",
         "url": "https://www.express.pk/story/2826382/take-your-trash-with-you-2826382/",
@@ -3581,14 +3613,6 @@
         "source": "ARY News",
         "date": "2026-08-08T18:44:22+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-54.jpg"
-      },
-      {
-        "title": "Mir Raza case: Police examine parents’ divorce records",
-        "summary": "Mir Raza case: Police examine parents’ divorce records",
-        "url": "https://arynews.tv/mir-raza-case-police-examine-parents-divorce-records",
-        "source": "ARY News",
-        "date": "2026-08-08T18:42:27+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Raza.jpg"
       },
       {
         "title": "کراچی میں انکروچمنٹ آپریشن کے دوران ٹیم پر حملہ اور ہنگامہ آرائی کرنے پر 33 ملزمان گرفتار",
@@ -3607,38 +3631,6 @@
         "img": ""
       },
       {
-        "title": "کامریڈ نذیر عباسی اور جین زی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826377/comrade-nazir-abbasi-and-jane-zee-2826377/",
-        "source": "Express",
-        "date": "2026-08-08T18:36:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "Prince Harry, Meghan Markle’s next step may surprise William and Kate",
-        "summary": "Prince Harry, Meghan Markle’s next step may surprise William and Kate",
-        "url": "https://arynews.tv/prince-harry-meghan-markles-next-step-may-surprise-william-and-kate",
-        "source": "ARY News",
-        "date": "2026-08-08T18:30:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-4-1.jpg"
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826375/mecca-defense-pact-2826375/",
-        "source": "Express",
-        "date": "2026-08-08T18:27:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "Spain deploys 275 firefighters to tackle Andalusia forest blaze",
-        "summary": "Spain deploys 275 firefighters to tackle Andalusia forest blaze",
-        "url": "https://arynews.tv/spain-deploys-275-firefighters-to-tackle-andalusia-forest-blaze",
-        "source": "ARY News",
-        "date": "2026-08-08T18:12:24+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-08T180925.692.jpg"
-      },
-      {
         "title": "پاک سعودی ترک دفاعی معاہدہ، کراچی سبز و سرخ روشنیوں میں نہا گیا",
         "summary": "",
         "url": "https://www.express.pk/story/2826400/pakistan-saudi-turkey-defense-agreement-karachi-bathed-in-green-and-red-lights-2826400/",
@@ -3652,6 +3644,14 @@
         "url": "https://www.express.pk/story/2826399/mir-raza-case-friends-staged-a-sit-in-at-the-nursery-area-disrupting-traffic-on-shahrah-e-faisal-2826399/",
         "source": "Express",
         "date": "2026-08-08T16:15:02+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
+        "source": "Express",
+        "date": "2026-08-08T14:39:33+00:00",
         "img": ""
       },
       {
@@ -3665,6 +3665,30 @@
     ],
     "science": [
       {
+        "title": "Ex-president Joe Biden’s cancer has spread, is very painful, son says",
+        "summary": "Ex-president Joe Biden’s cancer has spread, is very painful, son says",
+        "url": "https://arynews.tv/joe-bidens-cancer-has-spread-is-very-painful-son-says",
+        "source": "ARY News",
+        "date": "2026-08-09T09:17:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Joe-Biden-cancer-spread-son.jpg"
+      },
+      {
+        "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+        "summary": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+        "url": "https://arynews.tv/iran-says-deal-on-strait-of-hormuz-is-close",
+        "source": "ARY News",
+        "date": "2026-08-09T09:08:58+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Strait-of-Hormuz-Iran-IRGC-close.jpg"
+      },
+      {
+        "title": "xAI releases Grok Imagine Image 2.0",
+        "summary": "xAI releases Grok Imagine Image 2.0",
+        "url": "https://arynews.tv/xai-releases-grok-imagine-image-2-0",
+        "source": "ARY News",
+        "date": "2026-08-09T08:56:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/xAI-Grok-image-2.0.jpg"
+      },
+      {
         "title": "Galaxy sign Spanish veteran Sergi Roberto",
         "summary": "Galaxy sign Spanish veteran Sergi Roberto",
         "url": "https://arynews.tv/galaxy-sign-spanish-veteran-sergi-roberto",
@@ -3839,30 +3863,6 @@
         "source": "ARY News",
         "date": "2026-08-08T18:44:22+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-54.jpg"
-      },
-      {
-        "title": "Mir Raza case: Police examine parents’ divorce records",
-        "summary": "Mir Raza case: Police examine parents’ divorce records",
-        "url": "https://arynews.tv/mir-raza-case-police-examine-parents-divorce-records",
-        "source": "ARY News",
-        "date": "2026-08-08T18:42:27+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Raza.jpg"
-      },
-      {
-        "title": "Prince Harry, Meghan Markle’s next step may surprise William and Kate",
-        "summary": "Prince Harry, Meghan Markle’s next step may surprise William and Kate",
-        "url": "https://arynews.tv/prince-harry-meghan-markles-next-step-may-surprise-william-and-kate",
-        "source": "ARY News",
-        "date": "2026-08-08T18:30:08+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-4-1.jpg"
-      },
-      {
-        "title": "Spain deploys 275 firefighters to tackle Andalusia forest blaze",
-        "summary": "Spain deploys 275 firefighters to tackle Andalusia forest blaze",
-        "url": "https://arynews.tv/spain-deploys-275-firefighters-to-tackle-andalusia-forest-blaze",
-        "source": "ARY News",
-        "date": "2026-08-08T18:12:24+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-08T180925.692.jpg"
       }
     ],
     "sports": [
@@ -3931,14 +3931,6 @@
         "img": ""
       },
       {
-        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
-        "source": "Express",
-        "date": "2026-08-08T19:39:33+05:00",
-        "img": ""
-      },
-      {
         "title": "اے آئی ایجنٹس کے سائبر حملوں کے لیے گروپ چیٹ بنانے سے متعلق انکشاف!",
         "summary": "",
         "url": "https://www.express.pk/story/2826395/swarms-of-openai-systems-2826395/",
@@ -3987,6 +3979,14 @@
         "img": ""
       },
       {
+        "title": "کیا پروموشنل ایونٹ میں پریتی زنٹا نے عامر خان کو نظر انداز کیا تھا؟ حقیقت سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826388/did-preity-zinta-ignore-aamir-khan-at-a-promotional-event-the-truth-has-come-out-2826388/",
+        "source": "Express",
+        "date": "2026-08-08T18:57:26+05:00",
+        "img": ""
+      },
+      {
         "title": "پسپائی",
         "summary": "",
         "url": "https://www.express.pk/story/2826387/retreat-2826387/",
@@ -4008,6 +4008,14 @@
         "url": "https://www.express.pk/story/2826384/mecca-defense-pact-the-other-side-of-the-coin-should-also-be-clear-2826384/",
         "source": "Express",
         "date": "2026-08-08T18:49:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "سوارا بھاسکر ڈینگی کا شکار ہوگئیں، اسپتال میں داخل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826383/swara-bhaskar-falls-victim-to-dengue-admitted-to-hospital-2826383/",
+        "source": "Express",
+        "date": "2026-08-08T18:49:48+05:00",
         "img": ""
       },
       {
@@ -4043,22 +4051,6 @@
         "img": ""
       },
       {
-        "title": "کامریڈ نذیر عباسی اور جین زی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826377/comrade-nazir-abbasi-and-jane-zee-2826377/",
-        "source": "Express",
-        "date": "2026-08-08T18:36:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826375/mecca-defense-pact-2826375/",
-        "source": "Express",
-        "date": "2026-08-08T18:27:19+05:00",
-        "img": ""
-      },
-      {
         "title": "پاک سعودی ترک دفاعی معاہدہ، کراچی سبز و سرخ روشنیوں میں نہا گیا",
         "summary": "",
         "url": "https://www.express.pk/story/2826400/pakistan-saudi-turkey-defense-agreement-karachi-bathed-in-green-and-red-lights-2826400/",
@@ -4089,6 +4081,14 @@
         "source": "ARY Sports",
         "date": "2026-08-08T15:41:57+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-52.jpg"
+      },
+      {
+        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
+        "source": "Express",
+        "date": "2026-08-08T14:39:33+00:00",
+        "img": ""
       },
       {
         "title": "Flintoff steps down as England Lions coach",
@@ -4429,6 +4429,30 @@
     ],
     "business": [
       {
+        "title": "Hub industries face acute water crisis as leaders allege systematic deprivation of water share",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2021623\">https://www.dawn.com/news/2021623</a></p>",
+        "url": "https://www.dawn.com/news/2021680/hub-industries-face-acute-water-crisis-as-leaders-allege-systematic-deprivation-of-water-share",
+        "source": "Dawn",
+        "date": "2026-08-09T08:50:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "Flour prices rising as govt yet to issue import tender",
+        "summary": "<p>KARACHI: Consumers continued to face rising prices for wheat and wheat flour as the federal government plans to import one million tonnes of grain to curb the escalating costs.</p> <p>According to the Sensitive Price Index data as at Aug 6, the prices of 20 kg wheat flour, 10 kg wheat bag and one kg fine flour have ",
+        "url": "https://www.dawn.com/news/2021625/flour-prices-rising-as-govt-yet-to-issue-import-tender",
+        "source": "Dawn",
+        "date": "2026-08-09T08:46:12+05:00",
+        "img": ""
+      },
+      {
+        "title": "Govt pays Rs10bn in decade-old export refunds",
+        "summary": "<p>ISLAMABAD: At a time when the country’s export proceeds are declining, the government has released Rs10 billion in payments against decade-long outstanding subsidies and textile upgradation claims, offering partial relief to exporters struggling with cash-flow constraints.</p> <p>The release of a bulk amount in one ",
+        "url": "https://www.dawn.com/news/2021624/govt-pays-rs10bn-in-decade-old-export-refunds",
+        "source": "Dawn",
+        "date": "2026-08-09T08:43:57+05:00",
+        "img": ""
+      },
+      {
         "title": "IHC seeks govt reply over withholding tax hike on goods transportation",
         "summary": "<p>• Petitioners term concessional treatment of oil tanker contractors ‘discriminatory’<br>• Argue distinction based merely on nature of goods being transported</p> <p>ISLAMABAD: The Islamabad High Court (IHC) has sought responses from the federal government, the Federal Board of Revenue (FBR) and other respondents on ",
         "url": "https://www.dawn.com/news/2021632/ihc-seeks-govt-reply-over-withholding-tax-hike-on-goods-transportation",
@@ -4442,6 +4466,14 @@
         "url": "https://www.dawn.com/news/2021669/transporters-strike-threatens-industry-exports-as-movement-of-over-400000-goods-carrying-vehicles-suspended",
         "source": "Dawn",
         "date": "2026-08-09T07:26:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "Blink Capital faces FIA fraud probe",
+        "summary": "<p>ISLAMABAD: After investigating over 35 complaints of misappropriation of Rs446.66 million, the Securities and Exchange Commission of Pakistan (SECP) has referred the case of M/s Blink Capital Management (Pvt) Ltd to the Federal Investigation Agency (FIA). for further investigation and appropriate action under the la",
+        "url": "https://www.dawn.com/news/2021622/blink-capital-faces-fia-fraud-probe",
+        "source": "Dawn",
+        "date": "2026-08-09T05:42:47+05:00",
         "img": ""
       },
       {
@@ -4501,14 +4533,6 @@
         "img": ""
       },
       {
-        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
-        "source": "Express",
-        "date": "2026-08-08T19:39:33+05:00",
-        "img": ""
-      },
-      {
         "title": "اے آئی ایجنٹس کے سائبر حملوں کے لیے گروپ چیٹ بنانے سے متعلق انکشاف!",
         "summary": "",
         "url": "https://www.express.pk/story/2826395/swarms-of-openai-systems-2826395/",
@@ -4557,6 +4581,14 @@
         "img": ""
       },
       {
+        "title": "کیا پروموشنل ایونٹ میں پریتی زنٹا نے عامر خان کو نظر انداز کیا تھا؟ حقیقت سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826388/did-preity-zinta-ignore-aamir-khan-at-a-promotional-event-the-truth-has-come-out-2826388/",
+        "source": "Express",
+        "date": "2026-08-08T18:57:26+05:00",
+        "img": ""
+      },
+      {
         "title": "پسپائی",
         "summary": "",
         "url": "https://www.express.pk/story/2826387/retreat-2826387/",
@@ -4578,6 +4610,14 @@
         "url": "https://www.express.pk/story/2826384/mecca-defense-pact-the-other-side-of-the-coin-should-also-be-clear-2826384/",
         "source": "Express",
         "date": "2026-08-08T18:49:59+05:00",
+        "img": ""
+      },
+      {
+        "title": "سوارا بھاسکر ڈینگی کا شکار ہوگئیں، اسپتال میں داخل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826383/swara-bhaskar-falls-victim-to-dengue-admitted-to-hospital-2826383/",
+        "source": "Express",
+        "date": "2026-08-08T18:49:48+05:00",
         "img": ""
       },
       {
@@ -4605,22 +4645,6 @@
         "img": ""
       },
       {
-        "title": "کامریڈ نذیر عباسی اور جین زی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826377/comrade-nazir-abbasi-and-jane-zee-2826377/",
-        "source": "Express",
-        "date": "2026-08-08T18:36:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826375/mecca-defense-pact-2826375/",
-        "source": "Express",
-        "date": "2026-08-08T18:27:19+05:00",
-        "img": ""
-      },
-      {
         "title": "Pakistan, New Zealand seek to boost cooperation in agri, education sectors",
         "summary": "<p>Pakistan and New Zealand discussed boosting cooperation in various fields, with a special focus on agriculture and education, as the two sides held a Joint Trade Committee (JTC) meeting in Wellington, the Foreign Office (FO) said on Saturday.</p> <p>The third Pakistan-New Zealand JTC meeting and the fifth round of P",
         "url": "https://www.dawn.com/news/2021491/pakistan-new-zealand-seek-to-boost-cooperation-in-agri-education-sectors",
@@ -4642,6 +4666,14 @@
         "url": "https://www.express.pk/story/2826399/mir-raza-case-friends-staged-a-sit-in-at-the-nursery-area-disrupting-traffic-on-shahrah-e-faisal-2826399/",
         "source": "Express",
         "date": "2026-08-08T16:15:02+00:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان اور سعودی عرب کیساتھ دفاعی معاہدہ نیٹو کے آرٹیکل 5 جیسا ہے؛ ترک وزیر خارجہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826396/turkish-fm-says-defense-pact-with-pakistan-saudi-arabia-is-technically-same-as-natos-article-5-2826396/",
+        "source": "Express",
+        "date": "2026-08-08T14:39:33+00:00",
         "img": ""
       },
       {
@@ -4765,14 +4797,6 @@
         "img": ""
       },
       {
-        "title": "Govt raises petrol price by Rs4.45, cuts HSD by Rs2",
-        "summary": "<iframe id=\"raw-html-6a74cdce361e8\" class=\"raw-html-embed\" style=\"width: 100%; min-height: 50px; max-height: 9200px; border: none; overflow: hidden;\" scrolling=\"no\" srcdoc=\"<!DOCTYPE html> <html> <head> <style> body { margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; overflow-wrap: anywhere; } <",
-        "url": "https://www.dawn.com/news/2020812/govt-raises-petrol-price-by-rs445-cuts-hsd-by-rs2",
-        "source": "Dawn",
-        "date": "2026-08-06T23:09:18+05:00",
-        "img": ""
-      },
-      {
         "title": "11th Pakistan Banking Awards on Aug 21",
         "summary": "<p>KARACHI: The 11th Pakistan Banking Awards — organised annually by DawnMedia in collaboration with the National Institute of Banking and Finance Pakistan and A.F. Ferguson &amp; Co — will be held on Aug 21.</p> <p>Celebrating more than a decade of recognising leadership, innovation, and excellence in Pakistan’s banki",
         "url": "https://www.dawn.com/news/2020882/11th-pakistan-banking-awards-on-aug-21",
@@ -4789,35 +4813,11 @@
         "img": ""
       },
       {
-        "title": "Strong recovery rally tosses index above 180,000",
-        "summary": "<figure class='media w-full sm:w-full media--center ' data-original-src='https://i.dawn.com/large/2026/08/060413137e49699.webp'> <div class='media__item '><picture><img src='https://i.dawn.com/large/2026/08/060413137e49699.webp' alt='' /></picture></div> </figure> <p>KARACHI: The Pakistan Stock Exchange (PSX) on Wednes",
-        "url": "https://www.dawn.com/news/2020874/strong-recovery-rally-tosses-index-above-180000",
-        "source": "Dawn",
-        "date": "2026-08-06T07:43:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "Investors seek tariff guarantees before bidding for Discos",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2020878\">https://www.dawn.com/news/2020878</a></p>",
-        "url": "https://www.dawn.com/news/2020905/investors-seek-tariff-guarantees-before-bidding-for-discos",
-        "source": "Dawn",
-        "date": "2026-08-06T07:40:15+05:00",
-        "img": ""
-      },
-      {
         "title": "US firms look to Pakistan for critical mineral supplies",
         "summary": "<p>• Smaller mines and larger copper, antimony projects under consideration<br>• US Embassy official says Reko Diq moving forward, but slower than expected<br>• Encourages Pakistan to provide level playing field to American firms<br>• Finance minister, US trade representative review progress on bilateral trade talks</p",
         "url": "https://www.dawn.com/news/2020895/us-firms-look-to-pakistan-for-critical-mineral-supplies",
         "source": "Dawn",
         "date": "2026-08-06T07:34:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "Pakistan exports rise 9.5pc in July as trade deficit widens",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2020877\">https://www.dawn.com/news/2020877</a></p>",
-        "url": "https://www.dawn.com/news/2020903/pakistan-exports-rise-95pc-in-july-as-trade-deficit-widens",
-        "source": "Dawn",
-        "date": "2026-08-06T07:32:05+05:00",
         "img": ""
       },
       {
