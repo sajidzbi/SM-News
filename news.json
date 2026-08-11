@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-10T23:29:32.888849+00:00",
+  "fetched": "2026-08-11T01:17:51.851115+00:00",
   "categories": {
     "international": [
       {
@@ -17,6 +17,14 @@
         "source": "ARY News",
         "date": "2026-08-11T01:18:55+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Braid-Pitt.jpg"
+      },
+      {
+        "title": "رہبرِ اعلیٰ ’جسمانی لحاظ سے مکمل صحت مند‘ ہیں: ایرانی صدر کا مجتبیٰ خامنہ ای سے ملاقات کے بعد دعویٰ",
+        "summary": "ایرانی صدر مسعود پزشکیان کا کہنا ہے کہ رہبرِ اعلیٰ مجتبیٰ خامنہ ای کے ساتھ اپنی حالیہ ملاقات میں انھوں نے تقریباً سات گھنٹے تک ملک کے روزمرہ امور پر گفتگو کی۔ پزشکیان نے دعویٰ کیا کہ رہبرِ اعلیٰ ’جسمانی لحاظ سے مکمل صحت مند تھے۔‘",
+        "url": "https://www.bbc.co.uk/urdu/live/c63ekwqwz43wt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-11T01:17:55.503170+00:00",
+        "img": ""
       },
       {
         "title": "Duchess Sophie takes on new role linked to Prince Harry",
@@ -129,14 +137,6 @@
         "source": "ARY News",
         "date": "2026-08-10T23:36:16+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Zero-emission.jpg"
-      },
-      {
-        "title": "رہبرِ اعلیٰ ’جسمانی لحاظ سے مکمل صحت مند‘ ہیں: ایرانی صدر کا مجتبیٰ خامنہ ای سے ملاقات کے بعد دعویٰ",
-        "summary": "ایرانی صدر مسعود پزشکیان کا کہنا ہے کہ رہبرِ اعلیٰ مجتبیٰ خامنہ ای کے ساتھ اپنی حالیہ ملاقات میں انھوں نے تقریباً سات گھنٹے تک ملک کے روزمرہ امور پر گفتگو کی۔ پزشکیان نے دعویٰ کیا کہ رہبرِ اعلیٰ ’جسمانی لحاظ سے مکمل صحت مند تھے۔‘",
-        "url": "https://www.bbc.co.uk/urdu/live/c63ekwqwz43wt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-10T23:29:35.223811+00:00",
-        "img": ""
       },
       {
         "title": "Meta releases Muse Glimmer AI to challenge closed superintelligence models",
@@ -629,6 +629,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-27.jpg"
       },
       {
+        "title": "لاہور، کروڑوں روپے مالیت کی آئس اسمگلنگ کی کوشش ناکام، ملزم گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826714/lahore-attempt-to-smuggle-ice-worth-millions-of-rupees-foiled-suspect-arrested-2826714/",
+        "source": "Express",
+        "date": "2026-08-11T00:23:02+05:00",
+        "img": ""
+      },
+      {
         "title": "US health agency FDA moves to increase oversight of food additives",
         "summary": "US health agency FDA moves to increase oversight of food additives",
         "url": "https://arynews.tv/fda-moves-to-increase-oversight-of-food-additives",
@@ -659,6 +667,14 @@
         "source": "ARY News",
         "date": "2026-08-11T00:03:28+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Harry-and-Meghan.jpg"
+      },
+      {
+        "title": "قومی کرکٹ ٹیم کا اہم کھلاڑی زخمی، چار روزہ میچ میں شرکت بھی مشکوک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826712/key-player-of-national-cricket-team-injured-participation-in-four-day-match-doubtful-2826712/",
+        "source": "Express",
+        "date": "2026-08-11T00:01:59+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan hires financial adviser for HBFCL privatization",
@@ -789,6 +805,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، ڈاکو موبائل فون تاجر سے لاکھوں کے موبائل اور نقدی لوٹ کر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826709/karachi-robbers-flee-after-looting-mobile-phones-worth-hundreds-of-thousands-and-cash-from-a-mobile-phone-dealer-2826709/",
+        "source": "Express",
+        "date": "2026-08-10T21:48:29+05:00",
+        "img": ""
+      },
+      {
         "title": "I may be disqualified or arrested before September 27, says Sohail Afridi",
         "summary": "I may be disqualified or arrested before September 27, says Sohail Afridi",
         "url": "https://arynews.tv/sohail-afridi-exclusive-interview",
@@ -885,11 +909,27 @@
         "img": ""
       },
       {
+        "title": "آزاد کشمیر انتخابات کا بڑا اپ سیٹ، سردار عتیق اپنی آبائی نشست بھی نہ بچا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826717/major-upset-in-azad-kashmir-elections-sardar-attique-fails-to-retain-even-his-home-constituency-2826717/",
+        "source": "Express",
+        "date": "2026-08-10T19:55:41+00:00",
+        "img": ""
+      },
+      {
         "title": "انگلینڈ کے خلاف ٹیسٹ سیریز، قومی ٹیم کا پہلا پریکٹس سیشن",
         "summary": "",
         "url": "https://www.express.pk/story/2826696/test-series-against-england-national-teams-first-practice-session-2826696/",
         "source": "Express",
         "date": "2026-08-10T19:49:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسپیکر قومی اسمبلی مالی و انتظامی اصلاحات میں سب سے آگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826716/speaker-of-the-national-assembly-at-the-forefront-of-financial-and-administrative-reforms-2826716/",
+        "source": "Express",
+        "date": "2026-08-10T19:45:29+00:00",
         "img": ""
       },
       {
@@ -909,11 +949,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں پولیس اور ملزمان کے درمیان مقابلہ، تین راہ گیر زخمی",
+        "title": "ایران،امریکا جنگ سے فضائی سفر 35 فیصد مہنگا ہو گیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826692/three-passersby-injured-in-encounter-between-police-and-suspects-in-karachi-2826692/",
+        "url": "https://www.express.pk/story/2826715/air-travel-has-become-35-more-expensive-due-to-the-iran-us-conflict-2826715/",
         "source": "Express",
-        "date": "2026-08-10T19:34:45+05:00",
+        "date": "2026-08-10T19:34:40+00:00",
         "img": ""
       },
       {
@@ -925,43 +965,19 @@
         "img": ""
       },
       {
-        "title": "کراچی میں گھر سے پولیس افسر کی اہلیہ کی گلا کٹی لاش برآمد، متوفیہ نفسیاتی مسائل کا شکار تھیں",
+        "title": "کردستان سے امریکی فوج کے انخلا کی تیاری مکمل، تاریخ بھی سامنے آ گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2826690/the-throat-slit-body-of-a-police-officers-wife-was-recovered-from-their-home-in-karach-2826690/",
+        "url": "https://www.express.pk/story/2826713/preparations-for-the-us-military-withdrawal-from-kurdistan-are-complete-the-date-has-also-been-revealed-2826713/",
         "source": "Express",
-        "date": "2026-08-10T19:21:10+05:00",
+        "date": "2026-08-10T19:15:37+00:00",
         "img": ""
       },
       {
-        "title": "بھارت میں سیکیورٹی گارڈ کی طالبہ سے زیادتی؛ گرفتاری کے بعد کان پکڑ اٹھک بیٹھک",
+        "title": "جوڈیشل کمیشن کے کسی رکن کا رشتے دار جج نامزد نہیں ہو گا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826689/india-secuirty-gaurd-rape-student-23-y-2826689/",
+        "url": "https://www.express.pk/story/2826711/no-relative-of-a-member-of-the-judicial-commission-will-be-nominated-as-a-judge-2826711/",
         "source": "Express",
-        "date": "2026-08-10T19:15:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "نارتھ کراچی میں بھتہ نہ دینے پر لیاری گینگ وار کے کارندوں کی فائرنگ، پولیس اہلکار، خاتون سمیت 3 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826688/samad-kathiawari-group-firing-north-karachi-sweet-shop-3-injured-2826688/",
-        "source": "Express",
-        "date": "2026-08-10T19:13:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "کائنات کا اب تک کا سب سے بڑا 2 ڈی نقشہ جاری، 4 ارب اِجرامِ فلکی شامل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826687/scientists-release-biggest-2d-map-of-the-universe-2826687/",
-        "source": "Express",
-        "date": "2026-08-10T18:58:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "کسٹمز کے ہاتھوں پکڑی گئی 400 کلو خالص چاندی سیسے میں تبدیل کرنے کا مقدمہ درج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826685/case-registered-for-converting-400-kg-of-pure-silver-seized-by-customs-into-lead-2826685/",
-        "source": "Express",
-        "date": "2026-08-10T18:16:46+05:00",
+        "date": "2026-08-10T18:48:54+00:00",
         "img": ""
       },
       {
@@ -1018,22 +1034,6 @@
         "url": "https://www.express.pk/story/2826694/iran-supreme-leader-mujtaba-khamenei-appoint-political-advisor-2826694/",
         "source": "Express",
         "date": "2026-08-10T14:38:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ؛ پریشانی میں مبتلا اسرائیل نے اپنے لیے خطرناک پیشرفت قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826691/israel-worried-on-makkah-defense-pact-pakistan-turkey-saudi-arab-2826691/",
-        "source": "Express",
-        "date": "2026-08-10T14:31:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبیا نے گولان پر اسرائیلی خودمختاری تسلیم کرلی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826686/columbia-recognized-israeli-sovereignty-on-golan-hills-2826686/",
-        "source": "Express",
-        "date": "2026-08-10T13:49:33+00:00",
         "img": ""
       },
       {
@@ -1231,6 +1231,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-27.jpg"
       },
       {
+        "title": "لاہور، کروڑوں روپے مالیت کی آئس اسمگلنگ کی کوشش ناکام، ملزم گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826714/lahore-attempt-to-smuggle-ice-worth-millions-of-rupees-foiled-suspect-arrested-2826714/",
+        "source": "Express",
+        "date": "2026-08-11T00:23:02+05:00",
+        "img": ""
+      },
+      {
         "title": "US health agency FDA moves to increase oversight of food additives",
         "summary": "US health agency FDA moves to increase oversight of food additives",
         "url": "https://arynews.tv/fda-moves-to-increase-oversight-of-food-additives",
@@ -1261,6 +1269,14 @@
         "source": "ARY News",
         "date": "2026-08-11T00:03:28+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Harry-and-Meghan.jpg"
+      },
+      {
+        "title": "قومی کرکٹ ٹیم کا اہم کھلاڑی زخمی، چار روزہ میچ میں شرکت بھی مشکوک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826712/key-player-of-national-cricket-team-injured-participation-in-four-day-match-doubtful-2826712/",
+        "source": "Express",
+        "date": "2026-08-11T00:01:59+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan hires financial adviser for HBFCL privatization",
@@ -1391,6 +1407,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، ڈاکو موبائل فون تاجر سے لاکھوں کے موبائل اور نقدی لوٹ کر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826709/karachi-robbers-flee-after-looting-mobile-phones-worth-hundreds-of-thousands-and-cash-from-a-mobile-phone-dealer-2826709/",
+        "source": "Express",
+        "date": "2026-08-10T21:48:29+05:00",
+        "img": ""
+      },
+      {
         "title": "I may be disqualified or arrested before September 27, says Sohail Afridi",
         "summary": "I may be disqualified or arrested before September 27, says Sohail Afridi",
         "url": "https://arynews.tv/sohail-afridi-exclusive-interview",
@@ -1487,11 +1511,27 @@
         "img": ""
       },
       {
+        "title": "آزاد کشمیر انتخابات کا بڑا اپ سیٹ، سردار عتیق اپنی آبائی نشست بھی نہ بچا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826717/major-upset-in-azad-kashmir-elections-sardar-attique-fails-to-retain-even-his-home-constituency-2826717/",
+        "source": "Express",
+        "date": "2026-08-10T19:55:41+00:00",
+        "img": ""
+      },
+      {
         "title": "انگلینڈ کے خلاف ٹیسٹ سیریز، قومی ٹیم کا پہلا پریکٹس سیشن",
         "summary": "",
         "url": "https://www.express.pk/story/2826696/test-series-against-england-national-teams-first-practice-session-2826696/",
         "source": "Express",
         "date": "2026-08-10T19:49:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسپیکر قومی اسمبلی مالی و انتظامی اصلاحات میں سب سے آگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826716/speaker-of-the-national-assembly-at-the-forefront-of-financial-and-administrative-reforms-2826716/",
+        "source": "Express",
+        "date": "2026-08-10T19:45:29+00:00",
         "img": ""
       },
       {
@@ -1511,11 +1551,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں پولیس اور ملزمان کے درمیان مقابلہ، تین راہ گیر زخمی",
+        "title": "ایران،امریکا جنگ سے فضائی سفر 35 فیصد مہنگا ہو گیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826692/three-passersby-injured-in-encounter-between-police-and-suspects-in-karachi-2826692/",
+        "url": "https://www.express.pk/story/2826715/air-travel-has-become-35-more-expensive-due-to-the-iran-us-conflict-2826715/",
         "source": "Express",
-        "date": "2026-08-10T19:34:45+05:00",
+        "date": "2026-08-10T19:34:40+00:00",
         "img": ""
       },
       {
@@ -1527,43 +1567,19 @@
         "img": ""
       },
       {
-        "title": "کراچی میں گھر سے پولیس افسر کی اہلیہ کی گلا کٹی لاش برآمد، متوفیہ نفسیاتی مسائل کا شکار تھیں",
+        "title": "کردستان سے امریکی فوج کے انخلا کی تیاری مکمل، تاریخ بھی سامنے آ گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2826690/the-throat-slit-body-of-a-police-officers-wife-was-recovered-from-their-home-in-karach-2826690/",
+        "url": "https://www.express.pk/story/2826713/preparations-for-the-us-military-withdrawal-from-kurdistan-are-complete-the-date-has-also-been-revealed-2826713/",
         "source": "Express",
-        "date": "2026-08-10T19:21:10+05:00",
+        "date": "2026-08-10T19:15:37+00:00",
         "img": ""
       },
       {
-        "title": "بھارت میں سیکیورٹی گارڈ کی طالبہ سے زیادتی؛ گرفتاری کے بعد کان پکڑ اٹھک بیٹھک",
+        "title": "جوڈیشل کمیشن کے کسی رکن کا رشتے دار جج نامزد نہیں ہو گا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826689/india-secuirty-gaurd-rape-student-23-y-2826689/",
+        "url": "https://www.express.pk/story/2826711/no-relative-of-a-member-of-the-judicial-commission-will-be-nominated-as-a-judge-2826711/",
         "source": "Express",
-        "date": "2026-08-10T19:15:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "نارتھ کراچی میں بھتہ نہ دینے پر لیاری گینگ وار کے کارندوں کی فائرنگ، پولیس اہلکار، خاتون سمیت 3 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826688/samad-kathiawari-group-firing-north-karachi-sweet-shop-3-injured-2826688/",
-        "source": "Express",
-        "date": "2026-08-10T19:13:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "کائنات کا اب تک کا سب سے بڑا 2 ڈی نقشہ جاری، 4 ارب اِجرامِ فلکی شامل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826687/scientists-release-biggest-2d-map-of-the-universe-2826687/",
-        "source": "Express",
-        "date": "2026-08-10T18:58:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "کسٹمز کے ہاتھوں پکڑی گئی 400 کلو خالص چاندی سیسے میں تبدیل کرنے کا مقدمہ درج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826685/case-registered-for-converting-400-kg-of-pure-silver-seized-by-customs-into-lead-2826685/",
-        "source": "Express",
-        "date": "2026-08-10T18:16:46+05:00",
+        "date": "2026-08-10T18:48:54+00:00",
         "img": ""
       },
       {
@@ -1620,22 +1636,6 @@
         "url": "https://www.express.pk/story/2826694/iran-supreme-leader-mujtaba-khamenei-appoint-political-advisor-2826694/",
         "source": "Express",
         "date": "2026-08-10T14:38:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ؛ پریشانی میں مبتلا اسرائیل نے اپنے لیے خطرناک پیشرفت قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826691/israel-worried-on-makkah-defense-pact-pakistan-turkey-saudi-arab-2826691/",
-        "source": "Express",
-        "date": "2026-08-10T14:31:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبیا نے گولان پر اسرائیلی خودمختاری تسلیم کرلی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826686/columbia-recognized-israeli-sovereignty-on-golan-hills-2826686/",
-        "source": "Express",
-        "date": "2026-08-10T13:49:33+00:00",
         "img": ""
       },
       {
@@ -1865,6 +1865,22 @@
         "img": ""
       },
       {
+        "title": "لاہور، کروڑوں روپے مالیت کی آئس اسمگلنگ کی کوشش ناکام، ملزم گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826714/lahore-attempt-to-smuggle-ice-worth-millions-of-rupees-foiled-suspect-arrested-2826714/",
+        "source": "Express",
+        "date": "2026-08-11T00:23:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "قومی کرکٹ ٹیم کا اہم کھلاڑی زخمی، چار روزہ میچ میں شرکت بھی مشکوک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826712/key-player-of-national-cricket-team-injured-participation-in-four-day-match-doubtful-2826712/",
+        "source": "Express",
+        "date": "2026-08-11T00:01:59+05:00",
+        "img": ""
+      },
+      {
         "title": "کراچی: کریم آباد انڈر پاس میں ٹریفک حادثے کے دوران موٹر سائیکل سوار 2 افراد جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2826710/karachi-two-motorcyclists-killed-in-a-traffic-accident-at-the-karimabad-underpass-2826710/",
@@ -1886,6 +1902,14 @@
         "url": "https://www.dawn.com/news/2021943/pti-leadership-ttap-on-board-for-september-27-long-march-to-islamabad-sohail-afridi",
         "source": "Dawn",
         "date": "2026-08-10T21:49:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈاکو موبائل فون تاجر سے لاکھوں کے موبائل اور نقدی لوٹ کر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826709/karachi-robbers-flee-after-looting-mobile-phones-worth-hundreds-of-thousands-and-cash-from-a-mobile-phone-dealer-2826709/",
+        "source": "Express",
+        "date": "2026-08-10T21:48:29+05:00",
         "img": ""
       },
       {
@@ -1969,11 +1993,27 @@
         "img": ""
       },
       {
+        "title": "آزاد کشمیر انتخابات کا بڑا اپ سیٹ، سردار عتیق اپنی آبائی نشست بھی نہ بچا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826717/major-upset-in-azad-kashmir-elections-sardar-attique-fails-to-retain-even-his-home-constituency-2826717/",
+        "source": "Express",
+        "date": "2026-08-10T19:55:41+00:00",
+        "img": ""
+      },
+      {
         "title": "انگلینڈ کے خلاف ٹیسٹ سیریز، قومی ٹیم کا پہلا پریکٹس سیشن",
         "summary": "",
         "url": "https://www.express.pk/story/2826696/test-series-against-england-national-teams-first-practice-session-2826696/",
         "source": "Express",
         "date": "2026-08-10T19:49:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسپیکر قومی اسمبلی مالی و انتظامی اصلاحات میں سب سے آگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826716/speaker-of-the-national-assembly-at-the-forefront-of-financial-and-administrative-reforms-2826716/",
+        "source": "Express",
+        "date": "2026-08-10T19:45:29+00:00",
         "img": ""
       },
       {
@@ -1993,11 +2033,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں پولیس اور ملزمان کے درمیان مقابلہ، تین راہ گیر زخمی",
+        "title": "ایران،امریکا جنگ سے فضائی سفر 35 فیصد مہنگا ہو گیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826692/three-passersby-injured-in-encounter-between-police-and-suspects-in-karachi-2826692/",
+        "url": "https://www.express.pk/story/2826715/air-travel-has-become-35-more-expensive-due-to-the-iran-us-conflict-2826715/",
         "source": "Express",
-        "date": "2026-08-10T19:34:45+05:00",
+        "date": "2026-08-10T19:34:40+00:00",
         "img": ""
       },
       {
@@ -2009,43 +2049,19 @@
         "img": ""
       },
       {
-        "title": "کراچی میں گھر سے پولیس افسر کی اہلیہ کی گلا کٹی لاش برآمد، متوفیہ نفسیاتی مسائل کا شکار تھیں",
+        "title": "کردستان سے امریکی فوج کے انخلا کی تیاری مکمل، تاریخ بھی سامنے آ گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2826690/the-throat-slit-body-of-a-police-officers-wife-was-recovered-from-their-home-in-karach-2826690/",
+        "url": "https://www.express.pk/story/2826713/preparations-for-the-us-military-withdrawal-from-kurdistan-are-complete-the-date-has-also-been-revealed-2826713/",
         "source": "Express",
-        "date": "2026-08-10T19:21:10+05:00",
+        "date": "2026-08-10T19:15:37+00:00",
         "img": ""
       },
       {
-        "title": "بھارت میں سیکیورٹی گارڈ کی طالبہ سے زیادتی؛ گرفتاری کے بعد کان پکڑ اٹھک بیٹھک",
+        "title": "جوڈیشل کمیشن کے کسی رکن کا رشتے دار جج نامزد نہیں ہو گا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826689/india-secuirty-gaurd-rape-student-23-y-2826689/",
+        "url": "https://www.express.pk/story/2826711/no-relative-of-a-member-of-the-judicial-commission-will-be-nominated-as-a-judge-2826711/",
         "source": "Express",
-        "date": "2026-08-10T19:15:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "نارتھ کراچی میں بھتہ نہ دینے پر لیاری گینگ وار کے کارندوں کی فائرنگ، پولیس اہلکار، خاتون سمیت 3 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826688/samad-kathiawari-group-firing-north-karachi-sweet-shop-3-injured-2826688/",
-        "source": "Express",
-        "date": "2026-08-10T19:13:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "کائنات کا اب تک کا سب سے بڑا 2 ڈی نقشہ جاری، 4 ارب اِجرامِ فلکی شامل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826687/scientists-release-biggest-2d-map-of-the-universe-2826687/",
-        "source": "Express",
-        "date": "2026-08-10T18:58:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "کسٹمز کے ہاتھوں پکڑی گئی 400 کلو خالص چاندی سیسے میں تبدیل کرنے کا مقدمہ درج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826685/case-registered-for-converting-400-kg-of-pure-silver-seized-by-customs-into-lead-2826685/",
-        "source": "Express",
-        "date": "2026-08-10T18:16:46+05:00",
+        "date": "2026-08-10T18:48:54+00:00",
         "img": ""
       },
       {
@@ -2102,22 +2118,6 @@
         "url": "https://www.express.pk/story/2826694/iran-supreme-leader-mujtaba-khamenei-appoint-political-advisor-2826694/",
         "source": "Express",
         "date": "2026-08-10T14:38:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ؛ پریشانی میں مبتلا اسرائیل نے اپنے لیے خطرناک پیشرفت قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826691/israel-worried-on-makkah-defense-pact-pakistan-turkey-saudi-arab-2826691/",
-        "source": "Express",
-        "date": "2026-08-10T14:31:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبیا نے گولان پر اسرائیلی خودمختاری تسلیم کرلی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826686/columbia-recognized-israeli-sovereignty-on-golan-hills-2826686/",
-        "source": "Express",
-        "date": "2026-08-10T13:49:33+00:00",
         "img": ""
       },
       {
@@ -2267,6 +2267,22 @@
         "img": ""
       },
       {
+        "title": "لاہور، کروڑوں روپے مالیت کی آئس اسمگلنگ کی کوشش ناکام، ملزم گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826714/lahore-attempt-to-smuggle-ice-worth-millions-of-rupees-foiled-suspect-arrested-2826714/",
+        "source": "Express",
+        "date": "2026-08-11T00:23:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "قومی کرکٹ ٹیم کا اہم کھلاڑی زخمی، چار روزہ میچ میں شرکت بھی مشکوک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826712/key-player-of-national-cricket-team-injured-participation-in-four-day-match-doubtful-2826712/",
+        "source": "Express",
+        "date": "2026-08-11T00:01:59+05:00",
+        "img": ""
+      },
+      {
         "title": "کراچی: کریم آباد انڈر پاس میں ٹریفک حادثے کے دوران موٹر سائیکل سوار 2 افراد جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2826710/karachi-two-motorcyclists-killed-in-a-traffic-accident-at-the-karimabad-underpass-2826710/",
@@ -2288,6 +2304,14 @@
         "url": "https://www.dawn.com/news/2021943/pti-leadership-ttap-on-board-for-september-27-long-march-to-islamabad-sohail-afridi",
         "source": "Dawn",
         "date": "2026-08-10T21:49:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈاکو موبائل فون تاجر سے لاکھوں کے موبائل اور نقدی لوٹ کر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826709/karachi-robbers-flee-after-looting-mobile-phones-worth-hundreds-of-thousands-and-cash-from-a-mobile-phone-dealer-2826709/",
+        "source": "Express",
+        "date": "2026-08-10T21:48:29+05:00",
         "img": ""
       },
       {
@@ -2371,11 +2395,27 @@
         "img": ""
       },
       {
+        "title": "آزاد کشمیر انتخابات کا بڑا اپ سیٹ، سردار عتیق اپنی آبائی نشست بھی نہ بچا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826717/major-upset-in-azad-kashmir-elections-sardar-attique-fails-to-retain-even-his-home-constituency-2826717/",
+        "source": "Express",
+        "date": "2026-08-10T19:55:41+00:00",
+        "img": ""
+      },
+      {
         "title": "انگلینڈ کے خلاف ٹیسٹ سیریز، قومی ٹیم کا پہلا پریکٹس سیشن",
         "summary": "",
         "url": "https://www.express.pk/story/2826696/test-series-against-england-national-teams-first-practice-session-2826696/",
         "source": "Express",
         "date": "2026-08-10T19:49:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسپیکر قومی اسمبلی مالی و انتظامی اصلاحات میں سب سے آگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826716/speaker-of-the-national-assembly-at-the-forefront-of-financial-and-administrative-reforms-2826716/",
+        "source": "Express",
+        "date": "2026-08-10T19:45:29+00:00",
         "img": ""
       },
       {
@@ -2395,11 +2435,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں پولیس اور ملزمان کے درمیان مقابلہ، تین راہ گیر زخمی",
+        "title": "ایران،امریکا جنگ سے فضائی سفر 35 فیصد مہنگا ہو گیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826692/three-passersby-injured-in-encounter-between-police-and-suspects-in-karachi-2826692/",
+        "url": "https://www.express.pk/story/2826715/air-travel-has-become-35-more-expensive-due-to-the-iran-us-conflict-2826715/",
         "source": "Express",
-        "date": "2026-08-10T19:34:45+05:00",
+        "date": "2026-08-10T19:34:40+00:00",
         "img": ""
       },
       {
@@ -2411,43 +2451,19 @@
         "img": ""
       },
       {
-        "title": "کراچی میں گھر سے پولیس افسر کی اہلیہ کی گلا کٹی لاش برآمد، متوفیہ نفسیاتی مسائل کا شکار تھیں",
+        "title": "کردستان سے امریکی فوج کے انخلا کی تیاری مکمل، تاریخ بھی سامنے آ گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2826690/the-throat-slit-body-of-a-police-officers-wife-was-recovered-from-their-home-in-karach-2826690/",
+        "url": "https://www.express.pk/story/2826713/preparations-for-the-us-military-withdrawal-from-kurdistan-are-complete-the-date-has-also-been-revealed-2826713/",
         "source": "Express",
-        "date": "2026-08-10T19:21:10+05:00",
+        "date": "2026-08-10T19:15:37+00:00",
         "img": ""
       },
       {
-        "title": "بھارت میں سیکیورٹی گارڈ کی طالبہ سے زیادتی؛ گرفتاری کے بعد کان پکڑ اٹھک بیٹھک",
+        "title": "جوڈیشل کمیشن کے کسی رکن کا رشتے دار جج نامزد نہیں ہو گا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826689/india-secuirty-gaurd-rape-student-23-y-2826689/",
+        "url": "https://www.express.pk/story/2826711/no-relative-of-a-member-of-the-judicial-commission-will-be-nominated-as-a-judge-2826711/",
         "source": "Express",
-        "date": "2026-08-10T19:15:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "نارتھ کراچی میں بھتہ نہ دینے پر لیاری گینگ وار کے کارندوں کی فائرنگ، پولیس اہلکار، خاتون سمیت 3 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826688/samad-kathiawari-group-firing-north-karachi-sweet-shop-3-injured-2826688/",
-        "source": "Express",
-        "date": "2026-08-10T19:13:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "کائنات کا اب تک کا سب سے بڑا 2 ڈی نقشہ جاری، 4 ارب اِجرامِ فلکی شامل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826687/scientists-release-biggest-2d-map-of-the-universe-2826687/",
-        "source": "Express",
-        "date": "2026-08-10T18:58:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "کسٹمز کے ہاتھوں پکڑی گئی 400 کلو خالص چاندی سیسے میں تبدیل کرنے کا مقدمہ درج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826685/case-registered-for-converting-400-kg-of-pure-silver-seized-by-customs-into-lead-2826685/",
-        "source": "Express",
-        "date": "2026-08-10T18:16:46+05:00",
+        "date": "2026-08-10T18:48:54+00:00",
         "img": ""
       },
       {
@@ -2504,22 +2520,6 @@
         "url": "https://www.express.pk/story/2826694/iran-supreme-leader-mujtaba-khamenei-appoint-political-advisor-2826694/",
         "source": "Express",
         "date": "2026-08-10T14:38:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ؛ پریشانی میں مبتلا اسرائیل نے اپنے لیے خطرناک پیشرفت قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826691/israel-worried-on-makkah-defense-pact-pakistan-turkey-saudi-arab-2826691/",
-        "source": "Express",
-        "date": "2026-08-10T14:31:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبیا نے گولان پر اسرائیلی خودمختاری تسلیم کرلی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826686/columbia-recognized-israeli-sovereignty-on-golan-hills-2826686/",
-        "source": "Express",
-        "date": "2026-08-10T13:49:33+00:00",
         "img": ""
       },
       {
@@ -2717,6 +2717,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-27.jpg"
       },
       {
+        "title": "لاہور، کروڑوں روپے مالیت کی آئس اسمگلنگ کی کوشش ناکام، ملزم گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826714/lahore-attempt-to-smuggle-ice-worth-millions-of-rupees-foiled-suspect-arrested-2826714/",
+        "source": "Express",
+        "date": "2026-08-11T00:23:02+05:00",
+        "img": ""
+      },
+      {
         "title": "US health agency FDA moves to increase oversight of food additives",
         "summary": "US health agency FDA moves to increase oversight of food additives",
         "url": "https://arynews.tv/fda-moves-to-increase-oversight-of-food-additives",
@@ -2747,6 +2755,14 @@
         "source": "ARY News",
         "date": "2026-08-11T00:03:28+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Harry-and-Meghan.jpg"
+      },
+      {
+        "title": "قومی کرکٹ ٹیم کا اہم کھلاڑی زخمی، چار روزہ میچ میں شرکت بھی مشکوک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826712/key-player-of-national-cricket-team-injured-participation-in-four-day-match-doubtful-2826712/",
+        "source": "Express",
+        "date": "2026-08-11T00:01:59+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan hires financial adviser for HBFCL privatization",
@@ -2877,6 +2893,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، ڈاکو موبائل فون تاجر سے لاکھوں کے موبائل اور نقدی لوٹ کر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826709/karachi-robbers-flee-after-looting-mobile-phones-worth-hundreds-of-thousands-and-cash-from-a-mobile-phone-dealer-2826709/",
+        "source": "Express",
+        "date": "2026-08-10T21:48:29+05:00",
+        "img": ""
+      },
+      {
         "title": "I may be disqualified or arrested before September 27, says Sohail Afridi",
         "summary": "I may be disqualified or arrested before September 27, says Sohail Afridi",
         "url": "https://arynews.tv/sohail-afridi-exclusive-interview",
@@ -2973,11 +2997,27 @@
         "img": ""
       },
       {
+        "title": "آزاد کشمیر انتخابات کا بڑا اپ سیٹ، سردار عتیق اپنی آبائی نشست بھی نہ بچا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826717/major-upset-in-azad-kashmir-elections-sardar-attique-fails-to-retain-even-his-home-constituency-2826717/",
+        "source": "Express",
+        "date": "2026-08-10T19:55:41+00:00",
+        "img": ""
+      },
+      {
         "title": "انگلینڈ کے خلاف ٹیسٹ سیریز، قومی ٹیم کا پہلا پریکٹس سیشن",
         "summary": "",
         "url": "https://www.express.pk/story/2826696/test-series-against-england-national-teams-first-practice-session-2826696/",
         "source": "Express",
         "date": "2026-08-10T19:49:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسپیکر قومی اسمبلی مالی و انتظامی اصلاحات میں سب سے آگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826716/speaker-of-the-national-assembly-at-the-forefront-of-financial-and-administrative-reforms-2826716/",
+        "source": "Express",
+        "date": "2026-08-10T19:45:29+00:00",
         "img": ""
       },
       {
@@ -2997,11 +3037,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں پولیس اور ملزمان کے درمیان مقابلہ، تین راہ گیر زخمی",
+        "title": "ایران،امریکا جنگ سے فضائی سفر 35 فیصد مہنگا ہو گیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826692/three-passersby-injured-in-encounter-between-police-and-suspects-in-karachi-2826692/",
+        "url": "https://www.express.pk/story/2826715/air-travel-has-become-35-more-expensive-due-to-the-iran-us-conflict-2826715/",
         "source": "Express",
-        "date": "2026-08-10T19:34:45+05:00",
+        "date": "2026-08-10T19:34:40+00:00",
         "img": ""
       },
       {
@@ -3013,43 +3053,19 @@
         "img": ""
       },
       {
-        "title": "کراچی میں گھر سے پولیس افسر کی اہلیہ کی گلا کٹی لاش برآمد، متوفیہ نفسیاتی مسائل کا شکار تھیں",
+        "title": "کردستان سے امریکی فوج کے انخلا کی تیاری مکمل، تاریخ بھی سامنے آ گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2826690/the-throat-slit-body-of-a-police-officers-wife-was-recovered-from-their-home-in-karach-2826690/",
+        "url": "https://www.express.pk/story/2826713/preparations-for-the-us-military-withdrawal-from-kurdistan-are-complete-the-date-has-also-been-revealed-2826713/",
         "source": "Express",
-        "date": "2026-08-10T19:21:10+05:00",
+        "date": "2026-08-10T19:15:37+00:00",
         "img": ""
       },
       {
-        "title": "بھارت میں سیکیورٹی گارڈ کی طالبہ سے زیادتی؛ گرفتاری کے بعد کان پکڑ اٹھک بیٹھک",
+        "title": "جوڈیشل کمیشن کے کسی رکن کا رشتے دار جج نامزد نہیں ہو گا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826689/india-secuirty-gaurd-rape-student-23-y-2826689/",
+        "url": "https://www.express.pk/story/2826711/no-relative-of-a-member-of-the-judicial-commission-will-be-nominated-as-a-judge-2826711/",
         "source": "Express",
-        "date": "2026-08-10T19:15:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "نارتھ کراچی میں بھتہ نہ دینے پر لیاری گینگ وار کے کارندوں کی فائرنگ، پولیس اہلکار، خاتون سمیت 3 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826688/samad-kathiawari-group-firing-north-karachi-sweet-shop-3-injured-2826688/",
-        "source": "Express",
-        "date": "2026-08-10T19:13:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "کائنات کا اب تک کا سب سے بڑا 2 ڈی نقشہ جاری، 4 ارب اِجرامِ فلکی شامل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826687/scientists-release-biggest-2d-map-of-the-universe-2826687/",
-        "source": "Express",
-        "date": "2026-08-10T18:58:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "کسٹمز کے ہاتھوں پکڑی گئی 400 کلو خالص چاندی سیسے میں تبدیل کرنے کا مقدمہ درج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826685/case-registered-for-converting-400-kg-of-pure-silver-seized-by-customs-into-lead-2826685/",
-        "source": "Express",
-        "date": "2026-08-10T18:16:46+05:00",
+        "date": "2026-08-10T18:48:54+00:00",
         "img": ""
       },
       {
@@ -3106,22 +3122,6 @@
         "url": "https://www.express.pk/story/2826694/iran-supreme-leader-mujtaba-khamenei-appoint-political-advisor-2826694/",
         "source": "Express",
         "date": "2026-08-10T14:38:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ؛ پریشانی میں مبتلا اسرائیل نے اپنے لیے خطرناک پیشرفت قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826691/israel-worried-on-makkah-defense-pact-pakistan-turkey-saudi-arab-2826691/",
-        "source": "Express",
-        "date": "2026-08-10T14:31:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبیا نے گولان پر اسرائیلی خودمختاری تسلیم کرلی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826686/columbia-recognized-israeli-sovereignty-on-golan-hills-2826686/",
-        "source": "Express",
-        "date": "2026-08-10T13:49:33+00:00",
         "img": ""
       },
       {
@@ -3311,6 +3311,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-27.jpg"
       },
       {
+        "title": "لاہور، کروڑوں روپے مالیت کی آئس اسمگلنگ کی کوشش ناکام، ملزم گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826714/lahore-attempt-to-smuggle-ice-worth-millions-of-rupees-foiled-suspect-arrested-2826714/",
+        "source": "Express",
+        "date": "2026-08-11T00:23:02+05:00",
+        "img": ""
+      },
+      {
         "title": "US health agency FDA moves to increase oversight of food additives",
         "summary": "US health agency FDA moves to increase oversight of food additives",
         "url": "https://arynews.tv/fda-moves-to-increase-oversight-of-food-additives",
@@ -3341,6 +3349,14 @@
         "source": "ARY News",
         "date": "2026-08-11T00:03:28+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Harry-and-Meghan.jpg"
+      },
+      {
+        "title": "قومی کرکٹ ٹیم کا اہم کھلاڑی زخمی، چار روزہ میچ میں شرکت بھی مشکوک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826712/key-player-of-national-cricket-team-injured-participation-in-four-day-match-doubtful-2826712/",
+        "source": "Express",
+        "date": "2026-08-11T00:01:59+05:00",
+        "img": ""
       },
       {
         "title": "Pakistan hires financial adviser for HBFCL privatization",
@@ -3455,6 +3471,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-11.jpg"
       },
       {
+        "title": "کراچی، ڈاکو موبائل فون تاجر سے لاکھوں کے موبائل اور نقدی لوٹ کر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826709/karachi-robbers-flee-after-looting-mobile-phones-worth-hundreds-of-thousands-and-cash-from-a-mobile-phone-dealer-2826709/",
+        "source": "Express",
+        "date": "2026-08-10T21:48:29+05:00",
+        "img": ""
+      },
+      {
         "title": "I may be disqualified or arrested before September 27, says Sohail Afridi",
         "summary": "I may be disqualified or arrested before September 27, says Sohail Afridi",
         "url": "https://arynews.tv/sohail-afridi-exclusive-interview",
@@ -3535,11 +3559,27 @@
         "img": ""
       },
       {
+        "title": "آزاد کشمیر انتخابات کا بڑا اپ سیٹ، سردار عتیق اپنی آبائی نشست بھی نہ بچا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826717/major-upset-in-azad-kashmir-elections-sardar-attique-fails-to-retain-even-his-home-constituency-2826717/",
+        "source": "Express",
+        "date": "2026-08-10T19:55:41+00:00",
+        "img": ""
+      },
+      {
         "title": "انگلینڈ کے خلاف ٹیسٹ سیریز، قومی ٹیم کا پہلا پریکٹس سیشن",
         "summary": "",
         "url": "https://www.express.pk/story/2826696/test-series-against-england-national-teams-first-practice-session-2826696/",
         "source": "Express",
         "date": "2026-08-10T19:49:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسپیکر قومی اسمبلی مالی و انتظامی اصلاحات میں سب سے آگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826716/speaker-of-the-national-assembly-at-the-forefront-of-financial-and-administrative-reforms-2826716/",
+        "source": "Express",
+        "date": "2026-08-10T19:45:29+00:00",
         "img": ""
       },
       {
@@ -3559,51 +3599,27 @@
         "img": ""
       },
       {
-        "title": "کراچی میں پولیس اور ملزمان کے درمیان مقابلہ، تین راہ گیر زخمی",
+        "title": "ایران،امریکا جنگ سے فضائی سفر 35 فیصد مہنگا ہو گیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826692/three-passersby-injured-in-encounter-between-police-and-suspects-in-karachi-2826692/",
+        "url": "https://www.express.pk/story/2826715/air-travel-has-become-35-more-expensive-due-to-the-iran-us-conflict-2826715/",
         "source": "Express",
-        "date": "2026-08-10T19:34:45+05:00",
+        "date": "2026-08-10T19:34:40+00:00",
         "img": ""
       },
       {
-        "title": "کراچی میں گھر سے پولیس افسر کی اہلیہ کی گلا کٹی لاش برآمد، متوفیہ نفسیاتی مسائل کا شکار تھیں",
+        "title": "کردستان سے امریکی فوج کے انخلا کی تیاری مکمل، تاریخ بھی سامنے آ گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2826690/the-throat-slit-body-of-a-police-officers-wife-was-recovered-from-their-home-in-karach-2826690/",
+        "url": "https://www.express.pk/story/2826713/preparations-for-the-us-military-withdrawal-from-kurdistan-are-complete-the-date-has-also-been-revealed-2826713/",
         "source": "Express",
-        "date": "2026-08-10T19:21:10+05:00",
+        "date": "2026-08-10T19:15:37+00:00",
         "img": ""
       },
       {
-        "title": "بھارت میں سیکیورٹی گارڈ کی طالبہ سے زیادتی؛ گرفتاری کے بعد کان پکڑ اٹھک بیٹھک",
+        "title": "جوڈیشل کمیشن کے کسی رکن کا رشتے دار جج نامزد نہیں ہو گا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826689/india-secuirty-gaurd-rape-student-23-y-2826689/",
+        "url": "https://www.express.pk/story/2826711/no-relative-of-a-member-of-the-judicial-commission-will-be-nominated-as-a-judge-2826711/",
         "source": "Express",
-        "date": "2026-08-10T19:15:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "نارتھ کراچی میں بھتہ نہ دینے پر لیاری گینگ وار کے کارندوں کی فائرنگ، پولیس اہلکار، خاتون سمیت 3 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826688/samad-kathiawari-group-firing-north-karachi-sweet-shop-3-injured-2826688/",
-        "source": "Express",
-        "date": "2026-08-10T19:13:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "کائنات کا اب تک کا سب سے بڑا 2 ڈی نقشہ جاری، 4 ارب اِجرامِ فلکی شامل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826687/scientists-release-biggest-2d-map-of-the-universe-2826687/",
-        "source": "Express",
-        "date": "2026-08-10T18:58:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "کسٹمز کے ہاتھوں پکڑی گئی 400 کلو خالص چاندی سیسے میں تبدیل کرنے کا مقدمہ درج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826685/case-registered-for-converting-400-kg-of-pure-silver-seized-by-customs-into-lead-2826685/",
-        "source": "Express",
-        "date": "2026-08-10T18:16:46+05:00",
+        "date": "2026-08-10T18:48:54+00:00",
         "img": ""
       },
       {
@@ -3644,22 +3660,6 @@
         "url": "https://www.express.pk/story/2826694/iran-supreme-leader-mujtaba-khamenei-appoint-political-advisor-2826694/",
         "source": "Express",
         "date": "2026-08-10T14:38:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ؛ پریشانی میں مبتلا اسرائیل نے اپنے لیے خطرناک پیشرفت قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826691/israel-worried-on-makkah-defense-pact-pakistan-turkey-saudi-arab-2826691/",
-        "source": "Express",
-        "date": "2026-08-10T14:31:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبیا نے گولان پر اسرائیلی خودمختاری تسلیم کرلی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826686/columbia-recognized-israeli-sovereignty-on-golan-hills-2826686/",
-        "source": "Express",
-        "date": "2026-08-10T13:49:33+00:00",
         "img": ""
       }
     ],
@@ -3875,11 +3875,35 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Jeff-Bezoz.jpg"
       },
       {
+        "title": "لاہور، کروڑوں روپے مالیت کی آئس اسمگلنگ کی کوشش ناکام، ملزم گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826714/lahore-attempt-to-smuggle-ice-worth-millions-of-rupees-foiled-suspect-arrested-2826714/",
+        "source": "Express",
+        "date": "2026-08-11T00:23:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "قومی کرکٹ ٹیم کا اہم کھلاڑی زخمی، چار روزہ میچ میں شرکت بھی مشکوک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826712/key-player-of-national-cricket-team-injured-participation-in-four-day-match-doubtful-2826712/",
+        "source": "Express",
+        "date": "2026-08-11T00:01:59+05:00",
+        "img": ""
+      },
+      {
         "title": "کراچی: کریم آباد انڈر پاس میں ٹریفک حادثے کے دوران موٹر سائیکل سوار 2 افراد جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2826710/karachi-two-motorcyclists-killed-in-a-traffic-accident-at-the-karimabad-underpass-2826710/",
         "source": "Express",
         "date": "2026-08-10T22:52:52+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈاکو موبائل فون تاجر سے لاکھوں کے موبائل اور نقدی لوٹ کر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826709/karachi-robbers-flee-after-looting-mobile-phones-worth-hundreds-of-thousands-and-cash-from-a-mobile-phone-dealer-2826709/",
+        "source": "Express",
+        "date": "2026-08-10T21:48:29+05:00",
         "img": ""
       },
       {
@@ -3947,11 +3971,27 @@
         "img": ""
       },
       {
+        "title": "آزاد کشمیر انتخابات کا بڑا اپ سیٹ، سردار عتیق اپنی آبائی نشست بھی نہ بچا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826717/major-upset-in-azad-kashmir-elections-sardar-attique-fails-to-retain-even-his-home-constituency-2826717/",
+        "source": "Express",
+        "date": "2026-08-10T19:55:41+00:00",
+        "img": ""
+      },
+      {
         "title": "انگلینڈ کے خلاف ٹیسٹ سیریز، قومی ٹیم کا پہلا پریکٹس سیشن",
         "summary": "",
         "url": "https://www.express.pk/story/2826696/test-series-against-england-national-teams-first-practice-session-2826696/",
         "source": "Express",
         "date": "2026-08-10T19:49:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسپیکر قومی اسمبلی مالی و انتظامی اصلاحات میں سب سے آگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826716/speaker-of-the-national-assembly-at-the-forefront-of-financial-and-administrative-reforms-2826716/",
+        "source": "Express",
+        "date": "2026-08-10T19:45:29+00:00",
         "img": ""
       },
       {
@@ -3971,27 +4011,19 @@
         "img": ""
       },
       {
-        "title": "کراچی میں پولیس اور ملزمان کے درمیان مقابلہ، تین راہ گیر زخمی",
+        "title": "ایران،امریکا جنگ سے فضائی سفر 35 فیصد مہنگا ہو گیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826692/three-passersby-injured-in-encounter-between-police-and-suspects-in-karachi-2826692/",
+        "url": "https://www.express.pk/story/2826715/air-travel-has-become-35-more-expensive-due-to-the-iran-us-conflict-2826715/",
         "source": "Express",
-        "date": "2026-08-10T19:34:45+05:00",
+        "date": "2026-08-10T19:34:40+00:00",
         "img": ""
       },
       {
-        "title": "کراچی میں گھر سے پولیس افسر کی اہلیہ کی گلا کٹی لاش برآمد، متوفیہ نفسیاتی مسائل کا شکار تھیں",
+        "title": "کردستان سے امریکی فوج کے انخلا کی تیاری مکمل، تاریخ بھی سامنے آ گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2826690/the-throat-slit-body-of-a-police-officers-wife-was-recovered-from-their-home-in-karach-2826690/",
+        "url": "https://www.express.pk/story/2826713/preparations-for-the-us-military-withdrawal-from-kurdistan-are-complete-the-date-has-also-been-revealed-2826713/",
         "source": "Express",
-        "date": "2026-08-10T19:21:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں سیکیورٹی گارڈ کی طالبہ سے زیادتی؛ گرفتاری کے بعد کان پکڑ اٹھک بیٹھک",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826689/india-secuirty-gaurd-rape-student-23-y-2826689/",
-        "source": "Express",
-        "date": "2026-08-10T19:15:18+05:00",
+        "date": "2026-08-10T19:15:37+00:00",
         "img": ""
       },
       {
@@ -4003,27 +4035,11 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Infantino.jpg"
       },
       {
-        "title": "نارتھ کراچی میں بھتہ نہ دینے پر لیاری گینگ وار کے کارندوں کی فائرنگ، پولیس اہلکار، خاتون سمیت 3 زخمی",
+        "title": "جوڈیشل کمیشن کے کسی رکن کا رشتے دار جج نامزد نہیں ہو گا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826688/samad-kathiawari-group-firing-north-karachi-sweet-shop-3-injured-2826688/",
+        "url": "https://www.express.pk/story/2826711/no-relative-of-a-member-of-the-judicial-commission-will-be-nominated-as-a-judge-2826711/",
         "source": "Express",
-        "date": "2026-08-10T19:13:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "کائنات کا اب تک کا سب سے بڑا 2 ڈی نقشہ جاری، 4 ارب اِجرامِ فلکی شامل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826687/scientists-release-biggest-2d-map-of-the-universe-2826687/",
-        "source": "Express",
-        "date": "2026-08-10T18:58:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "کسٹمز کے ہاتھوں پکڑی گئی 400 کلو خالص چاندی سیسے میں تبدیل کرنے کا مقدمہ درج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826685/case-registered-for-converting-400-kg-of-pure-silver-seized-by-customs-into-lead-2826685/",
-        "source": "Express",
-        "date": "2026-08-10T18:16:46+05:00",
+        "date": "2026-08-10T18:48:54+00:00",
         "img": ""
       },
       {
@@ -4123,14 +4139,6 @@
         "img": ""
       },
       {
-        "title": "مکہ دفاعی معاہدہ؛ پریشانی میں مبتلا اسرائیل نے اپنے لیے خطرناک پیشرفت قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826691/israel-worried-on-makkah-defense-pact-pakistan-turkey-saudi-arab-2826691/",
-        "source": "Express",
-        "date": "2026-08-10T14:31:21+00:00",
-        "img": ""
-      },
-      {
         "title": "Fans allowed free entry for National Champions Cup 2026",
         "summary": "Fans allowed free entry for National Champions Cup 2026",
         "url": "https://arynews.tv/fans-allowed-free-entry-for-national-champions-cup-2026",
@@ -4145,14 +4153,6 @@
         "source": "ARY Sports",
         "date": "2026-08-10T14:06:12+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Jannik-Sinner.jpg"
-      },
-      {
-        "title": "کولمبیا نے گولان پر اسرائیلی خودمختاری تسلیم کرلی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826686/columbia-recognized-israeli-sovereignty-on-golan-hills-2826686/",
-        "source": "Express",
-        "date": "2026-08-10T13:49:33+00:00",
-        "img": ""
       },
       {
         "title": "Andoni Iraola’s first Anfield match as Liverpool manager ends in Monaco loss",
@@ -4421,6 +4421,22 @@
     ],
     "business": [
       {
+        "title": "لاہور، کروڑوں روپے مالیت کی آئس اسمگلنگ کی کوشش ناکام، ملزم گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826714/lahore-attempt-to-smuggle-ice-worth-millions-of-rupees-foiled-suspect-arrested-2826714/",
+        "source": "Express",
+        "date": "2026-08-11T00:23:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "قومی کرکٹ ٹیم کا اہم کھلاڑی زخمی، چار روزہ میچ میں شرکت بھی مشکوک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826712/key-player-of-national-cricket-team-injured-participation-in-four-day-match-doubtful-2826712/",
+        "source": "Express",
+        "date": "2026-08-11T00:01:59+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt leaves petrol, diesel prices unchanged for Aug 11",
         "summary": "<iframe id=\"raw-html-6a7a1aaf294b9\" class=\"raw-html-embed\" style=\"width: 100%; min-height: 50px; max-height: 9200px; border: none; overflow: hidden;\" scrolling=\"no\" srcdoc=\"<!DOCTYPE html> <html> <head> <style> body { margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; overflow-wrap: anywhere; } <",
         "url": "https://www.dawn.com/news/2021950/govt-leaves-petrol-diesel-prices-unchanged-for-aug-11",
@@ -4434,6 +4450,14 @@
         "url": "https://www.express.pk/story/2826710/karachi-two-motorcyclists-killed-in-a-traffic-accident-at-the-karimabad-underpass-2826710/",
         "source": "Express",
         "date": "2026-08-10T22:52:52+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈاکو موبائل فون تاجر سے لاکھوں کے موبائل اور نقدی لوٹ کر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826709/karachi-robbers-flee-after-looting-mobile-phones-worth-hundreds-of-thousands-and-cash-from-a-mobile-phone-dealer-2826709/",
+        "source": "Express",
+        "date": "2026-08-10T21:48:29+05:00",
         "img": ""
       },
       {
@@ -4501,11 +4525,27 @@
         "img": ""
       },
       {
+        "title": "آزاد کشمیر انتخابات کا بڑا اپ سیٹ، سردار عتیق اپنی آبائی نشست بھی نہ بچا سکے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826717/major-upset-in-azad-kashmir-elections-sardar-attique-fails-to-retain-even-his-home-constituency-2826717/",
+        "source": "Express",
+        "date": "2026-08-10T19:55:41+00:00",
+        "img": ""
+      },
+      {
         "title": "انگلینڈ کے خلاف ٹیسٹ سیریز، قومی ٹیم کا پہلا پریکٹس سیشن",
         "summary": "",
         "url": "https://www.express.pk/story/2826696/test-series-against-england-national-teams-first-practice-session-2826696/",
         "source": "Express",
         "date": "2026-08-10T19:49:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "اسپیکر قومی اسمبلی مالی و انتظامی اصلاحات میں سب سے آگے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826716/speaker-of-the-national-assembly-at-the-forefront-of-financial-and-administrative-reforms-2826716/",
+        "source": "Express",
+        "date": "2026-08-10T19:45:29+00:00",
         "img": ""
       },
       {
@@ -4525,51 +4565,27 @@
         "img": ""
       },
       {
-        "title": "کراچی میں پولیس اور ملزمان کے درمیان مقابلہ، تین راہ گیر زخمی",
+        "title": "ایران،امریکا جنگ سے فضائی سفر 35 فیصد مہنگا ہو گیا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826692/three-passersby-injured-in-encounter-between-police-and-suspects-in-karachi-2826692/",
+        "url": "https://www.express.pk/story/2826715/air-travel-has-become-35-more-expensive-due-to-the-iran-us-conflict-2826715/",
         "source": "Express",
-        "date": "2026-08-10T19:34:45+05:00",
+        "date": "2026-08-10T19:34:40+00:00",
         "img": ""
       },
       {
-        "title": "کراچی میں گھر سے پولیس افسر کی اہلیہ کی گلا کٹی لاش برآمد، متوفیہ نفسیاتی مسائل کا شکار تھیں",
+        "title": "کردستان سے امریکی فوج کے انخلا کی تیاری مکمل، تاریخ بھی سامنے آ گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2826690/the-throat-slit-body-of-a-police-officers-wife-was-recovered-from-their-home-in-karach-2826690/",
+        "url": "https://www.express.pk/story/2826713/preparations-for-the-us-military-withdrawal-from-kurdistan-are-complete-the-date-has-also-been-revealed-2826713/",
         "source": "Express",
-        "date": "2026-08-10T19:21:10+05:00",
+        "date": "2026-08-10T19:15:37+00:00",
         "img": ""
       },
       {
-        "title": "بھارت میں سیکیورٹی گارڈ کی طالبہ سے زیادتی؛ گرفتاری کے بعد کان پکڑ اٹھک بیٹھک",
+        "title": "جوڈیشل کمیشن کے کسی رکن کا رشتے دار جج نامزد نہیں ہو گا",
         "summary": "",
-        "url": "https://www.express.pk/story/2826689/india-secuirty-gaurd-rape-student-23-y-2826689/",
+        "url": "https://www.express.pk/story/2826711/no-relative-of-a-member-of-the-judicial-commission-will-be-nominated-as-a-judge-2826711/",
         "source": "Express",
-        "date": "2026-08-10T19:15:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "نارتھ کراچی میں بھتہ نہ دینے پر لیاری گینگ وار کے کارندوں کی فائرنگ، پولیس اہلکار، خاتون سمیت 3 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826688/samad-kathiawari-group-firing-north-karachi-sweet-shop-3-injured-2826688/",
-        "source": "Express",
-        "date": "2026-08-10T19:13:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "کائنات کا اب تک کا سب سے بڑا 2 ڈی نقشہ جاری، 4 ارب اِجرامِ فلکی شامل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826687/scientists-release-biggest-2d-map-of-the-universe-2826687/",
-        "source": "Express",
-        "date": "2026-08-10T18:58:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "کسٹمز کے ہاتھوں پکڑی گئی 400 کلو خالص چاندی سیسے میں تبدیل کرنے کا مقدمہ درج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826685/case-registered-for-converting-400-kg-of-pure-silver-seized-by-customs-into-lead-2826685/",
-        "source": "Express",
-        "date": "2026-08-10T18:16:46+05:00",
+        "date": "2026-08-10T18:48:54+00:00",
         "img": ""
       },
       {
@@ -4610,22 +4626,6 @@
         "url": "https://www.express.pk/story/2826694/iran-supreme-leader-mujtaba-khamenei-appoint-political-advisor-2826694/",
         "source": "Express",
         "date": "2026-08-10T14:38:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "مکہ دفاعی معاہدہ؛ پریشانی میں مبتلا اسرائیل نے اپنے لیے خطرناک پیشرفت قرار دیدیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826691/israel-worried-on-makkah-defense-pact-pakistan-turkey-saudi-arab-2826691/",
-        "source": "Express",
-        "date": "2026-08-10T14:31:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبیا نے گولان پر اسرائیلی خودمختاری تسلیم کرلی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826686/columbia-recognized-israeli-sovereignty-on-golan-hills-2826686/",
-        "source": "Express",
-        "date": "2026-08-10T13:49:33+00:00",
         "img": ""
       },
       {
