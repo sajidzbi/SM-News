@@ -1,7 +1,15 @@
 {
-  "fetched": "2026-08-11T23:34:44.563857+00:00",
+  "fetched": "2026-08-12T01:26:05.166541+00:00",
   "categories": {
     "international": [
+      {
+        "title": "محسن نقوی کی تہران میں ایرانی صدر اور وزیرِ خارجہ سے ملاقاتیں، باب المندب کے قریب بحری جہاز پر حملے میں چھ افراد ہلاک",
+        "summary": "ایران کے دورے پر موجود پاکستان کے وزیرِ داخلہ محسن نقوی نے تہران میں ایرانی صدر مسعود پزشکیان اور ایرانی وزیرِ خارجہ عباس عراقچی سے ملاقات کی ہے۔ دوسری جانب یمن کے کوسٹ گارڈز کے مطابق آبنائے باب المندب کے قریب ایک بحری جہاز پر حملے میں ہلاکتوں کی تعداد چھ ہو گئی ہے جن میں ایک پاکستانی شہری بھی شامل ہے۔",
+        "url": "https://www.bbc.co.uk/urdu/live/c63ekwqwz43wt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-12T01:26:07.437010+00:00",
+        "img": ""
+      },
       {
         "title": "‘House of the Dragon’ Season 4 progressing on schedule, confirms showrunner Ryan Condal",
         "summary": "‘House of the Dragon’ Season 4 progressing on schedule, confirms showrunner Ryan Condal",
@@ -80,14 +88,6 @@
         "url": "https://www.dawn.com/news/2022180/govt-cuts-petrol-price-by-rs170-raises-high-speed-diesel-by-rs139",
         "source": "Dawn",
         "date": "2026-08-11T23:38:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "محسن نقوی کی تہران میں ایرانی صدر اور وزیرِ خارجہ سے ملاقاتیں، باب المندب کے قریب بحری جہاز پر حملے میں چھ افراد ہلاک",
-        "summary": "ایران کے دورے پر موجود پاکستان کے وزیرِ داخلہ محسن نقوی نے تہران میں ایرانی صدر مسعود پزشکیان اور ایرانی وزیرِ خارجہ عباس عراقچی سے ملاقات کی ہے۔ دوسری جانب یمن کے کوسٹ گارڈز کے مطابق آبنائے باب المندب کے قریب ایک بحری جہاز پر حملے میں ہلاکتوں کی تعداد چھ ہو گئی ہے جن میں ایک پاکستانی شہری بھی شامل ہے۔",
-        "url": "https://www.bbc.co.uk/urdu/live/c63ekwqwz43wt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-11T23:34:46.556053+00:00",
         "img": ""
       },
       {
@@ -589,6 +589,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-37.jpg"
       },
       {
+        "title": "کرسٹیانو رونالڈو اور جارجینا کی 8 سالہ محبت بالآخر شادی میں تبدیل ہو گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826909/the-eight-year-romance-between-cristiano-ronaldo-and-georgina-has-finally-culminated-in-marriage-2826909/",
+        "source": "Express",
+        "date": "2026-08-12T00:38:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ قائم خانی کالونی میں پراسرار فائرنگ سے 15 سالہ لڑکا زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826908/karachi-15-year-old-boy-injured-in-mysterious-firing-in-baldias-qaimkhani-colony-2826908/",
+        "source": "Express",
+        "date": "2026-08-12T00:29:01+05:00",
+        "img": ""
+      },
+      {
         "title": "Newborn found dead after being thrown from high-rise building in Karachi",
         "summary": "Newborn found dead after being thrown from high-rise building in Karachi",
         "url": "https://arynews.tv/karachi-gulshan-e-iqbal-case",
@@ -605,12 +621,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Mir-Raza-Ali-2.jpg"
       },
       {
+        "title": "کراچی، بجلی کی طویل بندش پر علاقہ مکین سراپا احتجاج بن گئے، سڑکوں پر نکل آئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826906/karachi-residents-took-to-the-streets-in-protest-against-prolonged-power-outages-2826906/",
+        "source": "Express",
+        "date": "2026-08-12T00:15:09+05:00",
+        "img": ""
+      },
+      {
         "title": "Stassie Karanikolaou makes up for skipping Kylie Jenner’s birthday",
         "summary": "Stassie Karanikolaou makes up for skipping Kylie Jenner’s birthday",
         "url": "https://arynews.tv/stassie-karanikolaou-makes-up-for-skipping-kylie-jenners-birthday",
         "source": "ARY News",
         "date": "2026-08-12T00:10:27+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-36.jpg"
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 زخمیوں سمیت 8 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826905/karachi-police-encounters-in-various-parts-of-the-city-8-bandits-arrested-including-4-who-were-injured-2826905/",
+        "source": "Express",
+        "date": "2026-08-12T00:02:48+05:00",
+        "img": ""
       },
       {
         "title": "Investigators say chemical, DNA reports not ‘conclusive’ enough to determine direction of Mir Raza Ali probe",
@@ -901,6 +933,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، جشن آزادی اور شہدائے پولیس کے اعزاز میں پروقار تقریب کا انعقاد، ایس ایس پی ویسٹ کی شرکت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826907/karachi-dignified-ceremony-held-to-mark-independence-day-and-honor-police-martyrs-ssp-west-attends-2826907/",
+        "source": "Express",
+        "date": "2026-08-11T19:22:19+00:00",
+        "img": ""
+      },
+      {
         "title": "دنیا بھر میں لاکھوں افراد آج نایاب سورج گرہن کا مشاہدہ کریں گے!",
         "summary": "",
         "url": "https://www.express.pk/story/2826890/solar-eclipse-2826890/",
@@ -922,6 +962,14 @@
         "url": "https://www.express.pk/story/2826887/karachi-traffic-police-officer-foils-attempt-by-minor-girl-driver-arrested-2826887/",
         "source": "Express",
         "date": "2026-08-11T18:56:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستانی میڈیا برطانیہ میں کمیونٹی کی آواز بن گیا، ہائی کمشنر کا خراج تحسین",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826904/pakistani-media-has-become-the-voice-of-the-community-in-the-uk-high-commissioner-pays-tribute-2826904/",
+        "source": "Express",
+        "date": "2026-08-11T18:52:03+00:00",
         "img": ""
       },
       {
@@ -954,22 +1002,6 @@
         "url": "https://www.dawn.com/news/2022148/lahore-hospitals-report-surge-in-gastroenteritis-patients-amid-conflicting-outbreak-reports",
         "source": "Dawn",
         "date": "2026-08-11T18:17:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "لٹل ماسٹر حنیف محمد کی 10 ویں برسی انتہائی احترام کے ساتھ منائی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826881/hanif-muhammad-death-anniversary-2826881/",
-        "source": "Express",
-        "date": "2026-08-11T17:59:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "بشریٰ انصاری نے سائرہ یوسف اور شہروز سبزواری سے متعلق سوشل میڈیا دعووں کی تردید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826880/bushra-ansari-denies-social-media-claims-about-saira-yousaf-and-shahroz-sabzwari-2826880/",
-        "source": "Express",
-        "date": "2026-08-11T17:54:57+05:00",
         "img": ""
       },
       {
@@ -1034,38 +1066,6 @@
         "url": "https://www.dawn.com/news/2022121/not-an-ordinary-year-pakistani-students-receive-their-cie-as-amp-a-level-results-for-june-series",
         "source": "Dawn",
         "date": "2026-08-11T13:20:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "حوثیوں کا سعودی فوج کا ساز و سامان لے جانے والے جہاز پر حملے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826884/houthis-claim-attack-on-saudi-military-equipment-ship-2826884/",
-        "source": "Express",
-        "date": "2026-08-11T13:18:34+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول کی قیمت میں کمی، ڈیزل کے نرخ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826882/new-petroleum-price-announced-notification-issued-2826882/",
-        "source": "Express",
-        "date": "2026-08-11T13:07:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اپنا رویہ درست کرے اور ہمارے تمام مطالبات مانے تب آبنائے ہرمز کھلے گی؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826879/iran-says-until-us-accept-our-all-demands-strait-of-hurmuz-will-not-open-2826879/",
-        "source": "Express",
-        "date": "2026-08-11T12:53:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹیکس سے مستثنیٰ علاقوں میں اربوں روپے کی ٹیکس چوری پکڑنے کیلئے اعلیٰ سطح تحقیقاتی کمیٹی قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826878/high-level-committee-formed-to-catch-tax-evasion-worth-billions-of-rupees-in-tax-exempt-investigations-2826878/",
-        "source": "Express",
-        "date": "2026-08-11T12:46:17+00:00",
         "img": ""
       },
       {
@@ -1191,6 +1191,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-37.jpg"
       },
       {
+        "title": "کرسٹیانو رونالڈو اور جارجینا کی 8 سالہ محبت بالآخر شادی میں تبدیل ہو گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826909/the-eight-year-romance-between-cristiano-ronaldo-and-georgina-has-finally-culminated-in-marriage-2826909/",
+        "source": "Express",
+        "date": "2026-08-12T00:38:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ قائم خانی کالونی میں پراسرار فائرنگ سے 15 سالہ لڑکا زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826908/karachi-15-year-old-boy-injured-in-mysterious-firing-in-baldias-qaimkhani-colony-2826908/",
+        "source": "Express",
+        "date": "2026-08-12T00:29:01+05:00",
+        "img": ""
+      },
+      {
         "title": "Newborn found dead after being thrown from high-rise building in Karachi",
         "summary": "Newborn found dead after being thrown from high-rise building in Karachi",
         "url": "https://arynews.tv/karachi-gulshan-e-iqbal-case",
@@ -1207,12 +1223,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Mir-Raza-Ali-2.jpg"
       },
       {
+        "title": "کراچی، بجلی کی طویل بندش پر علاقہ مکین سراپا احتجاج بن گئے، سڑکوں پر نکل آئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826906/karachi-residents-took-to-the-streets-in-protest-against-prolonged-power-outages-2826906/",
+        "source": "Express",
+        "date": "2026-08-12T00:15:09+05:00",
+        "img": ""
+      },
+      {
         "title": "Stassie Karanikolaou makes up for skipping Kylie Jenner’s birthday",
         "summary": "Stassie Karanikolaou makes up for skipping Kylie Jenner’s birthday",
         "url": "https://arynews.tv/stassie-karanikolaou-makes-up-for-skipping-kylie-jenners-birthday",
         "source": "ARY News",
         "date": "2026-08-12T00:10:27+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-36.jpg"
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 زخمیوں سمیت 8 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826905/karachi-police-encounters-in-various-parts-of-the-city-8-bandits-arrested-including-4-who-were-injured-2826905/",
+        "source": "Express",
+        "date": "2026-08-12T00:02:48+05:00",
+        "img": ""
       },
       {
         "title": "Investigators say chemical, DNA reports not ‘conclusive’ enough to determine direction of Mir Raza Ali probe",
@@ -1503,6 +1535,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، جشن آزادی اور شہدائے پولیس کے اعزاز میں پروقار تقریب کا انعقاد، ایس ایس پی ویسٹ کی شرکت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826907/karachi-dignified-ceremony-held-to-mark-independence-day-and-honor-police-martyrs-ssp-west-attends-2826907/",
+        "source": "Express",
+        "date": "2026-08-11T19:22:19+00:00",
+        "img": ""
+      },
+      {
         "title": "دنیا بھر میں لاکھوں افراد آج نایاب سورج گرہن کا مشاہدہ کریں گے!",
         "summary": "",
         "url": "https://www.express.pk/story/2826890/solar-eclipse-2826890/",
@@ -1524,6 +1564,14 @@
         "url": "https://www.express.pk/story/2826887/karachi-traffic-police-officer-foils-attempt-by-minor-girl-driver-arrested-2826887/",
         "source": "Express",
         "date": "2026-08-11T18:56:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستانی میڈیا برطانیہ میں کمیونٹی کی آواز بن گیا، ہائی کمشنر کا خراج تحسین",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826904/pakistani-media-has-become-the-voice-of-the-community-in-the-uk-high-commissioner-pays-tribute-2826904/",
+        "source": "Express",
+        "date": "2026-08-11T18:52:03+00:00",
         "img": ""
       },
       {
@@ -1556,22 +1604,6 @@
         "url": "https://www.dawn.com/news/2022148/lahore-hospitals-report-surge-in-gastroenteritis-patients-amid-conflicting-outbreak-reports",
         "source": "Dawn",
         "date": "2026-08-11T18:17:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "لٹل ماسٹر حنیف محمد کی 10 ویں برسی انتہائی احترام کے ساتھ منائی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826881/hanif-muhammad-death-anniversary-2826881/",
-        "source": "Express",
-        "date": "2026-08-11T17:59:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "بشریٰ انصاری نے سائرہ یوسف اور شہروز سبزواری سے متعلق سوشل میڈیا دعووں کی تردید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826880/bushra-ansari-denies-social-media-claims-about-saira-yousaf-and-shahroz-sabzwari-2826880/",
-        "source": "Express",
-        "date": "2026-08-11T17:54:57+05:00",
         "img": ""
       },
       {
@@ -1636,38 +1668,6 @@
         "url": "https://www.dawn.com/news/2022121/not-an-ordinary-year-pakistani-students-receive-their-cie-as-amp-a-level-results-for-june-series",
         "source": "Dawn",
         "date": "2026-08-11T13:20:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "حوثیوں کا سعودی فوج کا ساز و سامان لے جانے والے جہاز پر حملے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826884/houthis-claim-attack-on-saudi-military-equipment-ship-2826884/",
-        "source": "Express",
-        "date": "2026-08-11T13:18:34+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول کی قیمت میں کمی، ڈیزل کے نرخ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826882/new-petroleum-price-announced-notification-issued-2826882/",
-        "source": "Express",
-        "date": "2026-08-11T13:07:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اپنا رویہ درست کرے اور ہمارے تمام مطالبات مانے تب آبنائے ہرمز کھلے گی؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826879/iran-says-until-us-accept-our-all-demands-strait-of-hurmuz-will-not-open-2826879/",
-        "source": "Express",
-        "date": "2026-08-11T12:53:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹیکس سے مستثنیٰ علاقوں میں اربوں روپے کی ٹیکس چوری پکڑنے کیلئے اعلیٰ سطح تحقیقاتی کمیٹی قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826878/high-level-committee-formed-to-catch-tax-evasion-worth-billions-of-rupees-in-tax-exempt-investigations-2826878/",
-        "source": "Express",
-        "date": "2026-08-11T12:46:17+00:00",
         "img": ""
       },
       {
@@ -1857,6 +1857,38 @@
     ],
     "punjab": [
       {
+        "title": "کرسٹیانو رونالڈو اور جارجینا کی 8 سالہ محبت بالآخر شادی میں تبدیل ہو گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826909/the-eight-year-romance-between-cristiano-ronaldo-and-georgina-has-finally-culminated-in-marriage-2826909/",
+        "source": "Express",
+        "date": "2026-08-12T00:38:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ قائم خانی کالونی میں پراسرار فائرنگ سے 15 سالہ لڑکا زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826908/karachi-15-year-old-boy-injured-in-mysterious-firing-in-baldias-qaimkhani-colony-2826908/",
+        "source": "Express",
+        "date": "2026-08-12T00:29:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بجلی کی طویل بندش پر علاقہ مکین سراپا احتجاج بن گئے، سڑکوں پر نکل آئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826906/karachi-residents-took-to-the-streets-in-protest-against-prolonged-power-outages-2826906/",
+        "source": "Express",
+        "date": "2026-08-12T00:15:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 زخمیوں سمیت 8 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826905/karachi-police-encounters-in-various-parts-of-the-city-8-bandits-arrested-including-4-who-were-injured-2826905/",
+        "source": "Express",
+        "date": "2026-08-12T00:02:48+05:00",
+        "img": ""
+      },
+      {
         "title": "Investigators say chemical, DNA reports not ‘conclusive’ enough to determine direction of Mir Raza Ali probe",
         "summary": "<p>Investigators probing the murder of young business owner Mir Raza Ali on Tuesday received the chemical examiner’s report and one DNA report, but said the findings were not yet “conclusive” enough to determine the direction of the investigation, <em>Dawn</em> has learnt.</p> <p>Owner of eatery Wafflix, Ali had gone m",
         "url": "https://www.dawn.com/news/2022177/investigators-say-chemical-dna-reports-not-conclusive-enough-to-determine-direction-of-mir-raza-ali-probe",
@@ -1985,6 +2017,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، جشن آزادی اور شہدائے پولیس کے اعزاز میں پروقار تقریب کا انعقاد، ایس ایس پی ویسٹ کی شرکت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826907/karachi-dignified-ceremony-held-to-mark-independence-day-and-honor-police-martyrs-ssp-west-attends-2826907/",
+        "source": "Express",
+        "date": "2026-08-11T19:22:19+00:00",
+        "img": ""
+      },
+      {
         "title": "دنیا بھر میں لاکھوں افراد آج نایاب سورج گرہن کا مشاہدہ کریں گے!",
         "summary": "",
         "url": "https://www.express.pk/story/2826890/solar-eclipse-2826890/",
@@ -2006,6 +2046,14 @@
         "url": "https://www.express.pk/story/2826887/karachi-traffic-police-officer-foils-attempt-by-minor-girl-driver-arrested-2826887/",
         "source": "Express",
         "date": "2026-08-11T18:56:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستانی میڈیا برطانیہ میں کمیونٹی کی آواز بن گیا، ہائی کمشنر کا خراج تحسین",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826904/pakistani-media-has-become-the-voice-of-the-community-in-the-uk-high-commissioner-pays-tribute-2826904/",
+        "source": "Express",
+        "date": "2026-08-11T18:52:03+00:00",
         "img": ""
       },
       {
@@ -2038,22 +2086,6 @@
         "url": "https://www.dawn.com/news/2022148/lahore-hospitals-report-surge-in-gastroenteritis-patients-amid-conflicting-outbreak-reports",
         "source": "Dawn",
         "date": "2026-08-11T18:17:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "لٹل ماسٹر حنیف محمد کی 10 ویں برسی انتہائی احترام کے ساتھ منائی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826881/hanif-muhammad-death-anniversary-2826881/",
-        "source": "Express",
-        "date": "2026-08-11T17:59:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "بشریٰ انصاری نے سائرہ یوسف اور شہروز سبزواری سے متعلق سوشل میڈیا دعووں کی تردید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826880/bushra-ansari-denies-social-media-claims-about-saira-yousaf-and-shahroz-sabzwari-2826880/",
-        "source": "Express",
-        "date": "2026-08-11T17:54:57+05:00",
         "img": ""
       },
       {
@@ -2118,38 +2150,6 @@
         "url": "https://www.dawn.com/news/2022121/not-an-ordinary-year-pakistani-students-receive-their-cie-as-amp-a-level-results-for-june-series",
         "source": "Dawn",
         "date": "2026-08-11T13:20:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "حوثیوں کا سعودی فوج کا ساز و سامان لے جانے والے جہاز پر حملے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826884/houthis-claim-attack-on-saudi-military-equipment-ship-2826884/",
-        "source": "Express",
-        "date": "2026-08-11T13:18:34+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول کی قیمت میں کمی، ڈیزل کے نرخ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826882/new-petroleum-price-announced-notification-issued-2826882/",
-        "source": "Express",
-        "date": "2026-08-11T13:07:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اپنا رویہ درست کرے اور ہمارے تمام مطالبات مانے تب آبنائے ہرمز کھلے گی؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826879/iran-says-until-us-accept-our-all-demands-strait-of-hurmuz-will-not-open-2826879/",
-        "source": "Express",
-        "date": "2026-08-11T12:53:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹیکس سے مستثنیٰ علاقوں میں اربوں روپے کی ٹیکس چوری پکڑنے کیلئے اعلیٰ سطح تحقیقاتی کمیٹی قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826878/high-level-committee-formed-to-catch-tax-evasion-worth-billions-of-rupees-in-tax-exempt-investigations-2826878/",
-        "source": "Express",
-        "date": "2026-08-11T12:46:17+00:00",
         "img": ""
       },
       {
@@ -2259,6 +2259,38 @@
     ],
     "sindh": [
       {
+        "title": "کرسٹیانو رونالڈو اور جارجینا کی 8 سالہ محبت بالآخر شادی میں تبدیل ہو گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826909/the-eight-year-romance-between-cristiano-ronaldo-and-georgina-has-finally-culminated-in-marriage-2826909/",
+        "source": "Express",
+        "date": "2026-08-12T00:38:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ قائم خانی کالونی میں پراسرار فائرنگ سے 15 سالہ لڑکا زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826908/karachi-15-year-old-boy-injured-in-mysterious-firing-in-baldias-qaimkhani-colony-2826908/",
+        "source": "Express",
+        "date": "2026-08-12T00:29:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بجلی کی طویل بندش پر علاقہ مکین سراپا احتجاج بن گئے، سڑکوں پر نکل آئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826906/karachi-residents-took-to-the-streets-in-protest-against-prolonged-power-outages-2826906/",
+        "source": "Express",
+        "date": "2026-08-12T00:15:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 زخمیوں سمیت 8 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826905/karachi-police-encounters-in-various-parts-of-the-city-8-bandits-arrested-including-4-who-were-injured-2826905/",
+        "source": "Express",
+        "date": "2026-08-12T00:02:48+05:00",
+        "img": ""
+      },
+      {
         "title": "Investigators say chemical, DNA reports not ‘conclusive’ enough to determine direction of Mir Raza Ali probe",
         "summary": "<p>Investigators probing the murder of young business owner Mir Raza Ali on Tuesday received the chemical examiner’s report and one DNA report, but said the findings were not yet “conclusive” enough to determine the direction of the investigation, <em>Dawn</em> has learnt.</p> <p>Owner of eatery Wafflix, Ali had gone m",
         "url": "https://www.dawn.com/news/2022177/investigators-say-chemical-dna-reports-not-conclusive-enough-to-determine-direction-of-mir-raza-ali-probe",
@@ -2387,6 +2419,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، جشن آزادی اور شہدائے پولیس کے اعزاز میں پروقار تقریب کا انعقاد، ایس ایس پی ویسٹ کی شرکت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826907/karachi-dignified-ceremony-held-to-mark-independence-day-and-honor-police-martyrs-ssp-west-attends-2826907/",
+        "source": "Express",
+        "date": "2026-08-11T19:22:19+00:00",
+        "img": ""
+      },
+      {
         "title": "دنیا بھر میں لاکھوں افراد آج نایاب سورج گرہن کا مشاہدہ کریں گے!",
         "summary": "",
         "url": "https://www.express.pk/story/2826890/solar-eclipse-2826890/",
@@ -2408,6 +2448,14 @@
         "url": "https://www.express.pk/story/2826887/karachi-traffic-police-officer-foils-attempt-by-minor-girl-driver-arrested-2826887/",
         "source": "Express",
         "date": "2026-08-11T18:56:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستانی میڈیا برطانیہ میں کمیونٹی کی آواز بن گیا، ہائی کمشنر کا خراج تحسین",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826904/pakistani-media-has-become-the-voice-of-the-community-in-the-uk-high-commissioner-pays-tribute-2826904/",
+        "source": "Express",
+        "date": "2026-08-11T18:52:03+00:00",
         "img": ""
       },
       {
@@ -2440,22 +2488,6 @@
         "url": "https://www.dawn.com/news/2022148/lahore-hospitals-report-surge-in-gastroenteritis-patients-amid-conflicting-outbreak-reports",
         "source": "Dawn",
         "date": "2026-08-11T18:17:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "لٹل ماسٹر حنیف محمد کی 10 ویں برسی انتہائی احترام کے ساتھ منائی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826881/hanif-muhammad-death-anniversary-2826881/",
-        "source": "Express",
-        "date": "2026-08-11T17:59:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "بشریٰ انصاری نے سائرہ یوسف اور شہروز سبزواری سے متعلق سوشل میڈیا دعووں کی تردید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826880/bushra-ansari-denies-social-media-claims-about-saira-yousaf-and-shahroz-sabzwari-2826880/",
-        "source": "Express",
-        "date": "2026-08-11T17:54:57+05:00",
         "img": ""
       },
       {
@@ -2520,38 +2552,6 @@
         "url": "https://www.dawn.com/news/2022121/not-an-ordinary-year-pakistani-students-receive-their-cie-as-amp-a-level-results-for-june-series",
         "source": "Dawn",
         "date": "2026-08-11T13:20:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "حوثیوں کا سعودی فوج کا ساز و سامان لے جانے والے جہاز پر حملے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826884/houthis-claim-attack-on-saudi-military-equipment-ship-2826884/",
-        "source": "Express",
-        "date": "2026-08-11T13:18:34+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول کی قیمت میں کمی، ڈیزل کے نرخ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826882/new-petroleum-price-announced-notification-issued-2826882/",
-        "source": "Express",
-        "date": "2026-08-11T13:07:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اپنا رویہ درست کرے اور ہمارے تمام مطالبات مانے تب آبنائے ہرمز کھلے گی؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826879/iran-says-until-us-accept-our-all-demands-strait-of-hurmuz-will-not-open-2826879/",
-        "source": "Express",
-        "date": "2026-08-11T12:53:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹیکس سے مستثنیٰ علاقوں میں اربوں روپے کی ٹیکس چوری پکڑنے کیلئے اعلیٰ سطح تحقیقاتی کمیٹی قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826878/high-level-committee-formed-to-catch-tax-evasion-worth-billions-of-rupees-in-tax-exempt-investigations-2826878/",
-        "source": "Express",
-        "date": "2026-08-11T12:46:17+00:00",
         "img": ""
       },
       {
@@ -2677,6 +2677,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-37.jpg"
       },
       {
+        "title": "کرسٹیانو رونالڈو اور جارجینا کی 8 سالہ محبت بالآخر شادی میں تبدیل ہو گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826909/the-eight-year-romance-between-cristiano-ronaldo-and-georgina-has-finally-culminated-in-marriage-2826909/",
+        "source": "Express",
+        "date": "2026-08-12T00:38:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ قائم خانی کالونی میں پراسرار فائرنگ سے 15 سالہ لڑکا زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826908/karachi-15-year-old-boy-injured-in-mysterious-firing-in-baldias-qaimkhani-colony-2826908/",
+        "source": "Express",
+        "date": "2026-08-12T00:29:01+05:00",
+        "img": ""
+      },
+      {
         "title": "Newborn found dead after being thrown from high-rise building in Karachi",
         "summary": "Newborn found dead after being thrown from high-rise building in Karachi",
         "url": "https://arynews.tv/karachi-gulshan-e-iqbal-case",
@@ -2693,12 +2709,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Mir-Raza-Ali-2.jpg"
       },
       {
+        "title": "کراچی، بجلی کی طویل بندش پر علاقہ مکین سراپا احتجاج بن گئے، سڑکوں پر نکل آئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826906/karachi-residents-took-to-the-streets-in-protest-against-prolonged-power-outages-2826906/",
+        "source": "Express",
+        "date": "2026-08-12T00:15:09+05:00",
+        "img": ""
+      },
+      {
         "title": "Stassie Karanikolaou makes up for skipping Kylie Jenner’s birthday",
         "summary": "Stassie Karanikolaou makes up for skipping Kylie Jenner’s birthday",
         "url": "https://arynews.tv/stassie-karanikolaou-makes-up-for-skipping-kylie-jenners-birthday",
         "source": "ARY News",
         "date": "2026-08-12T00:10:27+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-36.jpg"
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 زخمیوں سمیت 8 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826905/karachi-police-encounters-in-various-parts-of-the-city-8-bandits-arrested-including-4-who-were-injured-2826905/",
+        "source": "Express",
+        "date": "2026-08-12T00:02:48+05:00",
+        "img": ""
       },
       {
         "title": "Investigators say chemical, DNA reports not ‘conclusive’ enough to determine direction of Mir Raza Ali probe",
@@ -2989,6 +3021,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، جشن آزادی اور شہدائے پولیس کے اعزاز میں پروقار تقریب کا انعقاد، ایس ایس پی ویسٹ کی شرکت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826907/karachi-dignified-ceremony-held-to-mark-independence-day-and-honor-police-martyrs-ssp-west-attends-2826907/",
+        "source": "Express",
+        "date": "2026-08-11T19:22:19+00:00",
+        "img": ""
+      },
+      {
         "title": "دنیا بھر میں لاکھوں افراد آج نایاب سورج گرہن کا مشاہدہ کریں گے!",
         "summary": "",
         "url": "https://www.express.pk/story/2826890/solar-eclipse-2826890/",
@@ -3010,6 +3050,14 @@
         "url": "https://www.express.pk/story/2826887/karachi-traffic-police-officer-foils-attempt-by-minor-girl-driver-arrested-2826887/",
         "source": "Express",
         "date": "2026-08-11T18:56:31+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستانی میڈیا برطانیہ میں کمیونٹی کی آواز بن گیا، ہائی کمشنر کا خراج تحسین",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826904/pakistani-media-has-become-the-voice-of-the-community-in-the-uk-high-commissioner-pays-tribute-2826904/",
+        "source": "Express",
+        "date": "2026-08-11T18:52:03+00:00",
         "img": ""
       },
       {
@@ -3042,22 +3090,6 @@
         "url": "https://www.dawn.com/news/2022148/lahore-hospitals-report-surge-in-gastroenteritis-patients-amid-conflicting-outbreak-reports",
         "source": "Dawn",
         "date": "2026-08-11T18:17:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "لٹل ماسٹر حنیف محمد کی 10 ویں برسی انتہائی احترام کے ساتھ منائی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826881/hanif-muhammad-death-anniversary-2826881/",
-        "source": "Express",
-        "date": "2026-08-11T17:59:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "بشریٰ انصاری نے سائرہ یوسف اور شہروز سبزواری سے متعلق سوشل میڈیا دعووں کی تردید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826880/bushra-ansari-denies-social-media-claims-about-saira-yousaf-and-shahroz-sabzwari-2826880/",
-        "source": "Express",
-        "date": "2026-08-11T17:54:57+05:00",
         "img": ""
       },
       {
@@ -3122,38 +3154,6 @@
         "url": "https://www.dawn.com/news/2022121/not-an-ordinary-year-pakistani-students-receive-their-cie-as-amp-a-level-results-for-june-series",
         "source": "Dawn",
         "date": "2026-08-11T13:20:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "حوثیوں کا سعودی فوج کا ساز و سامان لے جانے والے جہاز پر حملے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826884/houthis-claim-attack-on-saudi-military-equipment-ship-2826884/",
-        "source": "Express",
-        "date": "2026-08-11T13:18:34+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول کی قیمت میں کمی، ڈیزل کے نرخ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826882/new-petroleum-price-announced-notification-issued-2826882/",
-        "source": "Express",
-        "date": "2026-08-11T13:07:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اپنا رویہ درست کرے اور ہمارے تمام مطالبات مانے تب آبنائے ہرمز کھلے گی؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826879/iran-says-until-us-accept-our-all-demands-strait-of-hurmuz-will-not-open-2826879/",
-        "source": "Express",
-        "date": "2026-08-11T12:53:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹیکس سے مستثنیٰ علاقوں میں اربوں روپے کی ٹیکس چوری پکڑنے کیلئے اعلیٰ سطح تحقیقاتی کمیٹی قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826878/high-level-committee-formed-to-catch-tax-evasion-worth-billions-of-rupees-in-tax-exempt-investigations-2826878/",
-        "source": "Express",
-        "date": "2026-08-11T12:46:17+00:00",
         "img": ""
       },
       {
@@ -3279,6 +3279,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-37.jpg"
       },
       {
+        "title": "کرسٹیانو رونالڈو اور جارجینا کی 8 سالہ محبت بالآخر شادی میں تبدیل ہو گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826909/the-eight-year-romance-between-cristiano-ronaldo-and-georgina-has-finally-culminated-in-marriage-2826909/",
+        "source": "Express",
+        "date": "2026-08-12T00:38:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ قائم خانی کالونی میں پراسرار فائرنگ سے 15 سالہ لڑکا زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826908/karachi-15-year-old-boy-injured-in-mysterious-firing-in-baldias-qaimkhani-colony-2826908/",
+        "source": "Express",
+        "date": "2026-08-12T00:29:01+05:00",
+        "img": ""
+      },
+      {
         "title": "Newborn found dead after being thrown from high-rise building in Karachi",
         "summary": "Newborn found dead after being thrown from high-rise building in Karachi",
         "url": "https://arynews.tv/karachi-gulshan-e-iqbal-case",
@@ -3295,12 +3311,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Mir-Raza-Ali-2.jpg"
       },
       {
+        "title": "کراچی، بجلی کی طویل بندش پر علاقہ مکین سراپا احتجاج بن گئے، سڑکوں پر نکل آئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826906/karachi-residents-took-to-the-streets-in-protest-against-prolonged-power-outages-2826906/",
+        "source": "Express",
+        "date": "2026-08-12T00:15:09+05:00",
+        "img": ""
+      },
+      {
         "title": "Stassie Karanikolaou makes up for skipping Kylie Jenner’s birthday",
         "summary": "Stassie Karanikolaou makes up for skipping Kylie Jenner’s birthday",
         "url": "https://arynews.tv/stassie-karanikolaou-makes-up-for-skipping-kylie-jenners-birthday",
         "source": "ARY News",
         "date": "2026-08-12T00:10:27+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-36.jpg"
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 زخمیوں سمیت 8 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826905/karachi-police-encounters-in-various-parts-of-the-city-8-bandits-arrested-including-4-who-were-injured-2826905/",
+        "source": "Express",
+        "date": "2026-08-12T00:02:48+05:00",
+        "img": ""
       },
       {
         "title": "Petrol price in Pakistan for August 12, 2026",
@@ -3551,6 +3583,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، جشن آزادی اور شہدائے پولیس کے اعزاز میں پروقار تقریب کا انعقاد، ایس ایس پی ویسٹ کی شرکت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826907/karachi-dignified-ceremony-held-to-mark-independence-day-and-honor-police-martyrs-ssp-west-attends-2826907/",
+        "source": "Express",
+        "date": "2026-08-11T19:22:19+00:00",
+        "img": ""
+      },
+      {
         "title": "دنیا بھر میں لاکھوں افراد آج نایاب سورج گرہن کا مشاہدہ کریں گے!",
         "summary": "",
         "url": "https://www.express.pk/story/2826890/solar-eclipse-2826890/",
@@ -3575,27 +3615,19 @@
         "img": ""
       },
       {
+        "title": "پاکستانی میڈیا برطانیہ میں کمیونٹی کی آواز بن گیا، ہائی کمشنر کا خراج تحسین",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826904/pakistani-media-has-become-the-voice-of-the-community-in-the-uk-high-commissioner-pays-tribute-2826904/",
+        "source": "Express",
+        "date": "2026-08-11T18:52:03+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی میں بے دردی سے شہری قتل، لاش تین ٹکڑوں اور بوریوں میں برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2826886/karachi-citizen-brutally-killed-2826886/",
         "source": "Express",
         "date": "2026-08-11T18:36:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "لٹل ماسٹر حنیف محمد کی 10 ویں برسی انتہائی احترام کے ساتھ منائی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826881/hanif-muhammad-death-anniversary-2826881/",
-        "source": "Express",
-        "date": "2026-08-11T17:59:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "بشریٰ انصاری نے سائرہ یوسف اور شہروز سبزواری سے متعلق سوشل میڈیا دعووں کی تردید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826880/bushra-ansari-denies-social-media-claims-about-saira-yousaf-and-shahroz-sabzwari-2826880/",
-        "source": "Express",
-        "date": "2026-08-11T17:54:57+05:00",
         "img": ""
       },
       {
@@ -3628,38 +3660,6 @@
         "url": "https://www.express.pk/story/2826885/mohsin-naqvi-meet-irani-president-in-trhran-us-ceasefire-talk-2826885/",
         "source": "Express",
         "date": "2026-08-11T13:22:55+00:00",
-        "img": ""
-      },
-      {
-        "title": "حوثیوں کا سعودی فوج کا ساز و سامان لے جانے والے جہاز پر حملے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826884/houthis-claim-attack-on-saudi-military-equipment-ship-2826884/",
-        "source": "Express",
-        "date": "2026-08-11T13:18:34+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول کی قیمت میں کمی، ڈیزل کے نرخ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826882/new-petroleum-price-announced-notification-issued-2826882/",
-        "source": "Express",
-        "date": "2026-08-11T13:07:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اپنا رویہ درست کرے اور ہمارے تمام مطالبات مانے تب آبنائے ہرمز کھلے گی؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826879/iran-says-until-us-accept-our-all-demands-strait-of-hurmuz-will-not-open-2826879/",
-        "source": "Express",
-        "date": "2026-08-11T12:53:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹیکس سے مستثنیٰ علاقوں میں اربوں روپے کی ٹیکس چوری پکڑنے کیلئے اعلیٰ سطح تحقیقاتی کمیٹی قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826878/high-level-committee-formed-to-catch-tax-evasion-worth-billions-of-rupees-in-tax-exempt-investigations-2826878/",
-        "source": "Express",
-        "date": "2026-08-11T12:46:17+00:00",
         "img": ""
       }
     ],
@@ -3867,6 +3867,38 @@
     ],
     "sports": [
       {
+        "title": "کرسٹیانو رونالڈو اور جارجینا کی 8 سالہ محبت بالآخر شادی میں تبدیل ہو گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826909/the-eight-year-romance-between-cristiano-ronaldo-and-georgina-has-finally-culminated-in-marriage-2826909/",
+        "source": "Express",
+        "date": "2026-08-12T00:38:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ قائم خانی کالونی میں پراسرار فائرنگ سے 15 سالہ لڑکا زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826908/karachi-15-year-old-boy-injured-in-mysterious-firing-in-baldias-qaimkhani-colony-2826908/",
+        "source": "Express",
+        "date": "2026-08-12T00:29:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بجلی کی طویل بندش پر علاقہ مکین سراپا احتجاج بن گئے، سڑکوں پر نکل آئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826906/karachi-residents-took-to-the-streets-in-protest-against-prolonged-power-outages-2826906/",
+        "source": "Express",
+        "date": "2026-08-12T00:15:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 زخمیوں سمیت 8 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826905/karachi-police-encounters-in-various-parts-of-the-city-8-bandits-arrested-including-4-who-were-injured-2826905/",
+        "source": "Express",
+        "date": "2026-08-12T00:02:48+05:00",
+        "img": ""
+      },
+      {
         "title": "اخلاقی پستی",
         "summary": "",
         "url": "https://www.express.pk/story/2826903/akhlaqi-pasti-2826903/",
@@ -3955,6 +3987,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، جشن آزادی اور شہدائے پولیس کے اعزاز میں پروقار تقریب کا انعقاد، ایس ایس پی ویسٹ کی شرکت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826907/karachi-dignified-ceremony-held-to-mark-independence-day-and-honor-police-martyrs-ssp-west-attends-2826907/",
+        "source": "Express",
+        "date": "2026-08-11T19:22:19+00:00",
+        "img": ""
+      },
+      {
         "title": "دنیا بھر میں لاکھوں افراد آج نایاب سورج گرہن کا مشاہدہ کریں گے!",
         "summary": "",
         "url": "https://www.express.pk/story/2826890/solar-eclipse-2826890/",
@@ -3979,27 +4019,19 @@
         "img": ""
       },
       {
+        "title": "پاکستانی میڈیا برطانیہ میں کمیونٹی کی آواز بن گیا، ہائی کمشنر کا خراج تحسین",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826904/pakistani-media-has-become-the-voice-of-the-community-in-the-uk-high-commissioner-pays-tribute-2826904/",
+        "source": "Express",
+        "date": "2026-08-11T18:52:03+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی میں بے دردی سے شہری قتل، لاش تین ٹکڑوں اور بوریوں میں برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2826886/karachi-citizen-brutally-killed-2826886/",
         "source": "Express",
         "date": "2026-08-11T18:36:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "لٹل ماسٹر حنیف محمد کی 10 ویں برسی انتہائی احترام کے ساتھ منائی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826881/hanif-muhammad-death-anniversary-2826881/",
-        "source": "Express",
-        "date": "2026-08-11T17:59:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "بشریٰ انصاری نے سائرہ یوسف اور شہروز سبزواری سے متعلق سوشل میڈیا دعووں کی تردید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826880/bushra-ansari-denies-social-media-claims-about-saira-yousaf-and-shahroz-sabzwari-2826880/",
-        "source": "Express",
-        "date": "2026-08-11T17:54:57+05:00",
         "img": ""
       },
       {
@@ -4091,28 +4123,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-60.jpg"
       },
       {
-        "title": "حوثیوں کا سعودی فوج کا ساز و سامان لے جانے والے جہاز پر حملے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826884/houthis-claim-attack-on-saudi-military-equipment-ship-2826884/",
-        "source": "Express",
-        "date": "2026-08-11T13:18:34+00:00",
-        "img": ""
-      },
-      {
         "title": "West Indies miss direct spot for World Cup 2027",
         "summary": "West Indies miss direct spot for World Cup 2027",
         "url": "https://arynews.tv/west-indies-miss-direct-spot-for-world-cup-2027",
         "source": "ARY Sports",
         "date": "2026-08-11T13:17:54+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PG13-lead.jpg"
-      },
-      {
-        "title": "پیٹرول کی قیمت میں کمی، ڈیزل کے نرخ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826882/new-petroleum-price-announced-notification-issued-2826882/",
-        "source": "Express",
-        "date": "2026-08-11T13:07:09+00:00",
-        "img": ""
       },
       {
         "title": "Trump says would be ‘terrible mistake’ to oust embattled Infantino",
@@ -4123,28 +4139,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-59.jpg"
       },
       {
-        "title": "امریکا اپنا رویہ درست کرے اور ہمارے تمام مطالبات مانے تب آبنائے ہرمز کھلے گی؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826879/iran-says-until-us-accept-our-all-demands-strait-of-hurmuz-will-not-open-2826879/",
-        "source": "Express",
-        "date": "2026-08-11T12:53:02+00:00",
-        "img": ""
-      },
-      {
         "title": "‘Big Four’ bowlers back as ageing Australia begin gruelling run",
         "summary": "‘Big Four’ bowlers back as ageing Australia begin gruelling run",
         "url": "https://arynews.tv/big-four-bowlers-back-as-ageing-australia-begin-gruelling-run",
         "source": "ARY Sports",
         "date": "2026-08-11T12:50:41+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Pg12-Anchor.jpg"
-      },
-      {
-        "title": "ٹیکس سے مستثنیٰ علاقوں میں اربوں روپے کی ٹیکس چوری پکڑنے کیلئے اعلیٰ سطح تحقیقاتی کمیٹی قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826878/high-level-committee-formed-to-catch-tax-evasion-worth-billions-of-rupees-in-tax-exempt-investigations-2826878/",
-        "source": "Express",
-        "date": "2026-08-11T12:46:17+00:00",
-        "img": ""
       },
       {
         "title": "How GTA 6 traffic may become a major challenge?",
@@ -4429,6 +4429,38 @@
     ],
     "business": [
       {
+        "title": "کرسٹیانو رونالڈو اور جارجینا کی 8 سالہ محبت بالآخر شادی میں تبدیل ہو گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826909/the-eight-year-romance-between-cristiano-ronaldo-and-georgina-has-finally-culminated-in-marriage-2826909/",
+        "source": "Express",
+        "date": "2026-08-12T00:38:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بلدیہ قائم خانی کالونی میں پراسرار فائرنگ سے 15 سالہ لڑکا زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826908/karachi-15-year-old-boy-injured-in-mysterious-firing-in-baldias-qaimkhani-colony-2826908/",
+        "source": "Express",
+        "date": "2026-08-12T00:29:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، بجلی کی طویل بندش پر علاقہ مکین سراپا احتجاج بن گئے، سڑکوں پر نکل آئے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826906/karachi-residents-took-to-the-streets-in-protest-against-prolonged-power-outages-2826906/",
+        "source": "Express",
+        "date": "2026-08-12T00:15:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 زخمیوں سمیت 8 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826905/karachi-police-encounters-in-various-parts-of-the-city-8-bandits-arrested-including-4-who-were-injured-2826905/",
+        "source": "Express",
+        "date": "2026-08-12T00:02:48+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt cuts petrol price by Rs1.70, raises high-speed diesel by Rs1.39",
         "summary": "<iframe id=\"raw-html-6a7b6c3a6a200\" class=\"raw-html-embed\" style=\"width: 100%; min-height: 50px; max-height: 9200px; border: none; overflow: hidden;\" scrolling=\"no\" srcdoc=\"<!DOCTYPE html> <html> <head> <style> body { margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; overflow-wrap: anywhere; } <",
         "url": "https://www.dawn.com/news/2022180/govt-cuts-petrol-price-by-rs170-raises-high-speed-diesel-by-rs139",
@@ -4533,6 +4565,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، جشن آزادی اور شہدائے پولیس کے اعزاز میں پروقار تقریب کا انعقاد، ایس ایس پی ویسٹ کی شرکت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826907/karachi-dignified-ceremony-held-to-mark-independence-day-and-honor-police-martyrs-ssp-west-attends-2826907/",
+        "source": "Express",
+        "date": "2026-08-11T19:22:19+00:00",
+        "img": ""
+      },
+      {
         "title": "دنیا بھر میں لاکھوں افراد آج نایاب سورج گرہن کا مشاہدہ کریں گے!",
         "summary": "",
         "url": "https://www.express.pk/story/2826890/solar-eclipse-2826890/",
@@ -4557,27 +4597,19 @@
         "img": ""
       },
       {
+        "title": "پاکستانی میڈیا برطانیہ میں کمیونٹی کی آواز بن گیا، ہائی کمشنر کا خراج تحسین",
+        "summary": "",
+        "url": "https://www.express.pk/story/2826904/pakistani-media-has-become-the-voice-of-the-community-in-the-uk-high-commissioner-pays-tribute-2826904/",
+        "source": "Express",
+        "date": "2026-08-11T18:52:03+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی میں بے دردی سے شہری قتل، لاش تین ٹکڑوں اور بوریوں میں برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2826886/karachi-citizen-brutally-killed-2826886/",
         "source": "Express",
         "date": "2026-08-11T18:36:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "لٹل ماسٹر حنیف محمد کی 10 ویں برسی انتہائی احترام کے ساتھ منائی گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826881/hanif-muhammad-death-anniversary-2826881/",
-        "source": "Express",
-        "date": "2026-08-11T17:59:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "بشریٰ انصاری نے سائرہ یوسف اور شہروز سبزواری سے متعلق سوشل میڈیا دعووں کی تردید کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826880/bushra-ansari-denies-social-media-claims-about-saira-yousaf-and-shahroz-sabzwari-2826880/",
-        "source": "Express",
-        "date": "2026-08-11T17:54:57+05:00",
         "img": ""
       },
       {
@@ -4610,38 +4642,6 @@
         "url": "https://www.express.pk/story/2826885/mohsin-naqvi-meet-irani-president-in-trhran-us-ceasefire-talk-2826885/",
         "source": "Express",
         "date": "2026-08-11T13:22:55+00:00",
-        "img": ""
-      },
-      {
-        "title": "حوثیوں کا سعودی فوج کا ساز و سامان لے جانے والے جہاز پر حملے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826884/houthis-claim-attack-on-saudi-military-equipment-ship-2826884/",
-        "source": "Express",
-        "date": "2026-08-11T13:18:34+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول کی قیمت میں کمی، ڈیزل کے نرخ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826882/new-petroleum-price-announced-notification-issued-2826882/",
-        "source": "Express",
-        "date": "2026-08-11T13:07:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اپنا رویہ درست کرے اور ہمارے تمام مطالبات مانے تب آبنائے ہرمز کھلے گی؛ ایران",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826879/iran-says-until-us-accept-our-all-demands-strait-of-hurmuz-will-not-open-2826879/",
-        "source": "Express",
-        "date": "2026-08-11T12:53:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "ٹیکس سے مستثنیٰ علاقوں میں اربوں روپے کی ٹیکس چوری پکڑنے کیلئے اعلیٰ سطح تحقیقاتی کمیٹی قائم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2826878/high-level-committee-formed-to-catch-tax-evasion-worth-billions-of-rupees-in-tax-exempt-investigations-2826878/",
-        "source": "Express",
-        "date": "2026-08-11T12:46:17+00:00",
         "img": ""
       },
       {
