@@ -1,13 +1,29 @@
 {
-  "fetched": "2026-08-16T01:00:13.286341+00:00",
+  "fetched": "2026-08-16T02:54:38.458832+00:00",
   "categories": {
     "international": [
+      {
+        "title": "Iran fires back at Trump’s Hormuz claim",
+        "summary": "<p>• Tehran says waterway will remain under its control, vows to maintain blockade<br>• White House official says president’s remarks were ‘a joke’<br>• Pezeshkian acknowledges economic toll of war; Araghchi rules out talks without strict conditions<br>• Iranian military calls for release of three pilots ‘detained’ in ",
+        "url": "https://www.dawn.com/news/2023178/iran-fires-back-at-trumps-hormuz-claim",
+        "source": "Dawn",
+        "date": "2026-08-16T07:44:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "Govt opts for high-level talks as strike by truckers, edible oil transporters strains ports",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023175\">https://www.dawn.com/news/2023175</a></p>",
+        "url": "https://www.dawn.com/news/2023193/govt-opts-for-high-level-talks-as-strike-by-truckers-edible-oil-transporters-strains-ports",
+        "source": "Dawn",
+        "date": "2026-08-16T07:31:45+05:00",
+        "img": ""
+      },
       {
         "title": "تہران کا قطر پر تین ایرانی پائلٹوں کو قید میں رکھنے کا الزام، دوحہ کی تردید",
         "summary": "قطر کی وزارتِ خارجہ نے ایران کے اس دعوے کی تردید کی ہے کہ اس کے تین پائلٹ قطر کی قید میں ہیں۔ ایران کی مسلح افواج کے جنرل سٹاف کی گمشدہ افراد کی تلاش سے متعلق کمیٹی کے سربراہ نے الزام لگایا تھا کہ تین ایرانی پائلٹ قطر میں قید ہیں اور انھوں نے ریڈ کراس سے اس معاملے میں مدد کی اپیل کی تھی۔",
         "url": "https://www.bbc.co.uk/urdu/live/cme8lk53kz3gt?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
-        "date": "2026-08-16T01:00:16.871607+00:00",
+        "date": "2026-08-16T02:54:41.145611+00:00",
         "img": ""
       },
       {
@@ -395,14 +411,6 @@
         "img": ""
       },
       {
-        "title": "Review: Nadia Hashmi's City of Widows gives you a glimpse into the fall of Kabul through a woman's eyes",
-        "summary": "<p><a href=\"https://images.dawn.com/news/1195673/review-nadia-hashmis-city-of-widows-gives-you-a-glimpse-into-the-fall-of-kabul-through-a-womans-eyes\">https://images.dawn.com/news/1195673/review-nadia-hashmis-city-of-widows-gives-you-a-glimpse-into-the-fall-of-kabul-through-a-womans-eyes</a></p>",
-        "url": "https://www.dawn.com/news/2023017/review-nadia-hashmis-city-of-widows-gives-you-a-glimpse-into-the-fall-of-kabul-through-a-womans-eyes",
-        "source": "Dawn",
-        "date": "2026-08-15T12:36:03+05:00",
-        "img": ""
-      },
-      {
         "title": "PM Shehbaz directs NDMA to ensure relief for citizens in flood-hit areas",
         "summary": "<p>Prime Minister Shehbaz Sharif on Saturday directed the National Disaster Management Authority (NDMA) to provide every possible assistance and relief to people in flood-affected areas.</p> <p>According to a statement issued by the Prime Minister’s Office (PMO), the prime minister gave the directives during a meeting ",
         "url": "https://www.dawn.com/news/2023012/pm-shehbaz-directs-ndma-to-ensure-relief-for-citizens-in-flood-hit-areas",
@@ -448,14 +456,6 @@
         "url": "https://www.dawn.com/news/2022997/gas-supply-disruption-persists-in-balochistan-as-repair-work-on-damaged-pipeline-awaits-security-clearance",
         "source": "Dawn",
         "date": "2026-08-15T07:53:44+05:00",
-        "img": ""
-      },
-      {
-        "title": "Top govt functionary says new administrative units ‘under serious consideration’",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2022951\">https://www.dawn.com/news/2022951</a></p>",
-        "url": "https://www.dawn.com/news/2022995/top-govt-functionary-says-new-administrative-units-under-serious-consideration",
-        "source": "Dawn",
-        "date": "2026-08-15T07:37:17+05:00",
         "img": ""
       },
       {
@@ -573,6 +573,46 @@
     ],
     "national": [
       {
+        "title": "Govt opts for high-level talks as strike by truckers, edible oil transporters strains ports",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023175\">https://www.dawn.com/news/2023175</a></p>",
+        "url": "https://www.dawn.com/news/2023193/govt-opts-for-high-level-talks-as-strike-by-truckers-edible-oil-transporters-strains-ports",
+        "source": "Dawn",
+        "date": "2026-08-16T07:31:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈیفنس میں کروڈ آئل لیک کا معاملہ، لائن کی مرمت کا کام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827526/karachi-crude-oil-leak-issue-in-defense-line-repair-work-begins-2827526/",
+        "source": "Express",
+        "date": "2026-08-16T02:30:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، رہائشی عمارت میں آگ بھڑک اٹھی، خوفزدہ خاتون نے پہلی منزل سے چھلانگ لگا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827525/karachi-fire-breaks-out-in-residential-building-frightened-woman-jumps-from-first-floor-2827525/",
+        "source": "Express",
+        "date": "2026-08-16T02:15:43+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
+        "source": "Express",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
         "title": "Yash addresses comparisons with Shah Rukh Khan",
         "summary": "Yash addresses comparisons with Shah Rukh Khan",
         "url": "https://arynews.tv/yash-addresses-comparisons-with-shah-rukh-khan",
@@ -757,6 +797,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "summary": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "url": "https://arynews.tv/how-iran-war-is-quietly-destroying-uss-biggest-ally-i-e-japan",
@@ -794,6 +842,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -941,14 +997,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
       },
       {
-        "title": "آزادی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827499/freedom-2827499/",
-        "source": "Express",
-        "date": "2026-08-15T19:20:20+05:00",
-        "img": ""
-      },
-      {
         "title": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
         "summary": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
         "url": "https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-august-15-2026",
@@ -963,22 +1011,6 @@
         "source": "ARY News",
         "date": "2026-08-15T19:18:19+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-49.jpg"
-      },
-      {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
       },
       {
         "title": "Mir Raza Ali Case: Two more police personnel join investigation team",
@@ -1021,35 +1053,11 @@
         "img": ""
       },
       {
-        "title": "مصطفیٰ عامر قتل کیس سیشن عدالت منتقل کرنے کی درخواست مسترد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827500/application-to-transfer-mustafa-amir-murder-case-to-session-court-rejected-2827500/",
-        "source": "Express",
-        "date": "2026-08-15T14:24:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali's murder: Interim bail of deceased's business partner extended till Aug 24",
         "summary": "<p>KARACHI: A session court on Saturday extended the interim pre-arrest bail of a man said to be the business partner of Mir Raza Ali, a young businessman whose body was found last month after he went missing in PECHS.</p> <p>Muhammad Ahmed Bhardey filed an application before the additional district and sessions judge ",
         "url": "https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24",
         "source": "Dawn",
         "date": "2026-08-15T14:02:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
         "img": ""
       },
       {
@@ -1090,14 +1098,6 @@
         "url": "https://www.dawn.com/news/2022873/muzaffargarh-canal-closed-to-facilitate-search-for-three-kids",
         "source": "Dawn",
         "date": "2026-08-15T09:37:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "Floods cause learning crisis in Chitral",
-        "summary": "<figure class='media w-full sm:w-4/5 media--center media--uneven media--stretch' data-original-src='https://i.dawn.com/large/2026/08/150200206e835a8.webp'> <div class='media__item '><picture><img src='https://i.dawn.com/large/2026/08/150200206e835a8.webp' alt=' Students cross a makeshift bridge over a stream in Yarkhoo",
-        "url": "https://www.dawn.com/news/2022859/floods-cause-learning-crisis-in-chitral",
-        "source": "Dawn",
-        "date": "2026-08-15T09:35:51+05:00",
         "img": ""
       },
       {
@@ -1175,6 +1175,54 @@
     ],
     "kpk": [
       {
+        "title": "Sharjeel Memon says AJK election results will be remembered as 'Form 47 Plus'",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023177\">https://www.dawn.com/news/2023177</a></p>",
+        "url": "https://www.dawn.com/news/2023195/sharjeel-memon-says-ajk-election-results-will-be-remembered-as-form-47-plus",
+        "source": "Dawn",
+        "date": "2026-08-16T07:52:37+05:00",
+        "img": ""
+      },
+      {
+        "title": "Govt opts for high-level talks as strike by truckers, edible oil transporters strains ports",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023175\">https://www.dawn.com/news/2023175</a></p>",
+        "url": "https://www.dawn.com/news/2023193/govt-opts-for-high-level-talks-as-strike-by-truckers-edible-oil-transporters-strains-ports",
+        "source": "Dawn",
+        "date": "2026-08-16T07:31:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈیفنس میں کروڈ آئل لیک کا معاملہ، لائن کی مرمت کا کام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827526/karachi-crude-oil-leak-issue-in-defense-line-repair-work-begins-2827526/",
+        "source": "Express",
+        "date": "2026-08-16T02:30:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، رہائشی عمارت میں آگ بھڑک اٹھی، خوفزدہ خاتون نے پہلی منزل سے چھلانگ لگا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827525/karachi-fire-breaks-out-in-residential-building-frightened-woman-jumps-from-first-floor-2827525/",
+        "source": "Express",
+        "date": "2026-08-16T02:15:43+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
+        "source": "Express",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
         "title": "Yash addresses comparisons with Shah Rukh Khan",
         "summary": "Yash addresses comparisons with Shah Rukh Khan",
         "url": "https://arynews.tv/yash-addresses-comparisons-with-shah-rukh-khan",
@@ -1359,6 +1407,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "summary": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "url": "https://arynews.tv/how-iran-war-is-quietly-destroying-uss-biggest-ally-i-e-japan",
@@ -1396,6 +1452,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -1543,14 +1607,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
       },
       {
-        "title": "آزادی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827499/freedom-2827499/",
-        "source": "Express",
-        "date": "2026-08-15T19:20:20+05:00",
-        "img": ""
-      },
-      {
         "title": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
         "summary": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
         "url": "https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-august-15-2026",
@@ -1565,22 +1621,6 @@
         "source": "ARY News",
         "date": "2026-08-15T19:18:19+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-49.jpg"
-      },
-      {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
       },
       {
         "title": "Mir Raza Ali Case: Two more police personnel join investigation team",
@@ -1623,35 +1663,11 @@
         "img": ""
       },
       {
-        "title": "مصطفیٰ عامر قتل کیس سیشن عدالت منتقل کرنے کی درخواست مسترد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827500/application-to-transfer-mustafa-amir-murder-case-to-session-court-rejected-2827500/",
-        "source": "Express",
-        "date": "2026-08-15T14:24:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali's murder: Interim bail of deceased's business partner extended till Aug 24",
         "summary": "<p>KARACHI: A session court on Saturday extended the interim pre-arrest bail of a man said to be the business partner of Mir Raza Ali, a young businessman whose body was found last month after he went missing in PECHS.</p> <p>Muhammad Ahmed Bhardey filed an application before the additional district and sessions judge ",
         "url": "https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24",
         "source": "Dawn",
         "date": "2026-08-15T14:02:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
         "img": ""
       },
       {
@@ -1684,22 +1700,6 @@
         "url": "https://www.dawn.com/news/2022885/6-jinnah-sindh-medical-university-faculty-members-urge-vc-to-review-decision-to-rehire-professor-after-retirement",
         "source": "Dawn",
         "date": "2026-08-15T09:38:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "Muzaffargarh Canal closed to facilitate search for three kids",
-        "summary": "<p>LAHORE: The irrigation department, on the directions of Kot Addu district administration, on Friday closed the Muzaffargarh Canal to facilitate the search for the three children who are feared to have drowned, after a loader rickshaw carrying them and others had <a href=\"https://www.dawn.com/news/2022151\">plunged </",
-        "url": "https://www.dawn.com/news/2022873/muzaffargarh-canal-closed-to-facilitate-search-for-three-kids",
-        "source": "Dawn",
-        "date": "2026-08-15T09:37:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "Floods cause learning crisis in Chitral",
-        "summary": "<figure class='media w-full sm:w-4/5 media--center media--uneven media--stretch' data-original-src='https://i.dawn.com/large/2026/08/150200206e835a8.webp'> <div class='media__item '><picture><img src='https://i.dawn.com/large/2026/08/150200206e835a8.webp' alt=' Students cross a makeshift bridge over a stream in Yarkhoo",
-        "url": "https://www.dawn.com/news/2022859/floods-cause-learning-crisis-in-chitral",
-        "source": "Dawn",
-        "date": "2026-08-15T09:35:51+05:00",
         "img": ""
       },
       {
@@ -1857,6 +1857,54 @@
     ],
     "punjab": [
       {
+        "title": "Sharjeel Memon says AJK election results will be remembered as 'Form 47 Plus'",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023177\">https://www.dawn.com/news/2023177</a></p>",
+        "url": "https://www.dawn.com/news/2023195/sharjeel-memon-says-ajk-election-results-will-be-remembered-as-form-47-plus",
+        "source": "Dawn",
+        "date": "2026-08-16T07:52:37+05:00",
+        "img": ""
+      },
+      {
+        "title": "Govt opts for high-level talks as strike by truckers, edible oil transporters strains ports",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023175\">https://www.dawn.com/news/2023175</a></p>",
+        "url": "https://www.dawn.com/news/2023193/govt-opts-for-high-level-talks-as-strike-by-truckers-edible-oil-transporters-strains-ports",
+        "source": "Dawn",
+        "date": "2026-08-16T07:31:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈیفنس میں کروڈ آئل لیک کا معاملہ، لائن کی مرمت کا کام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827526/karachi-crude-oil-leak-issue-in-defense-line-repair-work-begins-2827526/",
+        "source": "Express",
+        "date": "2026-08-16T02:30:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، رہائشی عمارت میں آگ بھڑک اٹھی، خوفزدہ خاتون نے پہلی منزل سے چھلانگ لگا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827525/karachi-fire-breaks-out-in-residential-building-frightened-woman-jumps-from-first-floor-2827525/",
+        "source": "Express",
+        "date": "2026-08-16T02:15:43+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
+        "source": "Express",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
@@ -1929,6 +1977,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "منزل کیوں نہیں آئی؟",
         "summary": "",
         "url": "https://www.express.pk/story/2827512/why-didnt-the-destination-arrive-2827512/",
@@ -1950,6 +2006,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -2065,30 +2129,6 @@
         "img": ""
       },
       {
-        "title": "آزادی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827499/freedom-2827499/",
-        "source": "Express",
-        "date": "2026-08-15T19:20:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
-      },
-      {
         "title": "18 girls’ schools in Upper Dir border areas recommended for week-long closure over security concerns",
         "summary": "<p>LOWER DIR: The district education officer on Saturday recommended the temporary closure for one week of 18 girls’ schools in the border areas of Upper Dir amid the prevailing <a href=\"https://www.dawn.com/news/2022585\">security situation</a> along the Pakistan-Afghanistan border.</p> <p>According to an official lett",
         "url": "https://www.dawn.com/news/2023038/18-girls-schools-in-upper-dir-border-areas-recommended-for-week-long-closure-over-security-concerns",
@@ -2105,35 +2145,11 @@
         "img": ""
       },
       {
-        "title": "مصطفیٰ عامر قتل کیس سیشن عدالت منتقل کرنے کی درخواست مسترد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827500/application-to-transfer-mustafa-amir-murder-case-to-session-court-rejected-2827500/",
-        "source": "Express",
-        "date": "2026-08-15T14:24:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali's murder: Interim bail of deceased's business partner extended till Aug 24",
         "summary": "<p>KARACHI: A session court on Saturday extended the interim pre-arrest bail of a man said to be the business partner of Mir Raza Ali, a young businessman whose body was found last month after he went missing in PECHS.</p> <p>Muhammad Ahmed Bhardey filed an application before the additional district and sessions judge ",
         "url": "https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24",
         "source": "Dawn",
         "date": "2026-08-15T14:02:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
         "img": ""
       },
       {
@@ -2166,22 +2182,6 @@
         "url": "https://www.dawn.com/news/2022885/6-jinnah-sindh-medical-university-faculty-members-urge-vc-to-review-decision-to-rehire-professor-after-retirement",
         "source": "Dawn",
         "date": "2026-08-15T09:38:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "Muzaffargarh Canal closed to facilitate search for three kids",
-        "summary": "<p>LAHORE: The irrigation department, on the directions of Kot Addu district administration, on Friday closed the Muzaffargarh Canal to facilitate the search for the three children who are feared to have drowned, after a loader rickshaw carrying them and others had <a href=\"https://www.dawn.com/news/2022151\">plunged </",
-        "url": "https://www.dawn.com/news/2022873/muzaffargarh-canal-closed-to-facilitate-search-for-three-kids",
-        "source": "Dawn",
-        "date": "2026-08-15T09:37:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "Floods cause learning crisis in Chitral",
-        "summary": "<figure class='media w-full sm:w-4/5 media--center media--uneven media--stretch' data-original-src='https://i.dawn.com/large/2026/08/150200206e835a8.webp'> <div class='media__item '><picture><img src='https://i.dawn.com/large/2026/08/150200206e835a8.webp' alt=' Students cross a makeshift bridge over a stream in Yarkhoo",
-        "url": "https://www.dawn.com/news/2022859/floods-cause-learning-crisis-in-chitral",
-        "source": "Dawn",
-        "date": "2026-08-15T09:35:51+05:00",
         "img": ""
       },
       {
@@ -2259,6 +2259,54 @@
     ],
     "sindh": [
       {
+        "title": "Sharjeel Memon says AJK election results will be remembered as 'Form 47 Plus'",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023177\">https://www.dawn.com/news/2023177</a></p>",
+        "url": "https://www.dawn.com/news/2023195/sharjeel-memon-says-ajk-election-results-will-be-remembered-as-form-47-plus",
+        "source": "Dawn",
+        "date": "2026-08-16T07:52:37+05:00",
+        "img": ""
+      },
+      {
+        "title": "Govt opts for high-level talks as strike by truckers, edible oil transporters strains ports",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023175\">https://www.dawn.com/news/2023175</a></p>",
+        "url": "https://www.dawn.com/news/2023193/govt-opts-for-high-level-talks-as-strike-by-truckers-edible-oil-transporters-strains-ports",
+        "source": "Dawn",
+        "date": "2026-08-16T07:31:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈیفنس میں کروڈ آئل لیک کا معاملہ، لائن کی مرمت کا کام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827526/karachi-crude-oil-leak-issue-in-defense-line-repair-work-begins-2827526/",
+        "source": "Express",
+        "date": "2026-08-16T02:30:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، رہائشی عمارت میں آگ بھڑک اٹھی، خوفزدہ خاتون نے پہلی منزل سے چھلانگ لگا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827525/karachi-fire-breaks-out-in-residential-building-frightened-woman-jumps-from-first-floor-2827525/",
+        "source": "Express",
+        "date": "2026-08-16T02:15:43+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
+        "source": "Express",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
@@ -2331,6 +2379,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "منزل کیوں نہیں آئی؟",
         "summary": "",
         "url": "https://www.express.pk/story/2827512/why-didnt-the-destination-arrive-2827512/",
@@ -2352,6 +2408,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -2467,30 +2531,6 @@
         "img": ""
       },
       {
-        "title": "آزادی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827499/freedom-2827499/",
-        "source": "Express",
-        "date": "2026-08-15T19:20:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
-      },
-      {
         "title": "18 girls’ schools in Upper Dir border areas recommended for week-long closure over security concerns",
         "summary": "<p>LOWER DIR: The district education officer on Saturday recommended the temporary closure for one week of 18 girls’ schools in the border areas of Upper Dir amid the prevailing <a href=\"https://www.dawn.com/news/2022585\">security situation</a> along the Pakistan-Afghanistan border.</p> <p>According to an official lett",
         "url": "https://www.dawn.com/news/2023038/18-girls-schools-in-upper-dir-border-areas-recommended-for-week-long-closure-over-security-concerns",
@@ -2507,35 +2547,11 @@
         "img": ""
       },
       {
-        "title": "مصطفیٰ عامر قتل کیس سیشن عدالت منتقل کرنے کی درخواست مسترد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827500/application-to-transfer-mustafa-amir-murder-case-to-session-court-rejected-2827500/",
-        "source": "Express",
-        "date": "2026-08-15T14:24:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali's murder: Interim bail of deceased's business partner extended till Aug 24",
         "summary": "<p>KARACHI: A session court on Saturday extended the interim pre-arrest bail of a man said to be the business partner of Mir Raza Ali, a young businessman whose body was found last month after he went missing in PECHS.</p> <p>Muhammad Ahmed Bhardey filed an application before the additional district and sessions judge ",
         "url": "https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24",
         "source": "Dawn",
         "date": "2026-08-15T14:02:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
         "img": ""
       },
       {
@@ -2568,22 +2584,6 @@
         "url": "https://www.dawn.com/news/2022885/6-jinnah-sindh-medical-university-faculty-members-urge-vc-to-review-decision-to-rehire-professor-after-retirement",
         "source": "Dawn",
         "date": "2026-08-15T09:38:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "Muzaffargarh Canal closed to facilitate search for three kids",
-        "summary": "<p>LAHORE: The irrigation department, on the directions of Kot Addu district administration, on Friday closed the Muzaffargarh Canal to facilitate the search for the three children who are feared to have drowned, after a loader rickshaw carrying them and others had <a href=\"https://www.dawn.com/news/2022151\">plunged </",
-        "url": "https://www.dawn.com/news/2022873/muzaffargarh-canal-closed-to-facilitate-search-for-three-kids",
-        "source": "Dawn",
-        "date": "2026-08-15T09:37:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "Floods cause learning crisis in Chitral",
-        "summary": "<figure class='media w-full sm:w-4/5 media--center media--uneven media--stretch' data-original-src='https://i.dawn.com/large/2026/08/150200206e835a8.webp'> <div class='media__item '><picture><img src='https://i.dawn.com/large/2026/08/150200206e835a8.webp' alt=' Students cross a makeshift bridge over a stream in Yarkhoo",
-        "url": "https://www.dawn.com/news/2022859/floods-cause-learning-crisis-in-chitral",
-        "source": "Dawn",
-        "date": "2026-08-15T09:35:51+05:00",
         "img": ""
       },
       {
@@ -2661,6 +2661,54 @@
     ],
     "baloch": [
       {
+        "title": "Sharjeel Memon says AJK election results will be remembered as 'Form 47 Plus'",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023177\">https://www.dawn.com/news/2023177</a></p>",
+        "url": "https://www.dawn.com/news/2023195/sharjeel-memon-says-ajk-election-results-will-be-remembered-as-form-47-plus",
+        "source": "Dawn",
+        "date": "2026-08-16T07:52:37+05:00",
+        "img": ""
+      },
+      {
+        "title": "Govt opts for high-level talks as strike by truckers, edible oil transporters strains ports",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023175\">https://www.dawn.com/news/2023175</a></p>",
+        "url": "https://www.dawn.com/news/2023193/govt-opts-for-high-level-talks-as-strike-by-truckers-edible-oil-transporters-strains-ports",
+        "source": "Dawn",
+        "date": "2026-08-16T07:31:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈیفنس میں کروڈ آئل لیک کا معاملہ، لائن کی مرمت کا کام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827526/karachi-crude-oil-leak-issue-in-defense-line-repair-work-begins-2827526/",
+        "source": "Express",
+        "date": "2026-08-16T02:30:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، رہائشی عمارت میں آگ بھڑک اٹھی، خوفزدہ خاتون نے پہلی منزل سے چھلانگ لگا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827525/karachi-fire-breaks-out-in-residential-building-frightened-woman-jumps-from-first-floor-2827525/",
+        "source": "Express",
+        "date": "2026-08-16T02:15:43+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
+        "source": "Express",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
         "title": "Yash addresses comparisons with Shah Rukh Khan",
         "summary": "Yash addresses comparisons with Shah Rukh Khan",
         "url": "https://arynews.tv/yash-addresses-comparisons-with-shah-rukh-khan",
@@ -2845,6 +2893,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "summary": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "url": "https://arynews.tv/how-iran-war-is-quietly-destroying-uss-biggest-ally-i-e-japan",
@@ -2882,6 +2938,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -3029,14 +3093,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
       },
       {
-        "title": "آزادی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827499/freedom-2827499/",
-        "source": "Express",
-        "date": "2026-08-15T19:20:20+05:00",
-        "img": ""
-      },
-      {
         "title": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
         "summary": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
         "url": "https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-august-15-2026",
@@ -3051,22 +3107,6 @@
         "source": "ARY News",
         "date": "2026-08-15T19:18:19+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-49.jpg"
-      },
-      {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
       },
       {
         "title": "Mir Raza Ali Case: Two more police personnel join investigation team",
@@ -3109,35 +3149,11 @@
         "img": ""
       },
       {
-        "title": "مصطفیٰ عامر قتل کیس سیشن عدالت منتقل کرنے کی درخواست مسترد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827500/application-to-transfer-mustafa-amir-murder-case-to-session-court-rejected-2827500/",
-        "source": "Express",
-        "date": "2026-08-15T14:24:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
         "title": "Mir Raza Ali's murder: Interim bail of deceased's business partner extended till Aug 24",
         "summary": "<p>KARACHI: A session court on Saturday extended the interim pre-arrest bail of a man said to be the business partner of Mir Raza Ali, a young businessman whose body was found last month after he went missing in PECHS.</p> <p>Muhammad Ahmed Bhardey filed an application before the additional district and sessions judge ",
         "url": "https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24",
         "source": "Dawn",
         "date": "2026-08-15T14:02:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
         "img": ""
       },
       {
@@ -3170,22 +3186,6 @@
         "url": "https://www.dawn.com/news/2022885/6-jinnah-sindh-medical-university-faculty-members-urge-vc-to-review-decision-to-rehire-professor-after-retirement",
         "source": "Dawn",
         "date": "2026-08-15T09:38:18+05:00",
-        "img": ""
-      },
-      {
-        "title": "Muzaffargarh Canal closed to facilitate search for three kids",
-        "summary": "<p>LAHORE: The irrigation department, on the directions of Kot Addu district administration, on Friday closed the Muzaffargarh Canal to facilitate the search for the three children who are feared to have drowned, after a loader rickshaw carrying them and others had <a href=\"https://www.dawn.com/news/2022151\">plunged </",
-        "url": "https://www.dawn.com/news/2022873/muzaffargarh-canal-closed-to-facilitate-search-for-three-kids",
-        "source": "Dawn",
-        "date": "2026-08-15T09:37:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "Floods cause learning crisis in Chitral",
-        "summary": "<figure class='media w-full sm:w-4/5 media--center media--uneven media--stretch' data-original-src='https://i.dawn.com/large/2026/08/150200206e835a8.webp'> <div class='media__item '><picture><img src='https://i.dawn.com/large/2026/08/150200206e835a8.webp' alt=' Students cross a makeshift bridge over a stream in Yarkhoo",
-        "url": "https://www.dawn.com/news/2022859/floods-cause-learning-crisis-in-chitral",
-        "source": "Dawn",
-        "date": "2026-08-15T09:35:51+05:00",
         "img": ""
       },
       {
@@ -3262,6 +3262,38 @@
       }
     ],
     "education": [
+      {
+        "title": "کراچی، ڈیفنس میں کروڈ آئل لیک کا معاملہ، لائن کی مرمت کا کام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827526/karachi-crude-oil-leak-issue-in-defense-line-repair-work-begins-2827526/",
+        "source": "Express",
+        "date": "2026-08-16T02:30:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، رہائشی عمارت میں آگ بھڑک اٹھی، خوفزدہ خاتون نے پہلی منزل سے چھلانگ لگا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827525/karachi-fire-breaks-out-in-residential-building-frightened-woman-jumps-from-first-floor-2827525/",
+        "source": "Express",
+        "date": "2026-08-16T02:15:43+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
+        "source": "Express",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
       {
         "title": "Yash addresses comparisons with Shah Rukh Khan",
         "summary": "Yash addresses comparisons with Shah Rukh Khan",
@@ -3423,6 +3455,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "summary": "How Iran War Is Quietly Destroying US’s biggest ally i.e. Japan",
         "url": "https://arynews.tv/how-iran-war-is-quietly-destroying-uss-biggest-ally-i-e-japan",
@@ -3452,6 +3492,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -3575,14 +3623,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
       },
       {
-        "title": "آزادی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827499/freedom-2827499/",
-        "source": "Express",
-        "date": "2026-08-15T19:20:20+05:00",
-        "img": ""
-      },
-      {
         "title": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
         "summary": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
         "url": "https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-august-15-2026",
@@ -3597,22 +3637,6 @@
         "source": "ARY News",
         "date": "2026-08-15T19:18:19+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-49.jpg"
-      },
-      {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
       },
       {
         "title": "Mir Raza Ali Case: Two more police personnel join investigation team",
@@ -3637,30 +3661,6 @@
         "source": "ARY News",
         "date": "2026-08-15T18:42:32+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-98.jpg"
-      },
-      {
-        "title": "مصطفیٰ عامر قتل کیس سیشن عدالت منتقل کرنے کی درخواست مسترد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827500/application-to-transfer-mustafa-amir-murder-case-to-session-court-rejected-2827500/",
-        "source": "Express",
-        "date": "2026-08-15T14:24:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
-        "img": ""
       }
     ],
     "science": [
@@ -3867,6 +3867,38 @@
     ],
     "sports": [
       {
+        "title": "کراچی، ڈیفنس میں کروڈ آئل لیک کا معاملہ، لائن کی مرمت کا کام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827526/karachi-crude-oil-leak-issue-in-defense-line-repair-work-begins-2827526/",
+        "source": "Express",
+        "date": "2026-08-16T02:30:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، رہائشی عمارت میں آگ بھڑک اٹھی، خوفزدہ خاتون نے پہلی منزل سے چھلانگ لگا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827525/karachi-fire-breaks-out-in-residential-building-frightened-woman-jumps-from-first-floor-2827525/",
+        "source": "Express",
+        "date": "2026-08-16T02:15:43+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
+        "source": "Express",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
@@ -3915,6 +3947,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "منزل کیوں نہیں آئی؟",
         "summary": "",
         "url": "https://www.express.pk/story/2827512/why-didnt-the-destination-arrive-2827512/",
@@ -3928,6 +3968,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -4019,30 +4067,6 @@
         "img": ""
       },
       {
-        "title": "آزادی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827499/freedom-2827499/",
-        "source": "Express",
-        "date": "2026-08-15T19:20:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
-      },
-      {
         "title": "Diomande in Real Madrid squad for Schalke friendly",
         "summary": "Diomande in Real Madrid squad for Schalke friendly",
         "url": "https://arynews.tv/diomande-in-real-madrid-squad-for-schalke-friendly",
@@ -4083,36 +4107,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-95.jpg"
       },
       {
-        "title": "مصطفیٰ عامر قتل کیس سیشن عدالت منتقل کرنے کی درخواست مسترد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827500/application-to-transfer-mustafa-amir-murder-case-to-session-court-rejected-2827500/",
-        "source": "Express",
-        "date": "2026-08-15T14:24:31+00:00",
-        "img": ""
-      },
-      {
         "title": "Mehidy claims Smith to keep Bangladesh on top in Australia Test",
         "summary": "Mehidy claims Smith to keep Bangladesh on top in Australia Test",
         "url": "https://arynews.tv/mehidy-claims-smith-to-keep-bangladesh-on-top-in-australia-test",
         "source": "ARY Sports",
         "date": "2026-08-15T14:10:09+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-94.jpg"
-      },
-      {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
-        "img": ""
       },
       {
         "title": "Pakistan captain Babar in injury scare ahead of England Test",
@@ -4429,6 +4429,46 @@
     ],
     "business": [
       {
+        "title": "Govt opts for high-level talks as strike by truckers, edible oil transporters strains ports",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023175\">https://www.dawn.com/news/2023175</a></p>",
+        "url": "https://www.dawn.com/news/2023193/govt-opts-for-high-level-talks-as-strike-by-truckers-edible-oil-transporters-strains-ports",
+        "source": "Dawn",
+        "date": "2026-08-16T07:31:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈیفنس میں کروڈ آئل لیک کا معاملہ، لائن کی مرمت کا کام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827526/karachi-crude-oil-leak-issue-in-defense-line-repair-work-begins-2827526/",
+        "source": "Express",
+        "date": "2026-08-16T02:30:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، رہائشی عمارت میں آگ بھڑک اٹھی، خوفزدہ خاتون نے پہلی منزل سے چھلانگ لگا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827525/karachi-fire-breaks-out-in-residential-building-frightened-woman-jumps-from-first-floor-2827525/",
+        "source": "Express",
+        "date": "2026-08-16T02:15:43+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، ڈاکس مچھر کالونی میں فائرنگ، شہری جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827522/firing-in-docks-mosquito-colony-karachi-civilian-killed-2827522/",
+        "source": "Express",
+        "date": "2026-08-16T01:04:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827521/karachi-police-encounters-in-different-areas-of-the-city-5-suspects-arrested-in-injured-condition-2827521/",
+        "source": "Express",
+        "date": "2026-08-16T00:52:36+05:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
@@ -4477,6 +4517,14 @@
         "img": ""
       },
       {
+        "title": "سینٹکام کے سربراہ کا ایرانی بحری ناکہ بندی میں مصروف طیارہ بردار جہاز کا دورہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827524/centcom-chief-visits-aircraft-carrier-engaged-in-iranian-naval-blockade-2827524/",
+        "source": "Express",
+        "date": "2026-08-15T20:53:02+00:00",
+        "img": ""
+      },
+      {
         "title": "منزل کیوں نہیں آئی؟",
         "summary": "",
         "url": "https://www.express.pk/story/2827512/why-didnt-the-destination-arrive-2827512/",
@@ -4490,6 +4538,14 @@
         "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
         "source": "Express",
         "date": "2026-08-15T20:40:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
+        "source": "Express",
+        "date": "2026-08-15T20:34:23+00:00",
         "img": ""
       },
       {
@@ -4578,54 +4634,6 @@
         "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
         "source": "Express",
         "date": "2026-08-15T19:24:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "آزادی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827499/freedom-2827499/",
-        "source": "Express",
-        "date": "2026-08-15T19:20:20+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد سلیمان بھبرو کی شاندار سنچری، مین آف دی میچ قرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827498/muhammad-suleman-bhabro-scores-a-magnificent-century-named-man-of-the-match-2827498/",
-        "source": "Express",
-        "date": "2026-08-15T19:12:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "الفاظ کی پکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827497/the-call-of-words-2827497/",
-        "source": "Express",
-        "date": "2026-08-15T19:11:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "مصطفیٰ عامر قتل کیس سیشن عدالت منتقل کرنے کی درخواست مسترد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827500/application-to-transfer-mustafa-amir-murder-case-to-session-court-rejected-2827500/",
-        "source": "Express",
-        "date": "2026-08-15T14:24:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "نوٹیفکیشن کے بغیر حکومت کی یقین دہانی میں نہیں آئیں گے، صدر ٹرانسپورٹ اتحاد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827496/transport-alliance-president-says-govt-assurances-will-not-be-accept-without-notification-2827496/",
-        "source": "Express",
-        "date": "2026-08-15T14:03:22+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: ڈیفنس میں نجی کمپنی کی لائن لیک ہونے سے آئل بہہ کر سڑک پر پھیل گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827495/karachi-oil-leaked-from-a-private-companys-pipeline-in-defence-and-spread-across-the-road-2827495/",
-        "source": "Express",
-        "date": "2026-08-15T13:49:56+00:00",
         "img": ""
       },
       {
@@ -4810,14 +4818,6 @@
         "url": "https://www.dawn.com/news/2022487/psx-snaps-losing-streak-on-value-hunting",
         "source": "Dawn",
         "date": "2026-08-13T04:20:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "Gold rebounds towards 10-week high as markets brace for US inflation data",
-        "summary": "<p>Gold prices rose on Wednesday, supported by reduced bets on Federal Reserve tightening next month as investors awaited key US inflation data that could reshape policy expectations.</p> <p>Spot gold gained 0.6 per cent to $4,391.82 per ounce by 0535 GMT. US gold futures for December delivery rose 0.2pc to $4,451.90.<",
-        "url": "https://www.dawn.com/news/2022343/gold-rebounds-towards-10-week-high-as-markets-brace-for-us-inflation-data",
-        "source": "Dawn",
-        "date": "2026-08-12T16:45:09+05:00",
         "img": ""
       },
       {
