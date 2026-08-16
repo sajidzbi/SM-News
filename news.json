@@ -1,21 +1,93 @@
 {
-  "fetched": "2026-08-16T05:22:32.001324+00:00",
+  "fetched": "2026-08-16T06:31:25.219517+00:00",
   "categories": {
     "international": [
+      {
+        "title": "Japan mission aims for the moons of Mars",
+        "summary": "<p>Japanese scientists are readying a mission to Mars’ moons to retrieve samples that may unlock the origins of the Solar System and life on Earth, although a rival Chinese mission aims to make it back first.</p> <p>The unmanned Martian Moons eXploration (MMX), set to blast off from Tanegashima Space Centre in the comi",
+        "url": "https://www.dawn.com/news/2023211/japan-mission-aims-for-the-moons-of-mars",
+        "source": "Dawn",
+        "date": "2026-08-16T11:22:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+        "summary": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+        "url": "https://arynews.tv/thousands-evacuate-after-indonesia-quake-kills-51-cuts-roads",
+        "source": "ARY News",
+        "date": "2026-08-16T11:18:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Indonesia-1.jpg"
+      },
+      {
+        "title": "Female content creator gunned down, teenage sister injured in Taxila",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023101\">https://www.dawn.com/news/2023101</a></p>",
+        "url": "https://www.dawn.com/news/2023208/female-content-creator-gunned-down-teenage-sister-injured-in-taxila",
+        "source": "Dawn",
+        "date": "2026-08-16T10:53:43+05:00",
+        "img": ""
+      },
+      {
+        "title": "Moscow targeted by 600 drones overnight, 3 people wounded: mayor",
+        "summary": "Moscow targeted by 600 drones overnight, 3 people wounded: mayor",
+        "url": "https://arynews.tv/moscow-targeted-600-drones-3-people-wounded-mayor",
+        "source": "ARY News",
+        "date": "2026-08-16T10:47:10+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2024/05/sadfas234.jpg"
+      },
+      {
+        "title": "Rampant Bangladesh make history with first-ever Test win in Australia",
+        "summary": "<p>A dominant Bangladesh stunned hosts Australia to win the first <a href=\"https://www.dawn.com/news/2022704\">Test</a> by nine wickets in Darwin on Sunday for a historic maiden Test victory on Australian soil.</p> <p>After bowling Australia out for 284 and needing 57 to win, the visitors cruised past the total when Mom",
+        "url": "https://www.dawn.com/news/2023210/rampant-bangladesh-make-history-with-first-ever-test-win-in-australia",
+        "source": "Dawn",
+        "date": "2026-08-16T10:45:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "Rampant Bangladesh seal first-ever Test win in Australia",
+        "summary": "Rampant Bangladesh seal first-ever Test win in Australia",
+        "url": "https://arynews.tv/rampant-bangladesh-seal-first-ever-test-win-in-australia",
+        "source": "ARY News",
+        "date": "2026-08-16T10:36:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Bangladesh.jpg"
+      },
+      {
+        "title": "Chinese ship sets off for Europe through Arctic, halving travel time",
+        "summary": "Chinese ship sets off for Europe through Arctic, halving travel time",
+        "url": "https://arynews.tv/chinese-ship-sets-off-europe-through-arctic-halving-travel-time",
+        "source": "ARY News",
+        "date": "2026-08-16T10:28:30+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2020/09/ryssua.jpg"
+      },
+      {
+        "title": "Pakistan security forces kill seven Fitna al-Khawarij in Balochistan",
+        "summary": "Pakistan security forces kill seven Fitna al-Khawarij in Balochistan",
+        "url": "https://arynews.tv/pakistan-security-forces-kill-seven-fitna-al-khawarij-in-balochistan",
+        "source": "ARY News",
+        "date": "2026-08-16T10:26:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawarij-Pakistan-security-forces-ispr-1.jpg"
+      },
+      {
+        "title": "Smokers' corner: Politics of the big tent",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2022920\">https://www.dawn.com/news/2022920</a></p>",
+        "url": "https://www.dawn.com/news/2023209/smokers-corner-politics-of-the-big-tent",
+        "source": "Dawn",
+        "date": "2026-08-16T10:25:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "One in 5 Pakistani employees make IT mistakes due to lack of cybersecurity knowledge: survey",
+        "summary": "<p>ISLAMABAD: A latest survey titled “Cybersecurity in the workplace: Employee knowledge and behaviour” which was arranged among employees from the Middle East, Turkiye and Africa (META) region including Pakistan, says 18.5pc of employees surveyed in the Pakistan confirmed that they made IT-related mistakes due to lack",
+        "url": "https://www.dawn.com/news/2023106/one-in-5-pakistani-employees-make-it-mistakes-due-to-lack-of-cybersecurity-knowledge-survey",
+        "source": "Dawn",
+        "date": "2026-08-16T10:20:53+05:00",
+        "img": ""
+      },
       {
         "title": "Extensive vehicle checking slows Afghans’ repatriation at Torkham",
         "summary": "<figure class='media w-full sm:w-full media--center ' data-original-src='https://i.dawn.com/large/2026/08/160215319060e3a.webp'> <div class='media__item '><picture><img src='https://i.dawn.com/large/2026/08/160215319060e3a.webp' alt=' Vehicles taking Afghan families back to Afghanistan wait in a long queue near Torkham",
         "url": "https://www.dawn.com/news/2023118/extensive-vehicle-checking-slows-afghans-repatriation-at-torkham",
         "source": "Dawn",
         "date": "2026-08-16T10:09:05+05:00",
-        "img": ""
-      },
-      {
-        "title": "Police recover Indonesian woman in Hyderabad, hand her over to consulate",
-        "summary": "<p>HYDERABAD: An Indonesian woman, Indah Marlyan, was recovered under judicial orders and handed over to her country’s consulate by the district police on Saturday.</p> <p>The woman had married a man, Naik Mohammad Shaikh alias Mohammad Hamza Mirza. She had submitted a complaint to the consulate alleging that she was b",
-        "url": "https://www.dawn.com/news/2023068/police-recover-indonesian-woman-in-hyderabad-hand-her-over-to-consulate",
-        "source": "Dawn",
-        "date": "2026-08-16T09:58:38+05:00",
         "img": ""
       },
       {
@@ -32,14 +104,6 @@
         "url": "https://www.dawn.com/news/2023102/islamabads-green-enclave-i-plot-owners-announce-protests",
         "source": "Dawn",
         "date": "2026-08-16T09:55:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "Karachi-East among six districts selected for facial recognition attendance system",
-        "summary": "<p>KARACHI: The Sindh government is set to launch the first phase of the Facial Recognition Attendance &amp; Monitoring Evaluation System (Frames) for students and teachers of government schools in province’s six districts, including one in Karachi, on Monday (tomorrow) as part of a broader plan to digitise school atte",
-        "url": "https://www.dawn.com/news/2023073/karachi-east-among-six-districts-selected-for-facial-recognition-attendance-system",
-        "source": "Dawn",
-        "date": "2026-08-16T09:54:14+05:00",
         "img": ""
       },
       {
@@ -115,14 +179,6 @@
         "img": ""
       },
       {
-        "title": "Higher Education Department initiates action against professor for impersonation in Inter and BA exams",
-        "summary": "<p>LAHORE: The Board of Intermediate and Secondary Education (BISE) Lahore has quashed (revoked) the intermediate result and certificate of Mujahid Umar, working as assistant professor of Urdu at Govt Graduate Science College, Samanabad, Faisalabad, along with the associated Quaid-i-Azam Gold Medal and National Talent ",
-        "url": "https://www.dawn.com/news/2023155/higher-education-department-initiates-action-against-professor-for-impersonation-in-inter-and-ba-exams",
-        "source": "Dawn",
-        "date": "2026-08-16T09:29:23+05:00",
-        "img": ""
-      },
-      {
         "title": "50 dengue cases recorded in KP this week",
         "summary": "<p>PESHAWAR: The Khyber Pakhtunkhwa health department has intensified <a href=\"https://www.dawn.com/news/1977244\">anti-dengue</a> efforts as the cases of the mosquito-borne disease went up from 289 last week to 339 this week amid continued lacklustre <a href=\"https://www.dawn.com/news/2018571\">response</a> from the Pes",
         "url": "https://www.dawn.com/news/2023105/50-dengue-cases-recorded-in-kp-this-week",
@@ -131,27 +187,11 @@
         "img": ""
       },
       {
-        "title": "Five die in car crash on Lahore's Canal Road",
-        "summary": "<p>LAHORE: Five people, including three car occupants and two pedestrians, were killed when a speeding vehicle went out of control and ran over the people walking on a footpath before ramming into a tree in Harbanspura on Saturday.</p> <p>The deceased were identified as Muzammil (15), Nauman (18), Abdul Rehman (20), Fu",
-        "url": "https://www.dawn.com/news/2023157/five-die-in-car-crash-on-lahores-canal-road",
-        "source": "Dawn",
-        "date": "2026-08-16T09:23:44+05:00",
-        "img": ""
-      },
-      {
         "title": "Bannu police, security forces kill five militants in joint operation",
         "summary": "<p>BANNU: The police and security forces claimed to have killed five militants and injured several others during a joint intelligence-based operation in parts of Domel tehsil in Bannu district here on Saturday.</p> <p>According to police, the operation was launched following reports of the presence and suspicious movem",
         "url": "https://www.dawn.com/news/2023136/bannu-police-security-forces-kill-five-militants-in-joint-operation",
         "source": "Dawn",
         "date": "2026-08-16T09:20:21+05:00",
-        "img": ""
-      },
-      {
-        "title": "Filmmaker moves SHC against curb on screening of Ghost School",
-        "summary": "<figure class='media w-1/2 sm:w-1/3 media--right media--uneven media--stretch' data-original-src='https://i.dawn.com/large/2026/08/16023658f255212.webp'> <div class='media__item '><picture><img src='https://i.dawn.com/large/2026/08/16023658f255212.webp' alt='' /></picture></div> </figure> <p>KARACHI: The Sindh High Cou",
-        "url": "https://www.dawn.com/news/2023075/filmmaker-moves-shc-against-curb-on-screening-of-ghost-school",
-        "source": "Dawn",
-        "date": "2026-08-16T09:15:45+05:00",
         "img": ""
       },
       {
@@ -223,7 +263,15 @@
         "summary": "ایران کی حکومت نے جنگی حالات اور پابندیوں کے پیشِ نظر پیٹرول کی تقسیم کے نظام میں ممکنہ تبدیلی کے لیے تین تجاویز پیش کی ہیں، تاہم ان میں سے کسی ایک کی حتمی منظوری ابھی نہیں دی گئی۔",
         "url": "https://www.bbc.co.uk/urdu/live/cme8lk53kz3gt?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
-        "date": "2026-08-16T05:22:33.785697+00:00",
+        "date": "2026-08-16T06:31:27.629967+00:00",
+        "img": ""
+      },
+      {
+        "title": "مردوں میں عضوِ تناسل کے فلرز کا رجحان، ماہرین کی خطرات سے متعلق تنبیہ",
+        "summary": "سرکاری طور پر یہ اعداد و شمار دستیاب نہیں کہ عضوِ تناسل کی جسامت بڑھانے کے کتنے طریقے کیے جا رہے ہیں، تاہم طبی ماہرین کے مطابق انٹرنیٹ پر سرچ کے رجحانات، اشتہارات اور سوشل میڈیا سے ’واضح طور پر اندازہ ہوتا ہے کہ ان کی تعداد بڑھ رہی ہے۔‘",
+        "url": "https://www.bbc.com/urdu/articles/cwylled3edno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-16T05:56:32+00:00",
         "img": ""
       },
       {
@@ -387,46 +435,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-50.jpg"
       },
       {
-        "title": "UAE Dirham to Pakistani Rupee Rate Today – August 15, 2026",
-        "summary": "UAE Dirham to Pakistani Rupee Rate Today – August 15, 2026",
-        "url": "https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-august-15-2026",
-        "source": "ARY News",
-        "date": "2026-08-15T20:22:21+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/dirham.jpg"
-      },
-      {
-        "title": "House of the Dragon: Who takes the Iron Throne?",
-        "summary": "House of the Dragon: Who takes the Iron Throne?",
-        "url": "https://arynews.tv/house-of-the-dragon-who-takes-the-iron-throne",
-        "source": "ARY News",
-        "date": "2026-08-15T20:19:48+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-54-1.jpg"
-      },
-      {
-        "title": "Bangladeshi bus driver killed in Kuwait",
-        "summary": "Bangladeshi bus driver killed in Kuwait",
-        "url": "https://arynews.tv/bangladeshi-bus-driver-killed-in-kuwait",
-        "source": "ARY News",
-        "date": "2026-08-15T19:41:19+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Kuwait-Police.jpg"
-      },
-      {
-        "title": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
-        "summary": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
-        "url": "https://arynews.tv/indonesia-north-sumatra-hit-by-6-4-magnitude-earthquake",
-        "source": "ARY News",
-        "date": "2026-08-15T19:22:10+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
-      },
-      {
-        "title": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
-        "summary": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
-        "url": "https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-august-15-2026",
-        "source": "ARY News",
-        "date": "2026-08-15T19:18:32+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Saudi-Riyal-PKR.jpg"
-      },
-      {
         "title": "کیا مکہ معاہدہ خطے میں امریکہ کے کم ہوتے ہوئے اثرو رسوخ کی علامت ہے؟",
         "summary": "پاکستان، سعودی عرب اور ترکی کے درمیان مکہ جوائنٹ ڈیفنس ایگریمنٹ کے تناظر میں ہم نے اِس ہفتے کے سیربین میں یہ سمجھنے کی کوشش کی ہے کہ کیا یہ معاہدہ خطے میں امریکہ کے کم ہوتے ہوئے اثرو رسوخ کی علامت ہے؟ کیا یہ معاہدہ ایران کے خلاف ہے؟ اور اس سے پاکستان کو کیا حاصل ہوگا؟",
         "url": "https://www.bbc.com/urdu/articles/cdx77ydd0qqo?at_medium=RSS&amp;at_campaign=rss",
@@ -507,14 +515,6 @@
         "img": ""
       },
       {
-        "title": "افغانستان میں طالبان کے خلاف ’طاقت کی زبان‘ استعمال کرنے والے مسلح گروہ: کیا یہ تحریکیں افغان حکومت کے لیے مشکلات کھڑی کر سکتی ہیں؟",
-        "summary": "طالبان کو افغانستان میں اقتدار میں آئے پانچ سال مکمل ہو گئے ہیں۔ تاہم اب ملک میں مسلح مزاحمتی گروہوں کی بڑھتی ہوئی تعداد افغانستان پر طالبان کے مکمل کنٹرول کے دعوے کو چیلنج کر رہی ہے۔ ان غیر جہادی گروہوں کا کہنا ہے کہ وہ اس نتیجے پر پہنچے ہیں کہ ’طالبان صرف طاقت کی زبان سمجھتے ہیں اور اس ہی لیے انھوں نے ہتھیار اٹھائے ہ",
-        "url": "https://www.bbc.com/urdu/articles/cjwxgnd0p73o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-14T11:34:11+00:00",
-        "img": ""
-      },
-      {
         "title": "باسمتی چاول کے حقوق حاصل کرنے کی انڈین اپیل مسترد: پاکستان، انڈیا میں باسمتی پر جنگ کب اور کیسے شروع ہوئی؟",
         "summary": "پاکستان نے آسٹریلیا کی ایک عدالت کی جانب سے باسمتی چاول کا ٹریڈ مارک حاصل کرنے کے حوالے سے انڈیا کی ایک اپیل مسترد کرنے کے فیصلے کا خیر مقدم کیا ہے۔",
         "url": "https://www.bbc.com/urdu/articles/cpw9pzykzvyo?at_medium=RSS&amp;at_campaign=rss",
@@ -573,6 +573,54 @@
     ],
     "national": [
       {
+        "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+        "summary": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+        "url": "https://arynews.tv/thousands-evacuate-after-indonesia-quake-kills-51-cuts-roads",
+        "source": "ARY News",
+        "date": "2026-08-16T11:18:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Indonesia-1.jpg"
+      },
+      {
+        "title": "Female content creator gunned down, teenage sister injured in Taxila",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023101\">https://www.dawn.com/news/2023101</a></p>",
+        "url": "https://www.dawn.com/news/2023208/female-content-creator-gunned-down-teenage-sister-injured-in-taxila",
+        "source": "Dawn",
+        "date": "2026-08-16T10:53:43+05:00",
+        "img": ""
+      },
+      {
+        "title": "Moscow targeted by 600 drones overnight, 3 people wounded: mayor",
+        "summary": "Moscow targeted by 600 drones overnight, 3 people wounded: mayor",
+        "url": "https://arynews.tv/moscow-targeted-600-drones-3-people-wounded-mayor",
+        "source": "ARY News",
+        "date": "2026-08-16T10:47:10+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2024/05/sadfas234.jpg"
+      },
+      {
+        "title": "Rampant Bangladesh seal first-ever Test win in Australia",
+        "summary": "Rampant Bangladesh seal first-ever Test win in Australia",
+        "url": "https://arynews.tv/rampant-bangladesh-seal-first-ever-test-win-in-australia",
+        "source": "ARY News",
+        "date": "2026-08-16T10:36:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Bangladesh.jpg"
+      },
+      {
+        "title": "Chinese ship sets off for Europe through Arctic, halving travel time",
+        "summary": "Chinese ship sets off for Europe through Arctic, halving travel time",
+        "url": "https://arynews.tv/chinese-ship-sets-off-europe-through-arctic-halving-travel-time",
+        "source": "ARY News",
+        "date": "2026-08-16T10:28:30+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2020/09/ryssua.jpg"
+      },
+      {
+        "title": "Pakistan security forces kill seven Fitna al-Khawarij in Balochistan",
+        "summary": "Pakistan security forces kill seven Fitna al-Khawarij in Balochistan",
+        "url": "https://arynews.tv/pakistan-security-forces-kill-seven-fitna-al-khawarij-in-balochistan",
+        "source": "ARY News",
+        "date": "2026-08-16T10:26:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawarij-Pakistan-security-forces-ispr-1.jpg"
+      },
+      {
         "title": "One in 5 Pakistani employees make IT mistakes due to lack of cybersecurity knowledge: survey",
         "summary": "<p>ISLAMABAD: A latest survey titled “Cybersecurity in the workplace: Employee knowledge and behaviour” which was arranged among employees from the Middle East, Turkiye and Africa (META) region including Pakistan, says 18.5pc of employees surveyed in the Pakistan confirmed that they made IT-related mistakes due to lack",
         "url": "https://www.dawn.com/news/2023106/one-in-5-pakistani-employees-make-it-mistakes-due-to-lack-of-cybersecurity-knowledge-survey",
@@ -586,14 +634,6 @@
         "url": "https://www.dawn.com/news/2023155/punjab-hed-initiates-action-against-professor-for-impersonation-in-inter-and-ba-exams",
         "source": "Dawn",
         "date": "2026-08-16T10:15:11+05:00",
-        "img": ""
-      },
-      {
-        "title": "Female TikToker gunned down, teenage sister injured in Taxila",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2023101\">https://www.dawn.com/news/2023101</a></p>",
-        "url": "https://www.dawn.com/news/2023208/female-tiktoker-gunned-down-teenage-sister-injured-in-taxila",
-        "source": "Dawn",
-        "date": "2026-08-16T10:13:18+05:00",
         "img": ""
       },
       {
@@ -781,6 +821,30 @@
         "img": ""
       },
       {
+        "title": "پشاور: شدید بارش کے باعث مکان کی چھت گرنے سے بچہ جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827544/peshawar-roof-collapsed-2827544/",
+        "source": "Express",
+        "date": "2026-08-16T06:18:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "تیل کی آمدنی میں کمی اور فیکٹریوں کی تباہی سے ایران کے معاشی مسائل کئی گنا بڑھ گئے، صدر پزشکیان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827535/irans-economic-problems-worsened-as-oil-revenues-fell-and-factories-were-destroyed-pezeshkian-2827535/",
+        "source": "Express",
+        "date": "2026-08-16T05:37:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "بنگلا دیش نے آسٹریلیا کو ٹیسٹ میں شکست دے کر تاریخ رقم کر دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827533/bangladesh-script-history-defeat-australia-by-nine-wickets-in-test-match-2827533/",
+        "source": "Express",
+        "date": "2026-08-16T05:10:40+05:00",
+        "img": ""
+      },
+      {
         "title": "مصر بھی مکہ دفاعی معاہدے کا حصہ بن سکتا ہے، ترک صدر اردوان کا اعلان",
         "summary": "",
         "url": "https://www.express.pk/story/2827531/erdogan-says-egypt-could-join-mecca-defence-agreement-2827531/",
@@ -877,6 +941,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-58-1.jpg"
       },
       {
+        "title": "پیٹرولیم لیوی کیخلاف جماعت اسلامی آج چاروں صوبوں میں دھرنے دے گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827536/jamat-e-islami-sit-ins-2827536/",
+        "source": "Express",
+        "date": "2026-08-16T00:49:30+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
@@ -890,6 +962,14 @@
         "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
         "source": "Express",
         "date": "2026-08-16T00:39:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "خاران میں سیکیورٹی فورسز کے آپریشن میں 7 دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827534/seven-terrorist-killed-in-kharan-2827534/",
+        "source": "Express",
+        "date": "2026-08-16T00:22:05+00:00",
         "img": ""
       },
       {
@@ -907,6 +987,14 @@
         "source": "ARY News",
         "date": "2026-08-16T00:14:25+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Zimbabwae.jpg"
+      },
+      {
+        "title": "قطر کا ایرانی پائلٹس کو حراست میں رکھنے سے انکار، ایک پائلٹ کی باقیات مل گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827532/qatar-denies-detaining-iranian-pilots-says-remains-of-one-found-2827532/",
+        "source": "Express",
+        "date": "2026-08-16T00:05:11+00:00",
+        "img": ""
       },
       {
         "title": "UK’s Burnham urges reflection on death of academic Arday",
@@ -1069,14 +1157,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-50.jpg"
       },
       {
-        "title": "مکہ معاہدہ دشمنوں کے نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
-        "source": "Express",
-        "date": "2026-08-15T20:40:21+05:00",
-        "img": ""
-      },
-      {
         "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
@@ -1085,96 +1165,64 @@
         "img": ""
       },
       {
-        "title": "مزدور طالبعلم کا سوال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827510/question-from-a-student-worker-2827510/",
-        "source": "Express",
-        "date": "2026-08-15T20:32:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "UAE Dirham to Pakistani Rupee Rate Today – August 15, 2026",
-        "summary": "UAE Dirham to Pakistani Rupee Rate Today – August 15, 2026",
-        "url": "https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-august-15-2026",
-        "source": "ARY News",
-        "date": "2026-08-15T20:22:21+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/dirham.jpg"
-      },
-      {
-        "title": "رہیں نہ رہیں ہم مہکا کریں گے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827509/stay-or-not-we-will-smell-it-2827509/",
-        "source": "Express",
-        "date": "2026-08-15T20:21:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد؛ نیدرلینڈز کے جعلی ویزے پر یورپ جانے کی کوشش کرنے والا مسافر آف لوڈ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827508/islamabad-passenger-offloaded-for-attemptitng-to-travel-to-travel-europe-on-fake-netherlands-visa-2827508/",
-        "source": "Express",
-        "date": "2026-08-15T20:19:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "House of the Dragon: Who takes the Iron Throne?",
-        "summary": "House of the Dragon: Who takes the Iron Throne?",
-        "url": "https://arynews.tv/house-of-the-dragon-who-takes-the-iron-throne",
-        "source": "ARY News",
-        "date": "2026-08-15T20:19:48+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-54-1.jpg"
-      },
-      {
-        "title": "لاوارث شہر کراچی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827507/laoarth-shr-krachi-2827507/",
-        "source": "Express",
-        "date": "2026-08-15T20:15:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "خاندانی نظام کا بکھراؤ: وجوہات اور نتائج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827506/disintegration-of-the-family-system-causes-and-consequences-2827506/",
-        "source": "Express",
-        "date": "2026-08-15T19:55:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "Bangladeshi bus driver killed in Kuwait",
-        "summary": "Bangladeshi bus driver killed in Kuwait",
-        "url": "https://arynews.tv/bangladeshi-bus-driver-killed-in-kuwait",
-        "source": "ARY News",
-        "date": "2026-08-15T19:41:19+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Kuwait-Police.jpg"
-      },
-      {
         "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
         "summary": "",
         "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
         "source": "Express",
         "date": "2026-08-15T19:24:13+00:00",
         "img": ""
-      },
-      {
-        "title": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
-        "summary": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
-        "url": "https://arynews.tv/indonesia-north-sumatra-hit-by-6-4-magnitude-earthquake",
-        "source": "ARY News",
-        "date": "2026-08-15T19:22:10+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
-      },
-      {
-        "title": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
-        "summary": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
-        "url": "https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-august-15-2026",
-        "source": "ARY News",
-        "date": "2026-08-15T19:18:32+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Saudi-Riyal-PKR.jpg"
       }
     ],
     "kpk": [
       {
+        "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+        "summary": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+        "url": "https://arynews.tv/thousands-evacuate-after-indonesia-quake-kills-51-cuts-roads",
+        "source": "ARY News",
+        "date": "2026-08-16T11:18:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Indonesia-1.jpg"
+      },
+      {
+        "title": "Female content creator gunned down, teenage sister injured in Taxila",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023101\">https://www.dawn.com/news/2023101</a></p>",
+        "url": "https://www.dawn.com/news/2023208/female-content-creator-gunned-down-teenage-sister-injured-in-taxila",
+        "source": "Dawn",
+        "date": "2026-08-16T10:53:43+05:00",
+        "img": ""
+      },
+      {
+        "title": "Moscow targeted by 600 drones overnight, 3 people wounded: mayor",
+        "summary": "Moscow targeted by 600 drones overnight, 3 people wounded: mayor",
+        "url": "https://arynews.tv/moscow-targeted-600-drones-3-people-wounded-mayor",
+        "source": "ARY News",
+        "date": "2026-08-16T10:47:10+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2024/05/sadfas234.jpg"
+      },
+      {
+        "title": "Rampant Bangladesh seal first-ever Test win in Australia",
+        "summary": "Rampant Bangladesh seal first-ever Test win in Australia",
+        "url": "https://arynews.tv/rampant-bangladesh-seal-first-ever-test-win-in-australia",
+        "source": "ARY News",
+        "date": "2026-08-16T10:36:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Bangladesh.jpg"
+      },
+      {
+        "title": "Chinese ship sets off for Europe through Arctic, halving travel time",
+        "summary": "Chinese ship sets off for Europe through Arctic, halving travel time",
+        "url": "https://arynews.tv/chinese-ship-sets-off-europe-through-arctic-halving-travel-time",
+        "source": "ARY News",
+        "date": "2026-08-16T10:28:30+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2020/09/ryssua.jpg"
+      },
+      {
+        "title": "Pakistan security forces kill seven Fitna al-Khawarij in Balochistan",
+        "summary": "Pakistan security forces kill seven Fitna al-Khawarij in Balochistan",
+        "url": "https://arynews.tv/pakistan-security-forces-kill-seven-fitna-al-khawarij-in-balochistan",
+        "source": "ARY News",
+        "date": "2026-08-16T10:26:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawarij-Pakistan-security-forces-ispr-1.jpg"
+      },
+      {
         "title": "One in 5 Pakistani employees make IT mistakes due to lack of cybersecurity knowledge: survey",
         "summary": "<p>ISLAMABAD: A latest survey titled “Cybersecurity in the workplace: Employee knowledge and behaviour” which was arranged among employees from the Middle East, Turkiye and Africa (META) region including Pakistan, says 18.5pc of employees surveyed in the Pakistan confirmed that they made IT-related mistakes due to lack",
         "url": "https://www.dawn.com/news/2023106/one-in-5-pakistani-employees-make-it-mistakes-due-to-lack-of-cybersecurity-knowledge-survey",
@@ -1188,14 +1236,6 @@
         "url": "https://www.dawn.com/news/2023155/punjab-hed-initiates-action-against-professor-for-impersonation-in-inter-and-ba-exams",
         "source": "Dawn",
         "date": "2026-08-16T10:15:11+05:00",
-        "img": ""
-      },
-      {
-        "title": "Female TikToker gunned down, teenage sister injured in Taxila",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2023101\">https://www.dawn.com/news/2023101</a></p>",
-        "url": "https://www.dawn.com/news/2023208/female-tiktoker-gunned-down-teenage-sister-injured-in-taxila",
-        "source": "Dawn",
-        "date": "2026-08-16T10:13:18+05:00",
         "img": ""
       },
       {
@@ -1383,6 +1423,30 @@
         "img": ""
       },
       {
+        "title": "پشاور: شدید بارش کے باعث مکان کی چھت گرنے سے بچہ جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827544/peshawar-roof-collapsed-2827544/",
+        "source": "Express",
+        "date": "2026-08-16T06:18:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "تیل کی آمدنی میں کمی اور فیکٹریوں کی تباہی سے ایران کے معاشی مسائل کئی گنا بڑھ گئے، صدر پزشکیان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827535/irans-economic-problems-worsened-as-oil-revenues-fell-and-factories-were-destroyed-pezeshkian-2827535/",
+        "source": "Express",
+        "date": "2026-08-16T05:37:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "بنگلا دیش نے آسٹریلیا کو ٹیسٹ میں شکست دے کر تاریخ رقم کر دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827533/bangladesh-script-history-defeat-australia-by-nine-wickets-in-test-match-2827533/",
+        "source": "Express",
+        "date": "2026-08-16T05:10:40+05:00",
+        "img": ""
+      },
+      {
         "title": "مصر بھی مکہ دفاعی معاہدے کا حصہ بن سکتا ہے، ترک صدر اردوان کا اعلان",
         "summary": "",
         "url": "https://www.express.pk/story/2827531/erdogan-says-egypt-could-join-mecca-defence-agreement-2827531/",
@@ -1479,6 +1543,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-58-1.jpg"
       },
       {
+        "title": "پیٹرولیم لیوی کیخلاف جماعت اسلامی آج چاروں صوبوں میں دھرنے دے گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827536/jamat-e-islami-sit-ins-2827536/",
+        "source": "Express",
+        "date": "2026-08-16T00:49:30+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
@@ -1492,6 +1564,14 @@
         "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
         "source": "Express",
         "date": "2026-08-16T00:39:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "خاران میں سیکیورٹی فورسز کے آپریشن میں 7 دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827534/seven-terrorist-killed-in-kharan-2827534/",
+        "source": "Express",
+        "date": "2026-08-16T00:22:05+00:00",
         "img": ""
       },
       {
@@ -1509,6 +1589,14 @@
         "source": "ARY News",
         "date": "2026-08-16T00:14:25+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Zimbabwae.jpg"
+      },
+      {
+        "title": "قطر کا ایرانی پائلٹس کو حراست میں رکھنے سے انکار، ایک پائلٹ کی باقیات مل گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827532/qatar-denies-detaining-iranian-pilots-says-remains-of-one-found-2827532/",
+        "source": "Express",
+        "date": "2026-08-16T00:05:11+00:00",
+        "img": ""
       },
       {
         "title": "UK’s Burnham urges reflection on death of academic Arday",
@@ -1671,14 +1759,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-50.jpg"
       },
       {
-        "title": "مکہ معاہدہ دشمنوں کے نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
-        "source": "Express",
-        "date": "2026-08-15T20:40:21+05:00",
-        "img": ""
-      },
-      {
         "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
@@ -1687,92 +1767,12 @@
         "img": ""
       },
       {
-        "title": "مزدور طالبعلم کا سوال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827510/question-from-a-student-worker-2827510/",
-        "source": "Express",
-        "date": "2026-08-15T20:32:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "UAE Dirham to Pakistani Rupee Rate Today – August 15, 2026",
-        "summary": "UAE Dirham to Pakistani Rupee Rate Today – August 15, 2026",
-        "url": "https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-august-15-2026",
-        "source": "ARY News",
-        "date": "2026-08-15T20:22:21+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/dirham.jpg"
-      },
-      {
-        "title": "رہیں نہ رہیں ہم مہکا کریں گے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827509/stay-or-not-we-will-smell-it-2827509/",
-        "source": "Express",
-        "date": "2026-08-15T20:21:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد؛ نیدرلینڈز کے جعلی ویزے پر یورپ جانے کی کوشش کرنے والا مسافر آف لوڈ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827508/islamabad-passenger-offloaded-for-attemptitng-to-travel-to-travel-europe-on-fake-netherlands-visa-2827508/",
-        "source": "Express",
-        "date": "2026-08-15T20:19:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "House of the Dragon: Who takes the Iron Throne?",
-        "summary": "House of the Dragon: Who takes the Iron Throne?",
-        "url": "https://arynews.tv/house-of-the-dragon-who-takes-the-iron-throne",
-        "source": "ARY News",
-        "date": "2026-08-15T20:19:48+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-54-1.jpg"
-      },
-      {
-        "title": "لاوارث شہر کراچی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827507/laoarth-shr-krachi-2827507/",
-        "source": "Express",
-        "date": "2026-08-15T20:15:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "خاندانی نظام کا بکھراؤ: وجوہات اور نتائج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827506/disintegration-of-the-family-system-causes-and-consequences-2827506/",
-        "source": "Express",
-        "date": "2026-08-15T19:55:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "Bangladeshi bus driver killed in Kuwait",
-        "summary": "Bangladeshi bus driver killed in Kuwait",
-        "url": "https://arynews.tv/bangladeshi-bus-driver-killed-in-kuwait",
-        "source": "ARY News",
-        "date": "2026-08-15T19:41:19+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Kuwait-Police.jpg"
-      },
-      {
         "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
         "summary": "",
         "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
         "source": "Express",
         "date": "2026-08-15T19:24:13+00:00",
         "img": ""
-      },
-      {
-        "title": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
-        "summary": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
-        "url": "https://arynews.tv/indonesia-north-sumatra-hit-by-6-4-magnitude-earthquake",
-        "source": "ARY News",
-        "date": "2026-08-15T19:22:10+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
-      },
-      {
-        "title": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
-        "summary": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
-        "url": "https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-august-15-2026",
-        "source": "ARY News",
-        "date": "2026-08-15T19:18:32+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Saudi-Riyal-PKR.jpg"
       },
       {
         "title": "Pakistan Hinge Power: FT Report on Global Role",
@@ -1857,6 +1857,14 @@
     ],
     "punjab": [
       {
+        "title": "Female content creator gunned down, teenage sister injured in Taxila",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023101\">https://www.dawn.com/news/2023101</a></p>",
+        "url": "https://www.dawn.com/news/2023208/female-content-creator-gunned-down-teenage-sister-injured-in-taxila",
+        "source": "Dawn",
+        "date": "2026-08-16T10:53:43+05:00",
+        "img": ""
+      },
+      {
         "title": "One in 5 Pakistani employees make IT mistakes due to lack of cybersecurity knowledge: survey",
         "summary": "<p>ISLAMABAD: A latest survey titled “Cybersecurity in the workplace: Employee knowledge and behaviour” which was arranged among employees from the Middle East, Turkiye and Africa (META) region including Pakistan, says 18.5pc of employees surveyed in the Pakistan confirmed that they made IT-related mistakes due to lack",
         "url": "https://www.dawn.com/news/2023106/one-in-5-pakistani-employees-make-it-mistakes-due-to-lack-of-cybersecurity-knowledge-survey",
@@ -1870,14 +1878,6 @@
         "url": "https://www.dawn.com/news/2023155/punjab-hed-initiates-action-against-professor-for-impersonation-in-inter-and-ba-exams",
         "source": "Dawn",
         "date": "2026-08-16T10:15:11+05:00",
-        "img": ""
-      },
-      {
-        "title": "Female TikToker gunned down, teenage sister injured in Taxila",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2023101\">https://www.dawn.com/news/2023101</a></p>",
-        "url": "https://www.dawn.com/news/2023208/female-tiktoker-gunned-down-teenage-sister-injured-in-taxila",
-        "source": "Dawn",
-        "date": "2026-08-16T10:13:18+05:00",
         "img": ""
       },
       {
@@ -2033,6 +2033,30 @@
         "img": ""
       },
       {
+        "title": "پشاور: شدید بارش کے باعث مکان کی چھت گرنے سے بچہ جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827544/peshawar-roof-collapsed-2827544/",
+        "source": "Express",
+        "date": "2026-08-16T06:18:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "تیل کی آمدنی میں کمی اور فیکٹریوں کی تباہی سے ایران کے معاشی مسائل کئی گنا بڑھ گئے، صدر پزشکیان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827535/irans-economic-problems-worsened-as-oil-revenues-fell-and-factories-were-destroyed-pezeshkian-2827535/",
+        "source": "Express",
+        "date": "2026-08-16T05:37:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "بنگلا دیش نے آسٹریلیا کو ٹیسٹ میں شکست دے کر تاریخ رقم کر دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827533/bangladesh-script-history-defeat-australia-by-nine-wickets-in-test-match-2827533/",
+        "source": "Express",
+        "date": "2026-08-16T05:10:40+05:00",
+        "img": ""
+      },
+      {
         "title": "مصر بھی مکہ دفاعی معاہدے کا حصہ بن سکتا ہے، ترک صدر اردوان کا اعلان",
         "summary": "",
         "url": "https://www.express.pk/story/2827531/erdogan-says-egypt-could-join-mecca-defence-agreement-2827531/",
@@ -2121,6 +2145,14 @@
         "img": ""
       },
       {
+        "title": "پیٹرولیم لیوی کیخلاف جماعت اسلامی آج چاروں صوبوں میں دھرنے دے گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827536/jamat-e-islami-sit-ins-2827536/",
+        "source": "Express",
+        "date": "2026-08-16T00:49:30+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
@@ -2134,6 +2166,22 @@
         "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
         "source": "Express",
         "date": "2026-08-16T00:39:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "خاران میں سیکیورٹی فورسز کے آپریشن میں 7 دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827534/seven-terrorist-killed-in-kharan-2827534/",
+        "source": "Express",
+        "date": "2026-08-16T00:22:05+00:00",
+        "img": ""
+      },
+      {
+        "title": "قطر کا ایرانی پائلٹس کو حراست میں رکھنے سے انکار، ایک پائلٹ کی باقیات مل گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827532/qatar-denies-detaining-iranian-pilots-says-remains-of-one-found-2827532/",
+        "source": "Express",
+        "date": "2026-08-16T00:05:11+00:00",
         "img": ""
       },
       {
@@ -2193,59 +2241,11 @@
         "img": ""
       },
       {
-        "title": "مکہ معاہدہ دشمنوں کے نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
-        "source": "Express",
-        "date": "2026-08-15T20:40:21+05:00",
-        "img": ""
-      },
-      {
         "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
         "source": "Express",
         "date": "2026-08-15T20:34:23+00:00",
-        "img": ""
-      },
-      {
-        "title": "مزدور طالبعلم کا سوال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827510/question-from-a-student-worker-2827510/",
-        "source": "Express",
-        "date": "2026-08-15T20:32:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "رہیں نہ رہیں ہم مہکا کریں گے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827509/stay-or-not-we-will-smell-it-2827509/",
-        "source": "Express",
-        "date": "2026-08-15T20:21:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد؛ نیدرلینڈز کے جعلی ویزے پر یورپ جانے کی کوشش کرنے والا مسافر آف لوڈ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827508/islamabad-passenger-offloaded-for-attemptitng-to-travel-to-travel-europe-on-fake-netherlands-visa-2827508/",
-        "source": "Express",
-        "date": "2026-08-15T20:19:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "لاوارث شہر کراچی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827507/laoarth-shr-krachi-2827507/",
-        "source": "Express",
-        "date": "2026-08-15T20:15:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "خاندانی نظام کا بکھراؤ: وجوہات اور نتائج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827506/disintegration-of-the-family-system-causes-and-consequences-2827506/",
-        "source": "Express",
-        "date": "2026-08-15T19:55:26+05:00",
         "img": ""
       },
       {
@@ -2259,6 +2259,14 @@
     ],
     "sindh": [
       {
+        "title": "Female content creator gunned down, teenage sister injured in Taxila",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023101\">https://www.dawn.com/news/2023101</a></p>",
+        "url": "https://www.dawn.com/news/2023208/female-content-creator-gunned-down-teenage-sister-injured-in-taxila",
+        "source": "Dawn",
+        "date": "2026-08-16T10:53:43+05:00",
+        "img": ""
+      },
+      {
         "title": "One in 5 Pakistani employees make IT mistakes due to lack of cybersecurity knowledge: survey",
         "summary": "<p>ISLAMABAD: A latest survey titled “Cybersecurity in the workplace: Employee knowledge and behaviour” which was arranged among employees from the Middle East, Turkiye and Africa (META) region including Pakistan, says 18.5pc of employees surveyed in the Pakistan confirmed that they made IT-related mistakes due to lack",
         "url": "https://www.dawn.com/news/2023106/one-in-5-pakistani-employees-make-it-mistakes-due-to-lack-of-cybersecurity-knowledge-survey",
@@ -2272,14 +2280,6 @@
         "url": "https://www.dawn.com/news/2023155/punjab-hed-initiates-action-against-professor-for-impersonation-in-inter-and-ba-exams",
         "source": "Dawn",
         "date": "2026-08-16T10:15:11+05:00",
-        "img": ""
-      },
-      {
-        "title": "Female TikToker gunned down, teenage sister injured in Taxila",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2023101\">https://www.dawn.com/news/2023101</a></p>",
-        "url": "https://www.dawn.com/news/2023208/female-tiktoker-gunned-down-teenage-sister-injured-in-taxila",
-        "source": "Dawn",
-        "date": "2026-08-16T10:13:18+05:00",
         "img": ""
       },
       {
@@ -2435,6 +2435,30 @@
         "img": ""
       },
       {
+        "title": "پشاور: شدید بارش کے باعث مکان کی چھت گرنے سے بچہ جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827544/peshawar-roof-collapsed-2827544/",
+        "source": "Express",
+        "date": "2026-08-16T06:18:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "تیل کی آمدنی میں کمی اور فیکٹریوں کی تباہی سے ایران کے معاشی مسائل کئی گنا بڑھ گئے، صدر پزشکیان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827535/irans-economic-problems-worsened-as-oil-revenues-fell-and-factories-were-destroyed-pezeshkian-2827535/",
+        "source": "Express",
+        "date": "2026-08-16T05:37:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "بنگلا دیش نے آسٹریلیا کو ٹیسٹ میں شکست دے کر تاریخ رقم کر دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827533/bangladesh-script-history-defeat-australia-by-nine-wickets-in-test-match-2827533/",
+        "source": "Express",
+        "date": "2026-08-16T05:10:40+05:00",
+        "img": ""
+      },
+      {
         "title": "مصر بھی مکہ دفاعی معاہدے کا حصہ بن سکتا ہے، ترک صدر اردوان کا اعلان",
         "summary": "",
         "url": "https://www.express.pk/story/2827531/erdogan-says-egypt-could-join-mecca-defence-agreement-2827531/",
@@ -2523,6 +2547,14 @@
         "img": ""
       },
       {
+        "title": "پیٹرولیم لیوی کیخلاف جماعت اسلامی آج چاروں صوبوں میں دھرنے دے گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827536/jamat-e-islami-sit-ins-2827536/",
+        "source": "Express",
+        "date": "2026-08-16T00:49:30+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
@@ -2536,6 +2568,22 @@
         "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
         "source": "Express",
         "date": "2026-08-16T00:39:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "خاران میں سیکیورٹی فورسز کے آپریشن میں 7 دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827534/seven-terrorist-killed-in-kharan-2827534/",
+        "source": "Express",
+        "date": "2026-08-16T00:22:05+00:00",
+        "img": ""
+      },
+      {
+        "title": "قطر کا ایرانی پائلٹس کو حراست میں رکھنے سے انکار، ایک پائلٹ کی باقیات مل گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827532/qatar-denies-detaining-iranian-pilots-says-remains-of-one-found-2827532/",
+        "source": "Express",
+        "date": "2026-08-16T00:05:11+00:00",
         "img": ""
       },
       {
@@ -2595,59 +2643,11 @@
         "img": ""
       },
       {
-        "title": "مکہ معاہدہ دشمنوں کے نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
-        "source": "Express",
-        "date": "2026-08-15T20:40:21+05:00",
-        "img": ""
-      },
-      {
         "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
         "source": "Express",
         "date": "2026-08-15T20:34:23+00:00",
-        "img": ""
-      },
-      {
-        "title": "مزدور طالبعلم کا سوال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827510/question-from-a-student-worker-2827510/",
-        "source": "Express",
-        "date": "2026-08-15T20:32:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "رہیں نہ رہیں ہم مہکا کریں گے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827509/stay-or-not-we-will-smell-it-2827509/",
-        "source": "Express",
-        "date": "2026-08-15T20:21:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد؛ نیدرلینڈز کے جعلی ویزے پر یورپ جانے کی کوشش کرنے والا مسافر آف لوڈ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827508/islamabad-passenger-offloaded-for-attemptitng-to-travel-to-travel-europe-on-fake-netherlands-visa-2827508/",
-        "source": "Express",
-        "date": "2026-08-15T20:19:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "لاوارث شہر کراچی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827507/laoarth-shr-krachi-2827507/",
-        "source": "Express",
-        "date": "2026-08-15T20:15:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "خاندانی نظام کا بکھراؤ: وجوہات اور نتائج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827506/disintegration-of-the-family-system-causes-and-consequences-2827506/",
-        "source": "Express",
-        "date": "2026-08-15T19:55:26+05:00",
         "img": ""
       },
       {
@@ -2661,6 +2661,54 @@
     ],
     "baloch": [
       {
+        "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+        "summary": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+        "url": "https://arynews.tv/thousands-evacuate-after-indonesia-quake-kills-51-cuts-roads",
+        "source": "ARY News",
+        "date": "2026-08-16T11:18:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Indonesia-1.jpg"
+      },
+      {
+        "title": "Female content creator gunned down, teenage sister injured in Taxila",
+        "summary": "<p><a href=\"https://www.dawn.com/news/2023101\">https://www.dawn.com/news/2023101</a></p>",
+        "url": "https://www.dawn.com/news/2023208/female-content-creator-gunned-down-teenage-sister-injured-in-taxila",
+        "source": "Dawn",
+        "date": "2026-08-16T10:53:43+05:00",
+        "img": ""
+      },
+      {
+        "title": "Moscow targeted by 600 drones overnight, 3 people wounded: mayor",
+        "summary": "Moscow targeted by 600 drones overnight, 3 people wounded: mayor",
+        "url": "https://arynews.tv/moscow-targeted-600-drones-3-people-wounded-mayor",
+        "source": "ARY News",
+        "date": "2026-08-16T10:47:10+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2024/05/sadfas234.jpg"
+      },
+      {
+        "title": "Rampant Bangladesh seal first-ever Test win in Australia",
+        "summary": "Rampant Bangladesh seal first-ever Test win in Australia",
+        "url": "https://arynews.tv/rampant-bangladesh-seal-first-ever-test-win-in-australia",
+        "source": "ARY News",
+        "date": "2026-08-16T10:36:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Bangladesh.jpg"
+      },
+      {
+        "title": "Chinese ship sets off for Europe through Arctic, halving travel time",
+        "summary": "Chinese ship sets off for Europe through Arctic, halving travel time",
+        "url": "https://arynews.tv/chinese-ship-sets-off-europe-through-arctic-halving-travel-time",
+        "source": "ARY News",
+        "date": "2026-08-16T10:28:30+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2020/09/ryssua.jpg"
+      },
+      {
+        "title": "Pakistan security forces kill seven Fitna al-Khawarij in Balochistan",
+        "summary": "Pakistan security forces kill seven Fitna al-Khawarij in Balochistan",
+        "url": "https://arynews.tv/pakistan-security-forces-kill-seven-fitna-al-khawarij-in-balochistan",
+        "source": "ARY News",
+        "date": "2026-08-16T10:26:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawarij-Pakistan-security-forces-ispr-1.jpg"
+      },
+      {
         "title": "One in 5 Pakistani employees make IT mistakes due to lack of cybersecurity knowledge: survey",
         "summary": "<p>ISLAMABAD: A latest survey titled “Cybersecurity in the workplace: Employee knowledge and behaviour” which was arranged among employees from the Middle East, Turkiye and Africa (META) region including Pakistan, says 18.5pc of employees surveyed in the Pakistan confirmed that they made IT-related mistakes due to lack",
         "url": "https://www.dawn.com/news/2023106/one-in-5-pakistani-employees-make-it-mistakes-due-to-lack-of-cybersecurity-knowledge-survey",
@@ -2674,14 +2722,6 @@
         "url": "https://www.dawn.com/news/2023155/punjab-hed-initiates-action-against-professor-for-impersonation-in-inter-and-ba-exams",
         "source": "Dawn",
         "date": "2026-08-16T10:15:11+05:00",
-        "img": ""
-      },
-      {
-        "title": "Female TikToker gunned down, teenage sister injured in Taxila",
-        "summary": "<p><a href=\"https://www.dawn.com/news/2023101\">https://www.dawn.com/news/2023101</a></p>",
-        "url": "https://www.dawn.com/news/2023208/female-tiktoker-gunned-down-teenage-sister-injured-in-taxila",
-        "source": "Dawn",
-        "date": "2026-08-16T10:13:18+05:00",
         "img": ""
       },
       {
@@ -2869,6 +2909,30 @@
         "img": ""
       },
       {
+        "title": "پشاور: شدید بارش کے باعث مکان کی چھت گرنے سے بچہ جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827544/peshawar-roof-collapsed-2827544/",
+        "source": "Express",
+        "date": "2026-08-16T06:18:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "تیل کی آمدنی میں کمی اور فیکٹریوں کی تباہی سے ایران کے معاشی مسائل کئی گنا بڑھ گئے، صدر پزشکیان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827535/irans-economic-problems-worsened-as-oil-revenues-fell-and-factories-were-destroyed-pezeshkian-2827535/",
+        "source": "Express",
+        "date": "2026-08-16T05:37:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "بنگلا دیش نے آسٹریلیا کو ٹیسٹ میں شکست دے کر تاریخ رقم کر دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827533/bangladesh-script-history-defeat-australia-by-nine-wickets-in-test-match-2827533/",
+        "source": "Express",
+        "date": "2026-08-16T05:10:40+05:00",
+        "img": ""
+      },
+      {
         "title": "مصر بھی مکہ دفاعی معاہدے کا حصہ بن سکتا ہے، ترک صدر اردوان کا اعلان",
         "summary": "",
         "url": "https://www.express.pk/story/2827531/erdogan-says-egypt-could-join-mecca-defence-agreement-2827531/",
@@ -2965,6 +3029,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-58-1.jpg"
       },
       {
+        "title": "پیٹرولیم لیوی کیخلاف جماعت اسلامی آج چاروں صوبوں میں دھرنے دے گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827536/jamat-e-islami-sit-ins-2827536/",
+        "source": "Express",
+        "date": "2026-08-16T00:49:30+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
@@ -2978,6 +3050,14 @@
         "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
         "source": "Express",
         "date": "2026-08-16T00:39:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "خاران میں سیکیورٹی فورسز کے آپریشن میں 7 دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827534/seven-terrorist-killed-in-kharan-2827534/",
+        "source": "Express",
+        "date": "2026-08-16T00:22:05+00:00",
         "img": ""
       },
       {
@@ -2995,6 +3075,14 @@
         "source": "ARY News",
         "date": "2026-08-16T00:14:25+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Zimbabwae.jpg"
+      },
+      {
+        "title": "قطر کا ایرانی پائلٹس کو حراست میں رکھنے سے انکار، ایک پائلٹ کی باقیات مل گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827532/qatar-denies-detaining-iranian-pilots-says-remains-of-one-found-2827532/",
+        "source": "Express",
+        "date": "2026-08-16T00:05:11+00:00",
+        "img": ""
       },
       {
         "title": "UK’s Burnham urges reflection on death of academic Arday",
@@ -3157,14 +3245,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-50.jpg"
       },
       {
-        "title": "مکہ معاہدہ دشمنوں کے نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
-        "source": "Express",
-        "date": "2026-08-15T20:40:21+05:00",
-        "img": ""
-      },
-      {
         "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
@@ -3173,95 +3253,55 @@
         "img": ""
       },
       {
-        "title": "مزدور طالبعلم کا سوال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827510/question-from-a-student-worker-2827510/",
-        "source": "Express",
-        "date": "2026-08-15T20:32:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "UAE Dirham to Pakistani Rupee Rate Today – August 15, 2026",
-        "summary": "UAE Dirham to Pakistani Rupee Rate Today – August 15, 2026",
-        "url": "https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-august-15-2026",
-        "source": "ARY News",
-        "date": "2026-08-15T20:22:21+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/dirham.jpg"
-      },
-      {
-        "title": "رہیں نہ رہیں ہم مہکا کریں گے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827509/stay-or-not-we-will-smell-it-2827509/",
-        "source": "Express",
-        "date": "2026-08-15T20:21:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد؛ نیدرلینڈز کے جعلی ویزے پر یورپ جانے کی کوشش کرنے والا مسافر آف لوڈ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827508/islamabad-passenger-offloaded-for-attemptitng-to-travel-to-travel-europe-on-fake-netherlands-visa-2827508/",
-        "source": "Express",
-        "date": "2026-08-15T20:19:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "House of the Dragon: Who takes the Iron Throne?",
-        "summary": "House of the Dragon: Who takes the Iron Throne?",
-        "url": "https://arynews.tv/house-of-the-dragon-who-takes-the-iron-throne",
-        "source": "ARY News",
-        "date": "2026-08-15T20:19:48+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-54-1.jpg"
-      },
-      {
-        "title": "لاوارث شہر کراچی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827507/laoarth-shr-krachi-2827507/",
-        "source": "Express",
-        "date": "2026-08-15T20:15:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "خاندانی نظام کا بکھراؤ: وجوہات اور نتائج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827506/disintegration-of-the-family-system-causes-and-consequences-2827506/",
-        "source": "Express",
-        "date": "2026-08-15T19:55:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "Bangladeshi bus driver killed in Kuwait",
-        "summary": "Bangladeshi bus driver killed in Kuwait",
-        "url": "https://arynews.tv/bangladeshi-bus-driver-killed-in-kuwait",
-        "source": "ARY News",
-        "date": "2026-08-15T19:41:19+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Kuwait-Police.jpg"
-      },
-      {
         "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
         "summary": "",
         "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
         "source": "Express",
         "date": "2026-08-15T19:24:13+00:00",
         "img": ""
-      },
-      {
-        "title": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
-        "summary": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
-        "url": "https://arynews.tv/indonesia-north-sumatra-hit-by-6-4-magnitude-earthquake",
-        "source": "ARY News",
-        "date": "2026-08-15T19:22:10+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
-      },
-      {
-        "title": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
-        "summary": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
-        "url": "https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-august-15-2026",
-        "source": "ARY News",
-        "date": "2026-08-15T19:18:32+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Saudi-Riyal-PKR.jpg"
       }
     ],
     "education": [
+      {
+        "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+        "summary": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+        "url": "https://arynews.tv/thousands-evacuate-after-indonesia-quake-kills-51-cuts-roads",
+        "source": "ARY News",
+        "date": "2026-08-16T11:18:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Indonesia-1.jpg"
+      },
+      {
+        "title": "Moscow targeted by 600 drones overnight, 3 people wounded: mayor",
+        "summary": "Moscow targeted by 600 drones overnight, 3 people wounded: mayor",
+        "url": "https://arynews.tv/moscow-targeted-600-drones-3-people-wounded-mayor",
+        "source": "ARY News",
+        "date": "2026-08-16T10:47:10+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2024/05/sadfas234.jpg"
+      },
+      {
+        "title": "Rampant Bangladesh seal first-ever Test win in Australia",
+        "summary": "Rampant Bangladesh seal first-ever Test win in Australia",
+        "url": "https://arynews.tv/rampant-bangladesh-seal-first-ever-test-win-in-australia",
+        "source": "ARY News",
+        "date": "2026-08-16T10:36:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Bangladesh.jpg"
+      },
+      {
+        "title": "Chinese ship sets off for Europe through Arctic, halving travel time",
+        "summary": "Chinese ship sets off for Europe through Arctic, halving travel time",
+        "url": "https://arynews.tv/chinese-ship-sets-off-europe-through-arctic-halving-travel-time",
+        "source": "ARY News",
+        "date": "2026-08-16T10:28:30+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2020/09/ryssua.jpg"
+      },
+      {
+        "title": "Pakistan security forces kill seven Fitna al-Khawarij in Balochistan",
+        "summary": "Pakistan security forces kill seven Fitna al-Khawarij in Balochistan",
+        "url": "https://arynews.tv/pakistan-security-forces-kill-seven-fitna-al-khawarij-in-balochistan",
+        "source": "ARY News",
+        "date": "2026-08-16T10:26:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawarij-Pakistan-security-forces-ispr-1.jpg"
+      },
       {
         "title": "Crude oil pipeline leaks in Karachi’s DHA",
         "summary": "Crude oil pipeline leaks in Karachi’s DHA",
@@ -3293,6 +3333,30 @@
         "source": "ARY News",
         "date": "2026-08-16T08:35:21+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2019/04/Kim-Putin-1.jpg"
+      },
+      {
+        "title": "پشاور: شدید بارش کے باعث مکان کی چھت گرنے سے بچہ جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827544/peshawar-roof-collapsed-2827544/",
+        "source": "Express",
+        "date": "2026-08-16T06:18:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "تیل کی آمدنی میں کمی اور فیکٹریوں کی تباہی سے ایران کے معاشی مسائل کئی گنا بڑھ گئے، صدر پزشکیان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827535/irans-economic-problems-worsened-as-oil-revenues-fell-and-factories-were-destroyed-pezeshkian-2827535/",
+        "source": "Express",
+        "date": "2026-08-16T05:37:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "بنگلا دیش نے آسٹریلیا کو ٹیسٹ میں شکست دے کر تاریخ رقم کر دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827533/bangladesh-script-history-defeat-australia-by-nine-wickets-in-test-match-2827533/",
+        "source": "Express",
+        "date": "2026-08-16T05:10:40+05:00",
+        "img": ""
       },
       {
         "title": "مصر بھی مکہ دفاعی معاہدے کا حصہ بن سکتا ہے، ترک صدر اردوان کا اعلان",
@@ -3367,6 +3431,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-58-1.jpg"
       },
       {
+        "title": "پیٹرولیم لیوی کیخلاف جماعت اسلامی آج چاروں صوبوں میں دھرنے دے گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827536/jamat-e-islami-sit-ins-2827536/",
+        "source": "Express",
+        "date": "2026-08-16T00:49:30+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
@@ -3380,6 +3452,14 @@
         "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
         "source": "Express",
         "date": "2026-08-16T00:39:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "خاران میں سیکیورٹی فورسز کے آپریشن میں 7 دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827534/seven-terrorist-killed-in-kharan-2827534/",
+        "source": "Express",
+        "date": "2026-08-16T00:22:05+00:00",
         "img": ""
       },
       {
@@ -3397,6 +3477,14 @@
         "source": "ARY News",
         "date": "2026-08-16T00:14:25+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Zimbabwae.jpg"
+      },
+      {
+        "title": "قطر کا ایرانی پائلٹس کو حراست میں رکھنے سے انکار، ایک پائلٹ کی باقیات مل گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827532/qatar-denies-detaining-iranian-pilots-says-remains-of-one-found-2827532/",
+        "source": "Express",
+        "date": "2026-08-16T00:05:11+00:00",
+        "img": ""
       },
       {
         "title": "UK’s Burnham urges reflection on death of academic Arday",
@@ -3559,14 +3647,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-50.jpg"
       },
       {
-        "title": "مکہ معاہدہ دشمنوں کے نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
-        "source": "Express",
-        "date": "2026-08-15T20:40:21+05:00",
-        "img": ""
-      },
-      {
         "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
@@ -3575,95 +3655,55 @@
         "img": ""
       },
       {
-        "title": "مزدور طالبعلم کا سوال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827510/question-from-a-student-worker-2827510/",
-        "source": "Express",
-        "date": "2026-08-15T20:32:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "UAE Dirham to Pakistani Rupee Rate Today – August 15, 2026",
-        "summary": "UAE Dirham to Pakistani Rupee Rate Today – August 15, 2026",
-        "url": "https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-august-15-2026",
-        "source": "ARY News",
-        "date": "2026-08-15T20:22:21+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/dirham.jpg"
-      },
-      {
-        "title": "رہیں نہ رہیں ہم مہکا کریں گے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827509/stay-or-not-we-will-smell-it-2827509/",
-        "source": "Express",
-        "date": "2026-08-15T20:21:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد؛ نیدرلینڈز کے جعلی ویزے پر یورپ جانے کی کوشش کرنے والا مسافر آف لوڈ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827508/islamabad-passenger-offloaded-for-attemptitng-to-travel-to-travel-europe-on-fake-netherlands-visa-2827508/",
-        "source": "Express",
-        "date": "2026-08-15T20:19:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "House of the Dragon: Who takes the Iron Throne?",
-        "summary": "House of the Dragon: Who takes the Iron Throne?",
-        "url": "https://arynews.tv/house-of-the-dragon-who-takes-the-iron-throne",
-        "source": "ARY News",
-        "date": "2026-08-15T20:19:48+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-54-1.jpg"
-      },
-      {
-        "title": "لاوارث شہر کراچی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827507/laoarth-shr-krachi-2827507/",
-        "source": "Express",
-        "date": "2026-08-15T20:15:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "خاندانی نظام کا بکھراؤ: وجوہات اور نتائج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827506/disintegration-of-the-family-system-causes-and-consequences-2827506/",
-        "source": "Express",
-        "date": "2026-08-15T19:55:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "Bangladeshi bus driver killed in Kuwait",
-        "summary": "Bangladeshi bus driver killed in Kuwait",
-        "url": "https://arynews.tv/bangladeshi-bus-driver-killed-in-kuwait",
-        "source": "ARY News",
-        "date": "2026-08-15T19:41:19+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Kuwait-Police.jpg"
-      },
-      {
         "title": "ایران نے چین تک تیل پہنچانے کے لیے نیا راستہ منتخب کر لیا",
         "summary": "",
         "url": "https://www.express.pk/story/2827518/iran-has-chosen-a-new-route-to-deliver-oil-to-china-2827518/",
         "source": "Express",
         "date": "2026-08-15T19:24:13+00:00",
         "img": ""
-      },
-      {
-        "title": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
-        "summary": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
-        "url": "https://arynews.tv/indonesia-north-sumatra-hit-by-6-4-magnitude-earthquake",
-        "source": "ARY News",
-        "date": "2026-08-15T19:22:10+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
-      },
-      {
-        "title": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
-        "summary": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
-        "url": "https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-august-15-2026",
-        "source": "ARY News",
-        "date": "2026-08-15T19:18:32+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Saudi-Riyal-PKR.jpg"
       }
     ],
     "science": [
+      {
+        "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+        "summary": "Thousands evacuate after Indonesia quake kills 51, cuts roads",
+        "url": "https://arynews.tv/thousands-evacuate-after-indonesia-quake-kills-51-cuts-roads",
+        "source": "ARY News",
+        "date": "2026-08-16T11:18:48+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Indonesia-1.jpg"
+      },
+      {
+        "title": "Moscow targeted by 600 drones overnight, 3 people wounded: mayor",
+        "summary": "Moscow targeted by 600 drones overnight, 3 people wounded: mayor",
+        "url": "https://arynews.tv/moscow-targeted-600-drones-3-people-wounded-mayor",
+        "source": "ARY News",
+        "date": "2026-08-16T10:47:10+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2024/05/sadfas234.jpg"
+      },
+      {
+        "title": "Rampant Bangladesh seal first-ever Test win in Australia",
+        "summary": "Rampant Bangladesh seal first-ever Test win in Australia",
+        "url": "https://arynews.tv/rampant-bangladesh-seal-first-ever-test-win-in-australia",
+        "source": "ARY News",
+        "date": "2026-08-16T10:36:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Bangladesh.jpg"
+      },
+      {
+        "title": "Chinese ship sets off for Europe through Arctic, halving travel time",
+        "summary": "Chinese ship sets off for Europe through Arctic, halving travel time",
+        "url": "https://arynews.tv/chinese-ship-sets-off-europe-through-arctic-halving-travel-time",
+        "source": "ARY News",
+        "date": "2026-08-16T10:28:30+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2020/09/ryssua.jpg"
+      },
+      {
+        "title": "Pakistan security forces kill seven Fitna al-Khawarij in Balochistan",
+        "summary": "Pakistan security forces kill seven Fitna al-Khawarij in Balochistan",
+        "url": "https://arynews.tv/pakistan-security-forces-kill-seven-fitna-al-khawarij-in-balochistan",
+        "source": "ARY News",
+        "date": "2026-08-16T10:26:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawarij-Pakistan-security-forces-ispr-1.jpg"
+      },
       {
         "title": "Crude oil pipeline leaks in Karachi’s DHA",
         "summary": "Crude oil pipeline leaks in Karachi’s DHA",
@@ -3823,56 +3863,24 @@
         "source": "ARY News",
         "date": "2026-08-15T20:42:26+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-50.jpg"
-      },
-      {
-        "title": "UAE Dirham to Pakistani Rupee Rate Today – August 15, 2026",
-        "summary": "UAE Dirham to Pakistani Rupee Rate Today – August 15, 2026",
-        "url": "https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-august-15-2026",
-        "source": "ARY News",
-        "date": "2026-08-15T20:22:21+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/dirham.jpg"
-      },
-      {
-        "title": "House of the Dragon: Who takes the Iron Throne?",
-        "summary": "House of the Dragon: Who takes the Iron Throne?",
-        "url": "https://arynews.tv/house-of-the-dragon-who-takes-the-iron-throne",
-        "source": "ARY News",
-        "date": "2026-08-15T20:19:48+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-54-1.jpg"
-      },
-      {
-        "title": "Bangladeshi bus driver killed in Kuwait",
-        "summary": "Bangladeshi bus driver killed in Kuwait",
-        "url": "https://arynews.tv/bangladeshi-bus-driver-killed-in-kuwait",
-        "source": "ARY News",
-        "date": "2026-08-15T19:41:19+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Kuwait-Police.jpg"
-      },
-      {
-        "title": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
-        "summary": "Indonesia’s North Sumatra hit by 6.4-magnitude quake",
-        "url": "https://arynews.tv/indonesia-north-sumatra-hit-by-6-4-magnitude-earthquake",
-        "source": "ARY News",
-        "date": "2026-08-15T19:22:10+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Earthquake.jpg"
-      },
-      {
-        "title": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
-        "summary": "Saudi Riyal to Pakistani Rupee Rate Today – August 15, 2026",
-        "url": "https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-august-15-2026",
-        "source": "ARY News",
-        "date": "2026-08-15T19:18:32+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Saudi-Riyal-PKR.jpg"
       }
     ],
     "sports": [
       {
-        "title": "Mehidy claims Smith as Bangladesh sense historic upset in Australia",
-        "summary": "<figure class='media w-full sm:w-full media--center media--uneven media--stretch' data-original-src='https://i.dawn.com/large/2026/08/1602402571564f8.webp'> <div class='media__item '><picture><img src='https://i.dawn.com/large/2026/08/1602402571564f8.webp' alt=' AUSTRALIAN opener Jake Weatherald is bowled by Bangladesh",
-        "url": "https://www.dawn.com/news/2023094/mehidy-claims-smith-as-bangladesh-sense-historic-upset-in-australia",
+        "title": "Rampant Bangladesh make history with first-ever Test win in Australia",
+        "summary": "<p>A dominant Bangladesh stunned hosts Australia to win the first <a href=\"https://www.dawn.com/news/2022704\">Test</a> by nine wickets in Darwin on Sunday for a historic maiden Test victory on Australian soil.</p> <p>After bowling Australia out for 284 and needing 57 to win, the visitors cruised past the total when Mom",
+        "url": "https://www.dawn.com/news/2023210/rampant-bangladesh-make-history-with-first-ever-test-win-in-australia",
         "source": "Dawn",
-        "date": "2026-08-16T10:12:18+05:00",
+        "date": "2026-08-16T10:45:39+05:00",
         "img": ""
+      },
+      {
+        "title": "Rampant Bangladesh seal first-ever Test win in Australia",
+        "summary": "Rampant Bangladesh seal first-ever Test win in Australia",
+        "url": "https://arynews.tv/rampant-bangladesh-seal-first-ever-test-win-in-australia",
+        "source": "ARY Sports",
+        "date": "2026-08-16T10:36:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Bangladesh.jpg"
       },
       {
         "title": "India’s Padikkal hits unbeaten ton in first Sri Lanka Test",
@@ -3891,6 +3899,30 @@
         "img": ""
       },
       {
+        "title": "پشاور: شدید بارش کے باعث مکان کی چھت گرنے سے بچہ جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827544/peshawar-roof-collapsed-2827544/",
+        "source": "Express",
+        "date": "2026-08-16T06:18:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "تیل کی آمدنی میں کمی اور فیکٹریوں کی تباہی سے ایران کے معاشی مسائل کئی گنا بڑھ گئے، صدر پزشکیان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827535/irans-economic-problems-worsened-as-oil-revenues-fell-and-factories-were-destroyed-pezeshkian-2827535/",
+        "source": "Express",
+        "date": "2026-08-16T05:37:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "بنگلا دیش نے آسٹریلیا کو ٹیسٹ میں شکست دے کر تاریخ رقم کر دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827533/bangladesh-script-history-defeat-australia-by-nine-wickets-in-test-match-2827533/",
+        "source": "Express",
+        "date": "2026-08-16T05:10:40+05:00",
+        "img": ""
+      },
+      {
         "title": "مصر بھی مکہ دفاعی معاہدے کا حصہ بن سکتا ہے، ترک صدر اردوان کا اعلان",
         "summary": "",
         "url": "https://www.express.pk/story/2827531/erdogan-says-egypt-could-join-mecca-defence-agreement-2827531/",
@@ -3955,6 +3987,14 @@
         "img": ""
       },
       {
+        "title": "پیٹرولیم لیوی کیخلاف جماعت اسلامی آج چاروں صوبوں میں دھرنے دے گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827536/jamat-e-islami-sit-ins-2827536/",
+        "source": "Express",
+        "date": "2026-08-16T00:49:30+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
@@ -3968,6 +4008,22 @@
         "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
         "source": "Express",
         "date": "2026-08-16T00:39:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "خاران میں سیکیورٹی فورسز کے آپریشن میں 7 دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827534/seven-terrorist-killed-in-kharan-2827534/",
+        "source": "Express",
+        "date": "2026-08-16T00:22:05+00:00",
+        "img": ""
+      },
+      {
+        "title": "قطر کا ایرانی پائلٹس کو حراست میں رکھنے سے انکار، ایک پائلٹ کی باقیات مل گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827532/qatar-denies-detaining-iranian-pilots-says-remains-of-one-found-2827532/",
+        "source": "Express",
+        "date": "2026-08-16T00:05:11+00:00",
         "img": ""
       },
       {
@@ -4027,59 +4083,11 @@
         "img": ""
       },
       {
-        "title": "مکہ معاہدہ دشمنوں کے نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
-        "source": "Express",
-        "date": "2026-08-15T20:40:21+05:00",
-        "img": ""
-      },
-      {
         "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
         "source": "Express",
         "date": "2026-08-15T20:34:23+00:00",
-        "img": ""
-      },
-      {
-        "title": "مزدور طالبعلم کا سوال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827510/question-from-a-student-worker-2827510/",
-        "source": "Express",
-        "date": "2026-08-15T20:32:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "رہیں نہ رہیں ہم مہکا کریں گے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827509/stay-or-not-we-will-smell-it-2827509/",
-        "source": "Express",
-        "date": "2026-08-15T20:21:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد؛ نیدرلینڈز کے جعلی ویزے پر یورپ جانے کی کوشش کرنے والا مسافر آف لوڈ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827508/islamabad-passenger-offloaded-for-attemptitng-to-travel-to-travel-europe-on-fake-netherlands-visa-2827508/",
-        "source": "Express",
-        "date": "2026-08-15T20:19:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "لاوارث شہر کراچی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827507/laoarth-shr-krachi-2827507/",
-        "source": "Express",
-        "date": "2026-08-15T20:15:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "خاندانی نظام کا بکھراؤ: وجوہات اور نتائج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827506/disintegration-of-the-family-system-causes-and-consequences-2827506/",
-        "source": "Express",
-        "date": "2026-08-15T19:55:26+05:00",
         "img": ""
       },
       {
@@ -4291,14 +4299,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-86.jpg"
       },
       {
-        "title": "Swiatek rolls past Rybakina for WTA Toronto title",
-        "summary": "Swiatek rolls past Rybakina for WTA Toronto title",
-        "url": "https://arynews.tv/swiatek-rolls-past-rybakina-for-wta-toronto-title",
-        "source": "ARY Sports",
-        "date": "2026-08-14T13:58:14+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-85.jpg"
-      },
-      {
         "title": "Iga Swiatek sinks Svitolina to set up Rybakina title clash",
         "summary": "<figure class='media w-full sm:w-full media--center media--uneven media--stretch' data-original-src='https://i.dawn.com/large/2026/08/14025841c928e8a.webp'> <div class='media__item '><picture><img src='https://i.dawn.com/large/2026/08/14025841c928e8a.webp' alt=' TORONTO: Ukraine&rsquo;s Elina Svitolina plays a return a",
         "url": "https://www.dawn.com/news/2022632/iga-swiatek-sinks-svitolina-to-set-up-rybakina-title-clash",
@@ -4461,6 +4461,30 @@
         "img": ""
       },
       {
+        "title": "پشاور: شدید بارش کے باعث مکان کی چھت گرنے سے بچہ جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827544/peshawar-roof-collapsed-2827544/",
+        "source": "Express",
+        "date": "2026-08-16T06:18:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "تیل کی آمدنی میں کمی اور فیکٹریوں کی تباہی سے ایران کے معاشی مسائل کئی گنا بڑھ گئے، صدر پزشکیان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827535/irans-economic-problems-worsened-as-oil-revenues-fell-and-factories-were-destroyed-pezeshkian-2827535/",
+        "source": "Express",
+        "date": "2026-08-16T05:37:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "بنگلا دیش نے آسٹریلیا کو ٹیسٹ میں شکست دے کر تاریخ رقم کر دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827533/bangladesh-script-history-defeat-australia-by-nine-wickets-in-test-match-2827533/",
+        "source": "Express",
+        "date": "2026-08-16T05:10:40+05:00",
+        "img": ""
+      },
+      {
         "title": "مصر بھی مکہ دفاعی معاہدے کا حصہ بن سکتا ہے، ترک صدر اردوان کا اعلان",
         "summary": "",
         "url": "https://www.express.pk/story/2827531/erdogan-says-egypt-could-join-mecca-defence-agreement-2827531/",
@@ -4541,6 +4565,14 @@
         "img": ""
       },
       {
+        "title": "پیٹرولیم لیوی کیخلاف جماعت اسلامی آج چاروں صوبوں میں دھرنے دے گی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827536/jamat-e-islami-sit-ins-2827536/",
+        "source": "Express",
+        "date": "2026-08-16T00:49:30+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، اورنگی ٹاؤن میں گھر سے نوعمر لڑکے کی گلے میں پھندا لگی لاش برآمد",
         "summary": "",
         "url": "https://www.express.pk/story/2827520/a-teenage-boys-body-with-a-noose-around-his-neck-was-found-in-a-house-in-orangi-town-karachi-2827520/",
@@ -4554,6 +4586,22 @@
         "url": "https://www.express.pk/story/2827519/karachi-gunfire-continues-in-the-city-from-unknown-directions-2-more-people-injured-2827519/",
         "source": "Express",
         "date": "2026-08-16T00:39:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "خاران میں سیکیورٹی فورسز کے آپریشن میں 7 دہشت گرد ہلاک",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827534/seven-terrorist-killed-in-kharan-2827534/",
+        "source": "Express",
+        "date": "2026-08-16T00:22:05+00:00",
+        "img": ""
+      },
+      {
+        "title": "قطر کا ایرانی پائلٹس کو حراست میں رکھنے سے انکار، ایک پائلٹ کی باقیات مل گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827532/qatar-denies-detaining-iranian-pilots-says-remains-of-one-found-2827532/",
+        "source": "Express",
+        "date": "2026-08-16T00:05:11+00:00",
         "img": ""
       },
       {
@@ -4613,59 +4661,11 @@
         "img": ""
       },
       {
-        "title": "مکہ معاہدہ دشمنوں کے نشانے پر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827511/mecca-treaty-targeted-by-enemies-2827511/",
-        "source": "Express",
-        "date": "2026-08-15T20:40:21+05:00",
-        "img": ""
-      },
-      {
         "title": "انڈونیشیا، طاقتور زلزلے کے باعث ہلاکتوں کی تعداد 47 تک پہنچ گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2827523/death-toll-from-powerful-earthquake-in-indonesia-rises-to-47-2827523/",
         "source": "Express",
         "date": "2026-08-15T20:34:23+00:00",
-        "img": ""
-      },
-      {
-        "title": "مزدور طالبعلم کا سوال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827510/question-from-a-student-worker-2827510/",
-        "source": "Express",
-        "date": "2026-08-15T20:32:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "رہیں نہ رہیں ہم مہکا کریں گے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827509/stay-or-not-we-will-smell-it-2827509/",
-        "source": "Express",
-        "date": "2026-08-15T20:21:28+05:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد؛ نیدرلینڈز کے جعلی ویزے پر یورپ جانے کی کوشش کرنے والا مسافر آف لوڈ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827508/islamabad-passenger-offloaded-for-attemptitng-to-travel-to-travel-europe-on-fake-netherlands-visa-2827508/",
-        "source": "Express",
-        "date": "2026-08-15T20:19:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "لاوارث شہر کراچی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827507/laoarth-shr-krachi-2827507/",
-        "source": "Express",
-        "date": "2026-08-15T20:15:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "خاندانی نظام کا بکھراؤ: وجوہات اور نتائج",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827506/disintegration-of-the-family-system-causes-and-consequences-2827506/",
-        "source": "Express",
-        "date": "2026-08-15T19:55:26+05:00",
         "img": ""
       },
       {
