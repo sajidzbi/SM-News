@@ -1,7 +1,103 @@
 {
-  "fetched": "2026-08-19T04:31:33.151551+00:00",
+  "fetched": "2026-08-19T05:24:35.086811+00:00",
   "categories": {
     "international": [
+      {
+        "title": "OpenAI slows advanced AI development after cyberattack",
+        "summary": "OpenAI slows advanced AI development after cyberattack",
+        "url": "https://arynews.tv/openai-slows-advanced-ai-development-cyberattack",
+        "source": "ARY News",
+        "date": "2026-08-19T10:21:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Open-AI-CEO.jpg"
+      },
+      {
+        "title": "Hormuz traffic slows as uncertainty over waterway persists",
+        "summary": "Hormuz traffic slows as uncertainty over waterway persists",
+        "url": "https://arynews.tv/hormuz-traffic-slows-as-uncertainty-over-waterway-persists",
+        "source": "ARY News",
+        "date": "2026-08-19T10:14:23+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Strait-of-Hormz.jpg"
+      },
+      {
+        "title": "Nicola Coughlan takes step back from ‘Bridgerton’ season 5",
+        "summary": "Nicola Coughlan takes step back from ‘Bridgerton’ season 5",
+        "url": "https://arynews.tv/nicola-coughlan-takes-step-back-from-bridgerton-season-5",
+        "source": "ARY News",
+        "date": "2026-08-19T10:13:45+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/nicola-1.jpg"
+      },
+      {
+        "title": "Balmoral welcomes Zara, Mike and Phillips family",
+        "summary": "Balmoral welcomes Zara, Mike and Phillips family",
+        "url": "https://arynews.tv/balmoral-welcomes-zara-mike-and-phillips-family",
+        "source": "ARY News",
+        "date": "2026-08-19T10:11:25+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Balmoral-welcomes-Zara.jpg"
+      },
+      {
+        "title": "‘American Doctor’ shows Israeli brutality in Gaza",
+        "summary": "‘American Doctor’ shows Israeli brutality in Gaza",
+        "url": "https://arynews.tv/american-doctor-shows-israeli-brutality-in-gaza",
+        "source": "ARY News",
+        "date": "2026-08-19T10:08:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/American-Doctor.jpg"
+      },
+      {
+        "title": "US primaries test Democrat comeback hopes in Trump stronghold",
+        "summary": "US primaries test Democrat comeback hopes in Trump stronghold",
+        "url": "https://arynews.tv/us-primaries-test-democrat-comeback-hopes-trump-stronghold",
+        "source": "ARY News",
+        "date": "2026-08-19T10:04:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Donald-Trump.jpg"
+      },
+      {
+        "title": "At least nine killed in hotel fire in India’s Kolkata",
+        "summary": "At least nine killed in hotel fire in India’s Kolkata",
+        "url": "https://arynews.tv/at-least-nine-killed-in-hotel-fire-in-indias-kolkata",
+        "source": "ARY News",
+        "date": "2026-08-19T10:01:54+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Kolkata.jpg"
+      },
+      {
+        "title": "Pokémon, Polaroid announce official Instant Camera collaboration",
+        "summary": "Pokémon, Polaroid announce official Instant Camera collaboration",
+        "url": "https://arynews.tv/pokemon-polaroid-announce-official-instant-camera-collaboration",
+        "source": "ARY News",
+        "date": "2026-08-19T09:57:19+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Polaroid.jpg"
+      },
+      {
+        "title": "Justin Timberlake gives peeks into summer with sons Phineas and Silas",
+        "summary": "Justin Timberlake gives peeks into summer with sons Phineas and Silas",
+        "url": "https://arynews.tv/justin-timberlake-gives-peeks-into-summer-with-sons",
+        "source": "ARY News",
+        "date": "2026-08-19T09:53:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/JUSTIN.jpg"
+      },
+      {
+        "title": "Oil extends climb on prolonged Hormuz export uncertainty",
+        "summary": "Oil extends climb on prolonged Hormuz export uncertainty",
+        "url": "https://arynews.tv/oil-extends-climb-on-prolonged-hormuz-export-uncertainty",
+        "source": "ARY News",
+        "date": "2026-08-19T09:52:07+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/strait-of-hormz.jpg"
+      },
+      {
+        "title": "King Charles issues major update amid Diana memoir storm",
+        "summary": "King Charles issues major update amid Diana memoir storm",
+        "url": "https://arynews.tv/king-charles-issues-major-update-amid-diana-memoir-storm",
+        "source": "ARY News",
+        "date": "2026-08-19T09:49:53+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Lady-Diana.jpg"
+      },
+      {
+        "title": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+        "summary": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+        "url": "https://arynews.tv/humanoid-maker-unitree-surges-600-shanghai-debut",
+        "source": "ARY News",
+        "date": "2026-08-19T09:44:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/04/China-humanoid-robot.jpg"
+      },
       {
         "title": "Toy Story 5: Digital platform release date announced",
         "summary": "Toy Story 5: Digital platform release date announced",
@@ -31,7 +127,15 @@
         "summary": "ایرانی وزارت خارجہ کے ترجمان نے متحدہ عرب امارات کے ان بیانات کو مسترد کردیا ہے کہ ایران نے یو اے ای پر میزائل داغے ہیں، دوسری جانب متحدہ عرب امارات نے ایران کے ساتھ تمام تجارتی اور مالیاتی لین دین کو اگلے نوٹس تک معطل کرنے کا اعلان کر دیا ہے۔",
         "url": "https://www.bbc.co.uk/urdu/live/c5wymr9w3x9nt?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
-        "date": "2026-08-19T04:31:35.836208+00:00",
+        "date": "2026-08-19T05:24:37.274473+00:00",
+        "img": ""
+      },
+      {
+        "title": "انڈیا میں دہشت گردی میں ملوث ہونے کا الزام: پاکستانی ’ٹک ٹاکر‘ شہزاد بھٹی کون ہیں؟",
+        "summary": "انڈیا کی جانب سے ’شہزاد بھٹی نیٹ ورک‘ کے خلاف کارروائی اور آئی ایس آئی سے مبینہ روابط کے الزامات لگائے گئے ہیں۔ شہزاد بھٹی ہیں کون اور انڈین حکام ان پر کیا الزام لگاتے آئے ہیں؟",
+        "url": "https://www.bbc.com/urdu/articles/c8jndwdk3e8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-19T05:13:13+00:00",
         "img": ""
       },
       {
@@ -139,102 +243,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-82.jpg"
       },
       {
-        "title": "UK grocery inflation eases further, says Worldpanel",
-        "summary": "UK grocery inflation eases further, says Worldpanel",
-        "url": "https://arynews.tv/uk-grocery-inflation-eases-further-says-worldpanel",
-        "source": "ARY News",
-        "date": "2026-08-19T00:06:36+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/UK-infaltion.jpg"
-      },
-      {
-        "title": "Sebastian Stan addresses The Batman Part II casting rumors and Harvey Dent speculation",
-        "summary": "Sebastian Stan addresses The Batman Part II casting rumors and Harvey Dent speculation",
-        "url": "https://arynews.tv/sebastian-stan-addresses-the-batman-part-ii-casting-rumors-and-harvey-dent-speculation",
-        "source": "ARY News",
-        "date": "2026-08-18T23:58:41+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Sebastian-Stan-and-Batman.jpg"
-      },
-      {
-        "title": "Paramount+ gives major update on Landman season 3",
-        "summary": "Paramount+ gives major update on Landman season 3",
-        "url": "https://arynews.tv/paramount-gives-major-update-on-landman-season-3",
-        "source": "ARY News",
-        "date": "2026-08-18T23:58:33+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-84.jpg"
-      },
-      {
-        "title": "Apple changes fees for alternative app stores in EU",
-        "summary": "Apple changes fees for alternative app stores in EU",
-        "url": "https://arynews.tv/apple-changes-fees-for-alternative-app-stores-in-eu",
-        "source": "ARY News",
-        "date": "2026-08-18T23:57:49+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-81.jpg"
-      },
-      {
-        "title": "Karachi: Woman who married by choice killed, husband critical",
-        "summary": "Karachi: Woman who married by choice killed, husband critical",
-        "url": "https://arynews.tv/karachi-woman-who-married-by-choice-killed-husband-critical",
-        "source": "ARY News",
-        "date": "2026-08-18T23:53:35+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Karachi-2.jpg"
-      },
-      {
-        "title": "YouTube view metrics overhaul sparks creator backlash over clickbait",
-        "summary": "YouTube view metrics overhaul sparks creator backlash over clickbait",
-        "url": "https://arynews.tv/youtube-view-metrics-overhaul-sparks-creator-backlash-over-clickbait",
-        "source": "ARY News",
-        "date": "2026-08-18T23:29:21+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-80.jpg"
-      },
-      {
-        "title": "Petrol price in Pakistan for August 19, 2026",
-        "summary": "Petrol price in Pakistan for August 19, 2026",
-        "url": "https://arynews.tv/petrol-price-in-pakistan-for-august-19-2026",
-        "source": "ARY News",
-        "date": "2026-08-18T23:28:50+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-3.jpg"
-      },
-      {
-        "title": "PTI’s desire for NRO for founder reaching new heights, says Khawaja Asif",
-        "summary": "PTI’s desire for NRO for founder reaching new heights, says Khawaja Asif",
-        "url": "https://arynews.tv/pti-desire-for-nro-for-founder-reaching-new-heights",
-        "source": "ARY News",
-        "date": "2026-08-18T23:16:43+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawaja-Asif.jpg"
-      },
-      {
-        "title": "Amy Schumer’s latest movie gives divorce a fresh twist",
-        "summary": "Amy Schumer’s latest movie gives divorce a fresh twist",
-        "url": "https://arynews.tv/amy-schumers-latest-movie-gives-divorce-a-fresh-twist",
-        "source": "ARY News",
-        "date": "2026-08-18T22:58:39+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-83.jpg"
-      },
-      {
-        "title": "Pakistani youths tortured in Iraqi detention centres after human trafficking",
-        "summary": "Pakistani youths tortured in Iraqi detention centres after human trafficking",
-        "url": "https://arynews.tv/pakistani-youths-tortured-in-iraqi-detention-centres",
-        "source": "ARY News",
-        "date": "2026-08-18T22:36:43+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Pakistani-Youth.jpg"
-      },
-      {
-        "title": "Kate Middleton’s brother shows warm Royal support as Princess Eugenie welcomes daughter",
-        "summary": "Kate Middleton’s brother shows warm Royal support as Princess Eugenie welcomes daughter",
-        "url": "https://arynews.tv/kate-middletons-brother-shows-warm-royal-support-as-princess-eugenie-welcomes-daughter",
-        "source": "ARY News",
-        "date": "2026-08-18T21:48:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Princess-Eugenie-daughter-name.jpg"
-      },
-      {
-        "title": "PTI founder should be examined at govt hospital, says Azam Nazeer Tarar",
-        "summary": "PTI founder should be examined at govt hospital, says Azam Nazeer Tarar",
-        "url": "https://arynews.tv/imran-khan-should-be-examined-at-govt-hospital",
-        "source": "ARY News",
-        "date": "2026-08-18T21:41:50+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Azam-Nazeer-Tarar.jpg"
-      },
-      {
         "title": "عمران خان کو ہسپتال منتقل کرنے کا حکم: سپریم کورٹ میں سماعت کا احوال اور شرائط پر بیرسٹر گوہر کی یقین دہانی",
         "summary": "عدالت جب عمران خان کو شفا انٹرنیشنل ہسپتال منتقل کرنے کا آرڈر لکھوا رہی تھی تو اس دوران بیرسٹر گوہر نے عدالت کو یقین دہانی کروائی کہ عدالت سے باہر عمران خان کی صحت یا ان کی میڈیکل رپورٹ کے بارے میں کوئی بات نہیں کی جائے گی۔",
         "url": "https://www.bbc.com/urdu/articles/c78g0yvdzj2o?at_medium=RSS&amp;at_campaign=rss",
@@ -291,14 +299,6 @@
         "img": ""
       },
       {
-        "title": "انڈیا کا 14 ریاستوں میں مبینہ ’آئی ایس آئی حمایت یافتہ نیٹ ورک‘ کے 200 افراد گرفتار کرنے کا دعویٰ اور پاکستان کی تردید",
-        "summary": "انڈیا کے وزیرِ داخلہ امت شاہ نے دعویٰ کیا تھا کہ مودی حکومت نے یومِ آزادی سے قبل پاکستان کی خفیہ ایجنسی آئی ایس آئی کی حمایت یافتہ مبینہ شدت پسند تنظیم ’شہزاد بھٹی نیٹ ورک‘ کو ختم کرتے ہوئے اس کے 200 سے زائد کارکنوں کو گرفتار کیا ہے اور اس تنظیم کی تخریبی حملوں کے منصوبوں کو ناکام بنا دیا ہے۔",
-        "url": "https://www.bbc.com/urdu/articles/c8jndwdk3e8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-18T03:46:26+00:00",
-        "img": ""
-      },
-      {
         "title": "ٹرمپ نے ’مکہ معاہدے‘ کی حمایت کیوں کی؟",
         "summary": "امریکی صدر ڈونلڈ ٹرمپ کی جانب سے پاکستان، سعودی عرب اور ترکی کے درمیان مشترکہ دفاعی ’مکہ معاہدے‘ کا خیرمقدم کیا گیا ہے۔ اس پیغام کے بعد خطے میں سلامتی کے لیے امریکی کردار کا مستقبل کیا ہو گا، اس حوالے سے مختلف آرا پائی جاتی ہیں۔",
         "url": "https://www.bbc.com/urdu/articles/cr590mj4p66o?at_medium=RSS&amp;at_campaign=rss",
@@ -315,19 +315,19 @@
         "img": ""
       },
       {
+        "title": "انڈیا کے دو ڈاکٹروں کو ’نشان امتیاز‘ دینے کی سفارش: جناح کی صحت کو ’ہندوستان کا سب سے زیادہ محفوظ راز‘ کیوں کہا گیا؟",
+        "summary": "پاکستان کے وزیرِ منصوبہ بندی احسن اقبال نے اپنی ایک ایکس پوسٹ میں لکھا کہ ’یہ ایک ایسا رازتھا جسے بہت سے مؤرخین بیسویں صدی کے اہم ترین اور تاریخ ساز رازوں میں شمار کرتے ہیں۔‘ یہ راز اس قدر محفوظ رکھا گیا تھا کہ برطانوی خفیہ سروس بھی اس سے بالکل بے خبر تھی۔‘",
+        "url": "https://www.bbc.com/urdu/articles/ceqeeppd84go?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-17T05:29:14+00:00",
+        "img": ""
+      },
+      {
         "title": "کیا مکہ معاہدہ خطے میں امریکہ کے کم ہوتے ہوئے اثرو رسوخ کی علامت ہے؟",
         "summary": "پاکستان، سعودی عرب اور ترکی کے درمیان مکہ جوائنٹ ڈیفنس ایگریمنٹ کے تناظر میں ہم نے اِس ہفتے کے سیربین میں یہ سمجھنے کی کوشش کی ہے کہ کیا یہ معاہدہ خطے میں امریکہ کے کم ہوتے ہوئے اثرو رسوخ کی علامت ہے؟ کیا یہ معاہدہ ایران کے خلاف ہے؟ اور اس سے پاکستان کو کیا حاصل ہوگا؟",
         "url": "https://www.bbc.com/urdu/articles/cdx77ydd0qqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
         "date": "2026-08-15T16:26:19+00:00",
-        "img": ""
-      },
-      {
-        "title": "سردار پٹیل نے برطانوی راج کے جاسوسی نظام کو کانگریس کے مفاد میں کیسے استعمال کیا؟",
-        "summary": "1946 کی عبوری حکومت میں وزیرِ داخلہ بننے والے سردار ولبھ بھائی پٹیل نے برطانوی راج کے انٹیلی جنس نظام کو کانگریس کے مفاد میں استعمال کیا۔ مختلف مورخین اور محققین کے مطابق پٹیل نے انٹیلی جنس رپورٹس کے باوجود آر ایس ایس اور فرقہ وارانہ تشدد سے متعلق بعض سفارشات کو نظرانداز کیا",
-        "url": "https://www.bbc.com/urdu/articles/c20dyvdv9ezo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-15T04:08:32+00:00",
         "img": ""
       },
       {
@@ -373,6 +373,102 @@
     ],
     "national": [
       {
+        "title": "OpenAI slows advanced AI development after cyberattack",
+        "summary": "OpenAI slows advanced AI development after cyberattack",
+        "url": "https://arynews.tv/openai-slows-advanced-ai-development-cyberattack",
+        "source": "ARY News",
+        "date": "2026-08-19T10:21:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Open-AI-CEO.jpg"
+      },
+      {
+        "title": "Hormuz traffic slows as uncertainty over waterway persists",
+        "summary": "Hormuz traffic slows as uncertainty over waterway persists",
+        "url": "https://arynews.tv/hormuz-traffic-slows-as-uncertainty-over-waterway-persists",
+        "source": "ARY News",
+        "date": "2026-08-19T10:14:23+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Strait-of-Hormz.jpg"
+      },
+      {
+        "title": "Nicola Coughlan takes step back from ‘Bridgerton’ season 5",
+        "summary": "Nicola Coughlan takes step back from ‘Bridgerton’ season 5",
+        "url": "https://arynews.tv/nicola-coughlan-takes-step-back-from-bridgerton-season-5",
+        "source": "ARY News",
+        "date": "2026-08-19T10:13:45+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/nicola-1.jpg"
+      },
+      {
+        "title": "Balmoral welcomes Zara, Mike and Phillips family",
+        "summary": "Balmoral welcomes Zara, Mike and Phillips family",
+        "url": "https://arynews.tv/balmoral-welcomes-zara-mike-and-phillips-family",
+        "source": "ARY News",
+        "date": "2026-08-19T10:11:25+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Balmoral-welcomes-Zara.jpg"
+      },
+      {
+        "title": "‘American Doctor’ shows Israeli brutality in Gaza",
+        "summary": "‘American Doctor’ shows Israeli brutality in Gaza",
+        "url": "https://arynews.tv/american-doctor-shows-israeli-brutality-in-gaza",
+        "source": "ARY News",
+        "date": "2026-08-19T10:08:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/American-Doctor.jpg"
+      },
+      {
+        "title": "US primaries test Democrat comeback hopes in Trump stronghold",
+        "summary": "US primaries test Democrat comeback hopes in Trump stronghold",
+        "url": "https://arynews.tv/us-primaries-test-democrat-comeback-hopes-trump-stronghold",
+        "source": "ARY News",
+        "date": "2026-08-19T10:04:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Donald-Trump.jpg"
+      },
+      {
+        "title": "At least nine killed in hotel fire in India’s Kolkata",
+        "summary": "At least nine killed in hotel fire in India’s Kolkata",
+        "url": "https://arynews.tv/at-least-nine-killed-in-hotel-fire-in-indias-kolkata",
+        "source": "ARY News",
+        "date": "2026-08-19T10:01:54+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Kolkata.jpg"
+      },
+      {
+        "title": "Pokémon, Polaroid announce official Instant Camera collaboration",
+        "summary": "Pokémon, Polaroid announce official Instant Camera collaboration",
+        "url": "https://arynews.tv/pokemon-polaroid-announce-official-instant-camera-collaboration",
+        "source": "ARY News",
+        "date": "2026-08-19T09:57:19+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Polaroid.jpg"
+      },
+      {
+        "title": "Justin Timberlake gives peeks into summer with sons Phineas and Silas",
+        "summary": "Justin Timberlake gives peeks into summer with sons Phineas and Silas",
+        "url": "https://arynews.tv/justin-timberlake-gives-peeks-into-summer-with-sons",
+        "source": "ARY News",
+        "date": "2026-08-19T09:53:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/JUSTIN.jpg"
+      },
+      {
+        "title": "Oil extends climb on prolonged Hormuz export uncertainty",
+        "summary": "Oil extends climb on prolonged Hormuz export uncertainty",
+        "url": "https://arynews.tv/oil-extends-climb-on-prolonged-hormuz-export-uncertainty",
+        "source": "ARY News",
+        "date": "2026-08-19T09:52:07+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/strait-of-hormz.jpg"
+      },
+      {
+        "title": "King Charles issues major update amid Diana memoir storm",
+        "summary": "King Charles issues major update amid Diana memoir storm",
+        "url": "https://arynews.tv/king-charles-issues-major-update-amid-diana-memoir-storm",
+        "source": "ARY News",
+        "date": "2026-08-19T09:49:53+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Lady-Diana.jpg"
+      },
+      {
+        "title": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+        "summary": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+        "url": "https://arynews.tv/humanoid-maker-unitree-surges-600-shanghai-debut",
+        "source": "ARY News",
+        "date": "2026-08-19T09:44:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/04/China-humanoid-robot.jpg"
+      },
+      {
         "title": "Toy Story 5: Digital platform release date announced",
         "summary": "Toy Story 5: Digital platform release date announced",
         "url": "https://arynews.tv/toy-story-5-digital-platform-release-date-announced",
@@ -395,6 +491,46 @@
         "source": "ARY News",
         "date": "2026-08-19T08:41:18+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ariana-1.jpg"
+      },
+      {
+        "title": "آبنائے ہرمز کی صورتحال پر غیر یقینی، عالمی منڈی میں تیل کی قیمتیں مزید بڑھ گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827993/oil-prices-rise-for-fourth-straight-day-amid-hormuz-uncertainty-2827993/",
+        "source": "Express",
+        "date": "2026-08-19T05:06:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کو بڑا دھچکا، کپتان بابر اعظم انگلینڈ کیخلاف پہلے ٹیسٹ سے باہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827991/babar-ruled-out-of-first-test-against-england-salman-agha-to-lead-2827991/",
+        "source": "Express",
+        "date": "2026-08-19T04:57:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کے 5 سالہ قبضے کے دوران انسانی حقوق کی پامالیوں پر عالمی تشویش برقرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827984/global-concern-remains-over-human-rights-abuses-during-the-taliban-regimes-five-year-occupation-2827984/",
+        "source": "Express",
+        "date": "2026-08-19T04:44:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "سنی دیول 56 کروڑ روپے کے قرض میں کیسے ڈوبے؟ اداکار نے حقیقت بتا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827981/how-did-sunny-deol-get-mired-in-a-debt-of-56-crore-the-actor-reveals-the-truth-2827981/",
+        "source": "Express",
+        "date": "2026-08-19T04:31:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "میزائیل حملوں کے بعد متحدہ عرب امارات کا ایران سے تجارت اور مالی لین دین معطل کرنے کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827977/uae-suspends-all-trade-and-financial-transactions-with-iran-2827977/",
+        "source": "Express",
+        "date": "2026-08-19T03:51:09+05:00",
+        "img": ""
       },
       {
         "title": "US SEC proposes long-awaited crypto rules",
@@ -477,60 +613,52 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-82.jpg"
       },
       {
-        "title": "UK grocery inflation eases further, says Worldpanel",
-        "summary": "UK grocery inflation eases further, says Worldpanel",
-        "url": "https://arynews.tv/uk-grocery-inflation-eases-further-says-worldpanel",
-        "source": "ARY News",
-        "date": "2026-08-19T00:06:36+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/UK-infaltion.jpg"
+        "title": "اشرافیہ نواز بھارتی عدالتیں؛ فوجداری مقدمات کی تاخیر نے مودی کے کھوکھلے دعوے آشکار کردیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827992/elite-leaning-indian-courts-delays-in-criminal-cases-expose-modis-hollow-claims-2827992/",
+        "source": "Express",
+        "date": "2026-08-19T00:03:12+00:00",
+        "img": ""
       },
       {
-        "title": "Sebastian Stan addresses The Batman Part II casting rumors and Harvey Dent speculation",
-        "summary": "Sebastian Stan addresses The Batman Part II casting rumors and Harvey Dent speculation",
-        "url": "https://arynews.tv/sebastian-stan-addresses-the-batman-part-ii-casting-rumors-and-harvey-dent-speculation",
-        "source": "ARY News",
-        "date": "2026-08-18T23:58:41+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Sebastian-Stan-and-Batman.jpg"
+        "title": "بھارتی پروازوں کے لیے پاکستانی فضائی حدود کی بندش میں 24 ستمبر تک توسیع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827990/pakistan-extends-airspace-closure-for-indian-flights-until-september-24-2827990/",
+        "source": "Express",
+        "date": "2026-08-18T23:56:39+00:00",
+        "img": ""
       },
       {
-        "title": "Paramount+ gives major update on Landman season 3",
-        "summary": "Paramount+ gives major update on Landman season 3",
-        "url": "https://arynews.tv/paramount-gives-major-update-on-landman-season-3",
-        "source": "ARY News",
-        "date": "2026-08-18T23:58:33+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-84.jpg"
+        "title": "آزاد کشمیر کے غیور و باشعورعوام کا پاکستان سے والہانہ محبت کا اظہار،بھارت کو منہ توڑ جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827986/the-proud-and-conscious-people-of-azad-kashmir-express-their-immense-love-for-pakistan-giving-a-befitting-reply-to-india-2827986/",
+        "source": "Express",
+        "date": "2026-08-18T23:50:45+00:00",
+        "img": ""
       },
       {
-        "title": "Apple changes fees for alternative app stores in EU",
-        "summary": "Apple changes fees for alternative app stores in EU",
-        "url": "https://arynews.tv/apple-changes-fees-for-alternative-app-stores-in-eu",
-        "source": "ARY News",
-        "date": "2026-08-18T23:57:49+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-81.jpg"
+        "title": "شام کے ایئربیس پر حملے کے بعد اسرائیل اور ترکیہ آمنے سامنے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827985/israel-blames-turkey-after-strike-on-syrian-air-base-2827985/",
+        "source": "Express",
+        "date": "2026-08-18T23:45:05+00:00",
+        "img": ""
       },
       {
-        "title": "Karachi: Woman who married by choice killed, husband critical",
-        "summary": "Karachi: Woman who married by choice killed, husband critical",
-        "url": "https://arynews.tv/karachi-woman-who-married-by-choice-killed-husband-critical",
-        "source": "ARY News",
-        "date": "2026-08-18T23:53:35+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Karachi-2.jpg"
+        "title": "میٹا اور پاکستان کا چھوٹے کاروباروں کے لیے اے آئی تربیتی پروگرام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827982/meta-and-pakistan-launch-ai-training-program-for-small-businesses-2827982/",
+        "source": "Express",
+        "date": "2026-08-18T23:36:08+00:00",
+        "img": ""
       },
       {
-        "title": "YouTube view metrics overhaul sparks creator backlash over clickbait",
-        "summary": "YouTube view metrics overhaul sparks creator backlash over clickbait",
-        "url": "https://arynews.tv/youtube-view-metrics-overhaul-sparks-creator-backlash-over-clickbait",
-        "source": "ARY News",
-        "date": "2026-08-18T23:29:21+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-80.jpg"
-      },
-      {
-        "title": "Petrol price in Pakistan for August 19, 2026",
-        "summary": "Petrol price in Pakistan for August 19, 2026",
-        "url": "https://arynews.tv/petrol-price-in-pakistan-for-august-19-2026",
-        "source": "ARY News",
-        "date": "2026-08-18T23:28:50+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-3.jpg"
+        "title": "کراچی؛ گھر سے 20 سالہ نوجوان کی گلے میں پھندا لگی لاش برآمد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827980/karachi-20-year-old-youths-body-found-with-noose-around-his-neck-in-house-2827980/",
+        "source": "Express",
+        "date": "2026-08-18T23:25:03+00:00",
+        "img": ""
       },
       {
         "title": "کراچی؛ مچھر کالونی میں 3 ڈاکو پولیس مقابلے میں ہلاک، فائرنگ کے تبادلے میں اہلکار زخمی",
@@ -541,28 +669,12 @@
         "img": ""
       },
       {
-        "title": "PTI’s desire for NRO for founder reaching new heights, says Khawaja Asif",
-        "summary": "PTI’s desire for NRO for founder reaching new heights, says Khawaja Asif",
-        "url": "https://arynews.tv/pti-desire-for-nro-for-founder-reaching-new-heights",
-        "source": "ARY News",
-        "date": "2026-08-18T23:16:43+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawaja-Asif.jpg"
-      },
-      {
-        "title": "Amy Schumer’s latest movie gives divorce a fresh twist",
-        "summary": "Amy Schumer’s latest movie gives divorce a fresh twist",
-        "url": "https://arynews.tv/amy-schumers-latest-movie-gives-divorce-a-fresh-twist",
-        "source": "ARY News",
-        "date": "2026-08-18T22:58:39+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-83.jpg"
-      },
-      {
-        "title": "Pakistani youths tortured in Iraqi detention centres after human trafficking",
-        "summary": "Pakistani youths tortured in Iraqi detention centres after human trafficking",
-        "url": "https://arynews.tv/pakistani-youths-tortured-in-iraqi-detention-centres",
-        "source": "ARY News",
-        "date": "2026-08-18T22:36:43+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Pakistani-Youth.jpg"
+        "title": "کراچی؛ موٹرسائیکل سواروں کی فائرنگ سے اسٹیٹ ایجنٹ اور وکیل قتل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827978/karachi-estate-agent-and-lawyer-shot-dead-by-motorcycle-riders-2827978/",
+        "source": "Express",
+        "date": "2026-08-18T23:21:09+00:00",
+        "img": ""
       },
       {
         "title": "جڑواں شہروں میں شدید بارش، نالہ لئی پھر بپھر گیا، شہریوں کیلیے انخلا کا الرٹ",
@@ -579,22 +691,6 @@
         "source": "Express",
         "date": "2026-08-18T22:35:45+00:00",
         "img": ""
-      },
-      {
-        "title": "Kate Middleton’s brother shows warm Royal support as Princess Eugenie welcomes daughter",
-        "summary": "Kate Middleton’s brother shows warm Royal support as Princess Eugenie welcomes daughter",
-        "url": "https://arynews.tv/kate-middletons-brother-shows-warm-royal-support-as-princess-eugenie-welcomes-daughter",
-        "source": "ARY News",
-        "date": "2026-08-18T21:48:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Princess-Eugenie-daughter-name.jpg"
-      },
-      {
-        "title": "PTI founder should be examined at govt hospital, says Azam Nazeer Tarar",
-        "summary": "PTI founder should be examined at govt hospital, says Azam Nazeer Tarar",
-        "url": "https://arynews.tv/imran-khan-should-be-examined-at-govt-hospital",
-        "source": "ARY News",
-        "date": "2026-08-18T21:41:50+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Azam-Nazeer-Tarar.jpg"
       },
       {
         "title": "اپنے حصّے کی شمع",
@@ -674,107 +770,107 @@
         "url": "https://www.express.pk/story/2827962/gilgit-baltistan-cm-says-cutting-unnecessary-expenditures-across-all-departments-will-save-rs2-billion-2827962/",
         "source": "Express",
         "date": "2026-08-18T20:07:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "میر رضا علی کی المناک موت، تفتیشی ٹیم قاتلوں کا سراغ لگانے میں سرگرداں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827961/mir-raza-ali-ki-alamnaki-maut-tafteeshi-team-qatilon-ka-suraagh-lagane-mein-sargardan-2827961/",
-        "source": "Express",
-        "date": "2026-08-18T19:56:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "فون سے اسکرین شاٹ محفوظ کرنا یادداشت کمزور کر سکتا ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827959/binghamton-universitys-psychology-department-2827959/",
-        "source": "Express",
-        "date": "2026-08-18T19:46:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں 13 لاکھ روپے ڈکیتی کی واردات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827958/robbery-of-rs-13-million-in-karachi-2827958/",
-        "source": "Express",
-        "date": "2026-08-18T19:39:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، نقب زنی کی واردات میں لاکھوں مالیت کے ٹائر چوری کرنے والا ملزم گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827957/karachi-suspect-arrested-for-stealing-tires-worth-millions-in-burglary-2827957/",
-        "source": "Express",
-        "date": "2026-08-18T19:38:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں غیرقانونی بھارتی تارکینِ وطن کے شامت آگئی؛ 4 ہزار 840 ملک بدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827955/us-crake-down-indian-immigrant-2827955/",
-        "source": "Express",
-        "date": "2026-08-18T19:35:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "ترکیہ: پہلوان کی ہزاروں برس قدیم قبر دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827954/excavations-at-the-ancient-city-of-aspendos-2827954/",
-        "source": "Express",
-        "date": "2026-08-18T19:27:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں خطرناک ’ویسٹ نائل وائرس‘ کا پھیلاؤ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827951/a-deadly-brain-swelling-illness-2827951/",
-        "source": "Express",
-        "date": "2026-08-18T18:40:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان ایئرپورٹ اتھارٹی کے شعبہ کمرشل کی سالانہ آمدنی 10 ارب سے تجاوز کر گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827960/pakistan-airport-authority-commercial-dept-annual-revenue-over-10-billion-rupees-2827960/",
-        "source": "Express",
-        "date": "2026-08-18T14:51:00+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران جنگ میں بڑا نقصان؛ امریکا کے دفاعی تیل ذخائر کم ترین سطح پر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827956/iran-war-us-strategic-oil-reservoir-below-44-years-level-2827956/",
-        "source": "Express",
-        "date": "2026-08-18T14:36:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل نے یہودیوں کو مسجد اقصیٰ میں مذہبی کتابچے لے جانے اور عبادت کی اجازت دیدی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827953/jewish-prayer-books-reportedly-allowed-onto-temple-mount-for-first-time-2827953/",
-        "source": "Express",
-        "date": "2026-08-18T13:47:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "غزہ کے حق اور اسرائیل کیخلاف فیصلے کیوں؟ امریکا کی عالمی فوجداری عدالت پر پابندیاں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827952/us-sanctions-international-criminal-court-president-2827952/",
-        "source": "Express",
-        "date": "2026-08-18T13:44:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "نیشنل الیکٹریسٹی پلان 2023-2027 میں ترامیم کی منظوری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
-        "source": "Express",
-        "date": "2026-08-18T13:38:48+00:00",
         "img": ""
       }
     ],
     "kpk": [
       {
+        "title": "OpenAI slows advanced AI development after cyberattack",
+        "summary": "OpenAI slows advanced AI development after cyberattack",
+        "url": "https://arynews.tv/openai-slows-advanced-ai-development-cyberattack",
+        "source": "ARY News",
+        "date": "2026-08-19T10:21:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Open-AI-CEO.jpg"
+      },
+      {
+        "title": "Hormuz traffic slows as uncertainty over waterway persists",
+        "summary": "Hormuz traffic slows as uncertainty over waterway persists",
+        "url": "https://arynews.tv/hormuz-traffic-slows-as-uncertainty-over-waterway-persists",
+        "source": "ARY News",
+        "date": "2026-08-19T10:14:23+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Strait-of-Hormz.jpg"
+      },
+      {
+        "title": "Nicola Coughlan takes step back from ‘Bridgerton’ season 5",
+        "summary": "Nicola Coughlan takes step back from ‘Bridgerton’ season 5",
+        "url": "https://arynews.tv/nicola-coughlan-takes-step-back-from-bridgerton-season-5",
+        "source": "ARY News",
+        "date": "2026-08-19T10:13:45+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/nicola-1.jpg"
+      },
+      {
+        "title": "Balmoral welcomes Zara, Mike and Phillips family",
+        "summary": "Balmoral welcomes Zara, Mike and Phillips family",
+        "url": "https://arynews.tv/balmoral-welcomes-zara-mike-and-phillips-family",
+        "source": "ARY News",
+        "date": "2026-08-19T10:11:25+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Balmoral-welcomes-Zara.jpg"
+      },
+      {
+        "title": "‘American Doctor’ shows Israeli brutality in Gaza",
+        "summary": "‘American Doctor’ shows Israeli brutality in Gaza",
+        "url": "https://arynews.tv/american-doctor-shows-israeli-brutality-in-gaza",
+        "source": "ARY News",
+        "date": "2026-08-19T10:08:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/American-Doctor.jpg"
+      },
+      {
+        "title": "US primaries test Democrat comeback hopes in Trump stronghold",
+        "summary": "US primaries test Democrat comeback hopes in Trump stronghold",
+        "url": "https://arynews.tv/us-primaries-test-democrat-comeback-hopes-trump-stronghold",
+        "source": "ARY News",
+        "date": "2026-08-19T10:04:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Donald-Trump.jpg"
+      },
+      {
+        "title": "At least nine killed in hotel fire in India’s Kolkata",
+        "summary": "At least nine killed in hotel fire in India’s Kolkata",
+        "url": "https://arynews.tv/at-least-nine-killed-in-hotel-fire-in-indias-kolkata",
+        "source": "ARY News",
+        "date": "2026-08-19T10:01:54+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Kolkata.jpg"
+      },
+      {
+        "title": "Pokémon, Polaroid announce official Instant Camera collaboration",
+        "summary": "Pokémon, Polaroid announce official Instant Camera collaboration",
+        "url": "https://arynews.tv/pokemon-polaroid-announce-official-instant-camera-collaboration",
+        "source": "ARY News",
+        "date": "2026-08-19T09:57:19+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Polaroid.jpg"
+      },
+      {
+        "title": "Justin Timberlake gives peeks into summer with sons Phineas and Silas",
+        "summary": "Justin Timberlake gives peeks into summer with sons Phineas and Silas",
+        "url": "https://arynews.tv/justin-timberlake-gives-peeks-into-summer-with-sons",
+        "source": "ARY News",
+        "date": "2026-08-19T09:53:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/JUSTIN.jpg"
+      },
+      {
+        "title": "Oil extends climb on prolonged Hormuz export uncertainty",
+        "summary": "Oil extends climb on prolonged Hormuz export uncertainty",
+        "url": "https://arynews.tv/oil-extends-climb-on-prolonged-hormuz-export-uncertainty",
+        "source": "ARY News",
+        "date": "2026-08-19T09:52:07+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/strait-of-hormz.jpg"
+      },
+      {
+        "title": "King Charles issues major update amid Diana memoir storm",
+        "summary": "King Charles issues major update amid Diana memoir storm",
+        "url": "https://arynews.tv/king-charles-issues-major-update-amid-diana-memoir-storm",
+        "source": "ARY News",
+        "date": "2026-08-19T09:49:53+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Lady-Diana.jpg"
+      },
+      {
+        "title": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+        "summary": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+        "url": "https://arynews.tv/humanoid-maker-unitree-surges-600-shanghai-debut",
+        "source": "ARY News",
+        "date": "2026-08-19T09:44:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/04/China-humanoid-robot.jpg"
+      },
+      {
         "title": "Toy Story 5: Digital platform release date announced",
         "summary": "Toy Story 5: Digital platform release date announced",
         "url": "https://arynews.tv/toy-story-5-digital-platform-release-date-announced",
@@ -797,6 +893,46 @@
         "source": "ARY News",
         "date": "2026-08-19T08:41:18+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ariana-1.jpg"
+      },
+      {
+        "title": "آبنائے ہرمز کی صورتحال پر غیر یقینی، عالمی منڈی میں تیل کی قیمتیں مزید بڑھ گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827993/oil-prices-rise-for-fourth-straight-day-amid-hormuz-uncertainty-2827993/",
+        "source": "Express",
+        "date": "2026-08-19T05:06:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کو بڑا دھچکا، کپتان بابر اعظم انگلینڈ کیخلاف پہلے ٹیسٹ سے باہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827991/babar-ruled-out-of-first-test-against-england-salman-agha-to-lead-2827991/",
+        "source": "Express",
+        "date": "2026-08-19T04:57:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کے 5 سالہ قبضے کے دوران انسانی حقوق کی پامالیوں پر عالمی تشویش برقرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827984/global-concern-remains-over-human-rights-abuses-during-the-taliban-regimes-five-year-occupation-2827984/",
+        "source": "Express",
+        "date": "2026-08-19T04:44:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "سنی دیول 56 کروڑ روپے کے قرض میں کیسے ڈوبے؟ اداکار نے حقیقت بتا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827981/how-did-sunny-deol-get-mired-in-a-debt-of-56-crore-the-actor-reveals-the-truth-2827981/",
+        "source": "Express",
+        "date": "2026-08-19T04:31:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "میزائیل حملوں کے بعد متحدہ عرب امارات کا ایران سے تجارت اور مالی لین دین معطل کرنے کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827977/uae-suspends-all-trade-and-financial-transactions-with-iran-2827977/",
+        "source": "Express",
+        "date": "2026-08-19T03:51:09+05:00",
+        "img": ""
       },
       {
         "title": "US SEC proposes long-awaited crypto rules",
@@ -879,60 +1015,52 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-82.jpg"
       },
       {
-        "title": "UK grocery inflation eases further, says Worldpanel",
-        "summary": "UK grocery inflation eases further, says Worldpanel",
-        "url": "https://arynews.tv/uk-grocery-inflation-eases-further-says-worldpanel",
-        "source": "ARY News",
-        "date": "2026-08-19T00:06:36+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/UK-infaltion.jpg"
+        "title": "اشرافیہ نواز بھارتی عدالتیں؛ فوجداری مقدمات کی تاخیر نے مودی کے کھوکھلے دعوے آشکار کردیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827992/elite-leaning-indian-courts-delays-in-criminal-cases-expose-modis-hollow-claims-2827992/",
+        "source": "Express",
+        "date": "2026-08-19T00:03:12+00:00",
+        "img": ""
       },
       {
-        "title": "Sebastian Stan addresses The Batman Part II casting rumors and Harvey Dent speculation",
-        "summary": "Sebastian Stan addresses The Batman Part II casting rumors and Harvey Dent speculation",
-        "url": "https://arynews.tv/sebastian-stan-addresses-the-batman-part-ii-casting-rumors-and-harvey-dent-speculation",
-        "source": "ARY News",
-        "date": "2026-08-18T23:58:41+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Sebastian-Stan-and-Batman.jpg"
+        "title": "بھارتی پروازوں کے لیے پاکستانی فضائی حدود کی بندش میں 24 ستمبر تک توسیع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827990/pakistan-extends-airspace-closure-for-indian-flights-until-september-24-2827990/",
+        "source": "Express",
+        "date": "2026-08-18T23:56:39+00:00",
+        "img": ""
       },
       {
-        "title": "Paramount+ gives major update on Landman season 3",
-        "summary": "Paramount+ gives major update on Landman season 3",
-        "url": "https://arynews.tv/paramount-gives-major-update-on-landman-season-3",
-        "source": "ARY News",
-        "date": "2026-08-18T23:58:33+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-84.jpg"
+        "title": "آزاد کشمیر کے غیور و باشعورعوام کا پاکستان سے والہانہ محبت کا اظہار،بھارت کو منہ توڑ جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827986/the-proud-and-conscious-people-of-azad-kashmir-express-their-immense-love-for-pakistan-giving-a-befitting-reply-to-india-2827986/",
+        "source": "Express",
+        "date": "2026-08-18T23:50:45+00:00",
+        "img": ""
       },
       {
-        "title": "Apple changes fees for alternative app stores in EU",
-        "summary": "Apple changes fees for alternative app stores in EU",
-        "url": "https://arynews.tv/apple-changes-fees-for-alternative-app-stores-in-eu",
-        "source": "ARY News",
-        "date": "2026-08-18T23:57:49+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-81.jpg"
+        "title": "شام کے ایئربیس پر حملے کے بعد اسرائیل اور ترکیہ آمنے سامنے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827985/israel-blames-turkey-after-strike-on-syrian-air-base-2827985/",
+        "source": "Express",
+        "date": "2026-08-18T23:45:05+00:00",
+        "img": ""
       },
       {
-        "title": "Karachi: Woman who married by choice killed, husband critical",
-        "summary": "Karachi: Woman who married by choice killed, husband critical",
-        "url": "https://arynews.tv/karachi-woman-who-married-by-choice-killed-husband-critical",
-        "source": "ARY News",
-        "date": "2026-08-18T23:53:35+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Karachi-2.jpg"
+        "title": "میٹا اور پاکستان کا چھوٹے کاروباروں کے لیے اے آئی تربیتی پروگرام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827982/meta-and-pakistan-launch-ai-training-program-for-small-businesses-2827982/",
+        "source": "Express",
+        "date": "2026-08-18T23:36:08+00:00",
+        "img": ""
       },
       {
-        "title": "YouTube view metrics overhaul sparks creator backlash over clickbait",
-        "summary": "YouTube view metrics overhaul sparks creator backlash over clickbait",
-        "url": "https://arynews.tv/youtube-view-metrics-overhaul-sparks-creator-backlash-over-clickbait",
-        "source": "ARY News",
-        "date": "2026-08-18T23:29:21+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-80.jpg"
-      },
-      {
-        "title": "Petrol price in Pakistan for August 19, 2026",
-        "summary": "Petrol price in Pakistan for August 19, 2026",
-        "url": "https://arynews.tv/petrol-price-in-pakistan-for-august-19-2026",
-        "source": "ARY News",
-        "date": "2026-08-18T23:28:50+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-3.jpg"
+        "title": "کراچی؛ گھر سے 20 سالہ نوجوان کی گلے میں پھندا لگی لاش برآمد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827980/karachi-20-year-old-youths-body-found-with-noose-around-his-neck-in-house-2827980/",
+        "source": "Express",
+        "date": "2026-08-18T23:25:03+00:00",
+        "img": ""
       },
       {
         "title": "کراچی؛ مچھر کالونی میں 3 ڈاکو پولیس مقابلے میں ہلاک، فائرنگ کے تبادلے میں اہلکار زخمی",
@@ -943,28 +1071,12 @@
         "img": ""
       },
       {
-        "title": "PTI’s desire for NRO for founder reaching new heights, says Khawaja Asif",
-        "summary": "PTI’s desire for NRO for founder reaching new heights, says Khawaja Asif",
-        "url": "https://arynews.tv/pti-desire-for-nro-for-founder-reaching-new-heights",
-        "source": "ARY News",
-        "date": "2026-08-18T23:16:43+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawaja-Asif.jpg"
-      },
-      {
-        "title": "Amy Schumer’s latest movie gives divorce a fresh twist",
-        "summary": "Amy Schumer’s latest movie gives divorce a fresh twist",
-        "url": "https://arynews.tv/amy-schumers-latest-movie-gives-divorce-a-fresh-twist",
-        "source": "ARY News",
-        "date": "2026-08-18T22:58:39+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-83.jpg"
-      },
-      {
-        "title": "Pakistani youths tortured in Iraqi detention centres after human trafficking",
-        "summary": "Pakistani youths tortured in Iraqi detention centres after human trafficking",
-        "url": "https://arynews.tv/pakistani-youths-tortured-in-iraqi-detention-centres",
-        "source": "ARY News",
-        "date": "2026-08-18T22:36:43+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Pakistani-Youth.jpg"
+        "title": "کراچی؛ موٹرسائیکل سواروں کی فائرنگ سے اسٹیٹ ایجنٹ اور وکیل قتل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827978/karachi-estate-agent-and-lawyer-shot-dead-by-motorcycle-riders-2827978/",
+        "source": "Express",
+        "date": "2026-08-18T23:21:09+00:00",
+        "img": ""
       },
       {
         "title": "جڑواں شہروں میں شدید بارش، نالہ لئی پھر بپھر گیا، شہریوں کیلیے انخلا کا الرٹ",
@@ -981,22 +1093,6 @@
         "source": "Express",
         "date": "2026-08-18T22:35:45+00:00",
         "img": ""
-      },
-      {
-        "title": "Kate Middleton’s brother shows warm Royal support as Princess Eugenie welcomes daughter",
-        "summary": "Kate Middleton’s brother shows warm Royal support as Princess Eugenie welcomes daughter",
-        "url": "https://arynews.tv/kate-middletons-brother-shows-warm-royal-support-as-princess-eugenie-welcomes-daughter",
-        "source": "ARY News",
-        "date": "2026-08-18T21:48:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Princess-Eugenie-daughter-name.jpg"
-      },
-      {
-        "title": "PTI founder should be examined at govt hospital, says Azam Nazeer Tarar",
-        "summary": "PTI founder should be examined at govt hospital, says Azam Nazeer Tarar",
-        "url": "https://arynews.tv/imran-khan-should-be-examined-at-govt-hospital",
-        "source": "ARY News",
-        "date": "2026-08-18T21:41:50+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Azam-Nazeer-Tarar.jpg"
       },
       {
         "title": "اپنے حصّے کی شمع",
@@ -1076,102 +1172,6 @@
         "url": "https://www.express.pk/story/2827962/gilgit-baltistan-cm-says-cutting-unnecessary-expenditures-across-all-departments-will-save-rs2-billion-2827962/",
         "source": "Express",
         "date": "2026-08-18T20:07:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "میر رضا علی کی المناک موت، تفتیشی ٹیم قاتلوں کا سراغ لگانے میں سرگرداں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827961/mir-raza-ali-ki-alamnaki-maut-tafteeshi-team-qatilon-ka-suraagh-lagane-mein-sargardan-2827961/",
-        "source": "Express",
-        "date": "2026-08-18T19:56:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "فون سے اسکرین شاٹ محفوظ کرنا یادداشت کمزور کر سکتا ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827959/binghamton-universitys-psychology-department-2827959/",
-        "source": "Express",
-        "date": "2026-08-18T19:46:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں 13 لاکھ روپے ڈکیتی کی واردات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827958/robbery-of-rs-13-million-in-karachi-2827958/",
-        "source": "Express",
-        "date": "2026-08-18T19:39:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، نقب زنی کی واردات میں لاکھوں مالیت کے ٹائر چوری کرنے والا ملزم گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827957/karachi-suspect-arrested-for-stealing-tires-worth-millions-in-burglary-2827957/",
-        "source": "Express",
-        "date": "2026-08-18T19:38:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں غیرقانونی بھارتی تارکینِ وطن کے شامت آگئی؛ 4 ہزار 840 ملک بدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827955/us-crake-down-indian-immigrant-2827955/",
-        "source": "Express",
-        "date": "2026-08-18T19:35:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "ترکیہ: پہلوان کی ہزاروں برس قدیم قبر دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827954/excavations-at-the-ancient-city-of-aspendos-2827954/",
-        "source": "Express",
-        "date": "2026-08-18T19:27:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں خطرناک ’ویسٹ نائل وائرس‘ کا پھیلاؤ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827951/a-deadly-brain-swelling-illness-2827951/",
-        "source": "Express",
-        "date": "2026-08-18T18:40:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان ایئرپورٹ اتھارٹی کے شعبہ کمرشل کی سالانہ آمدنی 10 ارب سے تجاوز کر گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827960/pakistan-airport-authority-commercial-dept-annual-revenue-over-10-billion-rupees-2827960/",
-        "source": "Express",
-        "date": "2026-08-18T14:51:00+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران جنگ میں بڑا نقصان؛ امریکا کے دفاعی تیل ذخائر کم ترین سطح پر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827956/iran-war-us-strategic-oil-reservoir-below-44-years-level-2827956/",
-        "source": "Express",
-        "date": "2026-08-18T14:36:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل نے یہودیوں کو مسجد اقصیٰ میں مذہبی کتابچے لے جانے اور عبادت کی اجازت دیدی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827953/jewish-prayer-books-reportedly-allowed-onto-temple-mount-for-first-time-2827953/",
-        "source": "Express",
-        "date": "2026-08-18T13:47:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "غزہ کے حق اور اسرائیل کیخلاف فیصلے کیوں؟ امریکا کی عالمی فوجداری عدالت پر پابندیاں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827952/us-sanctions-international-criminal-court-president-2827952/",
-        "source": "Express",
-        "date": "2026-08-18T13:44:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "نیشنل الیکٹریسٹی پلان 2023-2027 میں ترامیم کی منظوری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
-        "source": "Express",
-        "date": "2026-08-18T13:38:48+00:00",
         "img": ""
       },
       {
@@ -1257,11 +1257,107 @@
     ],
     "punjab": [
       {
+        "title": "آبنائے ہرمز کی صورتحال پر غیر یقینی، عالمی منڈی میں تیل کی قیمتیں مزید بڑھ گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827993/oil-prices-rise-for-fourth-straight-day-amid-hormuz-uncertainty-2827993/",
+        "source": "Express",
+        "date": "2026-08-19T05:06:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کو بڑا دھچکا، کپتان بابر اعظم انگلینڈ کیخلاف پہلے ٹیسٹ سے باہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827991/babar-ruled-out-of-first-test-against-england-salman-agha-to-lead-2827991/",
+        "source": "Express",
+        "date": "2026-08-19T04:57:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کے 5 سالہ قبضے کے دوران انسانی حقوق کی پامالیوں پر عالمی تشویش برقرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827984/global-concern-remains-over-human-rights-abuses-during-the-taliban-regimes-five-year-occupation-2827984/",
+        "source": "Express",
+        "date": "2026-08-19T04:44:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "سنی دیول 56 کروڑ روپے کے قرض میں کیسے ڈوبے؟ اداکار نے حقیقت بتا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827981/how-did-sunny-deol-get-mired-in-a-debt-of-56-crore-the-actor-reveals-the-truth-2827981/",
+        "source": "Express",
+        "date": "2026-08-19T04:31:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "میزائیل حملوں کے بعد متحدہ عرب امارات کا ایران سے تجارت اور مالی لین دین معطل کرنے کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827977/uae-suspends-all-trade-and-financial-transactions-with-iran-2827977/",
+        "source": "Express",
+        "date": "2026-08-19T03:51:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "اشرافیہ نواز بھارتی عدالتیں؛ فوجداری مقدمات کی تاخیر نے مودی کے کھوکھلے دعوے آشکار کردیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827992/elite-leaning-indian-courts-delays-in-criminal-cases-expose-modis-hollow-claims-2827992/",
+        "source": "Express",
+        "date": "2026-08-19T00:03:12+00:00",
+        "img": ""
+      },
+      {
+        "title": "بھارتی پروازوں کے لیے پاکستانی فضائی حدود کی بندش میں 24 ستمبر تک توسیع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827990/pakistan-extends-airspace-closure-for-indian-flights-until-september-24-2827990/",
+        "source": "Express",
+        "date": "2026-08-18T23:56:39+00:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر کے غیور و باشعورعوام کا پاکستان سے والہانہ محبت کا اظہار،بھارت کو منہ توڑ جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827986/the-proud-and-conscious-people-of-azad-kashmir-express-their-immense-love-for-pakistan-giving-a-befitting-reply-to-india-2827986/",
+        "source": "Express",
+        "date": "2026-08-18T23:50:45+00:00",
+        "img": ""
+      },
+      {
+        "title": "شام کے ایئربیس پر حملے کے بعد اسرائیل اور ترکیہ آمنے سامنے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827985/israel-blames-turkey-after-strike-on-syrian-air-base-2827985/",
+        "source": "Express",
+        "date": "2026-08-18T23:45:05+00:00",
+        "img": ""
+      },
+      {
+        "title": "میٹا اور پاکستان کا چھوٹے کاروباروں کے لیے اے آئی تربیتی پروگرام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827982/meta-and-pakistan-launch-ai-training-program-for-small-businesses-2827982/",
+        "source": "Express",
+        "date": "2026-08-18T23:36:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی؛ گھر سے 20 سالہ نوجوان کی گلے میں پھندا لگی لاش برآمد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827980/karachi-20-year-old-youths-body-found-with-noose-around-his-neck-in-house-2827980/",
+        "source": "Express",
+        "date": "2026-08-18T23:25:03+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی؛ مچھر کالونی میں 3 ڈاکو پولیس مقابلے میں ہلاک، فائرنگ کے تبادلے میں اہلکار زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2827979/karachi-3-robbers-killed-in-police-encounter-in-machar-colony-officer-injured-in-exchange-of-fire-2827979/",
         "source": "Express",
         "date": "2026-08-18T23:21:16+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی؛ موٹرسائیکل سواروں کی فائرنگ سے اسٹیٹ ایجنٹ اور وکیل قتل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827978/karachi-estate-agent-and-lawyer-shot-dead-by-motorcycle-riders-2827978/",
+        "source": "Express",
+        "date": "2026-08-18T23:21:09+00:00",
         "img": ""
       },
       {
@@ -1358,112 +1454,112 @@
         "url": "https://www.express.pk/story/2827962/gilgit-baltistan-cm-says-cutting-unnecessary-expenditures-across-all-departments-will-save-rs2-billion-2827962/",
         "source": "Express",
         "date": "2026-08-18T20:07:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "میر رضا علی کی المناک موت، تفتیشی ٹیم قاتلوں کا سراغ لگانے میں سرگرداں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827961/mir-raza-ali-ki-alamnaki-maut-tafteeshi-team-qatilon-ka-suraagh-lagane-mein-sargardan-2827961/",
-        "source": "Express",
-        "date": "2026-08-18T19:56:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "فون سے اسکرین شاٹ محفوظ کرنا یادداشت کمزور کر سکتا ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827959/binghamton-universitys-psychology-department-2827959/",
-        "source": "Express",
-        "date": "2026-08-18T19:46:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں 13 لاکھ روپے ڈکیتی کی واردات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827958/robbery-of-rs-13-million-in-karachi-2827958/",
-        "source": "Express",
-        "date": "2026-08-18T19:39:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، نقب زنی کی واردات میں لاکھوں مالیت کے ٹائر چوری کرنے والا ملزم گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827957/karachi-suspect-arrested-for-stealing-tires-worth-millions-in-burglary-2827957/",
-        "source": "Express",
-        "date": "2026-08-18T19:38:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں غیرقانونی بھارتی تارکینِ وطن کے شامت آگئی؛ 4 ہزار 840 ملک بدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827955/us-crake-down-indian-immigrant-2827955/",
-        "source": "Express",
-        "date": "2026-08-18T19:35:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "ترکیہ: پہلوان کی ہزاروں برس قدیم قبر دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827954/excavations-at-the-ancient-city-of-aspendos-2827954/",
-        "source": "Express",
-        "date": "2026-08-18T19:27:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں خطرناک ’ویسٹ نائل وائرس‘ کا پھیلاؤ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827951/a-deadly-brain-swelling-illness-2827951/",
-        "source": "Express",
-        "date": "2026-08-18T18:40:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان ایئرپورٹ اتھارٹی کے شعبہ کمرشل کی سالانہ آمدنی 10 ارب سے تجاوز کر گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827960/pakistan-airport-authority-commercial-dept-annual-revenue-over-10-billion-rupees-2827960/",
-        "source": "Express",
-        "date": "2026-08-18T14:51:00+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران جنگ میں بڑا نقصان؛ امریکا کے دفاعی تیل ذخائر کم ترین سطح پر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827956/iran-war-us-strategic-oil-reservoir-below-44-years-level-2827956/",
-        "source": "Express",
-        "date": "2026-08-18T14:36:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل نے یہودیوں کو مسجد اقصیٰ میں مذہبی کتابچے لے جانے اور عبادت کی اجازت دیدی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827953/jewish-prayer-books-reportedly-allowed-onto-temple-mount-for-first-time-2827953/",
-        "source": "Express",
-        "date": "2026-08-18T13:47:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "غزہ کے حق اور اسرائیل کیخلاف فیصلے کیوں؟ امریکا کی عالمی فوجداری عدالت پر پابندیاں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827952/us-sanctions-international-criminal-court-president-2827952/",
-        "source": "Express",
-        "date": "2026-08-18T13:44:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "نیشنل الیکٹریسٹی پلان 2023-2027 میں ترامیم کی منظوری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
-        "source": "Express",
-        "date": "2026-08-18T13:38:48+00:00",
         "img": ""
       }
     ],
     "sindh": [
       {
+        "title": "آبنائے ہرمز کی صورتحال پر غیر یقینی، عالمی منڈی میں تیل کی قیمتیں مزید بڑھ گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827993/oil-prices-rise-for-fourth-straight-day-amid-hormuz-uncertainty-2827993/",
+        "source": "Express",
+        "date": "2026-08-19T05:06:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کو بڑا دھچکا، کپتان بابر اعظم انگلینڈ کیخلاف پہلے ٹیسٹ سے باہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827991/babar-ruled-out-of-first-test-against-england-salman-agha-to-lead-2827991/",
+        "source": "Express",
+        "date": "2026-08-19T04:57:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کے 5 سالہ قبضے کے دوران انسانی حقوق کی پامالیوں پر عالمی تشویش برقرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827984/global-concern-remains-over-human-rights-abuses-during-the-taliban-regimes-five-year-occupation-2827984/",
+        "source": "Express",
+        "date": "2026-08-19T04:44:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "سنی دیول 56 کروڑ روپے کے قرض میں کیسے ڈوبے؟ اداکار نے حقیقت بتا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827981/how-did-sunny-deol-get-mired-in-a-debt-of-56-crore-the-actor-reveals-the-truth-2827981/",
+        "source": "Express",
+        "date": "2026-08-19T04:31:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "میزائیل حملوں کے بعد متحدہ عرب امارات کا ایران سے تجارت اور مالی لین دین معطل کرنے کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827977/uae-suspends-all-trade-and-financial-transactions-with-iran-2827977/",
+        "source": "Express",
+        "date": "2026-08-19T03:51:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "اشرافیہ نواز بھارتی عدالتیں؛ فوجداری مقدمات کی تاخیر نے مودی کے کھوکھلے دعوے آشکار کردیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827992/elite-leaning-indian-courts-delays-in-criminal-cases-expose-modis-hollow-claims-2827992/",
+        "source": "Express",
+        "date": "2026-08-19T00:03:12+00:00",
+        "img": ""
+      },
+      {
+        "title": "بھارتی پروازوں کے لیے پاکستانی فضائی حدود کی بندش میں 24 ستمبر تک توسیع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827990/pakistan-extends-airspace-closure-for-indian-flights-until-september-24-2827990/",
+        "source": "Express",
+        "date": "2026-08-18T23:56:39+00:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر کے غیور و باشعورعوام کا پاکستان سے والہانہ محبت کا اظہار،بھارت کو منہ توڑ جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827986/the-proud-and-conscious-people-of-azad-kashmir-express-their-immense-love-for-pakistan-giving-a-befitting-reply-to-india-2827986/",
+        "source": "Express",
+        "date": "2026-08-18T23:50:45+00:00",
+        "img": ""
+      },
+      {
+        "title": "شام کے ایئربیس پر حملے کے بعد اسرائیل اور ترکیہ آمنے سامنے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827985/israel-blames-turkey-after-strike-on-syrian-air-base-2827985/",
+        "source": "Express",
+        "date": "2026-08-18T23:45:05+00:00",
+        "img": ""
+      },
+      {
+        "title": "میٹا اور پاکستان کا چھوٹے کاروباروں کے لیے اے آئی تربیتی پروگرام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827982/meta-and-pakistan-launch-ai-training-program-for-small-businesses-2827982/",
+        "source": "Express",
+        "date": "2026-08-18T23:36:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی؛ گھر سے 20 سالہ نوجوان کی گلے میں پھندا لگی لاش برآمد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827980/karachi-20-year-old-youths-body-found-with-noose-around-his-neck-in-house-2827980/",
+        "source": "Express",
+        "date": "2026-08-18T23:25:03+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی؛ مچھر کالونی میں 3 ڈاکو پولیس مقابلے میں ہلاک، فائرنگ کے تبادلے میں اہلکار زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2827979/karachi-3-robbers-killed-in-police-encounter-in-machar-colony-officer-injured-in-exchange-of-fire-2827979/",
         "source": "Express",
         "date": "2026-08-18T23:21:16+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی؛ موٹرسائیکل سواروں کی فائرنگ سے اسٹیٹ ایجنٹ اور وکیل قتل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827978/karachi-estate-agent-and-lawyer-shot-dead-by-motorcycle-riders-2827978/",
+        "source": "Express",
+        "date": "2026-08-18T23:21:09+00:00",
         "img": ""
       },
       {
@@ -1560,107 +1656,107 @@
         "url": "https://www.express.pk/story/2827962/gilgit-baltistan-cm-says-cutting-unnecessary-expenditures-across-all-departments-will-save-rs2-billion-2827962/",
         "source": "Express",
         "date": "2026-08-18T20:07:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "میر رضا علی کی المناک موت، تفتیشی ٹیم قاتلوں کا سراغ لگانے میں سرگرداں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827961/mir-raza-ali-ki-alamnaki-maut-tafteeshi-team-qatilon-ka-suraagh-lagane-mein-sargardan-2827961/",
-        "source": "Express",
-        "date": "2026-08-18T19:56:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "فون سے اسکرین شاٹ محفوظ کرنا یادداشت کمزور کر سکتا ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827959/binghamton-universitys-psychology-department-2827959/",
-        "source": "Express",
-        "date": "2026-08-18T19:46:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں 13 لاکھ روپے ڈکیتی کی واردات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827958/robbery-of-rs-13-million-in-karachi-2827958/",
-        "source": "Express",
-        "date": "2026-08-18T19:39:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، نقب زنی کی واردات میں لاکھوں مالیت کے ٹائر چوری کرنے والا ملزم گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827957/karachi-suspect-arrested-for-stealing-tires-worth-millions-in-burglary-2827957/",
-        "source": "Express",
-        "date": "2026-08-18T19:38:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں غیرقانونی بھارتی تارکینِ وطن کے شامت آگئی؛ 4 ہزار 840 ملک بدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827955/us-crake-down-indian-immigrant-2827955/",
-        "source": "Express",
-        "date": "2026-08-18T19:35:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "ترکیہ: پہلوان کی ہزاروں برس قدیم قبر دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827954/excavations-at-the-ancient-city-of-aspendos-2827954/",
-        "source": "Express",
-        "date": "2026-08-18T19:27:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں خطرناک ’ویسٹ نائل وائرس‘ کا پھیلاؤ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827951/a-deadly-brain-swelling-illness-2827951/",
-        "source": "Express",
-        "date": "2026-08-18T18:40:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان ایئرپورٹ اتھارٹی کے شعبہ کمرشل کی سالانہ آمدنی 10 ارب سے تجاوز کر گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827960/pakistan-airport-authority-commercial-dept-annual-revenue-over-10-billion-rupees-2827960/",
-        "source": "Express",
-        "date": "2026-08-18T14:51:00+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران جنگ میں بڑا نقصان؛ امریکا کے دفاعی تیل ذخائر کم ترین سطح پر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827956/iran-war-us-strategic-oil-reservoir-below-44-years-level-2827956/",
-        "source": "Express",
-        "date": "2026-08-18T14:36:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل نے یہودیوں کو مسجد اقصیٰ میں مذہبی کتابچے لے جانے اور عبادت کی اجازت دیدی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827953/jewish-prayer-books-reportedly-allowed-onto-temple-mount-for-first-time-2827953/",
-        "source": "Express",
-        "date": "2026-08-18T13:47:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "غزہ کے حق اور اسرائیل کیخلاف فیصلے کیوں؟ امریکا کی عالمی فوجداری عدالت پر پابندیاں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827952/us-sanctions-international-criminal-court-president-2827952/",
-        "source": "Express",
-        "date": "2026-08-18T13:44:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "نیشنل الیکٹریسٹی پلان 2023-2027 میں ترامیم کی منظوری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
-        "source": "Express",
-        "date": "2026-08-18T13:38:48+00:00",
         "img": ""
       }
     ],
     "baloch": [
       {
+        "title": "OpenAI slows advanced AI development after cyberattack",
+        "summary": "OpenAI slows advanced AI development after cyberattack",
+        "url": "https://arynews.tv/openai-slows-advanced-ai-development-cyberattack",
+        "source": "ARY News",
+        "date": "2026-08-19T10:21:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Open-AI-CEO.jpg"
+      },
+      {
+        "title": "Hormuz traffic slows as uncertainty over waterway persists",
+        "summary": "Hormuz traffic slows as uncertainty over waterway persists",
+        "url": "https://arynews.tv/hormuz-traffic-slows-as-uncertainty-over-waterway-persists",
+        "source": "ARY News",
+        "date": "2026-08-19T10:14:23+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Strait-of-Hormz.jpg"
+      },
+      {
+        "title": "Nicola Coughlan takes step back from ‘Bridgerton’ season 5",
+        "summary": "Nicola Coughlan takes step back from ‘Bridgerton’ season 5",
+        "url": "https://arynews.tv/nicola-coughlan-takes-step-back-from-bridgerton-season-5",
+        "source": "ARY News",
+        "date": "2026-08-19T10:13:45+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/nicola-1.jpg"
+      },
+      {
+        "title": "Balmoral welcomes Zara, Mike and Phillips family",
+        "summary": "Balmoral welcomes Zara, Mike and Phillips family",
+        "url": "https://arynews.tv/balmoral-welcomes-zara-mike-and-phillips-family",
+        "source": "ARY News",
+        "date": "2026-08-19T10:11:25+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Balmoral-welcomes-Zara.jpg"
+      },
+      {
+        "title": "‘American Doctor’ shows Israeli brutality in Gaza",
+        "summary": "‘American Doctor’ shows Israeli brutality in Gaza",
+        "url": "https://arynews.tv/american-doctor-shows-israeli-brutality-in-gaza",
+        "source": "ARY News",
+        "date": "2026-08-19T10:08:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/American-Doctor.jpg"
+      },
+      {
+        "title": "US primaries test Democrat comeback hopes in Trump stronghold",
+        "summary": "US primaries test Democrat comeback hopes in Trump stronghold",
+        "url": "https://arynews.tv/us-primaries-test-democrat-comeback-hopes-trump-stronghold",
+        "source": "ARY News",
+        "date": "2026-08-19T10:04:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Donald-Trump.jpg"
+      },
+      {
+        "title": "At least nine killed in hotel fire in India’s Kolkata",
+        "summary": "At least nine killed in hotel fire in India’s Kolkata",
+        "url": "https://arynews.tv/at-least-nine-killed-in-hotel-fire-in-indias-kolkata",
+        "source": "ARY News",
+        "date": "2026-08-19T10:01:54+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Kolkata.jpg"
+      },
+      {
+        "title": "Pokémon, Polaroid announce official Instant Camera collaboration",
+        "summary": "Pokémon, Polaroid announce official Instant Camera collaboration",
+        "url": "https://arynews.tv/pokemon-polaroid-announce-official-instant-camera-collaboration",
+        "source": "ARY News",
+        "date": "2026-08-19T09:57:19+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Polaroid.jpg"
+      },
+      {
+        "title": "Justin Timberlake gives peeks into summer with sons Phineas and Silas",
+        "summary": "Justin Timberlake gives peeks into summer with sons Phineas and Silas",
+        "url": "https://arynews.tv/justin-timberlake-gives-peeks-into-summer-with-sons",
+        "source": "ARY News",
+        "date": "2026-08-19T09:53:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/JUSTIN.jpg"
+      },
+      {
+        "title": "Oil extends climb on prolonged Hormuz export uncertainty",
+        "summary": "Oil extends climb on prolonged Hormuz export uncertainty",
+        "url": "https://arynews.tv/oil-extends-climb-on-prolonged-hormuz-export-uncertainty",
+        "source": "ARY News",
+        "date": "2026-08-19T09:52:07+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/strait-of-hormz.jpg"
+      },
+      {
+        "title": "King Charles issues major update amid Diana memoir storm",
+        "summary": "King Charles issues major update amid Diana memoir storm",
+        "url": "https://arynews.tv/king-charles-issues-major-update-amid-diana-memoir-storm",
+        "source": "ARY News",
+        "date": "2026-08-19T09:49:53+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Lady-Diana.jpg"
+      },
+      {
+        "title": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+        "summary": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+        "url": "https://arynews.tv/humanoid-maker-unitree-surges-600-shanghai-debut",
+        "source": "ARY News",
+        "date": "2026-08-19T09:44:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/04/China-humanoid-robot.jpg"
+      },
+      {
         "title": "Toy Story 5: Digital platform release date announced",
         "summary": "Toy Story 5: Digital platform release date announced",
         "url": "https://arynews.tv/toy-story-5-digital-platform-release-date-announced",
@@ -1683,6 +1779,46 @@
         "source": "ARY News",
         "date": "2026-08-19T08:41:18+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ariana-1.jpg"
+      },
+      {
+        "title": "آبنائے ہرمز کی صورتحال پر غیر یقینی، عالمی منڈی میں تیل کی قیمتیں مزید بڑھ گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827993/oil-prices-rise-for-fourth-straight-day-amid-hormuz-uncertainty-2827993/",
+        "source": "Express",
+        "date": "2026-08-19T05:06:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کو بڑا دھچکا، کپتان بابر اعظم انگلینڈ کیخلاف پہلے ٹیسٹ سے باہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827991/babar-ruled-out-of-first-test-against-england-salman-agha-to-lead-2827991/",
+        "source": "Express",
+        "date": "2026-08-19T04:57:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کے 5 سالہ قبضے کے دوران انسانی حقوق کی پامالیوں پر عالمی تشویش برقرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827984/global-concern-remains-over-human-rights-abuses-during-the-taliban-regimes-five-year-occupation-2827984/",
+        "source": "Express",
+        "date": "2026-08-19T04:44:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "سنی دیول 56 کروڑ روپے کے قرض میں کیسے ڈوبے؟ اداکار نے حقیقت بتا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827981/how-did-sunny-deol-get-mired-in-a-debt-of-56-crore-the-actor-reveals-the-truth-2827981/",
+        "source": "Express",
+        "date": "2026-08-19T04:31:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "میزائیل حملوں کے بعد متحدہ عرب امارات کا ایران سے تجارت اور مالی لین دین معطل کرنے کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827977/uae-suspends-all-trade-and-financial-transactions-with-iran-2827977/",
+        "source": "Express",
+        "date": "2026-08-19T03:51:09+05:00",
+        "img": ""
       },
       {
         "title": "US SEC proposes long-awaited crypto rules",
@@ -1765,60 +1901,52 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-82.jpg"
       },
       {
-        "title": "UK grocery inflation eases further, says Worldpanel",
-        "summary": "UK grocery inflation eases further, says Worldpanel",
-        "url": "https://arynews.tv/uk-grocery-inflation-eases-further-says-worldpanel",
-        "source": "ARY News",
-        "date": "2026-08-19T00:06:36+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/UK-infaltion.jpg"
+        "title": "اشرافیہ نواز بھارتی عدالتیں؛ فوجداری مقدمات کی تاخیر نے مودی کے کھوکھلے دعوے آشکار کردیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827992/elite-leaning-indian-courts-delays-in-criminal-cases-expose-modis-hollow-claims-2827992/",
+        "source": "Express",
+        "date": "2026-08-19T00:03:12+00:00",
+        "img": ""
       },
       {
-        "title": "Sebastian Stan addresses The Batman Part II casting rumors and Harvey Dent speculation",
-        "summary": "Sebastian Stan addresses The Batman Part II casting rumors and Harvey Dent speculation",
-        "url": "https://arynews.tv/sebastian-stan-addresses-the-batman-part-ii-casting-rumors-and-harvey-dent-speculation",
-        "source": "ARY News",
-        "date": "2026-08-18T23:58:41+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Sebastian-Stan-and-Batman.jpg"
+        "title": "بھارتی پروازوں کے لیے پاکستانی فضائی حدود کی بندش میں 24 ستمبر تک توسیع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827990/pakistan-extends-airspace-closure-for-indian-flights-until-september-24-2827990/",
+        "source": "Express",
+        "date": "2026-08-18T23:56:39+00:00",
+        "img": ""
       },
       {
-        "title": "Paramount+ gives major update on Landman season 3",
-        "summary": "Paramount+ gives major update on Landman season 3",
-        "url": "https://arynews.tv/paramount-gives-major-update-on-landman-season-3",
-        "source": "ARY News",
-        "date": "2026-08-18T23:58:33+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-84.jpg"
+        "title": "آزاد کشمیر کے غیور و باشعورعوام کا پاکستان سے والہانہ محبت کا اظہار،بھارت کو منہ توڑ جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827986/the-proud-and-conscious-people-of-azad-kashmir-express-their-immense-love-for-pakistan-giving-a-befitting-reply-to-india-2827986/",
+        "source": "Express",
+        "date": "2026-08-18T23:50:45+00:00",
+        "img": ""
       },
       {
-        "title": "Apple changes fees for alternative app stores in EU",
-        "summary": "Apple changes fees for alternative app stores in EU",
-        "url": "https://arynews.tv/apple-changes-fees-for-alternative-app-stores-in-eu",
-        "source": "ARY News",
-        "date": "2026-08-18T23:57:49+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-81.jpg"
+        "title": "شام کے ایئربیس پر حملے کے بعد اسرائیل اور ترکیہ آمنے سامنے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827985/israel-blames-turkey-after-strike-on-syrian-air-base-2827985/",
+        "source": "Express",
+        "date": "2026-08-18T23:45:05+00:00",
+        "img": ""
       },
       {
-        "title": "Karachi: Woman who married by choice killed, husband critical",
-        "summary": "Karachi: Woman who married by choice killed, husband critical",
-        "url": "https://arynews.tv/karachi-woman-who-married-by-choice-killed-husband-critical",
-        "source": "ARY News",
-        "date": "2026-08-18T23:53:35+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Karachi-2.jpg"
+        "title": "میٹا اور پاکستان کا چھوٹے کاروباروں کے لیے اے آئی تربیتی پروگرام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827982/meta-and-pakistan-launch-ai-training-program-for-small-businesses-2827982/",
+        "source": "Express",
+        "date": "2026-08-18T23:36:08+00:00",
+        "img": ""
       },
       {
-        "title": "YouTube view metrics overhaul sparks creator backlash over clickbait",
-        "summary": "YouTube view metrics overhaul sparks creator backlash over clickbait",
-        "url": "https://arynews.tv/youtube-view-metrics-overhaul-sparks-creator-backlash-over-clickbait",
-        "source": "ARY News",
-        "date": "2026-08-18T23:29:21+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-80.jpg"
-      },
-      {
-        "title": "Petrol price in Pakistan for August 19, 2026",
-        "summary": "Petrol price in Pakistan for August 19, 2026",
-        "url": "https://arynews.tv/petrol-price-in-pakistan-for-august-19-2026",
-        "source": "ARY News",
-        "date": "2026-08-18T23:28:50+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-3.jpg"
+        "title": "کراچی؛ گھر سے 20 سالہ نوجوان کی گلے میں پھندا لگی لاش برآمد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827980/karachi-20-year-old-youths-body-found-with-noose-around-his-neck-in-house-2827980/",
+        "source": "Express",
+        "date": "2026-08-18T23:25:03+00:00",
+        "img": ""
       },
       {
         "title": "کراچی؛ مچھر کالونی میں 3 ڈاکو پولیس مقابلے میں ہلاک، فائرنگ کے تبادلے میں اہلکار زخمی",
@@ -1829,28 +1957,12 @@
         "img": ""
       },
       {
-        "title": "PTI’s desire for NRO for founder reaching new heights, says Khawaja Asif",
-        "summary": "PTI’s desire for NRO for founder reaching new heights, says Khawaja Asif",
-        "url": "https://arynews.tv/pti-desire-for-nro-for-founder-reaching-new-heights",
-        "source": "ARY News",
-        "date": "2026-08-18T23:16:43+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawaja-Asif.jpg"
-      },
-      {
-        "title": "Amy Schumer’s latest movie gives divorce a fresh twist",
-        "summary": "Amy Schumer’s latest movie gives divorce a fresh twist",
-        "url": "https://arynews.tv/amy-schumers-latest-movie-gives-divorce-a-fresh-twist",
-        "source": "ARY News",
-        "date": "2026-08-18T22:58:39+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-83.jpg"
-      },
-      {
-        "title": "Pakistani youths tortured in Iraqi detention centres after human trafficking",
-        "summary": "Pakistani youths tortured in Iraqi detention centres after human trafficking",
-        "url": "https://arynews.tv/pakistani-youths-tortured-in-iraqi-detention-centres",
-        "source": "ARY News",
-        "date": "2026-08-18T22:36:43+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Pakistani-Youth.jpg"
+        "title": "کراچی؛ موٹرسائیکل سواروں کی فائرنگ سے اسٹیٹ ایجنٹ اور وکیل قتل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827978/karachi-estate-agent-and-lawyer-shot-dead-by-motorcycle-riders-2827978/",
+        "source": "Express",
+        "date": "2026-08-18T23:21:09+00:00",
+        "img": ""
       },
       {
         "title": "جڑواں شہروں میں شدید بارش، نالہ لئی پھر بپھر گیا، شہریوں کیلیے انخلا کا الرٹ",
@@ -1867,22 +1979,6 @@
         "source": "Express",
         "date": "2026-08-18T22:35:45+00:00",
         "img": ""
-      },
-      {
-        "title": "Kate Middleton’s brother shows warm Royal support as Princess Eugenie welcomes daughter",
-        "summary": "Kate Middleton’s brother shows warm Royal support as Princess Eugenie welcomes daughter",
-        "url": "https://arynews.tv/kate-middletons-brother-shows-warm-royal-support-as-princess-eugenie-welcomes-daughter",
-        "source": "ARY News",
-        "date": "2026-08-18T21:48:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Princess-Eugenie-daughter-name.jpg"
-      },
-      {
-        "title": "PTI founder should be examined at govt hospital, says Azam Nazeer Tarar",
-        "summary": "PTI founder should be examined at govt hospital, says Azam Nazeer Tarar",
-        "url": "https://arynews.tv/imran-khan-should-be-examined-at-govt-hospital",
-        "source": "ARY News",
-        "date": "2026-08-18T21:41:50+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Azam-Nazeer-Tarar.jpg"
       },
       {
         "title": "اپنے حصّے کی شمع",
@@ -1962,107 +2058,107 @@
         "url": "https://www.express.pk/story/2827962/gilgit-baltistan-cm-says-cutting-unnecessary-expenditures-across-all-departments-will-save-rs2-billion-2827962/",
         "source": "Express",
         "date": "2026-08-18T20:07:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "میر رضا علی کی المناک موت، تفتیشی ٹیم قاتلوں کا سراغ لگانے میں سرگرداں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827961/mir-raza-ali-ki-alamnaki-maut-tafteeshi-team-qatilon-ka-suraagh-lagane-mein-sargardan-2827961/",
-        "source": "Express",
-        "date": "2026-08-18T19:56:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "فون سے اسکرین شاٹ محفوظ کرنا یادداشت کمزور کر سکتا ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827959/binghamton-universitys-psychology-department-2827959/",
-        "source": "Express",
-        "date": "2026-08-18T19:46:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں 13 لاکھ روپے ڈکیتی کی واردات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827958/robbery-of-rs-13-million-in-karachi-2827958/",
-        "source": "Express",
-        "date": "2026-08-18T19:39:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، نقب زنی کی واردات میں لاکھوں مالیت کے ٹائر چوری کرنے والا ملزم گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827957/karachi-suspect-arrested-for-stealing-tires-worth-millions-in-burglary-2827957/",
-        "source": "Express",
-        "date": "2026-08-18T19:38:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں غیرقانونی بھارتی تارکینِ وطن کے شامت آگئی؛ 4 ہزار 840 ملک بدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827955/us-crake-down-indian-immigrant-2827955/",
-        "source": "Express",
-        "date": "2026-08-18T19:35:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "ترکیہ: پہلوان کی ہزاروں برس قدیم قبر دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827954/excavations-at-the-ancient-city-of-aspendos-2827954/",
-        "source": "Express",
-        "date": "2026-08-18T19:27:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں خطرناک ’ویسٹ نائل وائرس‘ کا پھیلاؤ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827951/a-deadly-brain-swelling-illness-2827951/",
-        "source": "Express",
-        "date": "2026-08-18T18:40:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان ایئرپورٹ اتھارٹی کے شعبہ کمرشل کی سالانہ آمدنی 10 ارب سے تجاوز کر گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827960/pakistan-airport-authority-commercial-dept-annual-revenue-over-10-billion-rupees-2827960/",
-        "source": "Express",
-        "date": "2026-08-18T14:51:00+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران جنگ میں بڑا نقصان؛ امریکا کے دفاعی تیل ذخائر کم ترین سطح پر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827956/iran-war-us-strategic-oil-reservoir-below-44-years-level-2827956/",
-        "source": "Express",
-        "date": "2026-08-18T14:36:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل نے یہودیوں کو مسجد اقصیٰ میں مذہبی کتابچے لے جانے اور عبادت کی اجازت دیدی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827953/jewish-prayer-books-reportedly-allowed-onto-temple-mount-for-first-time-2827953/",
-        "source": "Express",
-        "date": "2026-08-18T13:47:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "غزہ کے حق اور اسرائیل کیخلاف فیصلے کیوں؟ امریکا کی عالمی فوجداری عدالت پر پابندیاں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827952/us-sanctions-international-criminal-court-president-2827952/",
-        "source": "Express",
-        "date": "2026-08-18T13:44:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "نیشنل الیکٹریسٹی پلان 2023-2027 میں ترامیم کی منظوری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
-        "source": "Express",
-        "date": "2026-08-18T13:38:48+00:00",
         "img": ""
       }
     ],
     "education": [
       {
+        "title": "OpenAI slows advanced AI development after cyberattack",
+        "summary": "OpenAI slows advanced AI development after cyberattack",
+        "url": "https://arynews.tv/openai-slows-advanced-ai-development-cyberattack",
+        "source": "ARY News",
+        "date": "2026-08-19T10:21:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Open-AI-CEO.jpg"
+      },
+      {
+        "title": "Hormuz traffic slows as uncertainty over waterway persists",
+        "summary": "Hormuz traffic slows as uncertainty over waterway persists",
+        "url": "https://arynews.tv/hormuz-traffic-slows-as-uncertainty-over-waterway-persists",
+        "source": "ARY News",
+        "date": "2026-08-19T10:14:23+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Strait-of-Hormz.jpg"
+      },
+      {
+        "title": "Nicola Coughlan takes step back from ‘Bridgerton’ season 5",
+        "summary": "Nicola Coughlan takes step back from ‘Bridgerton’ season 5",
+        "url": "https://arynews.tv/nicola-coughlan-takes-step-back-from-bridgerton-season-5",
+        "source": "ARY News",
+        "date": "2026-08-19T10:13:45+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/nicola-1.jpg"
+      },
+      {
+        "title": "Balmoral welcomes Zara, Mike and Phillips family",
+        "summary": "Balmoral welcomes Zara, Mike and Phillips family",
+        "url": "https://arynews.tv/balmoral-welcomes-zara-mike-and-phillips-family",
+        "source": "ARY News",
+        "date": "2026-08-19T10:11:25+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Balmoral-welcomes-Zara.jpg"
+      },
+      {
+        "title": "‘American Doctor’ shows Israeli brutality in Gaza",
+        "summary": "‘American Doctor’ shows Israeli brutality in Gaza",
+        "url": "https://arynews.tv/american-doctor-shows-israeli-brutality-in-gaza",
+        "source": "ARY News",
+        "date": "2026-08-19T10:08:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/American-Doctor.jpg"
+      },
+      {
+        "title": "US primaries test Democrat comeback hopes in Trump stronghold",
+        "summary": "US primaries test Democrat comeback hopes in Trump stronghold",
+        "url": "https://arynews.tv/us-primaries-test-democrat-comeback-hopes-trump-stronghold",
+        "source": "ARY News",
+        "date": "2026-08-19T10:04:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Donald-Trump.jpg"
+      },
+      {
+        "title": "At least nine killed in hotel fire in India’s Kolkata",
+        "summary": "At least nine killed in hotel fire in India’s Kolkata",
+        "url": "https://arynews.tv/at-least-nine-killed-in-hotel-fire-in-indias-kolkata",
+        "source": "ARY News",
+        "date": "2026-08-19T10:01:54+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Kolkata.jpg"
+      },
+      {
+        "title": "Pokémon, Polaroid announce official Instant Camera collaboration",
+        "summary": "Pokémon, Polaroid announce official Instant Camera collaboration",
+        "url": "https://arynews.tv/pokemon-polaroid-announce-official-instant-camera-collaboration",
+        "source": "ARY News",
+        "date": "2026-08-19T09:57:19+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Polaroid.jpg"
+      },
+      {
+        "title": "Justin Timberlake gives peeks into summer with sons Phineas and Silas",
+        "summary": "Justin Timberlake gives peeks into summer with sons Phineas and Silas",
+        "url": "https://arynews.tv/justin-timberlake-gives-peeks-into-summer-with-sons",
+        "source": "ARY News",
+        "date": "2026-08-19T09:53:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/JUSTIN.jpg"
+      },
+      {
+        "title": "Oil extends climb on prolonged Hormuz export uncertainty",
+        "summary": "Oil extends climb on prolonged Hormuz export uncertainty",
+        "url": "https://arynews.tv/oil-extends-climb-on-prolonged-hormuz-export-uncertainty",
+        "source": "ARY News",
+        "date": "2026-08-19T09:52:07+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/strait-of-hormz.jpg"
+      },
+      {
+        "title": "King Charles issues major update amid Diana memoir storm",
+        "summary": "King Charles issues major update amid Diana memoir storm",
+        "url": "https://arynews.tv/king-charles-issues-major-update-amid-diana-memoir-storm",
+        "source": "ARY News",
+        "date": "2026-08-19T09:49:53+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Lady-Diana.jpg"
+      },
+      {
+        "title": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+        "summary": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+        "url": "https://arynews.tv/humanoid-maker-unitree-surges-600-shanghai-debut",
+        "source": "ARY News",
+        "date": "2026-08-19T09:44:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/04/China-humanoid-robot.jpg"
+      },
+      {
         "title": "Toy Story 5: Digital platform release date announced",
         "summary": "Toy Story 5: Digital platform release date announced",
         "url": "https://arynews.tv/toy-story-5-digital-platform-release-date-announced",
@@ -2085,6 +2181,46 @@
         "source": "ARY News",
         "date": "2026-08-19T08:41:18+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ariana-1.jpg"
+      },
+      {
+        "title": "آبنائے ہرمز کی صورتحال پر غیر یقینی، عالمی منڈی میں تیل کی قیمتیں مزید بڑھ گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827993/oil-prices-rise-for-fourth-straight-day-amid-hormuz-uncertainty-2827993/",
+        "source": "Express",
+        "date": "2026-08-19T05:06:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کو بڑا دھچکا، کپتان بابر اعظم انگلینڈ کیخلاف پہلے ٹیسٹ سے باہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827991/babar-ruled-out-of-first-test-against-england-salman-agha-to-lead-2827991/",
+        "source": "Express",
+        "date": "2026-08-19T04:57:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کے 5 سالہ قبضے کے دوران انسانی حقوق کی پامالیوں پر عالمی تشویش برقرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827984/global-concern-remains-over-human-rights-abuses-during-the-taliban-regimes-five-year-occupation-2827984/",
+        "source": "Express",
+        "date": "2026-08-19T04:44:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "سنی دیول 56 کروڑ روپے کے قرض میں کیسے ڈوبے؟ اداکار نے حقیقت بتا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827981/how-did-sunny-deol-get-mired-in-a-debt-of-56-crore-the-actor-reveals-the-truth-2827981/",
+        "source": "Express",
+        "date": "2026-08-19T04:31:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "میزائیل حملوں کے بعد متحدہ عرب امارات کا ایران سے تجارت اور مالی لین دین معطل کرنے کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827977/uae-suspends-all-trade-and-financial-transactions-with-iran-2827977/",
+        "source": "Express",
+        "date": "2026-08-19T03:51:09+05:00",
+        "img": ""
       },
       {
         "title": "US SEC proposes long-awaited crypto rules",
@@ -2167,60 +2303,52 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-82.jpg"
       },
       {
-        "title": "UK grocery inflation eases further, says Worldpanel",
-        "summary": "UK grocery inflation eases further, says Worldpanel",
-        "url": "https://arynews.tv/uk-grocery-inflation-eases-further-says-worldpanel",
-        "source": "ARY News",
-        "date": "2026-08-19T00:06:36+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/UK-infaltion.jpg"
+        "title": "اشرافیہ نواز بھارتی عدالتیں؛ فوجداری مقدمات کی تاخیر نے مودی کے کھوکھلے دعوے آشکار کردیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827992/elite-leaning-indian-courts-delays-in-criminal-cases-expose-modis-hollow-claims-2827992/",
+        "source": "Express",
+        "date": "2026-08-19T00:03:12+00:00",
+        "img": ""
       },
       {
-        "title": "Sebastian Stan addresses The Batman Part II casting rumors and Harvey Dent speculation",
-        "summary": "Sebastian Stan addresses The Batman Part II casting rumors and Harvey Dent speculation",
-        "url": "https://arynews.tv/sebastian-stan-addresses-the-batman-part-ii-casting-rumors-and-harvey-dent-speculation",
-        "source": "ARY News",
-        "date": "2026-08-18T23:58:41+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Sebastian-Stan-and-Batman.jpg"
+        "title": "بھارتی پروازوں کے لیے پاکستانی فضائی حدود کی بندش میں 24 ستمبر تک توسیع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827990/pakistan-extends-airspace-closure-for-indian-flights-until-september-24-2827990/",
+        "source": "Express",
+        "date": "2026-08-18T23:56:39+00:00",
+        "img": ""
       },
       {
-        "title": "Paramount+ gives major update on Landman season 3",
-        "summary": "Paramount+ gives major update on Landman season 3",
-        "url": "https://arynews.tv/paramount-gives-major-update-on-landman-season-3",
-        "source": "ARY News",
-        "date": "2026-08-18T23:58:33+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-84.jpg"
+        "title": "آزاد کشمیر کے غیور و باشعورعوام کا پاکستان سے والہانہ محبت کا اظہار،بھارت کو منہ توڑ جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827986/the-proud-and-conscious-people-of-azad-kashmir-express-their-immense-love-for-pakistan-giving-a-befitting-reply-to-india-2827986/",
+        "source": "Express",
+        "date": "2026-08-18T23:50:45+00:00",
+        "img": ""
       },
       {
-        "title": "Apple changes fees for alternative app stores in EU",
-        "summary": "Apple changes fees for alternative app stores in EU",
-        "url": "https://arynews.tv/apple-changes-fees-for-alternative-app-stores-in-eu",
-        "source": "ARY News",
-        "date": "2026-08-18T23:57:49+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-81.jpg"
+        "title": "شام کے ایئربیس پر حملے کے بعد اسرائیل اور ترکیہ آمنے سامنے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827985/israel-blames-turkey-after-strike-on-syrian-air-base-2827985/",
+        "source": "Express",
+        "date": "2026-08-18T23:45:05+00:00",
+        "img": ""
       },
       {
-        "title": "Karachi: Woman who married by choice killed, husband critical",
-        "summary": "Karachi: Woman who married by choice killed, husband critical",
-        "url": "https://arynews.tv/karachi-woman-who-married-by-choice-killed-husband-critical",
-        "source": "ARY News",
-        "date": "2026-08-18T23:53:35+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Karachi-2.jpg"
+        "title": "میٹا اور پاکستان کا چھوٹے کاروباروں کے لیے اے آئی تربیتی پروگرام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827982/meta-and-pakistan-launch-ai-training-program-for-small-businesses-2827982/",
+        "source": "Express",
+        "date": "2026-08-18T23:36:08+00:00",
+        "img": ""
       },
       {
-        "title": "YouTube view metrics overhaul sparks creator backlash over clickbait",
-        "summary": "YouTube view metrics overhaul sparks creator backlash over clickbait",
-        "url": "https://arynews.tv/youtube-view-metrics-overhaul-sparks-creator-backlash-over-clickbait",
-        "source": "ARY News",
-        "date": "2026-08-18T23:29:21+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-80.jpg"
-      },
-      {
-        "title": "Petrol price in Pakistan for August 19, 2026",
-        "summary": "Petrol price in Pakistan for August 19, 2026",
-        "url": "https://arynews.tv/petrol-price-in-pakistan-for-august-19-2026",
-        "source": "ARY News",
-        "date": "2026-08-18T23:28:50+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-3.jpg"
+        "title": "کراچی؛ گھر سے 20 سالہ نوجوان کی گلے میں پھندا لگی لاش برآمد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827980/karachi-20-year-old-youths-body-found-with-noose-around-his-neck-in-house-2827980/",
+        "source": "Express",
+        "date": "2026-08-18T23:25:03+00:00",
+        "img": ""
       },
       {
         "title": "کراچی؛ مچھر کالونی میں 3 ڈاکو پولیس مقابلے میں ہلاک، فائرنگ کے تبادلے میں اہلکار زخمی",
@@ -2231,28 +2359,12 @@
         "img": ""
       },
       {
-        "title": "PTI’s desire for NRO for founder reaching new heights, says Khawaja Asif",
-        "summary": "PTI’s desire for NRO for founder reaching new heights, says Khawaja Asif",
-        "url": "https://arynews.tv/pti-desire-for-nro-for-founder-reaching-new-heights",
-        "source": "ARY News",
-        "date": "2026-08-18T23:16:43+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawaja-Asif.jpg"
-      },
-      {
-        "title": "Amy Schumer’s latest movie gives divorce a fresh twist",
-        "summary": "Amy Schumer’s latest movie gives divorce a fresh twist",
-        "url": "https://arynews.tv/amy-schumers-latest-movie-gives-divorce-a-fresh-twist",
-        "source": "ARY News",
-        "date": "2026-08-18T22:58:39+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-83.jpg"
-      },
-      {
-        "title": "Pakistani youths tortured in Iraqi detention centres after human trafficking",
-        "summary": "Pakistani youths tortured in Iraqi detention centres after human trafficking",
-        "url": "https://arynews.tv/pakistani-youths-tortured-in-iraqi-detention-centres",
-        "source": "ARY News",
-        "date": "2026-08-18T22:36:43+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Pakistani-Youth.jpg"
+        "title": "کراچی؛ موٹرسائیکل سواروں کی فائرنگ سے اسٹیٹ ایجنٹ اور وکیل قتل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827978/karachi-estate-agent-and-lawyer-shot-dead-by-motorcycle-riders-2827978/",
+        "source": "Express",
+        "date": "2026-08-18T23:21:09+00:00",
+        "img": ""
       },
       {
         "title": "جڑواں شہروں میں شدید بارش، نالہ لئی پھر بپھر گیا، شہریوں کیلیے انخلا کا الرٹ",
@@ -2269,22 +2381,6 @@
         "source": "Express",
         "date": "2026-08-18T22:35:45+00:00",
         "img": ""
-      },
-      {
-        "title": "Kate Middleton’s brother shows warm Royal support as Princess Eugenie welcomes daughter",
-        "summary": "Kate Middleton’s brother shows warm Royal support as Princess Eugenie welcomes daughter",
-        "url": "https://arynews.tv/kate-middletons-brother-shows-warm-royal-support-as-princess-eugenie-welcomes-daughter",
-        "source": "ARY News",
-        "date": "2026-08-18T21:48:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Princess-Eugenie-daughter-name.jpg"
-      },
-      {
-        "title": "PTI founder should be examined at govt hospital, says Azam Nazeer Tarar",
-        "summary": "PTI founder should be examined at govt hospital, says Azam Nazeer Tarar",
-        "url": "https://arynews.tv/imran-khan-should-be-examined-at-govt-hospital",
-        "source": "ARY News",
-        "date": "2026-08-18T21:41:50+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Azam-Nazeer-Tarar.jpg"
       },
       {
         "title": "اپنے حصّے کی شمع",
@@ -2364,107 +2460,107 @@
         "url": "https://www.express.pk/story/2827962/gilgit-baltistan-cm-says-cutting-unnecessary-expenditures-across-all-departments-will-save-rs2-billion-2827962/",
         "source": "Express",
         "date": "2026-08-18T20:07:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "میر رضا علی کی المناک موت، تفتیشی ٹیم قاتلوں کا سراغ لگانے میں سرگرداں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827961/mir-raza-ali-ki-alamnaki-maut-tafteeshi-team-qatilon-ka-suraagh-lagane-mein-sargardan-2827961/",
-        "source": "Express",
-        "date": "2026-08-18T19:56:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "فون سے اسکرین شاٹ محفوظ کرنا یادداشت کمزور کر سکتا ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827959/binghamton-universitys-psychology-department-2827959/",
-        "source": "Express",
-        "date": "2026-08-18T19:46:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں 13 لاکھ روپے ڈکیتی کی واردات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827958/robbery-of-rs-13-million-in-karachi-2827958/",
-        "source": "Express",
-        "date": "2026-08-18T19:39:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، نقب زنی کی واردات میں لاکھوں مالیت کے ٹائر چوری کرنے والا ملزم گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827957/karachi-suspect-arrested-for-stealing-tires-worth-millions-in-burglary-2827957/",
-        "source": "Express",
-        "date": "2026-08-18T19:38:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں غیرقانونی بھارتی تارکینِ وطن کے شامت آگئی؛ 4 ہزار 840 ملک بدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827955/us-crake-down-indian-immigrant-2827955/",
-        "source": "Express",
-        "date": "2026-08-18T19:35:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "ترکیہ: پہلوان کی ہزاروں برس قدیم قبر دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827954/excavations-at-the-ancient-city-of-aspendos-2827954/",
-        "source": "Express",
-        "date": "2026-08-18T19:27:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں خطرناک ’ویسٹ نائل وائرس‘ کا پھیلاؤ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827951/a-deadly-brain-swelling-illness-2827951/",
-        "source": "Express",
-        "date": "2026-08-18T18:40:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان ایئرپورٹ اتھارٹی کے شعبہ کمرشل کی سالانہ آمدنی 10 ارب سے تجاوز کر گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827960/pakistan-airport-authority-commercial-dept-annual-revenue-over-10-billion-rupees-2827960/",
-        "source": "Express",
-        "date": "2026-08-18T14:51:00+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران جنگ میں بڑا نقصان؛ امریکا کے دفاعی تیل ذخائر کم ترین سطح پر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827956/iran-war-us-strategic-oil-reservoir-below-44-years-level-2827956/",
-        "source": "Express",
-        "date": "2026-08-18T14:36:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل نے یہودیوں کو مسجد اقصیٰ میں مذہبی کتابچے لے جانے اور عبادت کی اجازت دیدی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827953/jewish-prayer-books-reportedly-allowed-onto-temple-mount-for-first-time-2827953/",
-        "source": "Express",
-        "date": "2026-08-18T13:47:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "غزہ کے حق اور اسرائیل کیخلاف فیصلے کیوں؟ امریکا کی عالمی فوجداری عدالت پر پابندیاں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827952/us-sanctions-international-criminal-court-president-2827952/",
-        "source": "Express",
-        "date": "2026-08-18T13:44:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "نیشنل الیکٹریسٹی پلان 2023-2027 میں ترامیم کی منظوری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
-        "source": "Express",
-        "date": "2026-08-18T13:38:48+00:00",
         "img": ""
       }
     ],
     "science": [
       {
+        "title": "OpenAI slows advanced AI development after cyberattack",
+        "summary": "OpenAI slows advanced AI development after cyberattack",
+        "url": "https://arynews.tv/openai-slows-advanced-ai-development-cyberattack",
+        "source": "ARY News",
+        "date": "2026-08-19T10:21:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Open-AI-CEO.jpg"
+      },
+      {
+        "title": "Hormuz traffic slows as uncertainty over waterway persists",
+        "summary": "Hormuz traffic slows as uncertainty over waterway persists",
+        "url": "https://arynews.tv/hormuz-traffic-slows-as-uncertainty-over-waterway-persists",
+        "source": "ARY News",
+        "date": "2026-08-19T10:14:23+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Strait-of-Hormz.jpg"
+      },
+      {
+        "title": "Nicola Coughlan takes step back from ‘Bridgerton’ season 5",
+        "summary": "Nicola Coughlan takes step back from ‘Bridgerton’ season 5",
+        "url": "https://arynews.tv/nicola-coughlan-takes-step-back-from-bridgerton-season-5",
+        "source": "ARY News",
+        "date": "2026-08-19T10:13:45+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/nicola-1.jpg"
+      },
+      {
+        "title": "Balmoral welcomes Zara, Mike and Phillips family",
+        "summary": "Balmoral welcomes Zara, Mike and Phillips family",
+        "url": "https://arynews.tv/balmoral-welcomes-zara-mike-and-phillips-family",
+        "source": "ARY News",
+        "date": "2026-08-19T10:11:25+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Balmoral-welcomes-Zara.jpg"
+      },
+      {
+        "title": "‘American Doctor’ shows Israeli brutality in Gaza",
+        "summary": "‘American Doctor’ shows Israeli brutality in Gaza",
+        "url": "https://arynews.tv/american-doctor-shows-israeli-brutality-in-gaza",
+        "source": "ARY News",
+        "date": "2026-08-19T10:08:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/American-Doctor.jpg"
+      },
+      {
+        "title": "US primaries test Democrat comeback hopes in Trump stronghold",
+        "summary": "US primaries test Democrat comeback hopes in Trump stronghold",
+        "url": "https://arynews.tv/us-primaries-test-democrat-comeback-hopes-trump-stronghold",
+        "source": "ARY News",
+        "date": "2026-08-19T10:04:26+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/06/Donald-Trump.jpg"
+      },
+      {
+        "title": "At least nine killed in hotel fire in India’s Kolkata",
+        "summary": "At least nine killed in hotel fire in India’s Kolkata",
+        "url": "https://arynews.tv/at-least-nine-killed-in-hotel-fire-in-indias-kolkata",
+        "source": "ARY News",
+        "date": "2026-08-19T10:01:54+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Kolkata.jpg"
+      },
+      {
+        "title": "Pokémon, Polaroid announce official Instant Camera collaboration",
+        "summary": "Pokémon, Polaroid announce official Instant Camera collaboration",
+        "url": "https://arynews.tv/pokemon-polaroid-announce-official-instant-camera-collaboration",
+        "source": "ARY News",
+        "date": "2026-08-19T09:57:19+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Polaroid.jpg"
+      },
+      {
+        "title": "Justin Timberlake gives peeks into summer with sons Phineas and Silas",
+        "summary": "Justin Timberlake gives peeks into summer with sons Phineas and Silas",
+        "url": "https://arynews.tv/justin-timberlake-gives-peeks-into-summer-with-sons",
+        "source": "ARY News",
+        "date": "2026-08-19T09:53:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/JUSTIN.jpg"
+      },
+      {
+        "title": "Oil extends climb on prolonged Hormuz export uncertainty",
+        "summary": "Oil extends climb on prolonged Hormuz export uncertainty",
+        "url": "https://arynews.tv/oil-extends-climb-on-prolonged-hormuz-export-uncertainty",
+        "source": "ARY News",
+        "date": "2026-08-19T09:52:07+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/strait-of-hormz.jpg"
+      },
+      {
+        "title": "King Charles issues major update amid Diana memoir storm",
+        "summary": "King Charles issues major update amid Diana memoir storm",
+        "url": "https://arynews.tv/king-charles-issues-major-update-amid-diana-memoir-storm",
+        "source": "ARY News",
+        "date": "2026-08-19T09:49:53+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Lady-Diana.jpg"
+      },
+      {
+        "title": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+        "summary": "Humanoid-maker Unitree surges more than 600% on Shanghai debut",
+        "url": "https://arynews.tv/humanoid-maker-unitree-surges-600-shanghai-debut",
+        "source": "ARY News",
+        "date": "2026-08-19T09:44:02+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/04/China-humanoid-robot.jpg"
+      },
+      {
         "title": "Toy Story 5: Digital platform release date announced",
         "summary": "Toy Story 5: Digital platform release date announced",
         "url": "https://arynews.tv/toy-story-5-digital-platform-release-date-announced",
@@ -2567,111 +2663,111 @@
         "source": "ARY News",
         "date": "2026-08-19T00:08:56+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-82.jpg"
-      },
-      {
-        "title": "UK grocery inflation eases further, says Worldpanel",
-        "summary": "UK grocery inflation eases further, says Worldpanel",
-        "url": "https://arynews.tv/uk-grocery-inflation-eases-further-says-worldpanel",
-        "source": "ARY News",
-        "date": "2026-08-19T00:06:36+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/UK-infaltion.jpg"
-      },
-      {
-        "title": "Sebastian Stan addresses The Batman Part II casting rumors and Harvey Dent speculation",
-        "summary": "Sebastian Stan addresses The Batman Part II casting rumors and Harvey Dent speculation",
-        "url": "https://arynews.tv/sebastian-stan-addresses-the-batman-part-ii-casting-rumors-and-harvey-dent-speculation",
-        "source": "ARY News",
-        "date": "2026-08-18T23:58:41+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Sebastian-Stan-and-Batman.jpg"
-      },
-      {
-        "title": "Paramount+ gives major update on Landman season 3",
-        "summary": "Paramount+ gives major update on Landman season 3",
-        "url": "https://arynews.tv/paramount-gives-major-update-on-landman-season-3",
-        "source": "ARY News",
-        "date": "2026-08-18T23:58:33+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-84.jpg"
-      },
-      {
-        "title": "Apple changes fees for alternative app stores in EU",
-        "summary": "Apple changes fees for alternative app stores in EU",
-        "url": "https://arynews.tv/apple-changes-fees-for-alternative-app-stores-in-eu",
-        "source": "ARY News",
-        "date": "2026-08-18T23:57:49+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-81.jpg"
-      },
-      {
-        "title": "Karachi: Woman who married by choice killed, husband critical",
-        "summary": "Karachi: Woman who married by choice killed, husband critical",
-        "url": "https://arynews.tv/karachi-woman-who-married-by-choice-killed-husband-critical",
-        "source": "ARY News",
-        "date": "2026-08-18T23:53:35+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Karachi-2.jpg"
-      },
-      {
-        "title": "YouTube view metrics overhaul sparks creator backlash over clickbait",
-        "summary": "YouTube view metrics overhaul sparks creator backlash over clickbait",
-        "url": "https://arynews.tv/youtube-view-metrics-overhaul-sparks-creator-backlash-over-clickbait",
-        "source": "ARY News",
-        "date": "2026-08-18T23:29:21+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-80.jpg"
-      },
-      {
-        "title": "Petrol price in Pakistan for August 19, 2026",
-        "summary": "Petrol price in Pakistan for August 19, 2026",
-        "url": "https://arynews.tv/petrol-price-in-pakistan-for-august-19-2026",
-        "source": "ARY News",
-        "date": "2026-08-18T23:28:50+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-3.jpg"
-      },
-      {
-        "title": "PTI’s desire for NRO for founder reaching new heights, says Khawaja Asif",
-        "summary": "PTI’s desire for NRO for founder reaching new heights, says Khawaja Asif",
-        "url": "https://arynews.tv/pti-desire-for-nro-for-founder-reaching-new-heights",
-        "source": "ARY News",
-        "date": "2026-08-18T23:16:43+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawaja-Asif.jpg"
-      },
-      {
-        "title": "Amy Schumer’s latest movie gives divorce a fresh twist",
-        "summary": "Amy Schumer’s latest movie gives divorce a fresh twist",
-        "url": "https://arynews.tv/amy-schumers-latest-movie-gives-divorce-a-fresh-twist",
-        "source": "ARY News",
-        "date": "2026-08-18T22:58:39+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-83.jpg"
-      },
-      {
-        "title": "Pakistani youths tortured in Iraqi detention centres after human trafficking",
-        "summary": "Pakistani youths tortured in Iraqi detention centres after human trafficking",
-        "url": "https://arynews.tv/pakistani-youths-tortured-in-iraqi-detention-centres",
-        "source": "ARY News",
-        "date": "2026-08-18T22:36:43+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Pakistani-Youth.jpg"
-      },
-      {
-        "title": "Kate Middleton’s brother shows warm Royal support as Princess Eugenie welcomes daughter",
-        "summary": "Kate Middleton’s brother shows warm Royal support as Princess Eugenie welcomes daughter",
-        "url": "https://arynews.tv/kate-middletons-brother-shows-warm-royal-support-as-princess-eugenie-welcomes-daughter",
-        "source": "ARY News",
-        "date": "2026-08-18T21:48:42+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Princess-Eugenie-daughter-name.jpg"
-      },
-      {
-        "title": "PTI founder should be examined at govt hospital, says Azam Nazeer Tarar",
-        "summary": "PTI founder should be examined at govt hospital, says Azam Nazeer Tarar",
-        "url": "https://arynews.tv/imran-khan-should-be-examined-at-govt-hospital",
-        "source": "ARY News",
-        "date": "2026-08-18T21:41:50+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Azam-Nazeer-Tarar.jpg"
       }
     ],
     "sports": [
+      {
+        "title": "آبنائے ہرمز کی صورتحال پر غیر یقینی، عالمی منڈی میں تیل کی قیمتیں مزید بڑھ گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827993/oil-prices-rise-for-fourth-straight-day-amid-hormuz-uncertainty-2827993/",
+        "source": "Express",
+        "date": "2026-08-19T05:06:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کو بڑا دھچکا، کپتان بابر اعظم انگلینڈ کیخلاف پہلے ٹیسٹ سے باہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827991/babar-ruled-out-of-first-test-against-england-salman-agha-to-lead-2827991/",
+        "source": "Express",
+        "date": "2026-08-19T04:57:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کے 5 سالہ قبضے کے دوران انسانی حقوق کی پامالیوں پر عالمی تشویش برقرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827984/global-concern-remains-over-human-rights-abuses-during-the-taliban-regimes-five-year-occupation-2827984/",
+        "source": "Express",
+        "date": "2026-08-19T04:44:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "سنی دیول 56 کروڑ روپے کے قرض میں کیسے ڈوبے؟ اداکار نے حقیقت بتا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827981/how-did-sunny-deol-get-mired-in-a-debt-of-56-crore-the-actor-reveals-the-truth-2827981/",
+        "source": "Express",
+        "date": "2026-08-19T04:31:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "میزائیل حملوں کے بعد متحدہ عرب امارات کا ایران سے تجارت اور مالی لین دین معطل کرنے کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827977/uae-suspends-all-trade-and-financial-transactions-with-iran-2827977/",
+        "source": "Express",
+        "date": "2026-08-19T03:51:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "اشرافیہ نواز بھارتی عدالتیں؛ فوجداری مقدمات کی تاخیر نے مودی کے کھوکھلے دعوے آشکار کردیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827992/elite-leaning-indian-courts-delays-in-criminal-cases-expose-modis-hollow-claims-2827992/",
+        "source": "Express",
+        "date": "2026-08-19T00:03:12+00:00",
+        "img": ""
+      },
+      {
+        "title": "بھارتی پروازوں کے لیے پاکستانی فضائی حدود کی بندش میں 24 ستمبر تک توسیع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827990/pakistan-extends-airspace-closure-for-indian-flights-until-september-24-2827990/",
+        "source": "Express",
+        "date": "2026-08-18T23:56:39+00:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر کے غیور و باشعورعوام کا پاکستان سے والہانہ محبت کا اظہار،بھارت کو منہ توڑ جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827986/the-proud-and-conscious-people-of-azad-kashmir-express-their-immense-love-for-pakistan-giving-a-befitting-reply-to-india-2827986/",
+        "source": "Express",
+        "date": "2026-08-18T23:50:45+00:00",
+        "img": ""
+      },
+      {
+        "title": "شام کے ایئربیس پر حملے کے بعد اسرائیل اور ترکیہ آمنے سامنے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827985/israel-blames-turkey-after-strike-on-syrian-air-base-2827985/",
+        "source": "Express",
+        "date": "2026-08-18T23:45:05+00:00",
+        "img": ""
+      },
+      {
+        "title": "میٹا اور پاکستان کا چھوٹے کاروباروں کے لیے اے آئی تربیتی پروگرام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827982/meta-and-pakistan-launch-ai-training-program-for-small-businesses-2827982/",
+        "source": "Express",
+        "date": "2026-08-18T23:36:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی؛ گھر سے 20 سالہ نوجوان کی گلے میں پھندا لگی لاش برآمد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827980/karachi-20-year-old-youths-body-found-with-noose-around-his-neck-in-house-2827980/",
+        "source": "Express",
+        "date": "2026-08-18T23:25:03+00:00",
+        "img": ""
+      },
       {
         "title": "کراچی؛ مچھر کالونی میں 3 ڈاکو پولیس مقابلے میں ہلاک، فائرنگ کے تبادلے میں اہلکار زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2827979/karachi-3-robbers-killed-in-police-encounter-in-machar-colony-officer-injured-in-exchange-of-fire-2827979/",
         "source": "Express",
         "date": "2026-08-18T23:21:16+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی؛ موٹرسائیکل سواروں کی فائرنگ سے اسٹیٹ ایجنٹ اور وکیل قتل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827978/karachi-estate-agent-and-lawyer-shot-dead-by-motorcycle-riders-2827978/",
+        "source": "Express",
+        "date": "2026-08-18T23:21:09+00:00",
         "img": ""
       },
       {
@@ -2768,54 +2864,6 @@
         "url": "https://www.express.pk/story/2827962/gilgit-baltistan-cm-says-cutting-unnecessary-expenditures-across-all-departments-will-save-rs2-billion-2827962/",
         "source": "Express",
         "date": "2026-08-18T20:07:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "میر رضا علی کی المناک موت، تفتیشی ٹیم قاتلوں کا سراغ لگانے میں سرگرداں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827961/mir-raza-ali-ki-alamnaki-maut-tafteeshi-team-qatilon-ka-suraagh-lagane-mein-sargardan-2827961/",
-        "source": "Express",
-        "date": "2026-08-18T19:56:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "فون سے اسکرین شاٹ محفوظ کرنا یادداشت کمزور کر سکتا ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827959/binghamton-universitys-psychology-department-2827959/",
-        "source": "Express",
-        "date": "2026-08-18T19:46:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں 13 لاکھ روپے ڈکیتی کی واردات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827958/robbery-of-rs-13-million-in-karachi-2827958/",
-        "source": "Express",
-        "date": "2026-08-18T19:39:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، نقب زنی کی واردات میں لاکھوں مالیت کے ٹائر چوری کرنے والا ملزم گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827957/karachi-suspect-arrested-for-stealing-tires-worth-millions-in-burglary-2827957/",
-        "source": "Express",
-        "date": "2026-08-18T19:38:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں غیرقانونی بھارتی تارکینِ وطن کے شامت آگئی؛ 4 ہزار 840 ملک بدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827955/us-crake-down-indian-immigrant-2827955/",
-        "source": "Express",
-        "date": "2026-08-18T19:35:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "ترکیہ: پہلوان کی ہزاروں برس قدیم قبر دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827954/excavations-at-the-ancient-city-of-aspendos-2827954/",
-        "source": "Express",
-        "date": "2026-08-18T19:27:01+05:00",
         "img": ""
       },
       {
@@ -2825,14 +2873,6 @@
         "source": "ARY Sports",
         "date": "2026-08-18T18:49:10+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-114.jpg"
-      },
-      {
-        "title": "امریکا میں خطرناک ’ویسٹ نائل وائرس‘ کا پھیلاؤ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827951/a-deadly-brain-swelling-illness-2827951/",
-        "source": "Express",
-        "date": "2026-08-18T18:40:40+05:00",
-        "img": ""
       },
       {
         "title": "Babar Azam ruled out of first England Test",
@@ -2883,14 +2923,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-112.jpg"
       },
       {
-        "title": "پاکستان ایئرپورٹ اتھارٹی کے شعبہ کمرشل کی سالانہ آمدنی 10 ارب سے تجاوز کر گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827960/pakistan-airport-authority-commercial-dept-annual-revenue-over-10-billion-rupees-2827960/",
-        "source": "Express",
-        "date": "2026-08-18T14:51:00+00:00",
-        "img": ""
-      },
-      {
         "title": "Newcastle sign Bosnia defender Dedic",
         "summary": "Newcastle sign Bosnia defender Dedic",
         "url": "https://arynews.tv/newcastle-sign-bosnia-defender-dedic",
@@ -2899,44 +2931,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-111.jpg"
       },
       {
-        "title": "ایران جنگ میں بڑا نقصان؛ امریکا کے دفاعی تیل ذخائر کم ترین سطح پر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827956/iran-war-us-strategic-oil-reservoir-below-44-years-level-2827956/",
-        "source": "Express",
-        "date": "2026-08-18T14:36:39+00:00",
-        "img": ""
-      },
-      {
         "title": "National Women’s U19 Tournament to begin tomorrow",
         "summary": "National Women’s U19 Tournament to begin tomorrow",
         "url": "https://arynews.tv/national-womens-u19-tournament-to-begin-tomorrow",
         "source": "ARY Sports",
         "date": "2026-08-18T14:07:00+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-110.jpg"
-      },
-      {
-        "title": "اسرائیل نے یہودیوں کو مسجد اقصیٰ میں مذہبی کتابچے لے جانے اور عبادت کی اجازت دیدی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827953/jewish-prayer-books-reportedly-allowed-onto-temple-mount-for-first-time-2827953/",
-        "source": "Express",
-        "date": "2026-08-18T13:47:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "غزہ کے حق اور اسرائیل کیخلاف فیصلے کیوں؟ امریکا کی عالمی فوجداری عدالت پر پابندیاں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827952/us-sanctions-international-criminal-court-president-2827952/",
-        "source": "Express",
-        "date": "2026-08-18T13:44:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "نیشنل الیکٹریسٹی پلان 2023-2027 میں ترامیم کی منظوری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
-        "source": "Express",
-        "date": "2026-08-18T13:38:48+00:00",
-        "img": ""
       },
       {
         "title": "Rift deepens as Asia football chief hits back at Qatar in Infantino saga",
@@ -3029,11 +3029,107 @@
     ],
     "business": [
       {
+        "title": "آبنائے ہرمز کی صورتحال پر غیر یقینی، عالمی منڈی میں تیل کی قیمتیں مزید بڑھ گئیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827993/oil-prices-rise-for-fourth-straight-day-amid-hormuz-uncertainty-2827993/",
+        "source": "Express",
+        "date": "2026-08-19T05:06:33+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان کو بڑا دھچکا، کپتان بابر اعظم انگلینڈ کیخلاف پہلے ٹیسٹ سے باہر",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827991/babar-ruled-out-of-first-test-against-england-salman-agha-to-lead-2827991/",
+        "source": "Express",
+        "date": "2026-08-19T04:57:03+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کے 5 سالہ قبضے کے دوران انسانی حقوق کی پامالیوں پر عالمی تشویش برقرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827984/global-concern-remains-over-human-rights-abuses-during-the-taliban-regimes-five-year-occupation-2827984/",
+        "source": "Express",
+        "date": "2026-08-19T04:44:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "سنی دیول 56 کروڑ روپے کے قرض میں کیسے ڈوبے؟ اداکار نے حقیقت بتا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827981/how-did-sunny-deol-get-mired-in-a-debt-of-56-crore-the-actor-reveals-the-truth-2827981/",
+        "source": "Express",
+        "date": "2026-08-19T04:31:42+05:00",
+        "img": ""
+      },
+      {
+        "title": "میزائیل حملوں کے بعد متحدہ عرب امارات کا ایران سے تجارت اور مالی لین دین معطل کرنے کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827977/uae-suspends-all-trade-and-financial-transactions-with-iran-2827977/",
+        "source": "Express",
+        "date": "2026-08-19T03:51:09+05:00",
+        "img": ""
+      },
+      {
+        "title": "اشرافیہ نواز بھارتی عدالتیں؛ فوجداری مقدمات کی تاخیر نے مودی کے کھوکھلے دعوے آشکار کردیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827992/elite-leaning-indian-courts-delays-in-criminal-cases-expose-modis-hollow-claims-2827992/",
+        "source": "Express",
+        "date": "2026-08-19T00:03:12+00:00",
+        "img": ""
+      },
+      {
+        "title": "بھارتی پروازوں کے لیے پاکستانی فضائی حدود کی بندش میں 24 ستمبر تک توسیع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827990/pakistan-extends-airspace-closure-for-indian-flights-until-september-24-2827990/",
+        "source": "Express",
+        "date": "2026-08-18T23:56:39+00:00",
+        "img": ""
+      },
+      {
+        "title": "آزاد کشمیر کے غیور و باشعورعوام کا پاکستان سے والہانہ محبت کا اظہار،بھارت کو منہ توڑ جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827986/the-proud-and-conscious-people-of-azad-kashmir-express-their-immense-love-for-pakistan-giving-a-befitting-reply-to-india-2827986/",
+        "source": "Express",
+        "date": "2026-08-18T23:50:45+00:00",
+        "img": ""
+      },
+      {
+        "title": "شام کے ایئربیس پر حملے کے بعد اسرائیل اور ترکیہ آمنے سامنے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827985/israel-blames-turkey-after-strike-on-syrian-air-base-2827985/",
+        "source": "Express",
+        "date": "2026-08-18T23:45:05+00:00",
+        "img": ""
+      },
+      {
+        "title": "میٹا اور پاکستان کا چھوٹے کاروباروں کے لیے اے آئی تربیتی پروگرام شروع",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827982/meta-and-pakistan-launch-ai-training-program-for-small-businesses-2827982/",
+        "source": "Express",
+        "date": "2026-08-18T23:36:08+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی؛ گھر سے 20 سالہ نوجوان کی گلے میں پھندا لگی لاش برآمد",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827980/karachi-20-year-old-youths-body-found-with-noose-around-his-neck-in-house-2827980/",
+        "source": "Express",
+        "date": "2026-08-18T23:25:03+00:00",
+        "img": ""
+      },
+      {
         "title": "کراچی؛ مچھر کالونی میں 3 ڈاکو پولیس مقابلے میں ہلاک، فائرنگ کے تبادلے میں اہلکار زخمی",
         "summary": "",
         "url": "https://www.express.pk/story/2827979/karachi-3-robbers-killed-in-police-encounter-in-machar-colony-officer-injured-in-exchange-of-fire-2827979/",
         "source": "Express",
         "date": "2026-08-18T23:21:16+00:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی؛ موٹرسائیکل سواروں کی فائرنگ سے اسٹیٹ ایجنٹ اور وکیل قتل",
+        "summary": "",
+        "url": "https://www.express.pk/story/2827978/karachi-estate-agent-and-lawyer-shot-dead-by-motorcycle-riders-2827978/",
+        "source": "Express",
+        "date": "2026-08-18T23:21:09+00:00",
         "img": ""
       },
       {
@@ -3130,102 +3226,6 @@
         "url": "https://www.express.pk/story/2827962/gilgit-baltistan-cm-says-cutting-unnecessary-expenditures-across-all-departments-will-save-rs2-billion-2827962/",
         "source": "Express",
         "date": "2026-08-18T20:07:10+05:00",
-        "img": ""
-      },
-      {
-        "title": "میر رضا علی کی المناک موت، تفتیشی ٹیم قاتلوں کا سراغ لگانے میں سرگرداں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827961/mir-raza-ali-ki-alamnaki-maut-tafteeshi-team-qatilon-ka-suraagh-lagane-mein-sargardan-2827961/",
-        "source": "Express",
-        "date": "2026-08-18T19:56:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "فون سے اسکرین شاٹ محفوظ کرنا یادداشت کمزور کر سکتا ہے: تحقیق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827959/binghamton-universitys-psychology-department-2827959/",
-        "source": "Express",
-        "date": "2026-08-18T19:46:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں 13 لاکھ روپے ڈکیتی کی واردات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827958/robbery-of-rs-13-million-in-karachi-2827958/",
-        "source": "Express",
-        "date": "2026-08-18T19:39:12+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی، نقب زنی کی واردات میں لاکھوں مالیت کے ٹائر چوری کرنے والا ملزم گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827957/karachi-suspect-arrested-for-stealing-tires-worth-millions-in-burglary-2827957/",
-        "source": "Express",
-        "date": "2026-08-18T19:38:14+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں غیرقانونی بھارتی تارکینِ وطن کے شامت آگئی؛ 4 ہزار 840 ملک بدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827955/us-crake-down-indian-immigrant-2827955/",
-        "source": "Express",
-        "date": "2026-08-18T19:35:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "ترکیہ: پہلوان کی ہزاروں برس قدیم قبر دریافت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827954/excavations-at-the-ancient-city-of-aspendos-2827954/",
-        "source": "Express",
-        "date": "2026-08-18T19:27:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا میں خطرناک ’ویسٹ نائل وائرس‘ کا پھیلاؤ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827951/a-deadly-brain-swelling-illness-2827951/",
-        "source": "Express",
-        "date": "2026-08-18T18:40:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان ایئرپورٹ اتھارٹی کے شعبہ کمرشل کی سالانہ آمدنی 10 ارب سے تجاوز کر گئی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827960/pakistan-airport-authority-commercial-dept-annual-revenue-over-10-billion-rupees-2827960/",
-        "source": "Express",
-        "date": "2026-08-18T14:51:00+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران جنگ میں بڑا نقصان؛ امریکا کے دفاعی تیل ذخائر کم ترین سطح پر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827956/iran-war-us-strategic-oil-reservoir-below-44-years-level-2827956/",
-        "source": "Express",
-        "date": "2026-08-18T14:36:39+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسرائیل نے یہودیوں کو مسجد اقصیٰ میں مذہبی کتابچے لے جانے اور عبادت کی اجازت دیدی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827953/jewish-prayer-books-reportedly-allowed-onto-temple-mount-for-first-time-2827953/",
-        "source": "Express",
-        "date": "2026-08-18T13:47:31+00:00",
-        "img": ""
-      },
-      {
-        "title": "غزہ کے حق اور اسرائیل کیخلاف فیصلے کیوں؟ امریکا کی عالمی فوجداری عدالت پر پابندیاں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827952/us-sanctions-international-criminal-court-president-2827952/",
-        "source": "Express",
-        "date": "2026-08-18T13:44:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "نیشنل الیکٹریسٹی پلان 2023-2027 میں ترامیم کی منظوری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2827950/national-electricity-plan-2027-amendment-approved-2827950/",
-        "source": "Express",
-        "date": "2026-08-18T13:38:48+00:00",
         "img": ""
       }
     ]
