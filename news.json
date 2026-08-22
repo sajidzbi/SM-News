@@ -1,7 +1,15 @@
 {
-  "fetched": "2026-08-22T00:56:54.413858+00:00",
+  "fetched": "2026-08-22T02:15:09.806571+00:00",
   "categories": {
     "international": [
+      {
+        "title": "’ہم یہ فلم پہلے بھی دیکھ چکے ہیں‘: ٹرمپ کے معاشی جنگ شروع کرنے کے اعلان پر ایران کا ردِعمل",
+        "summary": "امریکی صدر ٹرمپ کے ایران کے خلاف معاشی جنگ شروع کرنے کے اعلان پر ردِعمل دیتے ہوئے ایرانی وزیر خارجہ عباس عراقچی کا کہنا ہے کہ ’ہم یہ فلم پہلے بھی دیکھ چکے ہیں، یہ وہی پرانی کہانی ہے۔‘ عباس عراقچی کے مطابق ماضی کی طرح امریکہ کی حالیہ پابندیاں بھی ناکام ہوں گی۔",
+        "url": "https://www.bbc.co.uk/urdu/live/c6lyjm89pnjrt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-22T02:15:11.852271+00:00",
+        "img": ""
+      },
       {
         "title": "Wall St indexes eye weekly losses; bond yields and Iran in focus",
         "summary": "Wall St indexes eye weekly losses; bond yields and Iran in focus",
@@ -25,14 +33,6 @@
         "source": "ARY News",
         "date": "2026-08-22T00:58:40+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Prince-Harry-6.jpg"
-      },
-      {
-        "title": "’ہم یہ فلم پہلے بھی دیکھ چکے ہیں‘: ٹرمپ کے معاشی جنگ شروع کرنے کے اعلان پر ایران کا ردِعمل",
-        "summary": "امریکی صدر ٹرمپ کے ایران کے خلاف معاشی جنگ شروع کرنے کے اعلان پر ردِعمل دیتے ہوئے ایرانی وزیر خارجہ عباس عراقچی کا کہنا ہے کہ ’ہم یہ فلم پہلے بھی دیکھ چکے ہیں، یہ وہی پرانی کہانی ہے۔‘ عباس عراقچی کے مطابق ماضی کی طرح امریکہ کی حالیہ پابندیاں بھی ناکام ہوں گی۔",
-        "url": "https://www.bbc.co.uk/urdu/live/c6lyjm89pnjrt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-22T00:56:56.304962+00:00",
-        "img": ""
       },
       {
         "title": "Harvard study links higher cancer risk to airline flight crews due to cosmic radiation exposure",
@@ -573,6 +573,30 @@
     ],
     "national": [
       {
+        "title": "کراچی: منگھوپیر میں ویگو گاڑی کی ٹکر سے 60 سالہ شخص جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828561/karachi-60-year-old-man-killed-after-being-hit-by-a-vigo-vehicle-in-manghopir-2828561/",
+        "source": "Express",
+        "date": "2026-08-22T01:53:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: مختلف علاقوں میں مبینہ پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828560/karachi-alleged-police-encounters-in-various-areas-4-suspects-arrested-in-injured-condition-2828560/",
+        "source": "Express",
+        "date": "2026-08-22T01:49:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "انگلینڈ کے جو روٹ نے آسٹریلیا کے اسٹیو اسمتھ کا ورلڈ ریکارڈ توڑ دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828559/englands-joe-root-has-broken-australian-steve-smiths-world-record-2828559/",
+        "source": "Express",
+        "date": "2026-08-22T01:27:59+05:00",
+        "img": ""
+      },
+      {
         "title": "Wall St indexes eye weekly losses; bond yields and Iran in focus",
         "summary": "Wall St indexes eye weekly losses; bond yields and Iran in focus",
         "url": "https://arynews.tv/wall-st-indexes-eye-weekly-losses-bond-yields-and-iran-in-focus",
@@ -859,6 +883,14 @@
         "source": "ARY News",
         "date": "2026-08-21T19:54:59+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Google-Gemini.jpg"
+      },
+      {
+        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
+        "source": "Express",
+        "date": "2026-08-21T19:45:12+05:00",
+        "img": ""
       },
       {
         "title": "Punjab government offers free education options",
@@ -1021,14 +1053,6 @@
         "img": ""
       },
       {
-        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
-        "source": "Express",
-        "date": "2026-08-21T14:45:12+00:00",
-        "img": ""
-      },
-      {
         "title": "دھمکیاں پُرانی، چہرے نئے لیکن ناکامی مقدر؛ ایران کا ٹرمپ پر طنزیہ وار",
         "summary": "",
         "url": "https://www.express.pk/story/2828538/iran-critic-trump-over-economical-threat-2828538/",
@@ -1066,30 +1090,6 @@
         "url": "https://www.dawn.com/news/2024322/body-of-us-climber-who-died-in-broad-peak-avalanche-found",
         "source": "Dawn",
         "date": "2026-08-21T13:07:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا یوکرینی صدر کے آبائی شہر میں شاپنگ سینٹر پر حملہ؛ 14 ہلاک،22 بچوں سمیت 120 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828532/russia-drone-attack-on-shopping-center-in-ukraine-president-birth-city-2828532/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا سے جنگ کو حتمی نتیجے تک پہنچانے کا وقت آگیا؛ ایرانی صدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828531/iran-president-masoud-pezeshkian-says-time-has-come-to-end-war-with-us-2828531/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:45+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول اور ڈیزل کی قیمتوں میں مزید اضافے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828530/ogra-announce-petrol-and-diesel-prices-for-22-august-2828530/",
-        "source": "Express",
-        "date": "2026-08-21T12:52:02+00:00",
         "img": ""
       },
       {
@@ -1174,6 +1174,30 @@
       }
     ],
     "kpk": [
+      {
+        "title": "کراچی: منگھوپیر میں ویگو گاڑی کی ٹکر سے 60 سالہ شخص جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828561/karachi-60-year-old-man-killed-after-being-hit-by-a-vigo-vehicle-in-manghopir-2828561/",
+        "source": "Express",
+        "date": "2026-08-22T01:53:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: مختلف علاقوں میں مبینہ پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828560/karachi-alleged-police-encounters-in-various-areas-4-suspects-arrested-in-injured-condition-2828560/",
+        "source": "Express",
+        "date": "2026-08-22T01:49:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "انگلینڈ کے جو روٹ نے آسٹریلیا کے اسٹیو اسمتھ کا ورلڈ ریکارڈ توڑ دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828559/englands-joe-root-has-broken-australian-steve-smiths-world-record-2828559/",
+        "source": "Express",
+        "date": "2026-08-22T01:27:59+05:00",
+        "img": ""
+      },
       {
         "title": "Wall St indexes eye weekly losses; bond yields and Iran in focus",
         "summary": "Wall St indexes eye weekly losses; bond yields and Iran in focus",
@@ -1461,6 +1485,14 @@
         "source": "ARY News",
         "date": "2026-08-21T19:54:59+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Google-Gemini.jpg"
+      },
+      {
+        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
+        "source": "Express",
+        "date": "2026-08-21T19:45:12+05:00",
+        "img": ""
       },
       {
         "title": "Punjab government offers free education options",
@@ -1631,14 +1663,6 @@
         "img": ""
       },
       {
-        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
-        "source": "Express",
-        "date": "2026-08-21T14:45:12+00:00",
-        "img": ""
-      },
-      {
         "title": "دھمکیاں پُرانی، چہرے نئے لیکن ناکامی مقدر؛ ایران کا ٹرمپ پر طنزیہ وار",
         "summary": "",
         "url": "https://www.express.pk/story/2828538/iran-critic-trump-over-economical-threat-2828538/",
@@ -1676,30 +1700,6 @@
         "url": "https://www.dawn.com/news/2024322/body-of-us-climber-who-died-in-broad-peak-avalanche-found",
         "source": "Dawn",
         "date": "2026-08-21T13:07:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا یوکرینی صدر کے آبائی شہر میں شاپنگ سینٹر پر حملہ؛ 14 ہلاک،22 بچوں سمیت 120 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828532/russia-drone-attack-on-shopping-center-in-ukraine-president-birth-city-2828532/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا سے جنگ کو حتمی نتیجے تک پہنچانے کا وقت آگیا؛ ایرانی صدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828531/iran-president-masoud-pezeshkian-says-time-has-come-to-end-war-with-us-2828531/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:45+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول اور ڈیزل کی قیمتوں میں مزید اضافے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828530/ogra-announce-petrol-and-diesel-prices-for-22-august-2828530/",
-        "source": "Express",
-        "date": "2026-08-21T12:52:02+00:00",
         "img": ""
       },
       {
@@ -1857,6 +1857,30 @@
     ],
     "punjab": [
       {
+        "title": "کراچی: منگھوپیر میں ویگو گاڑی کی ٹکر سے 60 سالہ شخص جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828561/karachi-60-year-old-man-killed-after-being-hit-by-a-vigo-vehicle-in-manghopir-2828561/",
+        "source": "Express",
+        "date": "2026-08-22T01:53:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: مختلف علاقوں میں مبینہ پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828560/karachi-alleged-police-encounters-in-various-areas-4-suspects-arrested-in-injured-condition-2828560/",
+        "source": "Express",
+        "date": "2026-08-22T01:49:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "انگلینڈ کے جو روٹ نے آسٹریلیا کے اسٹیو اسمتھ کا ورلڈ ریکارڈ توڑ دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828559/englands-joe-root-has-broken-australian-steve-smiths-world-record-2828559/",
+        "source": "Express",
+        "date": "2026-08-22T01:27:59+05:00",
+        "img": ""
+      },
+      {
         "title": "PM Shehbaz reaffirms commitment to further strengthening ties with Malaysia in security, trade",
         "summary": "<p>Prime Minister Shehbaz Sharif on Friday reaffirmed Pakistan’s commitment to further strengthening ties with Malaysia across all spheres, including security, law enforcement, trade and investment.</p> <p>In a statement, the Prime Minister’s Office (PMO) said Malaysian Home Minister Dato’ Seri Saifuddin Nasution Ismai",
         "url": "https://www.dawn.com/news/2024387/pm-shehbaz-reaffirms-commitment-to-further-strengthening-ties-with-malaysia-in-security-trade",
@@ -2009,6 +2033,14 @@
         "img": ""
       },
       {
+        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
+        "source": "Express",
+        "date": "2026-08-21T19:45:12+05:00",
+        "img": ""
+      },
+      {
         "title": "People of Balochistan will have first right to province’s wealth: PM Shehbaz",
         "summary": "<p>Prime Minister Shehbaz Sharif on Friday vowed that the people of Balochistan would have the first right to benefit from the province’s “wealth”, adding that investment and resources would be required to extract metals and minerals from the region.</p> <p>The premier was addressing the closing ceremony of the Balochi",
         "url": "https://www.dawn.com/news/2024362/people-of-balochistan-will-have-first-right-to-provinces-wealth-pm-shehbaz",
@@ -2105,14 +2137,6 @@
         "img": ""
       },
       {
-        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
-        "source": "Express",
-        "date": "2026-08-21T14:45:12+00:00",
-        "img": ""
-      },
-      {
         "title": "دھمکیاں پُرانی، چہرے نئے لیکن ناکامی مقدر؛ ایران کا ٹرمپ پر طنزیہ وار",
         "summary": "",
         "url": "https://www.express.pk/story/2828538/iran-critic-trump-over-economical-threat-2828538/",
@@ -2150,30 +2174,6 @@
         "url": "https://www.dawn.com/news/2024322/body-of-us-climber-who-died-in-broad-peak-avalanche-found",
         "source": "Dawn",
         "date": "2026-08-21T13:07:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا یوکرینی صدر کے آبائی شہر میں شاپنگ سینٹر پر حملہ؛ 14 ہلاک،22 بچوں سمیت 120 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828532/russia-drone-attack-on-shopping-center-in-ukraine-president-birth-city-2828532/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا سے جنگ کو حتمی نتیجے تک پہنچانے کا وقت آگیا؛ ایرانی صدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828531/iran-president-masoud-pezeshkian-says-time-has-come-to-end-war-with-us-2828531/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:45+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول اور ڈیزل کی قیمتوں میں مزید اضافے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828530/ogra-announce-petrol-and-diesel-prices-for-22-august-2828530/",
-        "source": "Express",
-        "date": "2026-08-21T12:52:02+00:00",
         "img": ""
       },
       {
@@ -2259,6 +2259,30 @@
     ],
     "sindh": [
       {
+        "title": "کراچی: منگھوپیر میں ویگو گاڑی کی ٹکر سے 60 سالہ شخص جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828561/karachi-60-year-old-man-killed-after-being-hit-by-a-vigo-vehicle-in-manghopir-2828561/",
+        "source": "Express",
+        "date": "2026-08-22T01:53:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: مختلف علاقوں میں مبینہ پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828560/karachi-alleged-police-encounters-in-various-areas-4-suspects-arrested-in-injured-condition-2828560/",
+        "source": "Express",
+        "date": "2026-08-22T01:49:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "انگلینڈ کے جو روٹ نے آسٹریلیا کے اسٹیو اسمتھ کا ورلڈ ریکارڈ توڑ دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828559/englands-joe-root-has-broken-australian-steve-smiths-world-record-2828559/",
+        "source": "Express",
+        "date": "2026-08-22T01:27:59+05:00",
+        "img": ""
+      },
+      {
         "title": "PM Shehbaz reaffirms commitment to further strengthening ties with Malaysia in security, trade",
         "summary": "<p>Prime Minister Shehbaz Sharif on Friday reaffirmed Pakistan’s commitment to further strengthening ties with Malaysia across all spheres, including security, law enforcement, trade and investment.</p> <p>In a statement, the Prime Minister’s Office (PMO) said Malaysian Home Minister Dato’ Seri Saifuddin Nasution Ismai",
         "url": "https://www.dawn.com/news/2024387/pm-shehbaz-reaffirms-commitment-to-further-strengthening-ties-with-malaysia-in-security-trade",
@@ -2411,6 +2435,14 @@
         "img": ""
       },
       {
+        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
+        "source": "Express",
+        "date": "2026-08-21T19:45:12+05:00",
+        "img": ""
+      },
+      {
         "title": "People of Balochistan will have first right to province’s wealth: PM Shehbaz",
         "summary": "<p>Prime Minister Shehbaz Sharif on Friday vowed that the people of Balochistan would have the first right to benefit from the province’s “wealth”, adding that investment and resources would be required to extract metals and minerals from the region.</p> <p>The premier was addressing the closing ceremony of the Balochi",
         "url": "https://www.dawn.com/news/2024362/people-of-balochistan-will-have-first-right-to-provinces-wealth-pm-shehbaz",
@@ -2507,14 +2539,6 @@
         "img": ""
       },
       {
-        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
-        "source": "Express",
-        "date": "2026-08-21T14:45:12+00:00",
-        "img": ""
-      },
-      {
         "title": "دھمکیاں پُرانی، چہرے نئے لیکن ناکامی مقدر؛ ایران کا ٹرمپ پر طنزیہ وار",
         "summary": "",
         "url": "https://www.express.pk/story/2828538/iran-critic-trump-over-economical-threat-2828538/",
@@ -2552,30 +2576,6 @@
         "url": "https://www.dawn.com/news/2024322/body-of-us-climber-who-died-in-broad-peak-avalanche-found",
         "source": "Dawn",
         "date": "2026-08-21T13:07:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا یوکرینی صدر کے آبائی شہر میں شاپنگ سینٹر پر حملہ؛ 14 ہلاک،22 بچوں سمیت 120 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828532/russia-drone-attack-on-shopping-center-in-ukraine-president-birth-city-2828532/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا سے جنگ کو حتمی نتیجے تک پہنچانے کا وقت آگیا؛ ایرانی صدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828531/iran-president-masoud-pezeshkian-says-time-has-come-to-end-war-with-us-2828531/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:45+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول اور ڈیزل کی قیمتوں میں مزید اضافے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828530/ogra-announce-petrol-and-diesel-prices-for-22-august-2828530/",
-        "source": "Express",
-        "date": "2026-08-21T12:52:02+00:00",
         "img": ""
       },
       {
@@ -2661,6 +2661,30 @@
     ],
     "baloch": [
       {
+        "title": "کراچی: منگھوپیر میں ویگو گاڑی کی ٹکر سے 60 سالہ شخص جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828561/karachi-60-year-old-man-killed-after-being-hit-by-a-vigo-vehicle-in-manghopir-2828561/",
+        "source": "Express",
+        "date": "2026-08-22T01:53:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: مختلف علاقوں میں مبینہ پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828560/karachi-alleged-police-encounters-in-various-areas-4-suspects-arrested-in-injured-condition-2828560/",
+        "source": "Express",
+        "date": "2026-08-22T01:49:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "انگلینڈ کے جو روٹ نے آسٹریلیا کے اسٹیو اسمتھ کا ورلڈ ریکارڈ توڑ دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828559/englands-joe-root-has-broken-australian-steve-smiths-world-record-2828559/",
+        "source": "Express",
+        "date": "2026-08-22T01:27:59+05:00",
+        "img": ""
+      },
+      {
         "title": "Wall St indexes eye weekly losses; bond yields and Iran in focus",
         "summary": "Wall St indexes eye weekly losses; bond yields and Iran in focus",
         "url": "https://arynews.tv/wall-st-indexes-eye-weekly-losses-bond-yields-and-iran-in-focus",
@@ -2949,6 +2973,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Google-Gemini.jpg"
       },
       {
+        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
+        "source": "Express",
+        "date": "2026-08-21T19:45:12+05:00",
+        "img": ""
+      },
+      {
         "title": "Punjab government offers free education options",
         "summary": "Punjab government offers free education options",
         "url": "https://arynews.tv/punjab-government-offers-free-education-options",
@@ -3109,14 +3141,6 @@
         "img": ""
       },
       {
-        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
-        "source": "Express",
-        "date": "2026-08-21T14:45:12+00:00",
-        "img": ""
-      },
-      {
         "title": "دھمکیاں پُرانی، چہرے نئے لیکن ناکامی مقدر؛ ایران کا ٹرمپ پر طنزیہ وار",
         "summary": "",
         "url": "https://www.express.pk/story/2828538/iran-critic-trump-over-economical-threat-2828538/",
@@ -3154,30 +3178,6 @@
         "url": "https://www.dawn.com/news/2024322/body-of-us-climber-who-died-in-broad-peak-avalanche-found",
         "source": "Dawn",
         "date": "2026-08-21T13:07:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا یوکرینی صدر کے آبائی شہر میں شاپنگ سینٹر پر حملہ؛ 14 ہلاک،22 بچوں سمیت 120 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828532/russia-drone-attack-on-shopping-center-in-ukraine-president-birth-city-2828532/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا سے جنگ کو حتمی نتیجے تک پہنچانے کا وقت آگیا؛ ایرانی صدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828531/iran-president-masoud-pezeshkian-says-time-has-come-to-end-war-with-us-2828531/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:45+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول اور ڈیزل کی قیمتوں میں مزید اضافے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828530/ogra-announce-petrol-and-diesel-prices-for-22-august-2828530/",
-        "source": "Express",
-        "date": "2026-08-21T12:52:02+00:00",
         "img": ""
       },
       {
@@ -3262,6 +3262,30 @@
       }
     ],
     "education": [
+      {
+        "title": "کراچی: منگھوپیر میں ویگو گاڑی کی ٹکر سے 60 سالہ شخص جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828561/karachi-60-year-old-man-killed-after-being-hit-by-a-vigo-vehicle-in-manghopir-2828561/",
+        "source": "Express",
+        "date": "2026-08-22T01:53:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: مختلف علاقوں میں مبینہ پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828560/karachi-alleged-police-encounters-in-various-areas-4-suspects-arrested-in-injured-condition-2828560/",
+        "source": "Express",
+        "date": "2026-08-22T01:49:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "انگلینڈ کے جو روٹ نے آسٹریلیا کے اسٹیو اسمتھ کا ورلڈ ریکارڈ توڑ دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828559/englands-joe-root-has-broken-australian-steve-smiths-world-record-2828559/",
+        "source": "Express",
+        "date": "2026-08-22T01:27:59+05:00",
+        "img": ""
+      },
       {
         "title": "Wall St indexes eye weekly losses; bond yields and Iran in focus",
         "summary": "Wall St indexes eye weekly losses; bond yields and Iran in focus",
@@ -3503,6 +3527,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Google-Gemini.jpg"
       },
       {
+        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
+        "source": "Express",
+        "date": "2026-08-21T19:45:12+05:00",
+        "img": ""
+      },
+      {
         "title": "Punjab government offers free education options",
         "summary": "Punjab government offers free education options",
         "url": "https://arynews.tv/punjab-government-offers-free-education-options",
@@ -3599,14 +3631,6 @@
         "img": ""
       },
       {
-        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
-        "source": "Express",
-        "date": "2026-08-21T14:45:12+00:00",
-        "img": ""
-      },
-      {
         "title": "دھمکیاں پُرانی، چہرے نئے لیکن ناکامی مقدر؛ ایران کا ٹرمپ پر طنزیہ وار",
         "summary": "",
         "url": "https://www.express.pk/story/2828538/iran-critic-trump-over-economical-threat-2828538/",
@@ -3636,30 +3660,6 @@
         "url": "https://www.express.pk/story/2828533/nccia-raids-foreign-call-center-in-islamabad-no-arrests-made-2828533/",
         "source": "Express",
         "date": "2026-08-21T13:21:30+00:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا یوکرینی صدر کے آبائی شہر میں شاپنگ سینٹر پر حملہ؛ 14 ہلاک،22 بچوں سمیت 120 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828532/russia-drone-attack-on-shopping-center-in-ukraine-president-birth-city-2828532/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا سے جنگ کو حتمی نتیجے تک پہنچانے کا وقت آگیا؛ ایرانی صدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828531/iran-president-masoud-pezeshkian-says-time-has-come-to-end-war-with-us-2828531/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:45+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول اور ڈیزل کی قیمتوں میں مزید اضافے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828530/ogra-announce-petrol-and-diesel-prices-for-22-august-2828530/",
-        "source": "Express",
-        "date": "2026-08-21T12:52:02+00:00",
         "img": ""
       }
     ],
@@ -3867,6 +3867,30 @@
     ],
     "sports": [
       {
+        "title": "کراچی: منگھوپیر میں ویگو گاڑی کی ٹکر سے 60 سالہ شخص جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828561/karachi-60-year-old-man-killed-after-being-hit-by-a-vigo-vehicle-in-manghopir-2828561/",
+        "source": "Express",
+        "date": "2026-08-22T01:53:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: مختلف علاقوں میں مبینہ پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828560/karachi-alleged-police-encounters-in-various-areas-4-suspects-arrested-in-injured-condition-2828560/",
+        "source": "Express",
+        "date": "2026-08-22T01:49:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "انگلینڈ کے جو روٹ نے آسٹریلیا کے اسٹیو اسمتھ کا ورلڈ ریکارڈ توڑ دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828559/englands-joe-root-has-broken-australian-steve-smiths-world-record-2828559/",
+        "source": "Express",
+        "date": "2026-08-22T01:27:59+05:00",
+        "img": ""
+      },
+      {
         "title": "Red Bull pays up big, signs Max Verstappen to historic $538 million contract to 2030",
         "summary": "Red Bull pays up big, signs Max Verstappen to historic $538 million contract to 2030",
         "url": "https://arynews.tv/red-bull-pays-up-big-signs-max-verstappen-to-historic-538-million-contract-to-2030",
@@ -4011,6 +4035,14 @@
         "img": ""
       },
       {
+        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
+        "source": "Express",
+        "date": "2026-08-21T19:45:12+05:00",
+        "img": ""
+      },
+      {
         "title": "Maresca needs time to succeed after ‘big changes’ at Man City",
         "summary": "Maresca needs time to succeed after ‘big changes’ at Man City",
         "url": "https://arynews.tv/maresca-needs-time-to-succeed-after-big-changes-at-man-city",
@@ -4075,14 +4107,6 @@
         "img": ""
       },
       {
-        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
-        "source": "Express",
-        "date": "2026-08-21T14:45:12+00:00",
-        "img": ""
-      },
-      {
         "title": "دھمکیاں پُرانی، چہرے نئے لیکن ناکامی مقدر؛ ایران کا ٹرمپ پر طنزیہ وار",
         "summary": "",
         "url": "https://www.express.pk/story/2828538/iran-critic-trump-over-economical-threat-2828538/",
@@ -4129,30 +4153,6 @@
         "source": "ARY Sports",
         "date": "2026-08-21T13:01:51+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-127.jpg"
-      },
-      {
-        "title": "روس کا یوکرینی صدر کے آبائی شہر میں شاپنگ سینٹر پر حملہ؛ 14 ہلاک،22 بچوں سمیت 120 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828532/russia-drone-attack-on-shopping-center-in-ukraine-president-birth-city-2828532/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا سے جنگ کو حتمی نتیجے تک پہنچانے کا وقت آگیا؛ ایرانی صدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828531/iran-president-masoud-pezeshkian-says-time-has-come-to-end-war-with-us-2828531/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:45+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول اور ڈیزل کی قیمتوں میں مزید اضافے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828530/ogra-announce-petrol-and-diesel-prices-for-22-august-2828530/",
-        "source": "Express",
-        "date": "2026-08-21T12:52:02+00:00",
-        "img": ""
       },
       {
         "title": "Swiatek into Cincinnati semis after Rybakina injury",
@@ -4429,6 +4429,30 @@
     ],
     "business": [
       {
+        "title": "کراچی: منگھوپیر میں ویگو گاڑی کی ٹکر سے 60 سالہ شخص جاں بحق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828561/karachi-60-year-old-man-killed-after-being-hit-by-a-vigo-vehicle-in-manghopir-2828561/",
+        "source": "Express",
+        "date": "2026-08-22T01:53:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: مختلف علاقوں میں مبینہ پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828560/karachi-alleged-police-encounters-in-various-areas-4-suspects-arrested-in-injured-condition-2828560/",
+        "source": "Express",
+        "date": "2026-08-22T01:49:29+05:00",
+        "img": ""
+      },
+      {
+        "title": "انگلینڈ کے جو روٹ نے آسٹریلیا کے اسٹیو اسمتھ کا ورلڈ ریکارڈ توڑ دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828559/englands-joe-root-has-broken-australian-steve-smiths-world-record-2828559/",
+        "source": "Express",
+        "date": "2026-08-22T01:27:59+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt hikes petrol price by Rs3.81, high-speed diesel by Rs3.59",
         "summary": "<iframe id=\"raw-html-6a8898fc20331\" class=\"raw-html-embed\" style=\"width: 100%; min-height: 50px; max-height: 9200px; border: none; overflow: hidden;\" scrolling=\"no\" srcdoc=\"<!DOCTYPE html> <html> <head> <style> body { margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; overflow-wrap: anywhere; } <",
         "url": "https://www.dawn.com/news/2024389/govt-hikes-petrol-price-by-rs381-high-speed-diesel-by-rs359",
@@ -4549,6 +4573,14 @@
         "img": ""
       },
       {
+        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
+        "source": "Express",
+        "date": "2026-08-21T19:45:12+05:00",
+        "img": ""
+      },
+      {
         "title": "اقوام متحدہ کے وفد کا کراچی کے تاریخی سینٹ پیٹرک کیتھیڈرل چرچ کا خصوصی دورہ",
         "summary": "",
         "url": "https://www.express.pk/story/2828534/un-delegation-2828534/",
@@ -4581,14 +4613,6 @@
         "img": ""
       },
       {
-        "title": "عمران خان کا طبی معائنہ ماہر ڈاکٹرز نے کیا، عدالتی حکم پر رپورٹس جاری نہیں کرسکتے، پمز اسپتال",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828539/pims-hospital-issue-detail-imran-khan-treatment-and-visit-2828539/",
-        "source": "Express",
-        "date": "2026-08-21T14:45:12+00:00",
-        "img": ""
-      },
-      {
         "title": "دھمکیاں پُرانی، چہرے نئے لیکن ناکامی مقدر؛ ایران کا ٹرمپ پر طنزیہ وار",
         "summary": "",
         "url": "https://www.express.pk/story/2828538/iran-critic-trump-over-economical-threat-2828538/",
@@ -4618,30 +4642,6 @@
         "url": "https://www.express.pk/story/2828533/nccia-raids-foreign-call-center-in-islamabad-no-arrests-made-2828533/",
         "source": "Express",
         "date": "2026-08-21T13:21:30+00:00",
-        "img": ""
-      },
-      {
-        "title": "روس کا یوکرینی صدر کے آبائی شہر میں شاپنگ سینٹر پر حملہ؛ 14 ہلاک،22 بچوں سمیت 120 زخمی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828532/russia-drone-attack-on-shopping-center-in-ukraine-president-birth-city-2828532/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا سے جنگ کو حتمی نتیجے تک پہنچانے کا وقت آگیا؛ ایرانی صدر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828531/iran-president-masoud-pezeshkian-says-time-has-come-to-end-war-with-us-2828531/",
-        "source": "Express",
-        "date": "2026-08-21T12:58:45+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول اور ڈیزل کی قیمتوں میں مزید اضافے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828530/ogra-announce-petrol-and-diesel-prices-for-22-august-2828530/",
-        "source": "Express",
-        "date": "2026-08-21T12:52:02+00:00",
         "img": ""
       },
       {
