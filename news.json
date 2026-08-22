@@ -1,7 +1,63 @@
 {
-  "fetched": "2026-08-22T05:21:19.512025+00:00",
+  "fetched": "2026-08-22T06:30:59.888005+00:00",
   "categories": {
     "international": [
+      {
+        "title": "US hits Canadian goods with 50pc tariffs after trade talks fail",
+        "summary": "<p>The United States imposed 50 per cent tariffs on some ‌Canadian goods on Saturday after the two longstanding allies failed to reach a trade deal, with each side accusing the other of derailing days of talks.</p> <p>The tariffs that came into effect just after midnight (0400 GMT) on some $20 billion of Canadian goods",
+        "url": "https://www.dawn.com/news/2024554/us-hits-canadian-goods-with-50pc-tariffs-after-trade-talks-fail",
+        "source": "Dawn",
+        "date": "2026-08-22T11:17:06+05:00",
+        "img": ""
+      },
+      {
+        "title": "Army deployed in Rawalpindi for six months",
+        "summary": "Army deployed in Rawalpindi for six months",
+        "url": "https://arynews.tv/army-deployed-in-rawalpindi-for-six-months",
+        "source": "ARY News",
+        "date": "2026-08-22T11:12:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Army-deployed-In-Rawalpindi.jpg"
+      },
+      {
+        "title": "SHC directs Sindh censors to 'reconsider' decision barring screenings of Ghost School",
+        "summary": "<p><a href=\"https://images.dawn.com/news/1195707\">https://images.dawn.com/news/1195707</a></p>",
+        "url": "https://www.dawn.com/news/2024552/shc-directs-sindh-censors-to-reconsider-decision-barring-screenings-of-ghost-school",
+        "source": "Dawn",
+        "date": "2026-08-22T10:39:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "Punjab new school timings from August 24, 2026",
+        "summary": "Punjab new school timings from August 24, 2026",
+        "url": "https://arynews.tv/punjab-new-school-timings-from-august-24-2026",
+        "source": "ARY News",
+        "date": "2026-08-22T10:37:55+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Schools.jpg"
+      },
+      {
+        "title": "US judge strikes down policy suspending immigrant visa processing for 75 nations, including Pakistan",
+        "summary": "<p>A US judge on Friday struck down a Trump administration policy <a href=\"https://www.dawn.com/news/1967006\">suspending the issuance of immigrant visas</a> to applicants from 75 countries, including Pakistan, saying that the policy exceeded Secretary of State Marco Rubio’s statutory authority.</p> <p>US District Judge",
+        "url": "https://www.dawn.com/news/2024551/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-for-75-nations-including-pakistan",
+        "source": "Dawn",
+        "date": "2026-08-22T10:36:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "South Korea to send first container ship through Arctic route",
+        "summary": "South Korea to send first container ship through Arctic route",
+        "url": "https://arynews.tv/south-korea-send-first-container-ship-arctic-route",
+        "source": "ARY News",
+        "date": "2026-08-22T10:36:43+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2020/09/ryssua.jpg"
+      },
+      {
+        "title": "US, Canada fail to reach trade pact to avert Trump tariffs",
+        "summary": "US, Canada fail to reach trade pact to avert Trump tariffs",
+        "url": "https://arynews.tv/us-canada-fail-to-reach-trade-pact-to-avert-trump-tariffs",
+        "source": "ARY News",
+        "date": "2026-08-22T10:21:56+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/trump-mark-carney.jpg"
+      },
       {
         "title": "Reading Thucydides in the wolf world",
         "summary": "<p>The term Thucydides’s Trap has caught on since Professor Graham Allison wrote his 2017 book, <em>Destined for War: Can America and China Escape Thucydides’s Trap?</em></p> <p>The core concept comes from Greek soldier-historian Thucydides’s <em>History of the Peloponnesian War</em> who identifies the structural stres",
@@ -83,14 +139,6 @@
         "img": ""
       },
       {
-        "title": "First heart transplant centre opens in Lahore",
-        "summary": "<figure class='media w-full sm:w-full media--center media--uneven media--stretch' data-original-src='https://i.dawn.com/large/2026/08/220321017cc3f95.webp'> <div class='media__item '><picture><img src='https://i.dawn.com/large/2026/08/220321017cc3f95.webp' alt=' Chief Minister Maryam Nawaz visits an operating theatre a",
-        "url": "https://www.dawn.com/news/2024480/first-heart-transplant-centre-opens-in-lahore",
-        "source": "Dawn",
-        "date": "2026-08-22T08:53:43+05:00",
-        "img": ""
-      },
-      {
         "title": "Editorial: The govt turned Imran's court-ordered hospital visit, a routine matter, into a high-stakes political crisis",
         "summary": "<p><a href=\"https://www.dawn.com/news/2024434\">https://www.dawn.com/news/2024434</a></p>",
         "url": "https://www.dawn.com/news/2024545/editorial-the-govt-turned-imrans-court-ordered-hospital-visit-a-routine-matter-into-a-high-stakes-political-crisis",
@@ -155,11 +203,19 @@
         "img": ""
       },
       {
-        "title": "ایران پر معاشی دباؤ بڑھانے کا مطلب یہ نہیں کہ فوجی کارروائی کا امکان ختم ہو گیا: ڈونلڈ ٹرمپ",
-        "summary": "امریکی صدر ٹرمپ نے کہا کہ ’ایران کو شدید معاشی اور فوجی مشکلات کا سامنا ہے اور وہ اپنی فوج اور پولیس کے اہلکاروں کی تنخواہیں ادا کرنے کی پوزیشن میں نہیں۔‘ ان کے مطابق ایران معاہدہ چاہتا ہے، تاہم ان کے خیال میں تہران ابھی درست معاہدے کے لیے تیار نہیں۔",
+        "title": "ٹرمپ کا آبنائے ہرمز کو ’امریکی علاقہ‘ قرار دینے کا اعلان",
+        "summary": "امریکی صدر ڈونلڈ ٹرمپ نے جنوبی کیرولائنا میں انتخابی ریلی کے دوران ایک بار پھر ایران اور آبنائے ہرمز کے حوالے سے سخت مؤقف اختیار کرتے ہوئے کہا کہ ’میں اب آبنائے ہرمز کو امریکی علاقہ قرار دے رہا ہوں۔‘ انھوں نے اس بات پر بھی زور دیا کہ وہ ایران کو کبھی جوہری ہتھیار حاصل نہیں کرنے دیں گے اور خبردار کیا کہ ایسا ہونے کی صور",
         "url": "https://www.bbc.co.uk/urdu/live/c6lyjm89pnjrt?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
-        "date": "2026-08-22T05:21:20.979632+00:00",
+        "date": "2026-08-22T06:31:01.846269+00:00",
+        "img": ""
+      },
+      {
+        "title": "وہ کہانی جس نے انسان کے دل سے وہیل کا ڈر ختم کر دیا: ’دولت کی تلاش میں وہیل کے شکار کی اصل وجہ انتقام تھا‘",
+        "summary": "کہانی اسماعیل نامی ایک ملاح کی زبانی بیان کی جاتی ہے، جو دولت اور مہم جوئی کی تلاش میں احاب کے وہیل کے شکار کے سفر میں شامل ہوتا ہے۔ تاہم جہاز پر سوار ہونے کے بعد احاب اس سفر کی اصل وجہ بیان کرتا ہے جو ہے ’انتقام‘۔",
+        "url": "https://www.bbc.com/urdu/articles/cvg72p9z2nvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-22T06:08:24+00:00",
         "img": ""
       },
       {
@@ -200,22 +256,6 @@
         "url": "https://www.dawn.com/news/2024475/uproar-in-pa-over-imrans-return-to-jail",
         "source": "Dawn",
         "date": "2026-08-22T04:12:41+05:00",
-        "img": ""
-      },
-      {
-        "title": "Tenants clash with police as over 60 shops sealed in Larkana",
-        "summary": "<p>LARKANA: The district administration sealed more than 60 shops located along the New Bus Stand here on Friday, triggering scuffles between police and club-wielding shopkeepers. </p> <p>The Larkana Municipal Corporation has decided to hand over the bus stand to the Sindh government for the construction of a Peoples B",
-        "url": "https://www.dawn.com/news/2024485/tenants-clash-with-police-as-over-60-shops-sealed-in-larkana",
-        "source": "Dawn",
-        "date": "2026-08-22T04:12:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "Sindh-wide crackdown on vehicles without valid documents ordered",
-        "summary": "<p>KARACHI: The Sindh government on Friday announced a comprehensive enforcement campaign against public service vehicles across the province, directing all transport authorities to launch immediate checking drives and seize vehicles operating without digitised route permits, valid fitness certificates and mandatory fi",
-        "url": "https://www.dawn.com/news/2024488/sindh-wide-crackdown-on-vehicles-without-valid-documents-ordered",
-        "source": "Dawn",
-        "date": "2026-08-22T04:12:31+05:00",
         "img": ""
       },
       {
@@ -419,38 +459,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-132.jpg"
       },
       {
-        "title": "49 terrorists killed in joint security operations across KP, Balochistan: ISPR",
-        "summary": "49 terrorists killed in joint security operations across KP, Balochistan: ISPR",
-        "url": "https://arynews.tv/indian-sponsored-terrorists-neutralized-in-two-ibos",
-        "source": "ARY News",
-        "date": "2026-08-21T18:06:45+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawarij-Pakistan-security-forces-ispr.jpg"
-      },
-      {
-        "title": "How Tether’s bitcoin mining plans in Uruguay unraveled",
-        "summary": "How Tether’s bitcoin mining plans in Uruguay unraveled",
-        "url": "https://arynews.tv/tether-bitcoin-mining-plans-in-uruguay-unraveled",
-        "source": "ARY News",
-        "date": "2026-08-21T17:54:49+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/uruguay.jpg"
-      },
-      {
-        "title": "Karachi: Police arrest woman for setting man on fire",
-        "summary": "Karachi: Police arrest woman for setting man on fire",
-        "url": "https://arynews.tv/karachi-police-arrest-woman-for-setting-man-on-fire",
-        "source": "ARY News",
-        "date": "2026-08-21T17:51:35+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Karachi-Police.jpg"
-      },
-      {
-        "title": "Two more die of rabies in Karachi",
-        "summary": "Two more die of rabies in Karachi",
-        "url": "https://arynews.tv/two-more-die-of-rabies-in-karachi-sindh-death-toll-reaches-22",
-        "source": "ARY News",
-        "date": "2026-08-21T17:26:12+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Karachi-Rabies.jpg"
-      },
-      {
         "title": "عمران خان کو شفا ہسپتال نہ لے جانے کا فیصلہ کیا حکومت کے لیے قانونی اور سیاسی مشکلات کا باعث بن سکتا ہے؟",
         "summary": "سابق وزیر اعظم عمران خان کو سپریم کورٹ کے احکامات کے برخلاف شفا ہسپتال کے بجائے پمز ہسپتال کے جانے کے معاملے پر حکومت اور پاکستان تحریک انصاف کے درمیان پہلے سے موجود سیاسی کشیدگی میں بظاہر مزید اضافہ ہوتا دکھائی دے رہا ہے۔",
         "url": "https://www.bbc.com/urdu/articles/czxe9nqe7ego?at_medium=RSS&amp;at_campaign=rss",
@@ -496,14 +504,6 @@
         "url": "https://www.bbc.com/urdu/articles/cdx8w8v59plo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
         "date": "2026-08-21T03:51:21+00:00",
-        "img": ""
-      },
-      {
-        "title": "’دفاعی افواج ایکٹ‘ قومی اسمبلی سے منظور: ’چیف آف ڈیفنس فورسز وزیر اعظم کے اعلیٰ فوجی مشیر ہوں گے‘",
-        "summary": "پاکستان کے ایوان زیریں یعنی قومی اسمبلی نے جمعرات کو دفاعی افواج اور نیشنل کمانڈ اتھارٹی سے متعلق دو بِل کثرت رائے سے منظور کیے ہیں۔ قومی اسمبلی نے پاکستان دفاعی افواج ایکٹ 2026 کی منظوری دی ہے جو 13 نومبر 2025 سے موثر بالعمل سمجھا جائے گا۔ اس میں چیف آف ڈیفنس فورسز کے ہیڈکوارٹر کے قیام کا ذکر ہے۔",
-        "url": "https://www.bbc.com/urdu/articles/crrvgl9zkjvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-20T15:35:42+00:00",
         "img": ""
       },
       {
@@ -573,6 +573,38 @@
     ],
     "national": [
       {
+        "title": "Army deployed in Rawalpindi for six months",
+        "summary": "Army deployed in Rawalpindi for six months",
+        "url": "https://arynews.tv/army-deployed-in-rawalpindi-for-six-months",
+        "source": "ARY News",
+        "date": "2026-08-22T11:12:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Army-deployed-In-Rawalpindi.jpg"
+      },
+      {
+        "title": "Punjab new school timings from August 24, 2026",
+        "summary": "Punjab new school timings from August 24, 2026",
+        "url": "https://arynews.tv/punjab-new-school-timings-from-august-24-2026",
+        "source": "ARY News",
+        "date": "2026-08-22T10:37:55+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Schools.jpg"
+      },
+      {
+        "title": "South Korea to send first container ship through Arctic route",
+        "summary": "South Korea to send first container ship through Arctic route",
+        "url": "https://arynews.tv/south-korea-send-first-container-ship-arctic-route",
+        "source": "ARY News",
+        "date": "2026-08-22T10:36:43+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2020/09/ryssua.jpg"
+      },
+      {
+        "title": "US, Canada fail to reach trade pact to avert Trump tariffs",
+        "summary": "US, Canada fail to reach trade pact to avert Trump tariffs",
+        "url": "https://arynews.tv/us-canada-fail-to-reach-trade-pact-to-avert-trump-tariffs",
+        "source": "ARY News",
+        "date": "2026-08-22T10:21:56+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/trump-mark-carney.jpg"
+      },
+      {
         "title": "Cops barred from uploading selfies in uniform",
         "summary": "<p>KHYBER: The Khyber police authorities have barred cops from uploading their pictures in uniform on social media and directed them not to indulge in such activities.</p> <p>In a notification, district police officer (DPO) Waqar Ahmad directed policemen to refrain from uploading their photos in uniform as such activit",
         "url": "https://www.dawn.com/news/2024418/cops-barred-from-uploading-selfies-in-uniform",
@@ -709,6 +741,38 @@
         "img": ""
       },
       {
+        "title": "پاکستان ویمن فٹبال ٹیم کی کھلاڑی مریم محمود کا نام برطانوی کلب ریکسیم اے ایف سی کے آنر بورڈ پر درج",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828579/maryam-mahmood-honored-on-wrexham-afc-board-2828579/",
+        "source": "Express",
+        "date": "2026-08-22T05:56:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکی جریدہ نے بی جے پی کے حکمرانوں کا سیاہ چہرہ آشکار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828576/us-paper-about-yogi-2828576/",
+        "source": "Express",
+        "date": "2026-08-22T05:40:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کیخلاف مسلح مزاحمت میں مزید شدت آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828574/taliban-and-afghanistan-rebel-2828574/",
+        "source": "Express",
+        "date": "2026-08-22T05:30:10+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیم کی خراب کارکردگی پر سلمان علی آغا نے خاموشی توڑ دی، بابراعظم کی واپسی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828573/salman-ali-agha-breaks-silence-on-teams-poor-performance-babar-azams-return-is-likely-2828573/",
+        "source": "Express",
+        "date": "2026-08-22T05:21:45+05:00",
+        "img": ""
+      },
+      {
         "title": "امریکا نے جنوبی کوریا کو 125 ملین ڈالرز کے هتیاروں کی فروخت کی منظوری دے دی",
         "summary": "",
         "url": "https://www.express.pk/story/2828568/us-approves-potential-125-mil-arms-sale-to-s-korea-2828568/",
@@ -797,6 +861,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Wall-St-indexes.jpg"
       },
       {
+        "title": "سندھ میں پالتو بلی کا پہلا سائنسی پوسٹ مارٹم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828582/sindh-conducts-first-scientific-post-mortem-of-a-pet-cat-2828582/",
+        "source": "Express",
+        "date": "2026-08-22T01:05:56+00:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan saves Rs.4.3 trillion after revising IPP contracts",
         "summary": "Pakistan saves Rs.4.3 trillion after revising IPP contracts",
         "url": "https://arynews.tv/pakistan-saves-rs-4-3-trillion-after-revising-ipp-contracts",
@@ -821,6 +893,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Cancer-Risk.jpg"
       },
       {
+        "title": "راولاکوٹ میں پاک فوج کا میڈیکل کیمپ، مریضوں کو مفت ادویہ فراہم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828577/pakistan-army-medical-camp-in-rawalakot-providing-free-medicines-to-patients-2828577/",
+        "source": "Express",
+        "date": "2026-08-22T00:41:17+00:00",
+        "img": ""
+      },
+      {
+        "title": "عمران خان کی اسپتال منتقلی کے حکم کی خلاف ورزی، سپریم کورٹ میں توہینِ عدالت کی درخواست",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828575/contempt-of-court-petition-filed-in-supreme-court-for-violation-of-imran-khans-hospital-transfer-order-2828575/",
+        "source": "Express",
+        "date": "2026-08-22T00:33:14+00:00",
+        "img": ""
+      },
+      {
         "title": "Red Bull pays up big, signs Max Verstappen to historic $538 million contract to 2030",
         "summary": "Red Bull pays up big, signs Max Verstappen to historic $538 million contract to 2030",
         "url": "https://arynews.tv/red-bull-pays-up-big-signs-max-verstappen-to-historic-538-million-contract-to-2030",
@@ -842,6 +930,22 @@
         "url": "https://www.express.pk/story/2828572/prime-minister-orders-financial-assistance-and-acceleration-of-relief-operations-for-rain-and-flood-victims-2828572/",
         "source": "Express",
         "date": "2026-08-22T00:12:01+00:00",
+        "img": ""
+      },
+      {
+        "title": "ڈیجیٹل معیشت کیلیے اہم قدم؛ ورچوئل اثاثہ جات کی 10 لائسنس کیٹیگریز متعارف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828571/important-step-for-digital-economy-10-license-categories-for-virtual-assets-introduced-2828571/",
+        "source": "Express",
+        "date": "2026-08-21T23:51:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "حیدرآباد سکھر موٹر وے سے پہلے پنجاب کا نیا منصوبہ، سندھ کا وفاق سے اعتراض",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828570/punjabs-new-project-ahead-of-hyderabad-sukkur-motorway-sindh-objects-to-the-federation-2828570/",
+        "source": "Express",
+        "date": "2026-08-21T23:49:48+00:00",
         "img": ""
       },
       {
@@ -909,7 +1013,7 @@
         "img": ""
       },
       {
-        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں آتشزدگی، 7 فائر ٹینڈرز آگ بجھانے میں مصروف",
+        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں لگنے والی آگ پر قابو پالیا گیا",
         "summary": "",
         "url": "https://www.express.pk/story/2828562/karachi-fire-breaks-out-at-a-garment-factory-in-the-site-area-2828562/",
         "source": "Express",
@@ -949,68 +1053,12 @@
         "img": ""
       },
       {
-        "title": "قرضوں کے بوجھ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828552/qarzon-ke-bojh-mein-izafa-2828552/",
-        "source": "Express",
-        "date": "2026-08-21T21:21:47+05:00",
-        "img": ""
-      },
-      {
-        "title": "اے آئی کی پیاس کون بجھائے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828551/ai-ki-pyaas-kaun-bujhaye-2828551/",
-        "source": "Express",
-        "date": "2026-08-21T21:14:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور متحدہ عرب امارات کا ملٹری اے آئی ٹاسک فورس قائم کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828550/us-and-uae-announce-the-establishment-of-a-military-ai-task-force-2828550/",
-        "source": "Express",
-        "date": "2026-08-21T21:13:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "تنقید تعمیری اور کارکردگی کا مقابلہ ضروری ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828549/tanqeed-tameeri-aur-karkardagi-ka-muqabla-zaroori-hai-2828549/",
-        "source": "Express",
-        "date": "2026-08-21T21:10:08+05:00",
-        "img": ""
-      },
-      {
         "title": "Karachi: CCTV video shows man troubling woman in Korangi",
         "summary": "Karachi: CCTV video shows man troubling woman in Korangi",
         "url": "https://arynews.tv/karachi-cctv-video-man-woman-korangi",
         "source": "ARY News",
         "date": "2026-08-21T21:09:17+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/karachi-CCTV.jpg"
-      },
-      {
-        "title": "جنات اورنظام کائنات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828548/jinnat-aur-nizam-e-kainat-2828548/",
-        "source": "Express",
-        "date": "2026-08-21T21:06:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "مسجد اقصیٰ خطرے میں، ہماری ذمے داری کیا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828547/masjid-al-aqsa-khatre-mein-hamari-zimmedari-kya-hai-2828547/",
-        "source": "Express",
-        "date": "2026-08-21T20:58:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کی معاشی یلغار اور عالمی صف بندی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828546/trump-ki-maashi-yalghaar-aur-alami-saf-bandi-2828546/",
-        "source": "Express",
-        "date": "2026-08-21T20:55:52+05:00",
-        "img": ""
       },
       {
         "title": "Ravindra Jadeja’s viral banter in Colombo ahead of 2nd test",
@@ -1027,14 +1075,6 @@
         "source": "ARY News",
         "date": "2026-08-21T20:22:47+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/All-EA-FC-27-PS-1200-675.jpg"
-      },
-      {
-        "title": "امریکا: نوجوان نے 18 ویں سالگرہ پر ہزاروں ڈالر جیت لیے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828544/ohio-player-wins-10000-lottery-prize-on-his-18th-birthday-2828544/",
-        "source": "Express",
-        "date": "2026-08-21T20:21:14+05:00",
-        "img": ""
       },
       {
         "title": "PM Shehbaz takes ‘strict notice’ of officials’ horse-drawn carriage arrival",
@@ -1117,14 +1157,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-132.jpg"
       },
       {
-        "title": "49 terrorists killed in joint security operations across KP, Balochistan: ISPR",
-        "summary": "49 terrorists killed in joint security operations across KP, Balochistan: ISPR",
-        "url": "https://arynews.tv/indian-sponsored-terrorists-neutralized-in-two-ibos",
-        "source": "ARY News",
-        "date": "2026-08-21T18:06:45+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawarij-Pakistan-security-forces-ispr.jpg"
-      },
-      {
         "title": "ایران معاہدہ کرنا چاہتا ہے مگر صحیح معاہدے کے لیے تیار نہیں، ٹرمپ",
         "summary": "",
         "url": "https://www.express.pk/story/2828558/iran-wants-to-make-a-deal-but-isnt-ready-for-the-right-deal-trump-2828558/",
@@ -1133,48 +1165,48 @@
         "img": ""
       },
       {
-        "title": "How Tether’s bitcoin mining plans in Uruguay unraveled",
-        "summary": "How Tether’s bitcoin mining plans in Uruguay unraveled",
-        "url": "https://arynews.tv/tether-bitcoin-mining-plans-in-uruguay-unraveled",
-        "source": "ARY News",
-        "date": "2026-08-21T17:54:49+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/uruguay.jpg"
-      },
-      {
-        "title": "Karachi: Police arrest woman for setting man on fire",
-        "summary": "Karachi: Police arrest woman for setting man on fire",
-        "url": "https://arynews.tv/karachi-police-arrest-woman-for-setting-man-on-fire",
-        "source": "ARY News",
-        "date": "2026-08-21T17:51:35+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Karachi-Police.jpg"
-      },
-      {
         "title": "گوجرانوالہ الیکٹرک پاور کمپنی کی نجکاری میں 11 سرمایہ کاروں کا اظہار دلچسپی",
         "summary": "",
         "url": "https://www.express.pk/story/2828556/11-investors-express-interest-in-privatization-of-gujranwala-electric-power-company-2828556/",
         "source": "Express",
         "date": "2026-08-21T17:43:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "Two more die of rabies in Karachi",
-        "summary": "Two more die of rabies in Karachi",
-        "url": "https://arynews.tv/two-more-die-of-rabies-in-karachi-sindh-death-toll-reaches-22",
-        "source": "ARY News",
-        "date": "2026-08-21T17:26:12+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Karachi-Rabies.jpg"
-      },
-      {
-        "title": "میر رضا قتل کیس؛ ایم ایل او کا موبائل فون تحویل میں لے لیا گیا، پولیس سرجن بھی طلب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828545/mir-raza-murder-case-mlos-mobile-phone-taken-into-custody-police-surgeon-also-summoned-2828545/",
-        "source": "Express",
-        "date": "2026-08-21T15:22:05+00:00",
         "img": ""
       }
     ],
     "kpk": [
       {
+        "title": "Army deployed in Rawalpindi for six months",
+        "summary": "Army deployed in Rawalpindi for six months",
+        "url": "https://arynews.tv/army-deployed-in-rawalpindi-for-six-months",
+        "source": "ARY News",
+        "date": "2026-08-22T11:12:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Army-deployed-In-Rawalpindi.jpg"
+      },
+      {
+        "title": "Punjab new school timings from August 24, 2026",
+        "summary": "Punjab new school timings from August 24, 2026",
+        "url": "https://arynews.tv/punjab-new-school-timings-from-august-24-2026",
+        "source": "ARY News",
+        "date": "2026-08-22T10:37:55+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Schools.jpg"
+      },
+      {
+        "title": "South Korea to send first container ship through Arctic route",
+        "summary": "South Korea to send first container ship through Arctic route",
+        "url": "https://arynews.tv/south-korea-send-first-container-ship-arctic-route",
+        "source": "ARY News",
+        "date": "2026-08-22T10:36:43+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2020/09/ryssua.jpg"
+      },
+      {
+        "title": "US, Canada fail to reach trade pact to avert Trump tariffs",
+        "summary": "US, Canada fail to reach trade pact to avert Trump tariffs",
+        "url": "https://arynews.tv/us-canada-fail-to-reach-trade-pact-to-avert-trump-tariffs",
+        "source": "ARY News",
+        "date": "2026-08-22T10:21:56+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/trump-mark-carney.jpg"
+      },
+      {
         "title": "Cops barred from uploading selfies in uniform",
         "summary": "<p>KHYBER: The Khyber police authorities have barred cops from uploading their pictures in uniform on social media and directed them not to indulge in such activities.</p> <p>In a notification, district police officer (DPO) Waqar Ahmad directed policemen to refrain from uploading their photos in uniform as such activit",
         "url": "https://www.dawn.com/news/2024418/cops-barred-from-uploading-selfies-in-uniform",
@@ -1311,6 +1343,38 @@
         "img": ""
       },
       {
+        "title": "پاکستان ویمن فٹبال ٹیم کی کھلاڑی مریم محمود کا نام برطانوی کلب ریکسیم اے ایف سی کے آنر بورڈ پر درج",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828579/maryam-mahmood-honored-on-wrexham-afc-board-2828579/",
+        "source": "Express",
+        "date": "2026-08-22T05:56:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکی جریدہ نے بی جے پی کے حکمرانوں کا سیاہ چہرہ آشکار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828576/us-paper-about-yogi-2828576/",
+        "source": "Express",
+        "date": "2026-08-22T05:40:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کیخلاف مسلح مزاحمت میں مزید شدت آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828574/taliban-and-afghanistan-rebel-2828574/",
+        "source": "Express",
+        "date": "2026-08-22T05:30:10+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیم کی خراب کارکردگی پر سلمان علی آغا نے خاموشی توڑ دی، بابراعظم کی واپسی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828573/salman-ali-agha-breaks-silence-on-teams-poor-performance-babar-azams-return-is-likely-2828573/",
+        "source": "Express",
+        "date": "2026-08-22T05:21:45+05:00",
+        "img": ""
+      },
+      {
         "title": "امریکا نے جنوبی کوریا کو 125 ملین ڈالرز کے هتیاروں کی فروخت کی منظوری دے دی",
         "summary": "",
         "url": "https://www.express.pk/story/2828568/us-approves-potential-125-mil-arms-sale-to-s-korea-2828568/",
@@ -1399,6 +1463,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Wall-St-indexes.jpg"
       },
       {
+        "title": "سندھ میں پالتو بلی کا پہلا سائنسی پوسٹ مارٹم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828582/sindh-conducts-first-scientific-post-mortem-of-a-pet-cat-2828582/",
+        "source": "Express",
+        "date": "2026-08-22T01:05:56+00:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan saves Rs.4.3 trillion after revising IPP contracts",
         "summary": "Pakistan saves Rs.4.3 trillion after revising IPP contracts",
         "url": "https://arynews.tv/pakistan-saves-rs-4-3-trillion-after-revising-ipp-contracts",
@@ -1423,6 +1495,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Cancer-Risk.jpg"
       },
       {
+        "title": "راولاکوٹ میں پاک فوج کا میڈیکل کیمپ، مریضوں کو مفت ادویہ فراہم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828577/pakistan-army-medical-camp-in-rawalakot-providing-free-medicines-to-patients-2828577/",
+        "source": "Express",
+        "date": "2026-08-22T00:41:17+00:00",
+        "img": ""
+      },
+      {
+        "title": "عمران خان کی اسپتال منتقلی کے حکم کی خلاف ورزی، سپریم کورٹ میں توہینِ عدالت کی درخواست",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828575/contempt-of-court-petition-filed-in-supreme-court-for-violation-of-imran-khans-hospital-transfer-order-2828575/",
+        "source": "Express",
+        "date": "2026-08-22T00:33:14+00:00",
+        "img": ""
+      },
+      {
         "title": "Red Bull pays up big, signs Max Verstappen to historic $538 million contract to 2030",
         "summary": "Red Bull pays up big, signs Max Verstappen to historic $538 million contract to 2030",
         "url": "https://arynews.tv/red-bull-pays-up-big-signs-max-verstappen-to-historic-538-million-contract-to-2030",
@@ -1444,6 +1532,22 @@
         "url": "https://www.express.pk/story/2828572/prime-minister-orders-financial-assistance-and-acceleration-of-relief-operations-for-rain-and-flood-victims-2828572/",
         "source": "Express",
         "date": "2026-08-22T00:12:01+00:00",
+        "img": ""
+      },
+      {
+        "title": "ڈیجیٹل معیشت کیلیے اہم قدم؛ ورچوئل اثاثہ جات کی 10 لائسنس کیٹیگریز متعارف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828571/important-step-for-digital-economy-10-license-categories-for-virtual-assets-introduced-2828571/",
+        "source": "Express",
+        "date": "2026-08-21T23:51:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "حیدرآباد سکھر موٹر وے سے پہلے پنجاب کا نیا منصوبہ، سندھ کا وفاق سے اعتراض",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828570/punjabs-new-project-ahead-of-hyderabad-sukkur-motorway-sindh-objects-to-the-federation-2828570/",
+        "source": "Express",
+        "date": "2026-08-21T23:49:48+00:00",
         "img": ""
       },
       {
@@ -1511,7 +1615,7 @@
         "img": ""
       },
       {
-        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں آتشزدگی، 7 فائر ٹینڈرز آگ بجھانے میں مصروف",
+        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں لگنے والی آگ پر قابو پالیا گیا",
         "summary": "",
         "url": "https://www.express.pk/story/2828562/karachi-fire-breaks-out-at-a-garment-factory-in-the-site-area-2828562/",
         "source": "Express",
@@ -1551,68 +1655,12 @@
         "img": ""
       },
       {
-        "title": "قرضوں کے بوجھ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828552/qarzon-ke-bojh-mein-izafa-2828552/",
-        "source": "Express",
-        "date": "2026-08-21T21:21:47+05:00",
-        "img": ""
-      },
-      {
-        "title": "اے آئی کی پیاس کون بجھائے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828551/ai-ki-pyaas-kaun-bujhaye-2828551/",
-        "source": "Express",
-        "date": "2026-08-21T21:14:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور متحدہ عرب امارات کا ملٹری اے آئی ٹاسک فورس قائم کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828550/us-and-uae-announce-the-establishment-of-a-military-ai-task-force-2828550/",
-        "source": "Express",
-        "date": "2026-08-21T21:13:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "تنقید تعمیری اور کارکردگی کا مقابلہ ضروری ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828549/tanqeed-tameeri-aur-karkardagi-ka-muqabla-zaroori-hai-2828549/",
-        "source": "Express",
-        "date": "2026-08-21T21:10:08+05:00",
-        "img": ""
-      },
-      {
         "title": "Karachi: CCTV video shows man troubling woman in Korangi",
         "summary": "Karachi: CCTV video shows man troubling woman in Korangi",
         "url": "https://arynews.tv/karachi-cctv-video-man-woman-korangi",
         "source": "ARY News",
         "date": "2026-08-21T21:09:17+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/karachi-CCTV.jpg"
-      },
-      {
-        "title": "جنات اورنظام کائنات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828548/jinnat-aur-nizam-e-kainat-2828548/",
-        "source": "Express",
-        "date": "2026-08-21T21:06:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "مسجد اقصیٰ خطرے میں، ہماری ذمے داری کیا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828547/masjid-al-aqsa-khatre-mein-hamari-zimmedari-kya-hai-2828547/",
-        "source": "Express",
-        "date": "2026-08-21T20:58:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کی معاشی یلغار اور عالمی صف بندی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828546/trump-ki-maashi-yalghaar-aur-alami-saf-bandi-2828546/",
-        "source": "Express",
-        "date": "2026-08-21T20:55:52+05:00",
-        "img": ""
       },
       {
         "title": "Ravindra Jadeja’s viral banter in Colombo ahead of 2nd test",
@@ -1629,14 +1677,6 @@
         "source": "ARY News",
         "date": "2026-08-21T20:22:47+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/All-EA-FC-27-PS-1200-675.jpg"
-      },
-      {
-        "title": "امریکا: نوجوان نے 18 ویں سالگرہ پر ہزاروں ڈالر جیت لیے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828544/ohio-player-wins-10000-lottery-prize-on-his-18th-birthday-2828544/",
-        "source": "Express",
-        "date": "2026-08-21T20:21:14+05:00",
-        "img": ""
       },
       {
         "title": "PM Shehbaz takes ‘strict notice’ of officials’ horse-drawn carriage arrival",
@@ -1719,14 +1759,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-132.jpg"
       },
       {
-        "title": "49 terrorists killed in joint security operations across KP, Balochistan: ISPR",
-        "summary": "49 terrorists killed in joint security operations across KP, Balochistan: ISPR",
-        "url": "https://arynews.tv/indian-sponsored-terrorists-neutralized-in-two-ibos",
-        "source": "ARY News",
-        "date": "2026-08-21T18:06:45+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawarij-Pakistan-security-forces-ispr.jpg"
-      },
-      {
         "title": "ایران معاہدہ کرنا چاہتا ہے مگر صحیح معاہدے کے لیے تیار نہیں، ٹرمپ",
         "summary": "",
         "url": "https://www.express.pk/story/2828558/iran-wants-to-make-a-deal-but-isnt-ready-for-the-right-deal-trump-2828558/",
@@ -1735,36 +1767,12 @@
         "img": ""
       },
       {
-        "title": "How Tether’s bitcoin mining plans in Uruguay unraveled",
-        "summary": "How Tether’s bitcoin mining plans in Uruguay unraveled",
-        "url": "https://arynews.tv/tether-bitcoin-mining-plans-in-uruguay-unraveled",
-        "source": "ARY News",
-        "date": "2026-08-21T17:54:49+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/uruguay.jpg"
-      },
-      {
-        "title": "Karachi: Police arrest woman for setting man on fire",
-        "summary": "Karachi: Police arrest woman for setting man on fire",
-        "url": "https://arynews.tv/karachi-police-arrest-woman-for-setting-man-on-fire",
-        "source": "ARY News",
-        "date": "2026-08-21T17:51:35+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Karachi-Police.jpg"
-      },
-      {
         "title": "گوجرانوالہ الیکٹرک پاور کمپنی کی نجکاری میں 11 سرمایہ کاروں کا اظہار دلچسپی",
         "summary": "",
         "url": "https://www.express.pk/story/2828556/11-investors-express-interest-in-privatization-of-gujranwala-electric-power-company-2828556/",
         "source": "Express",
         "date": "2026-08-21T17:43:32+00:00",
         "img": ""
-      },
-      {
-        "title": "Two more die of rabies in Karachi",
-        "summary": "Two more die of rabies in Karachi",
-        "url": "https://arynews.tv/two-more-die-of-rabies-in-karachi-sindh-death-toll-reaches-22",
-        "source": "ARY News",
-        "date": "2026-08-21T17:26:12+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Karachi-Rabies.jpg"
       },
       {
         "title": "Pakistani coordinator for SCO affairs meets ambassadors of member countries on Heads of State Summit 2027",
@@ -1772,14 +1780,6 @@
         "url": "https://khybernews.tv/pakistani-coordinator-for-sco-affairs-meets-ambassadors-of-member-countries-on-heads-of-state-summit-2027/",
         "source": "Khyber News",
         "date": "2026-08-21T17:10:00+00:00",
-        "img": ""
-      },
-      {
-        "title": "میر رضا قتل کیس؛ ایم ایل او کا موبائل فون تحویل میں لے لیا گیا، پولیس سرجن بھی طلب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828545/mir-raza-murder-case-mlos-mobile-phone-taken-into-custody-police-surgeon-also-summoned-2828545/",
-        "source": "Express",
-        "date": "2026-08-21T15:22:05+00:00",
         "img": ""
       },
       {
@@ -1993,6 +1993,38 @@
         "img": ""
       },
       {
+        "title": "پاکستان ویمن فٹبال ٹیم کی کھلاڑی مریم محمود کا نام برطانوی کلب ریکسیم اے ایف سی کے آنر بورڈ پر درج",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828579/maryam-mahmood-honored-on-wrexham-afc-board-2828579/",
+        "source": "Express",
+        "date": "2026-08-22T05:56:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکی جریدہ نے بی جے پی کے حکمرانوں کا سیاہ چہرہ آشکار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828576/us-paper-about-yogi-2828576/",
+        "source": "Express",
+        "date": "2026-08-22T05:40:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کیخلاف مسلح مزاحمت میں مزید شدت آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828574/taliban-and-afghanistan-rebel-2828574/",
+        "source": "Express",
+        "date": "2026-08-22T05:30:10+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیم کی خراب کارکردگی پر سلمان علی آغا نے خاموشی توڑ دی، بابراعظم کی واپسی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828573/salman-ali-agha-breaks-silence-on-teams-poor-performance-babar-azams-return-is-likely-2828573/",
+        "source": "Express",
+        "date": "2026-08-22T05:21:45+05:00",
+        "img": ""
+      },
+      {
         "title": "امریکا نے جنوبی کوریا کو 125 ملین ڈالرز کے هتیاروں کی فروخت کی منظوری دے دی",
         "summary": "",
         "url": "https://www.express.pk/story/2828568/us-approves-potential-125-mil-arms-sale-to-s-korea-2828568/",
@@ -2073,11 +2105,51 @@
         "img": ""
       },
       {
+        "title": "سندھ میں پالتو بلی کا پہلا سائنسی پوسٹ مارٹم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828582/sindh-conducts-first-scientific-post-mortem-of-a-pet-cat-2828582/",
+        "source": "Express",
+        "date": "2026-08-22T01:05:56+00:00",
+        "img": ""
+      },
+      {
+        "title": "راولاکوٹ میں پاک فوج کا میڈیکل کیمپ، مریضوں کو مفت ادویہ فراہم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828577/pakistan-army-medical-camp-in-rawalakot-providing-free-medicines-to-patients-2828577/",
+        "source": "Express",
+        "date": "2026-08-22T00:41:17+00:00",
+        "img": ""
+      },
+      {
+        "title": "عمران خان کی اسپتال منتقلی کے حکم کی خلاف ورزی، سپریم کورٹ میں توہینِ عدالت کی درخواست",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828575/contempt-of-court-petition-filed-in-supreme-court-for-violation-of-imran-khans-hospital-transfer-order-2828575/",
+        "source": "Express",
+        "date": "2026-08-22T00:33:14+00:00",
+        "img": ""
+      },
+      {
         "title": "وزیراعظم کا بارشوں و سیلاب متاثرین کی مالی معاونت اور امدادی کارروائیاں تیز کرنے کا حکم",
         "summary": "",
         "url": "https://www.express.pk/story/2828572/prime-minister-orders-financial-assistance-and-acceleration-of-relief-operations-for-rain-and-flood-victims-2828572/",
         "source": "Express",
         "date": "2026-08-22T00:12:01+00:00",
+        "img": ""
+      },
+      {
+        "title": "ڈیجیٹل معیشت کیلیے اہم قدم؛ ورچوئل اثاثہ جات کی 10 لائسنس کیٹیگریز متعارف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828571/important-step-for-digital-economy-10-license-categories-for-virtual-assets-introduced-2828571/",
+        "source": "Express",
+        "date": "2026-08-21T23:51:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "حیدرآباد سکھر موٹر وے سے پہلے پنجاب کا نیا منصوبہ، سندھ کا وفاق سے اعتراض",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828570/punjabs-new-project-ahead-of-hyderabad-sukkur-motorway-sindh-objects-to-the-federation-2828570/",
+        "source": "Express",
+        "date": "2026-08-21T23:49:48+00:00",
         "img": ""
       },
       {
@@ -2121,7 +2193,7 @@
         "img": ""
       },
       {
-        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں آتشزدگی، 7 فائر ٹینڈرز آگ بجھانے میں مصروف",
+        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں لگنے والی آگ پر قابو پالیا گیا",
         "summary": "",
         "url": "https://www.express.pk/story/2828562/karachi-fire-breaks-out-at-a-garment-factory-in-the-site-area-2828562/",
         "source": "Express",
@@ -2150,70 +2222,6 @@
         "url": "https://www.express.pk/story/2828553/jinhein-jurm-e-ishq-pe-naaz-tha-woh-gunahgaar-chale-gaye-2828553/",
         "source": "Express",
         "date": "2026-08-21T21:23:35+05:00",
-        "img": ""
-      },
-      {
-        "title": "قرضوں کے بوجھ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828552/qarzon-ke-bojh-mein-izafa-2828552/",
-        "source": "Express",
-        "date": "2026-08-21T21:21:47+05:00",
-        "img": ""
-      },
-      {
-        "title": "اے آئی کی پیاس کون بجھائے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828551/ai-ki-pyaas-kaun-bujhaye-2828551/",
-        "source": "Express",
-        "date": "2026-08-21T21:14:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور متحدہ عرب امارات کا ملٹری اے آئی ٹاسک فورس قائم کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828550/us-and-uae-announce-the-establishment-of-a-military-ai-task-force-2828550/",
-        "source": "Express",
-        "date": "2026-08-21T21:13:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "تنقید تعمیری اور کارکردگی کا مقابلہ ضروری ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828549/tanqeed-tameeri-aur-karkardagi-ka-muqabla-zaroori-hai-2828549/",
-        "source": "Express",
-        "date": "2026-08-21T21:10:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنات اورنظام کائنات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828548/jinnat-aur-nizam-e-kainat-2828548/",
-        "source": "Express",
-        "date": "2026-08-21T21:06:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "مسجد اقصیٰ خطرے میں، ہماری ذمے داری کیا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828547/masjid-al-aqsa-khatre-mein-hamari-zimmedari-kya-hai-2828547/",
-        "source": "Express",
-        "date": "2026-08-21T20:58:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کی معاشی یلغار اور عالمی صف بندی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828546/trump-ki-maashi-yalghaar-aur-alami-saf-bandi-2828546/",
-        "source": "Express",
-        "date": "2026-08-21T20:55:52+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا: نوجوان نے 18 ویں سالگرہ پر ہزاروں ڈالر جیت لیے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828544/ohio-player-wins-10000-lottery-prize-on-his-18th-birthday-2828544/",
-        "source": "Express",
-        "date": "2026-08-21T20:21:14+05:00",
         "img": ""
       },
       {
@@ -2246,14 +2254,6 @@
         "url": "https://www.express.pk/story/2828556/11-investors-express-interest-in-privatization-of-gujranwala-electric-power-company-2828556/",
         "source": "Express",
         "date": "2026-08-21T17:43:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "میر رضا قتل کیس؛ ایم ایل او کا موبائل فون تحویل میں لے لیا گیا، پولیس سرجن بھی طلب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828545/mir-raza-murder-case-mlos-mobile-phone-taken-into-custody-police-surgeon-also-summoned-2828545/",
-        "source": "Express",
-        "date": "2026-08-21T15:22:05+00:00",
         "img": ""
       }
     ],
@@ -2395,6 +2395,38 @@
         "img": ""
       },
       {
+        "title": "پاکستان ویمن فٹبال ٹیم کی کھلاڑی مریم محمود کا نام برطانوی کلب ریکسیم اے ایف سی کے آنر بورڈ پر درج",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828579/maryam-mahmood-honored-on-wrexham-afc-board-2828579/",
+        "source": "Express",
+        "date": "2026-08-22T05:56:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکی جریدہ نے بی جے پی کے حکمرانوں کا سیاہ چہرہ آشکار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828576/us-paper-about-yogi-2828576/",
+        "source": "Express",
+        "date": "2026-08-22T05:40:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کیخلاف مسلح مزاحمت میں مزید شدت آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828574/taliban-and-afghanistan-rebel-2828574/",
+        "source": "Express",
+        "date": "2026-08-22T05:30:10+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیم کی خراب کارکردگی پر سلمان علی آغا نے خاموشی توڑ دی، بابراعظم کی واپسی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828573/salman-ali-agha-breaks-silence-on-teams-poor-performance-babar-azams-return-is-likely-2828573/",
+        "source": "Express",
+        "date": "2026-08-22T05:21:45+05:00",
+        "img": ""
+      },
+      {
         "title": "امریکا نے جنوبی کوریا کو 125 ملین ڈالرز کے هتیاروں کی فروخت کی منظوری دے دی",
         "summary": "",
         "url": "https://www.express.pk/story/2828568/us-approves-potential-125-mil-arms-sale-to-s-korea-2828568/",
@@ -2475,11 +2507,51 @@
         "img": ""
       },
       {
+        "title": "سندھ میں پالتو بلی کا پہلا سائنسی پوسٹ مارٹم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828582/sindh-conducts-first-scientific-post-mortem-of-a-pet-cat-2828582/",
+        "source": "Express",
+        "date": "2026-08-22T01:05:56+00:00",
+        "img": ""
+      },
+      {
+        "title": "راولاکوٹ میں پاک فوج کا میڈیکل کیمپ، مریضوں کو مفت ادویہ فراہم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828577/pakistan-army-medical-camp-in-rawalakot-providing-free-medicines-to-patients-2828577/",
+        "source": "Express",
+        "date": "2026-08-22T00:41:17+00:00",
+        "img": ""
+      },
+      {
+        "title": "عمران خان کی اسپتال منتقلی کے حکم کی خلاف ورزی، سپریم کورٹ میں توہینِ عدالت کی درخواست",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828575/contempt-of-court-petition-filed-in-supreme-court-for-violation-of-imran-khans-hospital-transfer-order-2828575/",
+        "source": "Express",
+        "date": "2026-08-22T00:33:14+00:00",
+        "img": ""
+      },
+      {
         "title": "وزیراعظم کا بارشوں و سیلاب متاثرین کی مالی معاونت اور امدادی کارروائیاں تیز کرنے کا حکم",
         "summary": "",
         "url": "https://www.express.pk/story/2828572/prime-minister-orders-financial-assistance-and-acceleration-of-relief-operations-for-rain-and-flood-victims-2828572/",
         "source": "Express",
         "date": "2026-08-22T00:12:01+00:00",
+        "img": ""
+      },
+      {
+        "title": "ڈیجیٹل معیشت کیلیے اہم قدم؛ ورچوئل اثاثہ جات کی 10 لائسنس کیٹیگریز متعارف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828571/important-step-for-digital-economy-10-license-categories-for-virtual-assets-introduced-2828571/",
+        "source": "Express",
+        "date": "2026-08-21T23:51:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "حیدرآباد سکھر موٹر وے سے پہلے پنجاب کا نیا منصوبہ، سندھ کا وفاق سے اعتراض",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828570/punjabs-new-project-ahead-of-hyderabad-sukkur-motorway-sindh-objects-to-the-federation-2828570/",
+        "source": "Express",
+        "date": "2026-08-21T23:49:48+00:00",
         "img": ""
       },
       {
@@ -2523,7 +2595,7 @@
         "img": ""
       },
       {
-        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں آتشزدگی، 7 فائر ٹینڈرز آگ بجھانے میں مصروف",
+        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں لگنے والی آگ پر قابو پالیا گیا",
         "summary": "",
         "url": "https://www.express.pk/story/2828562/karachi-fire-breaks-out-at-a-garment-factory-in-the-site-area-2828562/",
         "source": "Express",
@@ -2552,70 +2624,6 @@
         "url": "https://www.express.pk/story/2828553/jinhein-jurm-e-ishq-pe-naaz-tha-woh-gunahgaar-chale-gaye-2828553/",
         "source": "Express",
         "date": "2026-08-21T21:23:35+05:00",
-        "img": ""
-      },
-      {
-        "title": "قرضوں کے بوجھ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828552/qarzon-ke-bojh-mein-izafa-2828552/",
-        "source": "Express",
-        "date": "2026-08-21T21:21:47+05:00",
-        "img": ""
-      },
-      {
-        "title": "اے آئی کی پیاس کون بجھائے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828551/ai-ki-pyaas-kaun-bujhaye-2828551/",
-        "source": "Express",
-        "date": "2026-08-21T21:14:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور متحدہ عرب امارات کا ملٹری اے آئی ٹاسک فورس قائم کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828550/us-and-uae-announce-the-establishment-of-a-military-ai-task-force-2828550/",
-        "source": "Express",
-        "date": "2026-08-21T21:13:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "تنقید تعمیری اور کارکردگی کا مقابلہ ضروری ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828549/tanqeed-tameeri-aur-karkardagi-ka-muqabla-zaroori-hai-2828549/",
-        "source": "Express",
-        "date": "2026-08-21T21:10:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنات اورنظام کائنات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828548/jinnat-aur-nizam-e-kainat-2828548/",
-        "source": "Express",
-        "date": "2026-08-21T21:06:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "مسجد اقصیٰ خطرے میں، ہماری ذمے داری کیا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828547/masjid-al-aqsa-khatre-mein-hamari-zimmedari-kya-hai-2828547/",
-        "source": "Express",
-        "date": "2026-08-21T20:58:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کی معاشی یلغار اور عالمی صف بندی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828546/trump-ki-maashi-yalghaar-aur-alami-saf-bandi-2828546/",
-        "source": "Express",
-        "date": "2026-08-21T20:55:52+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا: نوجوان نے 18 ویں سالگرہ پر ہزاروں ڈالر جیت لیے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828544/ohio-player-wins-10000-lottery-prize-on-his-18th-birthday-2828544/",
-        "source": "Express",
-        "date": "2026-08-21T20:21:14+05:00",
         "img": ""
       },
       {
@@ -2649,17 +2657,41 @@
         "source": "Express",
         "date": "2026-08-21T17:43:32+00:00",
         "img": ""
-      },
-      {
-        "title": "میر رضا قتل کیس؛ ایم ایل او کا موبائل فون تحویل میں لے لیا گیا، پولیس سرجن بھی طلب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828545/mir-raza-murder-case-mlos-mobile-phone-taken-into-custody-police-surgeon-also-summoned-2828545/",
-        "source": "Express",
-        "date": "2026-08-21T15:22:05+00:00",
-        "img": ""
       }
     ],
     "baloch": [
+      {
+        "title": "Army deployed in Rawalpindi for six months",
+        "summary": "Army deployed in Rawalpindi for six months",
+        "url": "https://arynews.tv/army-deployed-in-rawalpindi-for-six-months",
+        "source": "ARY News",
+        "date": "2026-08-22T11:12:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Army-deployed-In-Rawalpindi.jpg"
+      },
+      {
+        "title": "Punjab new school timings from August 24, 2026",
+        "summary": "Punjab new school timings from August 24, 2026",
+        "url": "https://arynews.tv/punjab-new-school-timings-from-august-24-2026",
+        "source": "ARY News",
+        "date": "2026-08-22T10:37:55+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Schools.jpg"
+      },
+      {
+        "title": "South Korea to send first container ship through Arctic route",
+        "summary": "South Korea to send first container ship through Arctic route",
+        "url": "https://arynews.tv/south-korea-send-first-container-ship-arctic-route",
+        "source": "ARY News",
+        "date": "2026-08-22T10:36:43+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2020/09/ryssua.jpg"
+      },
+      {
+        "title": "US, Canada fail to reach trade pact to avert Trump tariffs",
+        "summary": "US, Canada fail to reach trade pact to avert Trump tariffs",
+        "url": "https://arynews.tv/us-canada-fail-to-reach-trade-pact-to-avert-trump-tariffs",
+        "source": "ARY News",
+        "date": "2026-08-22T10:21:56+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/trump-mark-carney.jpg"
+      },
       {
         "title": "Cops barred from uploading selfies in uniform",
         "summary": "<p>KHYBER: The Khyber police authorities have barred cops from uploading their pictures in uniform on social media and directed them not to indulge in such activities.</p> <p>In a notification, district police officer (DPO) Waqar Ahmad directed policemen to refrain from uploading their photos in uniform as such activit",
@@ -2797,6 +2829,38 @@
         "img": ""
       },
       {
+        "title": "پاکستان ویمن فٹبال ٹیم کی کھلاڑی مریم محمود کا نام برطانوی کلب ریکسیم اے ایف سی کے آنر بورڈ پر درج",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828579/maryam-mahmood-honored-on-wrexham-afc-board-2828579/",
+        "source": "Express",
+        "date": "2026-08-22T05:56:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکی جریدہ نے بی جے پی کے حکمرانوں کا سیاہ چہرہ آشکار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828576/us-paper-about-yogi-2828576/",
+        "source": "Express",
+        "date": "2026-08-22T05:40:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کیخلاف مسلح مزاحمت میں مزید شدت آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828574/taliban-and-afghanistan-rebel-2828574/",
+        "source": "Express",
+        "date": "2026-08-22T05:30:10+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیم کی خراب کارکردگی پر سلمان علی آغا نے خاموشی توڑ دی، بابراعظم کی واپسی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828573/salman-ali-agha-breaks-silence-on-teams-poor-performance-babar-azams-return-is-likely-2828573/",
+        "source": "Express",
+        "date": "2026-08-22T05:21:45+05:00",
+        "img": ""
+      },
+      {
         "title": "امریکا نے جنوبی کوریا کو 125 ملین ڈالرز کے هتیاروں کی فروخت کی منظوری دے دی",
         "summary": "",
         "url": "https://www.express.pk/story/2828568/us-approves-potential-125-mil-arms-sale-to-s-korea-2828568/",
@@ -2885,6 +2949,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Wall-St-indexes.jpg"
       },
       {
+        "title": "سندھ میں پالتو بلی کا پہلا سائنسی پوسٹ مارٹم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828582/sindh-conducts-first-scientific-post-mortem-of-a-pet-cat-2828582/",
+        "source": "Express",
+        "date": "2026-08-22T01:05:56+00:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan saves Rs.4.3 trillion after revising IPP contracts",
         "summary": "Pakistan saves Rs.4.3 trillion after revising IPP contracts",
         "url": "https://arynews.tv/pakistan-saves-rs-4-3-trillion-after-revising-ipp-contracts",
@@ -2909,6 +2981,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Cancer-Risk.jpg"
       },
       {
+        "title": "راولاکوٹ میں پاک فوج کا میڈیکل کیمپ، مریضوں کو مفت ادویہ فراہم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828577/pakistan-army-medical-camp-in-rawalakot-providing-free-medicines-to-patients-2828577/",
+        "source": "Express",
+        "date": "2026-08-22T00:41:17+00:00",
+        "img": ""
+      },
+      {
+        "title": "عمران خان کی اسپتال منتقلی کے حکم کی خلاف ورزی، سپریم کورٹ میں توہینِ عدالت کی درخواست",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828575/contempt-of-court-petition-filed-in-supreme-court-for-violation-of-imran-khans-hospital-transfer-order-2828575/",
+        "source": "Express",
+        "date": "2026-08-22T00:33:14+00:00",
+        "img": ""
+      },
+      {
         "title": "Red Bull pays up big, signs Max Verstappen to historic $538 million contract to 2030",
         "summary": "Red Bull pays up big, signs Max Verstappen to historic $538 million contract to 2030",
         "url": "https://arynews.tv/red-bull-pays-up-big-signs-max-verstappen-to-historic-538-million-contract-to-2030",
@@ -2930,6 +3018,22 @@
         "url": "https://www.express.pk/story/2828572/prime-minister-orders-financial-assistance-and-acceleration-of-relief-operations-for-rain-and-flood-victims-2828572/",
         "source": "Express",
         "date": "2026-08-22T00:12:01+00:00",
+        "img": ""
+      },
+      {
+        "title": "ڈیجیٹل معیشت کیلیے اہم قدم؛ ورچوئل اثاثہ جات کی 10 لائسنس کیٹیگریز متعارف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828571/important-step-for-digital-economy-10-license-categories-for-virtual-assets-introduced-2828571/",
+        "source": "Express",
+        "date": "2026-08-21T23:51:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "حیدرآباد سکھر موٹر وے سے پہلے پنجاب کا نیا منصوبہ، سندھ کا وفاق سے اعتراض",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828570/punjabs-new-project-ahead-of-hyderabad-sukkur-motorway-sindh-objects-to-the-federation-2828570/",
+        "source": "Express",
+        "date": "2026-08-21T23:49:48+00:00",
         "img": ""
       },
       {
@@ -2997,7 +3101,7 @@
         "img": ""
       },
       {
-        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں آتشزدگی، 7 فائر ٹینڈرز آگ بجھانے میں مصروف",
+        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں لگنے والی آگ پر قابو پالیا گیا",
         "summary": "",
         "url": "https://www.express.pk/story/2828562/karachi-fire-breaks-out-at-a-garment-factory-in-the-site-area-2828562/",
         "source": "Express",
@@ -3037,68 +3141,12 @@
         "img": ""
       },
       {
-        "title": "قرضوں کے بوجھ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828552/qarzon-ke-bojh-mein-izafa-2828552/",
-        "source": "Express",
-        "date": "2026-08-21T21:21:47+05:00",
-        "img": ""
-      },
-      {
-        "title": "اے آئی کی پیاس کون بجھائے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828551/ai-ki-pyaas-kaun-bujhaye-2828551/",
-        "source": "Express",
-        "date": "2026-08-21T21:14:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور متحدہ عرب امارات کا ملٹری اے آئی ٹاسک فورس قائم کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828550/us-and-uae-announce-the-establishment-of-a-military-ai-task-force-2828550/",
-        "source": "Express",
-        "date": "2026-08-21T21:13:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "تنقید تعمیری اور کارکردگی کا مقابلہ ضروری ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828549/tanqeed-tameeri-aur-karkardagi-ka-muqabla-zaroori-hai-2828549/",
-        "source": "Express",
-        "date": "2026-08-21T21:10:08+05:00",
-        "img": ""
-      },
-      {
         "title": "Karachi: CCTV video shows man troubling woman in Korangi",
         "summary": "Karachi: CCTV video shows man troubling woman in Korangi",
         "url": "https://arynews.tv/karachi-cctv-video-man-woman-korangi",
         "source": "ARY News",
         "date": "2026-08-21T21:09:17+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/karachi-CCTV.jpg"
-      },
-      {
-        "title": "جنات اورنظام کائنات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828548/jinnat-aur-nizam-e-kainat-2828548/",
-        "source": "Express",
-        "date": "2026-08-21T21:06:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "مسجد اقصیٰ خطرے میں، ہماری ذمے داری کیا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828547/masjid-al-aqsa-khatre-mein-hamari-zimmedari-kya-hai-2828547/",
-        "source": "Express",
-        "date": "2026-08-21T20:58:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کی معاشی یلغار اور عالمی صف بندی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828546/trump-ki-maashi-yalghaar-aur-alami-saf-bandi-2828546/",
-        "source": "Express",
-        "date": "2026-08-21T20:55:52+05:00",
-        "img": ""
       },
       {
         "title": "Ravindra Jadeja’s viral banter in Colombo ahead of 2nd test",
@@ -3115,14 +3163,6 @@
         "source": "ARY News",
         "date": "2026-08-21T20:22:47+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/All-EA-FC-27-PS-1200-675.jpg"
-      },
-      {
-        "title": "امریکا: نوجوان نے 18 ویں سالگرہ پر ہزاروں ڈالر جیت لیے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828544/ohio-player-wins-10000-lottery-prize-on-his-18th-birthday-2828544/",
-        "source": "Express",
-        "date": "2026-08-21T20:21:14+05:00",
-        "img": ""
       },
       {
         "title": "PM Shehbaz takes ‘strict notice’ of officials’ horse-drawn carriage arrival",
@@ -3205,14 +3245,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-132.jpg"
       },
       {
-        "title": "49 terrorists killed in joint security operations across KP, Balochistan: ISPR",
-        "summary": "49 terrorists killed in joint security operations across KP, Balochistan: ISPR",
-        "url": "https://arynews.tv/indian-sponsored-terrorists-neutralized-in-two-ibos",
-        "source": "ARY News",
-        "date": "2026-08-21T18:06:45+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawarij-Pakistan-security-forces-ispr.jpg"
-      },
-      {
         "title": "ایران معاہدہ کرنا چاہتا ہے مگر صحیح معاہدے کے لیے تیار نہیں، ٹرمپ",
         "summary": "",
         "url": "https://www.express.pk/story/2828558/iran-wants-to-make-a-deal-but-isnt-ready-for-the-right-deal-trump-2828558/",
@@ -3221,47 +3253,79 @@
         "img": ""
       },
       {
-        "title": "How Tether’s bitcoin mining plans in Uruguay unraveled",
-        "summary": "How Tether’s bitcoin mining plans in Uruguay unraveled",
-        "url": "https://arynews.tv/tether-bitcoin-mining-plans-in-uruguay-unraveled",
-        "source": "ARY News",
-        "date": "2026-08-21T17:54:49+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/uruguay.jpg"
-      },
-      {
-        "title": "Karachi: Police arrest woman for setting man on fire",
-        "summary": "Karachi: Police arrest woman for setting man on fire",
-        "url": "https://arynews.tv/karachi-police-arrest-woman-for-setting-man-on-fire",
-        "source": "ARY News",
-        "date": "2026-08-21T17:51:35+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Karachi-Police.jpg"
-      },
-      {
         "title": "گوجرانوالہ الیکٹرک پاور کمپنی کی نجکاری میں 11 سرمایہ کاروں کا اظہار دلچسپی",
         "summary": "",
         "url": "https://www.express.pk/story/2828556/11-investors-express-interest-in-privatization-of-gujranwala-electric-power-company-2828556/",
         "source": "Express",
         "date": "2026-08-21T17:43:32+00:00",
         "img": ""
-      },
-      {
-        "title": "Two more die of rabies in Karachi",
-        "summary": "Two more die of rabies in Karachi",
-        "url": "https://arynews.tv/two-more-die-of-rabies-in-karachi-sindh-death-toll-reaches-22",
-        "source": "ARY News",
-        "date": "2026-08-21T17:26:12+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Karachi-Rabies.jpg"
-      },
-      {
-        "title": "میر رضا قتل کیس؛ ایم ایل او کا موبائل فون تحویل میں لے لیا گیا، پولیس سرجن بھی طلب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828545/mir-raza-murder-case-mlos-mobile-phone-taken-into-custody-police-surgeon-also-summoned-2828545/",
-        "source": "Express",
-        "date": "2026-08-21T15:22:05+00:00",
-        "img": ""
       }
     ],
     "education": [
+      {
+        "title": "Army deployed in Rawalpindi for six months",
+        "summary": "Army deployed in Rawalpindi for six months",
+        "url": "https://arynews.tv/army-deployed-in-rawalpindi-for-six-months",
+        "source": "ARY News",
+        "date": "2026-08-22T11:12:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Army-deployed-In-Rawalpindi.jpg"
+      },
+      {
+        "title": "Punjab new school timings from August 24, 2026",
+        "summary": "Punjab new school timings from August 24, 2026",
+        "url": "https://arynews.tv/punjab-new-school-timings-from-august-24-2026",
+        "source": "ARY News",
+        "date": "2026-08-22T10:37:55+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Schools.jpg"
+      },
+      {
+        "title": "South Korea to send first container ship through Arctic route",
+        "summary": "South Korea to send first container ship through Arctic route",
+        "url": "https://arynews.tv/south-korea-send-first-container-ship-arctic-route",
+        "source": "ARY News",
+        "date": "2026-08-22T10:36:43+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2020/09/ryssua.jpg"
+      },
+      {
+        "title": "US, Canada fail to reach trade pact to avert Trump tariffs",
+        "summary": "US, Canada fail to reach trade pact to avert Trump tariffs",
+        "url": "https://arynews.tv/us-canada-fail-to-reach-trade-pact-to-avert-trump-tariffs",
+        "source": "ARY News",
+        "date": "2026-08-22T10:21:56+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/trump-mark-carney.jpg"
+      },
+      {
+        "title": "پاکستان ویمن فٹبال ٹیم کی کھلاڑی مریم محمود کا نام برطانوی کلب ریکسیم اے ایف سی کے آنر بورڈ پر درج",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828579/maryam-mahmood-honored-on-wrexham-afc-board-2828579/",
+        "source": "Express",
+        "date": "2026-08-22T05:56:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکی جریدہ نے بی جے پی کے حکمرانوں کا سیاہ چہرہ آشکار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828576/us-paper-about-yogi-2828576/",
+        "source": "Express",
+        "date": "2026-08-22T05:40:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کیخلاف مسلح مزاحمت میں مزید شدت آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828574/taliban-and-afghanistan-rebel-2828574/",
+        "source": "Express",
+        "date": "2026-08-22T05:30:10+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیم کی خراب کارکردگی پر سلمان علی آغا نے خاموشی توڑ دی، بابراعظم کی واپسی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828573/salman-ali-agha-breaks-silence-on-teams-poor-performance-babar-azams-return-is-likely-2828573/",
+        "source": "Express",
+        "date": "2026-08-22T05:21:45+05:00",
+        "img": ""
+      },
       {
         "title": "امریکا نے جنوبی کوریا کو 125 ملین ڈالرز کے هتیاروں کی فروخت کی منظوری دے دی",
         "summary": "",
@@ -3319,6 +3383,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Wall-St-indexes.jpg"
       },
       {
+        "title": "سندھ میں پالتو بلی کا پہلا سائنسی پوسٹ مارٹم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828582/sindh-conducts-first-scientific-post-mortem-of-a-pet-cat-2828582/",
+        "source": "Express",
+        "date": "2026-08-22T01:05:56+00:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan saves Rs.4.3 trillion after revising IPP contracts",
         "summary": "Pakistan saves Rs.4.3 trillion after revising IPP contracts",
         "url": "https://arynews.tv/pakistan-saves-rs-4-3-trillion-after-revising-ipp-contracts",
@@ -3343,6 +3415,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Cancer-Risk.jpg"
       },
       {
+        "title": "راولاکوٹ میں پاک فوج کا میڈیکل کیمپ، مریضوں کو مفت ادویہ فراہم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828577/pakistan-army-medical-camp-in-rawalakot-providing-free-medicines-to-patients-2828577/",
+        "source": "Express",
+        "date": "2026-08-22T00:41:17+00:00",
+        "img": ""
+      },
+      {
+        "title": "عمران خان کی اسپتال منتقلی کے حکم کی خلاف ورزی، سپریم کورٹ میں توہینِ عدالت کی درخواست",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828575/contempt-of-court-petition-filed-in-supreme-court-for-violation-of-imran-khans-hospital-transfer-order-2828575/",
+        "source": "Express",
+        "date": "2026-08-22T00:33:14+00:00",
+        "img": ""
+      },
+      {
         "title": "Red Bull pays up big, signs Max Verstappen to historic $538 million contract to 2030",
         "summary": "Red Bull pays up big, signs Max Verstappen to historic $538 million contract to 2030",
         "url": "https://arynews.tv/red-bull-pays-up-big-signs-max-verstappen-to-historic-538-million-contract-to-2030",
@@ -3364,6 +3452,22 @@
         "url": "https://www.express.pk/story/2828572/prime-minister-orders-financial-assistance-and-acceleration-of-relief-operations-for-rain-and-flood-victims-2828572/",
         "source": "Express",
         "date": "2026-08-22T00:12:01+00:00",
+        "img": ""
+      },
+      {
+        "title": "ڈیجیٹل معیشت کیلیے اہم قدم؛ ورچوئل اثاثہ جات کی 10 لائسنس کیٹیگریز متعارف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828571/important-step-for-digital-economy-10-license-categories-for-virtual-assets-introduced-2828571/",
+        "source": "Express",
+        "date": "2026-08-21T23:51:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "حیدرآباد سکھر موٹر وے سے پہلے پنجاب کا نیا منصوبہ، سندھ کا وفاق سے اعتراض",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828570/punjabs-new-project-ahead-of-hyderabad-sukkur-motorway-sindh-objects-to-the-federation-2828570/",
+        "source": "Express",
+        "date": "2026-08-21T23:49:48+00:00",
         "img": ""
       },
       {
@@ -3423,7 +3527,7 @@
         "img": ""
       },
       {
-        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں آتشزدگی، 7 فائر ٹینڈرز آگ بجھانے میں مصروف",
+        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں لگنے والی آگ پر قابو پالیا گیا",
         "summary": "",
         "url": "https://www.express.pk/story/2828562/karachi-fire-breaks-out-at-a-garment-factory-in-the-site-area-2828562/",
         "source": "Express",
@@ -3455,68 +3559,12 @@
         "img": ""
       },
       {
-        "title": "قرضوں کے بوجھ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828552/qarzon-ke-bojh-mein-izafa-2828552/",
-        "source": "Express",
-        "date": "2026-08-21T21:21:47+05:00",
-        "img": ""
-      },
-      {
-        "title": "اے آئی کی پیاس کون بجھائے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828551/ai-ki-pyaas-kaun-bujhaye-2828551/",
-        "source": "Express",
-        "date": "2026-08-21T21:14:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور متحدہ عرب امارات کا ملٹری اے آئی ٹاسک فورس قائم کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828550/us-and-uae-announce-the-establishment-of-a-military-ai-task-force-2828550/",
-        "source": "Express",
-        "date": "2026-08-21T21:13:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "تنقید تعمیری اور کارکردگی کا مقابلہ ضروری ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828549/tanqeed-tameeri-aur-karkardagi-ka-muqabla-zaroori-hai-2828549/",
-        "source": "Express",
-        "date": "2026-08-21T21:10:08+05:00",
-        "img": ""
-      },
-      {
         "title": "Karachi: CCTV video shows man troubling woman in Korangi",
         "summary": "Karachi: CCTV video shows man troubling woman in Korangi",
         "url": "https://arynews.tv/karachi-cctv-video-man-woman-korangi",
         "source": "ARY News",
         "date": "2026-08-21T21:09:17+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/karachi-CCTV.jpg"
-      },
-      {
-        "title": "جنات اورنظام کائنات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828548/jinnat-aur-nizam-e-kainat-2828548/",
-        "source": "Express",
-        "date": "2026-08-21T21:06:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "مسجد اقصیٰ خطرے میں، ہماری ذمے داری کیا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828547/masjid-al-aqsa-khatre-mein-hamari-zimmedari-kya-hai-2828547/",
-        "source": "Express",
-        "date": "2026-08-21T20:58:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کی معاشی یلغار اور عالمی صف بندی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828546/trump-ki-maashi-yalghaar-aur-alami-saf-bandi-2828546/",
-        "source": "Express",
-        "date": "2026-08-21T20:55:52+05:00",
-        "img": ""
       },
       {
         "title": "Ravindra Jadeja’s viral banter in Colombo ahead of 2nd test",
@@ -3533,14 +3581,6 @@
         "source": "ARY News",
         "date": "2026-08-21T20:22:47+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/All-EA-FC-27-PS-1200-675.jpg"
-      },
-      {
-        "title": "امریکا: نوجوان نے 18 ویں سالگرہ پر ہزاروں ڈالر جیت لیے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828544/ohio-player-wins-10000-lottery-prize-on-his-18th-birthday-2828544/",
-        "source": "Express",
-        "date": "2026-08-21T20:21:14+05:00",
-        "img": ""
       },
       {
         "title": "PM Shehbaz takes ‘strict notice’ of officials’ horse-drawn carriage arrival",
@@ -3607,14 +3647,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-132.jpg"
       },
       {
-        "title": "49 terrorists killed in joint security operations across KP, Balochistan: ISPR",
-        "summary": "49 terrorists killed in joint security operations across KP, Balochistan: ISPR",
-        "url": "https://arynews.tv/indian-sponsored-terrorists-neutralized-in-two-ibos",
-        "source": "ARY News",
-        "date": "2026-08-21T18:06:45+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawarij-Pakistan-security-forces-ispr.jpg"
-      },
-      {
         "title": "ایران معاہدہ کرنا چاہتا ہے مگر صحیح معاہدے کے لیے تیار نہیں، ٹرمپ",
         "summary": "",
         "url": "https://www.express.pk/story/2828558/iran-wants-to-make-a-deal-but-isnt-ready-for-the-right-deal-trump-2828558/",
@@ -3623,47 +3655,47 @@
         "img": ""
       },
       {
-        "title": "How Tether’s bitcoin mining plans in Uruguay unraveled",
-        "summary": "How Tether’s bitcoin mining plans in Uruguay unraveled",
-        "url": "https://arynews.tv/tether-bitcoin-mining-plans-in-uruguay-unraveled",
-        "source": "ARY News",
-        "date": "2026-08-21T17:54:49+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/uruguay.jpg"
-      },
-      {
-        "title": "Karachi: Police arrest woman for setting man on fire",
-        "summary": "Karachi: Police arrest woman for setting man on fire",
-        "url": "https://arynews.tv/karachi-police-arrest-woman-for-setting-man-on-fire",
-        "source": "ARY News",
-        "date": "2026-08-21T17:51:35+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Karachi-Police.jpg"
-      },
-      {
         "title": "گوجرانوالہ الیکٹرک پاور کمپنی کی نجکاری میں 11 سرمایہ کاروں کا اظہار دلچسپی",
         "summary": "",
         "url": "https://www.express.pk/story/2828556/11-investors-express-interest-in-privatization-of-gujranwala-electric-power-company-2828556/",
         "source": "Express",
         "date": "2026-08-21T17:43:32+00:00",
         "img": ""
-      },
-      {
-        "title": "Two more die of rabies in Karachi",
-        "summary": "Two more die of rabies in Karachi",
-        "url": "https://arynews.tv/two-more-die-of-rabies-in-karachi-sindh-death-toll-reaches-22",
-        "source": "ARY News",
-        "date": "2026-08-21T17:26:12+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Karachi-Rabies.jpg"
-      },
-      {
-        "title": "میر رضا قتل کیس؛ ایم ایل او کا موبائل فون تحویل میں لے لیا گیا، پولیس سرجن بھی طلب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828545/mir-raza-murder-case-mlos-mobile-phone-taken-into-custody-police-surgeon-also-summoned-2828545/",
-        "source": "Express",
-        "date": "2026-08-21T15:22:05+00:00",
-        "img": ""
       }
     ],
     "science": [
+      {
+        "title": "Army deployed in Rawalpindi for six months",
+        "summary": "Army deployed in Rawalpindi for six months",
+        "url": "https://arynews.tv/army-deployed-in-rawalpindi-for-six-months",
+        "source": "ARY News",
+        "date": "2026-08-22T11:12:39+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Army-deployed-In-Rawalpindi.jpg"
+      },
+      {
+        "title": "Punjab new school timings from August 24, 2026",
+        "summary": "Punjab new school timings from August 24, 2026",
+        "url": "https://arynews.tv/punjab-new-school-timings-from-august-24-2026",
+        "source": "ARY News",
+        "date": "2026-08-22T10:37:55+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Schools.jpg"
+      },
+      {
+        "title": "South Korea to send first container ship through Arctic route",
+        "summary": "South Korea to send first container ship through Arctic route",
+        "url": "https://arynews.tv/south-korea-send-first-container-ship-arctic-route",
+        "source": "ARY News",
+        "date": "2026-08-22T10:36:43+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2020/09/ryssua.jpg"
+      },
+      {
+        "title": "US, Canada fail to reach trade pact to avert Trump tariffs",
+        "summary": "US, Canada fail to reach trade pact to avert Trump tariffs",
+        "url": "https://arynews.tv/us-canada-fail-to-reach-trade-pact-to-avert-trump-tariffs",
+        "source": "ARY News",
+        "date": "2026-08-22T10:21:56+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/trump-mark-carney.jpg"
+      },
       {
         "title": "Wall St indexes eye weekly losses; bond yields and Iran in focus",
         "summary": "Wall St indexes eye weekly losses; bond yields and Iran in focus",
@@ -3831,38 +3863,6 @@
         "source": "ARY News",
         "date": "2026-08-21T18:36:30+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-132.jpg"
-      },
-      {
-        "title": "49 terrorists killed in joint security operations across KP, Balochistan: ISPR",
-        "summary": "49 terrorists killed in joint security operations across KP, Balochistan: ISPR",
-        "url": "https://arynews.tv/indian-sponsored-terrorists-neutralized-in-two-ibos",
-        "source": "ARY News",
-        "date": "2026-08-21T18:06:45+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Khawarij-Pakistan-security-forces-ispr.jpg"
-      },
-      {
-        "title": "How Tether’s bitcoin mining plans in Uruguay unraveled",
-        "summary": "How Tether’s bitcoin mining plans in Uruguay unraveled",
-        "url": "https://arynews.tv/tether-bitcoin-mining-plans-in-uruguay-unraveled",
-        "source": "ARY News",
-        "date": "2026-08-21T17:54:49+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/uruguay.jpg"
-      },
-      {
-        "title": "Karachi: Police arrest woman for setting man on fire",
-        "summary": "Karachi: Police arrest woman for setting man on fire",
-        "url": "https://arynews.tv/karachi-police-arrest-woman-for-setting-man-on-fire",
-        "source": "ARY News",
-        "date": "2026-08-21T17:51:35+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Karachi-Police.jpg"
-      },
-      {
-        "title": "Two more die of rabies in Karachi",
-        "summary": "Two more die of rabies in Karachi",
-        "url": "https://arynews.tv/two-more-die-of-rabies-in-karachi-sindh-death-toll-reaches-22",
-        "source": "ARY News",
-        "date": "2026-08-21T17:26:12+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/05/Karachi-Rabies.jpg"
       }
     ],
     "sports": [
@@ -3872,6 +3872,38 @@
         "url": "https://www.dawn.com/news/2024514/regional-powerhouses-weigh-no-confidence-vote-in-bid-to-oust-infantino",
         "source": "Dawn",
         "date": "2026-08-22T10:03:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان ویمن فٹبال ٹیم کی کھلاڑی مریم محمود کا نام برطانوی کلب ریکسیم اے ایف سی کے آنر بورڈ پر درج",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828579/maryam-mahmood-honored-on-wrexham-afc-board-2828579/",
+        "source": "Express",
+        "date": "2026-08-22T05:56:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکی جریدہ نے بی جے پی کے حکمرانوں کا سیاہ چہرہ آشکار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828576/us-paper-about-yogi-2828576/",
+        "source": "Express",
+        "date": "2026-08-22T05:40:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کیخلاف مسلح مزاحمت میں مزید شدت آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828574/taliban-and-afghanistan-rebel-2828574/",
+        "source": "Express",
+        "date": "2026-08-22T05:30:10+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیم کی خراب کارکردگی پر سلمان علی آغا نے خاموشی توڑ دی، بابراعظم کی واپسی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828573/salman-ali-agha-breaks-silence-on-teams-poor-performance-babar-azams-return-is-likely-2828573/",
+        "source": "Express",
+        "date": "2026-08-22T05:21:45+05:00",
         "img": ""
       },
       {
@@ -3939,6 +3971,30 @@
         "img": ""
       },
       {
+        "title": "سندھ میں پالتو بلی کا پہلا سائنسی پوسٹ مارٹم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828582/sindh-conducts-first-scientific-post-mortem-of-a-pet-cat-2828582/",
+        "source": "Express",
+        "date": "2026-08-22T01:05:56+00:00",
+        "img": ""
+      },
+      {
+        "title": "راولاکوٹ میں پاک فوج کا میڈیکل کیمپ، مریضوں کو مفت ادویہ فراہم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828577/pakistan-army-medical-camp-in-rawalakot-providing-free-medicines-to-patients-2828577/",
+        "source": "Express",
+        "date": "2026-08-22T00:41:17+00:00",
+        "img": ""
+      },
+      {
+        "title": "عمران خان کی اسپتال منتقلی کے حکم کی خلاف ورزی، سپریم کورٹ میں توہینِ عدالت کی درخواست",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828575/contempt-of-court-petition-filed-in-supreme-court-for-violation-of-imran-khans-hospital-transfer-order-2828575/",
+        "source": "Express",
+        "date": "2026-08-22T00:33:14+00:00",
+        "img": ""
+      },
+      {
         "title": "Red Bull pays up big, signs Max Verstappen to historic $538 million contract to 2030",
         "summary": "Red Bull pays up big, signs Max Verstappen to historic $538 million contract to 2030",
         "url": "https://arynews.tv/red-bull-pays-up-big-signs-max-verstappen-to-historic-538-million-contract-to-2030",
@@ -3952,6 +4008,22 @@
         "url": "https://www.express.pk/story/2828572/prime-minister-orders-financial-assistance-and-acceleration-of-relief-operations-for-rain-and-flood-victims-2828572/",
         "source": "Express",
         "date": "2026-08-22T00:12:01+00:00",
+        "img": ""
+      },
+      {
+        "title": "ڈیجیٹل معیشت کیلیے اہم قدم؛ ورچوئل اثاثہ جات کی 10 لائسنس کیٹیگریز متعارف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828571/important-step-for-digital-economy-10-license-categories-for-virtual-assets-introduced-2828571/",
+        "source": "Express",
+        "date": "2026-08-21T23:51:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "حیدرآباد سکھر موٹر وے سے پہلے پنجاب کا نیا منصوبہ، سندھ کا وفاق سے اعتراض",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828570/punjabs-new-project-ahead-of-hyderabad-sukkur-motorway-sindh-objects-to-the-federation-2828570/",
+        "source": "Express",
+        "date": "2026-08-21T23:49:48+00:00",
         "img": ""
       },
       {
@@ -3987,7 +4059,7 @@
         "img": ""
       },
       {
-        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں آتشزدگی، 7 فائر ٹینڈرز آگ بجھانے میں مصروف",
+        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں لگنے والی آگ پر قابو پالیا گیا",
         "summary": "",
         "url": "https://www.express.pk/story/2828562/karachi-fire-breaks-out-at-a-garment-factory-in-the-site-area-2828562/",
         "source": "Express",
@@ -4027,76 +4099,12 @@
         "img": ""
       },
       {
-        "title": "قرضوں کے بوجھ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828552/qarzon-ke-bojh-mein-izafa-2828552/",
-        "source": "Express",
-        "date": "2026-08-21T21:21:47+05:00",
-        "img": ""
-      },
-      {
-        "title": "اے آئی کی پیاس کون بجھائے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828551/ai-ki-pyaas-kaun-bujhaye-2828551/",
-        "source": "Express",
-        "date": "2026-08-21T21:14:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور متحدہ عرب امارات کا ملٹری اے آئی ٹاسک فورس قائم کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828550/us-and-uae-announce-the-establishment-of-a-military-ai-task-force-2828550/",
-        "source": "Express",
-        "date": "2026-08-21T21:13:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "تنقید تعمیری اور کارکردگی کا مقابلہ ضروری ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828549/tanqeed-tameeri-aur-karkardagi-ka-muqabla-zaroori-hai-2828549/",
-        "source": "Express",
-        "date": "2026-08-21T21:10:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنات اورنظام کائنات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828548/jinnat-aur-nizam-e-kainat-2828548/",
-        "source": "Express",
-        "date": "2026-08-21T21:06:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "مسجد اقصیٰ خطرے میں، ہماری ذمے داری کیا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828547/masjid-al-aqsa-khatre-mein-hamari-zimmedari-kya-hai-2828547/",
-        "source": "Express",
-        "date": "2026-08-21T20:58:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کی معاشی یلغار اور عالمی صف بندی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828546/trump-ki-maashi-yalghaar-aur-alami-saf-bandi-2828546/",
-        "source": "Express",
-        "date": "2026-08-21T20:55:52+05:00",
-        "img": ""
-      },
-      {
         "title": "Ravindra Jadeja’s viral banter in Colombo ahead of 2nd test",
         "summary": "Ravindra Jadeja’s viral banter in Colombo ahead of 2nd test",
         "url": "https://arynews.tv/ravindra-jadejas-viral-banter-in-colombo-ahead-of-2nd-test",
         "source": "ARY Sports",
         "date": "2026-08-21T20:42:53+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Jadeja-1200-675.jpg"
-      },
-      {
-        "title": "امریکا: نوجوان نے 18 ویں سالگرہ پر ہزاروں ڈالر جیت لیے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828544/ohio-player-wins-10000-lottery-prize-on-his-18th-birthday-2828544/",
-        "source": "Express",
-        "date": "2026-08-21T20:21:14+05:00",
-        "img": ""
       },
       {
         "title": "Egypt in hot water: FIFA probes World Cup comments on Argentina",
@@ -4153,14 +4161,6 @@
         "source": "ARY Sports",
         "date": "2026-08-21T16:00:06+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-128.jpg"
-      },
-      {
-        "title": "میر رضا قتل کیس؛ ایم ایل او کا موبائل فون تحویل میں لے لیا گیا، پولیس سرجن بھی طلب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828545/mir-raza-murder-case-mlos-mobile-phone-taken-into-custody-police-surgeon-also-summoned-2828545/",
-        "source": "Express",
-        "date": "2026-08-21T15:22:05+00:00",
-        "img": ""
       },
       {
         "title": "Real Madrid star players are compatible: Mourinho",
@@ -4429,6 +4429,14 @@
     ],
     "business": [
       {
+        "title": "US hits Canadian goods with 50pc tariffs after trade talks fail",
+        "summary": "<p>The United States imposed 50 per cent tariffs on some ‌Canadian goods on Saturday after the two longstanding allies failed to reach a trade deal, with each side accusing the other of derailing days of talks.</p> <p>The tariffs that came into effect just after midnight (0400 GMT) on some $20 billion of Canadian goods",
+        "url": "https://www.dawn.com/news/2024554/us-hits-canadian-goods-with-50pc-tariffs-after-trade-talks-fail",
+        "source": "Dawn",
+        "date": "2026-08-22T11:17:06+05:00",
+        "img": ""
+      },
+      {
         "title": "Meezan Bank bags its 6th ‘Best Bank’ award",
         "summary": "<p>• Bank of Punjab wins three awards; HBL wins ESG award<br>• SBP chief calls for faster banking digitisation, higher private sector credit</p> <p>KARACHI: Meezan Bank Ltd was named Pakistan’s best bank for the sixth time at the 11th Pakistan Banking Awards held in Karachi on Friday, while Bank of Punjab secured honou",
         "url": "https://www.dawn.com/news/2024457/meezan-bank-bags-its-6th-best-bank-award",
@@ -4450,6 +4458,38 @@
         "url": "https://www.dawn.com/news/2024537/govt-eyes-ai-enabled-digital-ecosystem-for-trade",
         "source": "Dawn",
         "date": "2026-08-22T07:23:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان ویمن فٹبال ٹیم کی کھلاڑی مریم محمود کا نام برطانوی کلب ریکسیم اے ایف سی کے آنر بورڈ پر درج",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828579/maryam-mahmood-honored-on-wrexham-afc-board-2828579/",
+        "source": "Express",
+        "date": "2026-08-22T05:56:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکی جریدہ نے بی جے پی کے حکمرانوں کا سیاہ چہرہ آشکار کر دیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828576/us-paper-about-yogi-2828576/",
+        "source": "Express",
+        "date": "2026-08-22T05:40:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "طالبان رجیم کیخلاف مسلح مزاحمت میں مزید شدت آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828574/taliban-and-afghanistan-rebel-2828574/",
+        "source": "Express",
+        "date": "2026-08-22T05:30:10+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیم کی خراب کارکردگی پر سلمان علی آغا نے خاموشی توڑ دی، بابراعظم کی واپسی کا امکان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828573/salman-ali-agha-breaks-silence-on-teams-poor-performance-babar-azams-return-is-likely-2828573/",
+        "source": "Express",
+        "date": "2026-08-22T05:21:45+05:00",
         "img": ""
       },
       {
@@ -4517,11 +4557,51 @@
         "img": ""
       },
       {
+        "title": "سندھ میں پالتو بلی کا پہلا سائنسی پوسٹ مارٹم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828582/sindh-conducts-first-scientific-post-mortem-of-a-pet-cat-2828582/",
+        "source": "Express",
+        "date": "2026-08-22T01:05:56+00:00",
+        "img": ""
+      },
+      {
+        "title": "راولاکوٹ میں پاک فوج کا میڈیکل کیمپ، مریضوں کو مفت ادویہ فراہم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828577/pakistan-army-medical-camp-in-rawalakot-providing-free-medicines-to-patients-2828577/",
+        "source": "Express",
+        "date": "2026-08-22T00:41:17+00:00",
+        "img": ""
+      },
+      {
+        "title": "عمران خان کی اسپتال منتقلی کے حکم کی خلاف ورزی، سپریم کورٹ میں توہینِ عدالت کی درخواست",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828575/contempt-of-court-petition-filed-in-supreme-court-for-violation-of-imran-khans-hospital-transfer-order-2828575/",
+        "source": "Express",
+        "date": "2026-08-22T00:33:14+00:00",
+        "img": ""
+      },
+      {
         "title": "وزیراعظم کا بارشوں و سیلاب متاثرین کی مالی معاونت اور امدادی کارروائیاں تیز کرنے کا حکم",
         "summary": "",
         "url": "https://www.express.pk/story/2828572/prime-minister-orders-financial-assistance-and-acceleration-of-relief-operations-for-rain-and-flood-victims-2828572/",
         "source": "Express",
         "date": "2026-08-22T00:12:01+00:00",
+        "img": ""
+      },
+      {
+        "title": "ڈیجیٹل معیشت کیلیے اہم قدم؛ ورچوئل اثاثہ جات کی 10 لائسنس کیٹیگریز متعارف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828571/important-step-for-digital-economy-10-license-categories-for-virtual-assets-introduced-2828571/",
+        "source": "Express",
+        "date": "2026-08-21T23:51:22+00:00",
+        "img": ""
+      },
+      {
+        "title": "حیدرآباد سکھر موٹر وے سے پہلے پنجاب کا نیا منصوبہ، سندھ کا وفاق سے اعتراض",
+        "summary": "",
+        "url": "https://www.express.pk/story/2828570/punjabs-new-project-ahead-of-hyderabad-sukkur-motorway-sindh-objects-to-the-federation-2828570/",
+        "source": "Express",
+        "date": "2026-08-21T23:49:48+00:00",
         "img": ""
       },
       {
@@ -4565,7 +4645,7 @@
         "img": ""
       },
       {
-        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں آتشزدگی، 7 فائر ٹینڈرز آگ بجھانے میں مصروف",
+        "title": "کراچی: سائٹ ایریا میں کپڑے کی فیکٹری میں لگنے والی آگ پر قابو پالیا گیا",
         "summary": "",
         "url": "https://www.express.pk/story/2828562/karachi-fire-breaks-out-at-a-garment-factory-in-the-site-area-2828562/",
         "source": "Express",
@@ -4589,75 +4669,11 @@
         "img": ""
       },
       {
-        "title": "قرضوں کے بوجھ میں اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828552/qarzon-ke-bojh-mein-izafa-2828552/",
-        "source": "Express",
-        "date": "2026-08-21T21:21:47+05:00",
-        "img": ""
-      },
-      {
-        "title": "اے آئی کی پیاس کون بجھائے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828551/ai-ki-pyaas-kaun-bujhaye-2828551/",
-        "source": "Express",
-        "date": "2026-08-21T21:14:57+05:00",
-        "img": ""
-      },
-      {
         "title": "Pakistani, Turkish, Saudi companies show interest in Gepco privatisation, commission says",
         "summary": "<p>ISLAMABAD: The Privatisation Commission (PC) on Friday said it had received an overwhelming response from domestic and international investors to the proposed privatisation of Gujranwala Electric Power Company (Gepco).</p> <p>“Today on the closing date for submission of Expressions of Interest (EOIs), the Commission",
         "url": "https://www.dawn.com/news/2024373/pakistani-turkish-saudi-companies-show-interest-in-gepco-privatisation-commission-says",
         "source": "Dawn",
         "date": "2026-08-21T21:13:50+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا اور متحدہ عرب امارات کا ملٹری اے آئی ٹاسک فورس قائم کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828550/us-and-uae-announce-the-establishment-of-a-military-ai-task-force-2828550/",
-        "source": "Express",
-        "date": "2026-08-21T21:13:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "تنقید تعمیری اور کارکردگی کا مقابلہ ضروری ہے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828549/tanqeed-tameeri-aur-karkardagi-ka-muqabla-zaroori-hai-2828549/",
-        "source": "Express",
-        "date": "2026-08-21T21:10:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "جنات اورنظام کائنات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828548/jinnat-aur-nizam-e-kainat-2828548/",
-        "source": "Express",
-        "date": "2026-08-21T21:06:07+05:00",
-        "img": ""
-      },
-      {
-        "title": "مسجد اقصیٰ خطرے میں، ہماری ذمے داری کیا ہے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828547/masjid-al-aqsa-khatre-mein-hamari-zimmedari-kya-hai-2828547/",
-        "source": "Express",
-        "date": "2026-08-21T20:58:19+05:00",
-        "img": ""
-      },
-      {
-        "title": "ٹرمپ کی معاشی یلغار اور عالمی صف بندی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828546/trump-ki-maashi-yalghaar-aur-alami-saf-bandi-2828546/",
-        "source": "Express",
-        "date": "2026-08-21T20:55:52+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا: نوجوان نے 18 ویں سالگرہ پر ہزاروں ڈالر جیت لیے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828544/ohio-player-wins-10000-lottery-prize-on-his-18th-birthday-2828544/",
-        "source": "Express",
-        "date": "2026-08-21T20:21:14+05:00",
         "img": ""
       },
       {
@@ -4674,14 +4690,6 @@
         "url": "https://www.express.pk/story/2828556/11-investors-express-interest-in-privatization-of-gujranwala-electric-power-company-2828556/",
         "source": "Express",
         "date": "2026-08-21T17:43:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "میر رضا قتل کیس؛ ایم ایل او کا موبائل فون تحویل میں لے لیا گیا، پولیس سرجن بھی طلب",
-        "summary": "",
-        "url": "https://www.express.pk/story/2828545/mir-raza-murder-case-mlos-mobile-phone-taken-into-custody-police-surgeon-also-summoned-2828545/",
-        "source": "Express",
-        "date": "2026-08-21T15:22:05+00:00",
         "img": ""
       },
       {
@@ -4818,14 +4826,6 @@
         "url": "https://www.dawn.com/news/2023808/unusual-rlng-price-drives-up-electricity-cost",
         "source": "Dawn",
         "date": "2026-08-19T08:11:06+05:00",
-        "img": ""
-      },
-      {
-        "title": "Pakistan posts $328m current account deficit in July",
-        "summary": "<p>KARACHI: Pakistan recorded a current account deficit (CAD) of $328 million in the first month of FY27, reflecting year-on-year and month-on-month improvements.</p> <p>The country recorded a CAD of $814m in June, the last month of FY26 and $529m in July 2025.</p> <p>However, data issued by the State Bank of Pakistan ",
-        "url": "https://www.dawn.com/news/2023807/pakistan-posts-328m-current-account-deficit-in-july",
-        "source": "Dawn",
-        "date": "2026-08-19T07:30:26+05:00",
         "img": ""
       }
     ]
