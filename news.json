@@ -1,21 +1,53 @@
 {
-  "fetched": "2026-08-26T08:36:50.200244+00:00",
+  "fetched": "2026-08-26T09:35:14.550144+00:00",
   "categories": {
     "international": [
+      {
+        "title": "14 infants killed in fire at Pims' gynae ward in Islamabad",
+        "summary": "<p>ISLAMABAD: Fourteen infants were killed in a fire that broke out in the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims) early on Wednesday.</p> <p>Footage aired on television showed rescue workers using ladders to reach broken windows to access the affected area. Outside the hospital, an <em>AF",
+        "url": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad",
+        "source": "Dawn",
+        "date": "2026-08-26T14:33:11+05:00",
+        "img": ""
+      },
+      {
+        "title": "'Heads must roll': Politicians, journalists demand accountability as Pims fire claims lives of 14 infants",
+        "summary": "<p>Fourteen infants were <a href=\"https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad\">killed</a> on Wednesday morning in a fire at the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims), Islamabad’s premier public hospital.</p> <p>Health Minister Mustafa Kamal",
+        "url": "https://www.dawn.com/news/2025399/heads-must-roll-politicians-journalists-demand-accountability-as-pims-fire-claims-lives-of-14-infants",
+        "source": "Dawn",
+        "date": "2026-08-26T14:08:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "US spy chief visits Russia for meetings, media reports",
+        "summary": "US spy chief visits Russia for meetings, media reports",
+        "url": "https://arynews.tv/us-spy-chief-visits-russia-for-meetings-media-reports",
+        "source": "ARY News",
+        "date": "2026-08-26T14:07:09+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Spy-Chief.jpg"
+      },
+      {
+        "title": "PM orders high-level inquiry into PIMS nursery fire, removes health scretary",
+        "summary": "PM orders high-level inquiry into PIMS nursery fire, removes health scretary",
+        "url": "https://arynews.tv/pm-orders-high-level-inquiry-into-pims-nursery-fire",
+        "source": "ARY News",
+        "date": "2026-08-26T13:39:40+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Federal-Sec-health-removed.jpg"
+      },
+      {
+        "title": "PIMS fire: Relative claims she rescued newborn, contradicts hospital’s account",
+        "summary": "PIMS fire: Relative claims she rescued newborn, contradicts hospital’s account",
+        "url": "https://arynews.tv/pims-fire-relative-claims-she-rescued-newborn-contradicts-hospitals-account",
+        "source": "ARY News",
+        "date": "2026-08-26T13:38:04+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PIMS-aunt.jpg"
+      },
       {
         "title": "Security, traffic plans for Eid Miladun Nabi processions",
         "summary": "<p>Authorities have made elaborate security and road traffic arrangements across the country for rallies in connection with the 12th Rabiul Awwal on Wednesday.</p> <h2><a id=\"karachi\" href=\"#karachi\" class=\"heading-permalink\" aria-hidden=\"true\" title=\"Permalink\"></a>Karachi</h2> <p>In Karachi, 4,208 policemen have been",
         "url": "https://www.dawn.com/news/2025246/security-traffic-plans-for-eid-miladun-nabi-processions",
         "source": "Dawn",
         "date": "2026-08-26T13:34:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "'Heads must roll': Politicians, journalists demand accountability as Pims fire claims lives of 14 infants",
-        "summary": "<p>Fourteen infants were killed on Wednesday morning in a fire at the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims), Islamabad’s premier public hospital.</p> <p>Health Minister Mustafa Kamal said that the incident occurred at 6:45am due to a “blast in the air conditioner” inside the ward and Pri",
-        "url": "https://www.dawn.com/news/2025399/heads-must-roll-politicians-journalists-demand-accountability-as-pims-fire-claims-lives-of-14-infants",
-        "source": "Dawn",
-        "date": "2026-08-26T13:31:22+05:00",
         "img": ""
       },
       {
@@ -41,14 +73,6 @@
         "source": "ARY News",
         "date": "2026-08-26T13:14:46+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PM-Mustafa-Kamal.jpg"
-      },
-      {
-        "title": "14 infants killed in fire at Pims' gynae ward in Islamabad",
-        "summary": "<p>ISLAMABAD: Fourteen infants were killed in a fire that broke out in the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims) early on Wednesday.</p> <p>Footage aired on television showed rescue workers using ladders to reach broken windows to access the affected area. Outside the hospital, an <em>AF",
-        "url": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad",
-        "source": "Dawn",
-        "date": "2026-08-26T13:10:41+05:00",
-        "img": ""
       },
       {
         "title": "'Tired of being angry': Stars horrified as violence against women and girls rages on in Pakistan",
@@ -179,6 +203,14 @@
         "img": ""
       },
       {
+        "title": "اسلام آباد کے پمز ہسپتال میں آتشزدگی سے 14 نومولود بچوں کی ہلاکت: وفاقی سیکرٹری صحت معطل، انکوائری کمیٹی تشکیل",
+        "summary": "پاکستان کے وفاقی دارالحکومت اسلام آباد کے سرکاری ہسپتال پمز کے بچوں کے وارڈ میں آتشزدگی کے واقعے میں 14 نومولود بچے ہلاک ہو گئے ہیں۔ وزیراعظم شہباز شریف نے وفاقی سیکرٹری صحت کو فوری طور پر معطل کر کے عہدے سے ہٹا دیا ہے جبکہ واقعے کی اعلیٰ سطحی تحقیقات کے لیے انکوائری کمیٹی تشکیل دے دی ہے۔",
+        "url": "https://www.bbc.co.uk/urdu/live/cwkgxn0yeyk4t?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-26T09:35:16.329210+00:00",
+        "img": ""
+      },
+      {
         "title": "CDA board approves record Rs152bn budget for fiscal year 2026-27",
         "summary": "<p>ISLAMABAD: The Capital Development Authority (CDA) on Tuesday finally approved its Rs152 billion budget for the fiscal year 2026-27, the highest in the history of the civic agency.</p> <p>CDA board, which met with Chairman Sohail Ashraf in the chair, approved the budget with a major chunk going to development projec",
         "url": "https://www.dawn.com/news/2025266/cda-board-approves-record-rs152bn-budget-for-fiscal-year-2026-27",
@@ -211,14 +243,6 @@
         "img": ""
       },
       {
-        "title": "اسلام آباد کے پمز ہسپتال میں آتشزدگی سے 14 نومولود بچوں کی ہلاکت: وفاقی سیکرٹری صحت معطل، انکوائری کمیٹی تشکیل",
-        "summary": "پاکستان کے وفاقی دارالحکومت اسلام آباد کے سرکاری ہسپتال پمز کے بچوں کے وارڈ میں آتشزدگی کے واقعے میں 14 نومولود بچے ہلاک ہو گئے ہیں۔ وزیراعظم شہباز شریف نے وفاقی سیکرٹری صحت کو فوری طور پر معطل کر کے عہدے سے ہٹا دیا ہے جبکہ واقعے کی اعلیٰ سطحی تحقیقات کے لیے انکوائری کمیٹی تشکیل دے دی ہے۔",
-        "url": "https://www.bbc.co.uk/urdu/live/cwkgxn0yeyk4t?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-26T08:36:52.721216+00:00",
-        "img": ""
-      },
-      {
         "title": "What do we do when people turn to AI assistants with their questions?",
         "summary": "<p><a href=\"https://www.dawn.com/news/2025369\">https://www.dawn.com/news/2025369</a></p>",
         "url": "https://www.dawn.com/news/2025383/what-do-we-do-when-people-turn-to-ai-assistants-with-their-questions",
@@ -235,7 +259,7 @@
         "img": ""
       },
       {
-        "title": "’میرا بچہ دو، ورنہ یہاں سے نہیں اُٹھوں گی‘: پمز ہسپتال کے باہر موجود غمزدہ والدین اور عینی شاہدین نے کیا دیکھا؟",
+        "title": "پمز ہسپتال کے باہر موجود غمزدہ والدین اور عینی شاہدین: ’مجھے میرا بچہ دو، ورنہ یہاں سے نہیں اُٹھوں گی‘",
         "summary": "وفاقی دارالحکومت اسلام آباد میں واقع سرکاری ہسپتال پاکستان انسٹیٹیوٹ آف میڈیکل سائنسز (پمز) کے میٹرنل اینڈ چائلڈ ہیلتھ سینٹر میں آتشزدگی کے نتیجے میں 14 نومولود بچوں کی ہلاکت کے بعد ماحول کافی سوگوار ہے۔ بی بی سی نے غمزدہ والدین اور عینی شاہدین سے بات کر کے یہ جاننے کی کوشش کی ہے کہ بدھ کی صبح ہونے والی آتشزدگی کے دورا",
         "url": "https://www.bbc.com/urdu/articles/cj4jd5kw0npo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Urdu",
@@ -427,30 +451,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-25T203854.778.jpg"
       },
       {
-        "title": "Federal bureaucracy sees major reshuffle in Islamabad",
-        "summary": "Federal bureaucracy sees major reshuffle in Islamabad",
-        "url": "https://arynews.tv/federal-bureaucracy-sees-major-reshuffle-in-islamabad",
-        "source": "ARY News",
-        "date": "2026-08-25T20:29:03+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Islamabad.jpg"
-      },
-      {
-        "title": "HEC to hold four-day AI literacy training for faculty members",
-        "summary": "HEC to hold four-day AI literacy training for faculty members",
-        "url": "https://arynews.tv/hec-to-hold-four-day-ai-literacy-training-for-faculty-members",
-        "source": "ARY News",
-        "date": "2026-08-25T20:12:53+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/HEC.jpg"
-      },
-      {
-        "title": "Imaavy: US expands approval for J&J’s drug for rare blood disorder",
-        "summary": "Imaavy: US expands approval for J&J’s drug for rare blood disorder",
-        "url": "https://arynews.tv/imaavy-us-expands-approval-for-jjs-drug-for-rare-blood-disorder",
-        "source": "ARY News",
-        "date": "2026-08-25T20:02:10+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/imaavy.jpg"
-      },
-      {
         "title": "ہری پور سے 15 روز قبل لاپتہ ہونے والی پانچ سالہ آیت نور کی لاش کنویں سے برآمد: پولیس ملزمان تک کیسے پہنچی؟",
         "summary": "ہری پور میں 15 روز قبل لاپتہ ہونے والی پانچ سالہ آیت نور کی لاش ایک خشک کنویں سے برآمد ہوئی ہے، جبکہ پولیس نے کیس میں چار ملزمان کو گرفتار کرنے کا دعویٰ کیا ہے۔ پولیس کے مطابق سی سی ٹی وی فوٹیج، موبائل ڈیٹا اور تکنیکی شواہد کی مدد سے ملزمان تک پہنچا گیا اور ایک ملزم نے عدالت میں اغوا اور زیادتی کا اعتراف بھی کر لیا ہے۔",
         "url": "https://www.bbc.com/urdu/articles/c5yl3lrl7rgo?at_medium=RSS&amp;at_campaign=rss",
@@ -573,6 +573,46 @@
     ],
     "national": [
       {
+        "title": "14 infants killed in fire at Pims' gynae ward in Islamabad",
+        "summary": "<p>ISLAMABAD: Fourteen infants were killed in a fire that broke out in the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims) early on Wednesday.</p> <p>Footage aired on television showed rescue workers using ladders to reach broken windows to access the affected area. Outside the hospital, an <em>AF",
+        "url": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad",
+        "source": "Dawn",
+        "date": "2026-08-26T14:33:11+05:00",
+        "img": ""
+      },
+      {
+        "title": "US spy chief visits Russia for meetings, media reports",
+        "summary": "US spy chief visits Russia for meetings, media reports",
+        "url": "https://arynews.tv/us-spy-chief-visits-russia-for-meetings-media-reports",
+        "source": "ARY News",
+        "date": "2026-08-26T14:07:09+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Spy-Chief.jpg"
+      },
+      {
+        "title": "PM orders high-level inquiry into PIMS nursery fire, removes health scretary",
+        "summary": "PM orders high-level inquiry into PIMS nursery fire, removes health scretary",
+        "url": "https://arynews.tv/pm-orders-high-level-inquiry-into-pims-nursery-fire",
+        "source": "ARY News",
+        "date": "2026-08-26T13:39:40+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Federal-Sec-health-removed.jpg"
+      },
+      {
+        "title": "PIMS fire: Relative claims she rescued newborn, contradicts hospital’s account",
+        "summary": "PIMS fire: Relative claims she rescued newborn, contradicts hospital’s account",
+        "url": "https://arynews.tv/pims-fire-relative-claims-she-rescued-newborn-contradicts-hospitals-account",
+        "source": "ARY News",
+        "date": "2026-08-26T13:38:04+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PIMS-aunt.jpg"
+      },
+      {
+        "title": "Security, traffic plans for Eid Miladun Nabi processions",
+        "summary": "<p>Authorities have made elaborate security and road traffic arrangements across the country for rallies in connection with the 12th Rabiul Awwal on Wednesday.</p> <h2><a id=\"karachi\" href=\"#karachi\" class=\"heading-permalink\" aria-hidden=\"true\" title=\"Permalink\"></a>Karachi</h2> <p>In Karachi, 4,208 policemen have been",
+        "url": "https://www.dawn.com/news/2025246/security-traffic-plans-for-eid-miladun-nabi-processions",
+        "source": "Dawn",
+        "date": "2026-08-26T13:34:02+05:00",
+        "img": ""
+      },
+      {
         "title": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz",
         "summary": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz",
         "url": "https://arynews.tv/oil-prices-fall-2-on-iran-oman-talks-to-reopen-strait-of-hormuz",
@@ -597,14 +637,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PM-Mustafa-Kamal.jpg"
       },
       {
-        "title": "14 infants killed in fire at Pims' gynae ward in Islamabad",
-        "summary": "<p>ISLAMABAD: Fourteen infants were killed in a fire that broke out in the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims) early on Wednesday.</p> <p>Footage aired on television showed rescue workers using ladders to reach broken windows to access the affected area. Outside the hospital, an <em>AF",
-        "url": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad",
-        "source": "Dawn",
-        "date": "2026-08-26T13:10:41+05:00",
-        "img": ""
-      },
-      {
         "title": "Yousaf urges youth to draw guidance from Seerat of Holy Prophet (SAWW)",
         "summary": "Yousaf urges youth to draw guidance from Seerat of Holy Prophet (SAWW)",
         "url": "https://arynews.tv/yousaf-urges-youth-to-draw-guidance-from-seerat-of-holy-prophet",
@@ -619,14 +651,6 @@
         "source": "ARY News",
         "date": "2026-08-26T12:21:59+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Strategic-Reserves.jpg"
-      },
-      {
-        "title": "Security, traffic plans for Eid Miladun Nabi processions",
-        "summary": "<p>Authorities have made elaborate security and road traffic arrangements across the country for rallies in connection with the 12th Rabiul Awwal on Wednesday.</p> <h2><a id=\"karachi\" href=\"#karachi\" class=\"heading-permalink\" aria-hidden=\"true\" title=\"Permalink\"></a>Karachi</h2> <p>In Karachi, 4,208 policemen have been",
-        "url": "https://www.dawn.com/news/2025246/security-traffic-plans-for-eid-miladun-nabi-processions",
-        "source": "Dawn",
-        "date": "2026-08-26T12:10:18+05:00",
-        "img": ""
       },
       {
         "title": "Power division moves to expedite net-metering approvals following regulator’s directives",
@@ -701,6 +725,14 @@
         "img": ""
       },
       {
+        "title": "گھر کے کاموں سے بور ہو گئی ہیں؟ یہ طریقے اپنا کر روزمرہ زندگی کو دلچسپ بنائیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829273/bored-with-household-chores-try-these-methods-to-make-your-daily-life-interesting-2829273/",
+        "source": "Express",
+        "date": "2026-08-26T09:02:51+05:00",
+        "img": ""
+      },
+      {
         "title": "Deaths in Lahore police custody: Forensic report confirms women were addicts, says IGP",
         "summary": "<p><a href=\"https://www.dawn.com/news/2025309\">https://www.dawn.com/news/2025309</a></p>",
         "url": "https://www.dawn.com/news/2025386/deaths-in-lahore-police-custody-forensic-report-confirms-women-were-addicts-says-igp",
@@ -733,6 +765,14 @@
         "img": ""
       },
       {
+        "title": "قومی ویمن کرکٹر ایمن انور کا انٹرنیشنل کرکٹ سے ریٹائرمنٹ کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829270/aimen-anwar-announces-retirement-from-international-cricket-2829270/",
+        "source": "Express",
+        "date": "2026-08-26T08:52:16+05:00",
+        "img": ""
+      },
+      {
         "title": "CM Murad pledges continued support for children with special needs",
         "summary": "<p>KARACHI: Chief Minister Syed Murad Ali Shah on Tuesday said that every child deserved access to quality education, therapy and equal opportunities to succeed, pledging the provincial government’s continued support for children with special needs.</p> <p>Addressing a ceremony organised by the Milestone Charitable Tru",
         "url": "https://www.dawn.com/news/2025292/cm-murad-pledges-continued-support-for-children-with-special-needs",
@@ -749,19 +789,19 @@
         "img": ""
       },
       {
+        "title": "عمران خان شفا اسپتال نہیں گئے، منسوب تصاویر بھی جعلی؛ حقیقت جانیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829269/imran-khan-did-not-visit-shifa-hospital-the-circulated-photos-are-also-fakehere-are-the-facts-2829269/",
+        "source": "Express",
+        "date": "2026-08-26T08:23:08+05:00",
+        "img": ""
+      },
+      {
         "title": "CM Bugti reiterates merit-based recruitment in Balochistan public sector",
         "summary": "<p><a href=\"https://www.dawn.com/news/2025333\">https://www.dawn.com/news/2025333</a></p>",
         "url": "https://www.dawn.com/news/2025382/cm-bugti-reiterates-merit-based-recruitment-in-balochistan-public-sector",
         "source": "Dawn",
         "date": "2026-08-26T08:22:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
-        "source": "Express",
-        "date": "2026-08-26T08:22:29+05:00",
         "img": ""
       },
       {
@@ -778,6 +818,14 @@
         "url": "https://www.dawn.com/news/2025381/constituency-issues-dominate-national-assembly-session-as-58-point-agenda-deferred",
         "source": "Dawn",
         "date": "2026-08-26T08:15:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "جنوبی لبنان پر اسرائیل کا بڑا حملہ، جنگی طیاروں کے بعد توپ خانے سے بھی گولہ باری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829265/israeli-airstrikes-and-artillery-shelling-hit-southern-lebanon-2829265/",
+        "source": "Express",
+        "date": "2026-08-26T08:11:22+05:00",
         "img": ""
       },
       {
@@ -885,35 +933,19 @@
         "img": ""
       },
       {
-        "title": "بنگلا دیشی وزیراعظم کے دورہ بھارت کے التوا سے مودی سرکار کی سفارتی ناکامی نمایاں",
+        "title": "اسپتال کے اندر 55 بچے موجود تھے، سب جل گئے، جاں بحق بچی کے باپ کا بیان",
         "summary": "",
-        "url": "https://www.express.pk/story/2829235/postponement-of-bangladeshi-prime-ministers-visit-to-india-highlights-modi-governments-diplomatic-failure-2829235/",
+        "url": "https://www.express.pk/story/2829272/there-were-55-children-inside-the-hospital-all-burned-to-death-says-father-of-deceased-girl-2829272/",
         "source": "Express",
-        "date": "2026-08-26T06:19:58+05:00",
+        "date": "2026-08-26T03:53:45+00:00",
         "img": ""
       },
       {
-        "title": "گووندا اور سنیتا آہوجا نے انسٹاگرام پر ایک دوسرے کو ان فالو کر دیا، علیحدگی کی افواہیں پھر تیز",
+        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
         "summary": "",
-        "url": "https://www.express.pk/story/2829234/govinda-and-sunita-ahuja-have-unfollowed-each-other-on-instagram-rumors-of-a-split-have-intensified-once-again-2829234/",
+        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
         "source": "Express",
-        "date": "2026-08-26T06:17:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبو ٹیسٹ: سری لنکا پہلی اننگز میں 290 پر آل آؤٹ ہوکر فالو آن کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829233/india-enforce-follow-on-after-bowling-out-sri-lanka-for-290-2829233/",
-        "source": "Express",
-        "date": "2026-08-26T06:08:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "فلم کی شوٹنگ جاری، رجب بٹ امر خان کے ساتھ فلم کے سیٹ پر نظر آگئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829232/filming-is-underway-rajab-butt-was-spotted-on-the-set-with-amar-khan-2829232/",
-        "source": "Express",
-        "date": "2026-08-26T06:01:41+05:00",
+        "date": "2026-08-26T03:22:29+00:00",
         "img": ""
       },
       {
@@ -922,6 +954,22 @@
         "url": "https://www.express.pk/story/2829267/upper-dir-police-post-set-on-fire-under-cover-of-darkness-2829267/",
         "source": "Express",
         "date": "2026-08-26T03:15:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمز آتشزدگی واقعہ: فواد چوہدری کا وزیر صحت مصطفیٰ کمال سے استعفے کا مطالبہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829264/pims-incident-fawad-demands-kamal-resignation-2829264/",
+        "source": "Express",
+        "date": "2026-08-26T03:06:14+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیرِ صحت رہنے کا کوئی جواز نہیں بچا، مصطفی کمال مستعفی ہوں، شرمیلا فاروقی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829263/there-is-no-justification-left-for-him-to-remain-as-health-minister-mustafa-kamal-should-resign-sharmila-farooqui-2829263/",
+        "source": "Express",
+        "date": "2026-08-26T02:55:41+00:00",
         "img": ""
       },
       {
@@ -938,6 +986,14 @@
         "url": "https://www.express.pk/story/2829257/death-of-15-children-statement-of-executive-director-pims-revealed-2829257/",
         "source": "Express",
         "date": "2026-08-26T02:29:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمزسپتال میں برسوں سےایمرجنسی فائر ڈرل کی مشق نہ کروائے جانے کا انکشاف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829254/it-has-been-revealed-that-emergency-fire-drills-have-not-been-conducted-at-pims-hospital-for-years-2829254/",
+        "source": "Express",
+        "date": "2026-08-26T02:24:17+00:00",
         "img": ""
       },
       {
@@ -973,30 +1029,6 @@
         "img": ""
       },
       {
-        "title": "اسلام آباد ایئرپورٹ پر مسافروں کو عالمی معیار کی سہولیات کیلیے اقدام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829239/initiatives-to-provide-world-class-facilities-to-passengers-at-islamabad-airport-2829239/",
-        "source": "Express",
-        "date": "2026-08-26T01:35:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "پمز سانحہ؛ وزیراعظم نے ہنگامی اجلاس طلب کرلیا، وزیرِ صحت کو اسپتال پہنچنے کا حکم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829238/pims-tragedy-prime-minister-calls-emergency-meeting-orders-health-minister-to-reach-hospital-2829238/",
-        "source": "Express",
-        "date": "2026-08-26T01:30:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "جس وقت آگ لگی عملہ انکیوبیشن سینٹر میں نہیں تھا، والدین کا الزام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829236/pims-fire-incident-2829236/",
-        "source": "Express",
-        "date": "2026-08-26T01:21:07+00:00",
-        "img": ""
-      },
-      {
         "title": "Pilot executes emergency ocean landing near Florida beach",
         "summary": "Pilot executes emergency ocean landing near Florida beach",
         "url": "https://arynews.tv/pilot-executes-emergency-ocean-landing-near-florida-beach",
@@ -1011,14 +1043,6 @@
         "source": "ARY News",
         "date": "2026-08-26T01:12:55+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Keytruda.jpg"
-      },
-      {
-        "title": "لاہور: کمسن بچی سے مبینہ نازیبا حرکات، سوشل میڈیا ویڈیو وائرل کرنے والے ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829231/police-arrest-two-suspects-after-inappropriate-video-of-minor-2829231/",
-        "source": "Express",
-        "date": "2026-08-26T01:00:15+00:00",
-        "img": ""
       },
       {
         "title": "Pakistan’s access to finance initiatives show strong progress",
@@ -1133,30 +1157,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-25T203854.778.jpg"
       },
       {
-        "title": "Federal bureaucracy sees major reshuffle in Islamabad",
-        "summary": "Federal bureaucracy sees major reshuffle in Islamabad",
-        "url": "https://arynews.tv/federal-bureaucracy-sees-major-reshuffle-in-islamabad",
-        "source": "ARY News",
-        "date": "2026-08-25T20:29:03+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Islamabad.jpg"
-      },
-      {
-        "title": "HEC to hold four-day AI literacy training for faculty members",
-        "summary": "HEC to hold four-day AI literacy training for faculty members",
-        "url": "https://arynews.tv/hec-to-hold-four-day-ai-literacy-training-for-faculty-members",
-        "source": "ARY News",
-        "date": "2026-08-25T20:12:53+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/HEC.jpg"
-      },
-      {
-        "title": "Imaavy: US expands approval for J&J’s drug for rare blood disorder",
-        "summary": "Imaavy: US expands approval for J&J’s drug for rare blood disorder",
-        "url": "https://arynews.tv/imaavy-us-expands-approval-for-jjs-drug-for-rare-blood-disorder",
-        "source": "ARY News",
-        "date": "2026-08-25T20:02:10+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/imaavy.jpg"
-      },
-      {
         "title": "Ayaz Sadiq says there is 'realisation' in govt about NA's lack of quorum, hopeful situation will improve",
         "summary": "<p>National Assembly Speaker Sardar Ayaz Sadiq on Tuesday said there was “realisation” among the treasury members about the lack of quorum in the House and he was hopeful that the situation would improve.</p> <p>Lately, NA proceedings have been marred by a lack of attendance amid a rift between the ruling PML-N and its",
         "url": "https://www.dawn.com/news/2025209/ayaz-sadiq-says-there-is-realisation-in-govt-about-nas-lack-of-quorum-hopeful-situation-will-improve",
@@ -1174,6 +1174,38 @@
       }
     ],
     "kpk": [
+      {
+        "title": "14 infants killed in fire at Pims' gynae ward in Islamabad",
+        "summary": "<p>ISLAMABAD: Fourteen infants were killed in a fire that broke out in the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims) early on Wednesday.</p> <p>Footage aired on television showed rescue workers using ladders to reach broken windows to access the affected area. Outside the hospital, an <em>AF",
+        "url": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad",
+        "source": "Dawn",
+        "date": "2026-08-26T14:33:11+05:00",
+        "img": ""
+      },
+      {
+        "title": "US spy chief visits Russia for meetings, media reports",
+        "summary": "US spy chief visits Russia for meetings, media reports",
+        "url": "https://arynews.tv/us-spy-chief-visits-russia-for-meetings-media-reports",
+        "source": "ARY News",
+        "date": "2026-08-26T14:07:09+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Spy-Chief.jpg"
+      },
+      {
+        "title": "PM orders high-level inquiry into PIMS nursery fire, removes health scretary",
+        "summary": "PM orders high-level inquiry into PIMS nursery fire, removes health scretary",
+        "url": "https://arynews.tv/pm-orders-high-level-inquiry-into-pims-nursery-fire",
+        "source": "ARY News",
+        "date": "2026-08-26T13:39:40+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Federal-Sec-health-removed.jpg"
+      },
+      {
+        "title": "PIMS fire: Relative claims she rescued newborn, contradicts hospital’s account",
+        "summary": "PIMS fire: Relative claims she rescued newborn, contradicts hospital’s account",
+        "url": "https://arynews.tv/pims-fire-relative-claims-she-rescued-newborn-contradicts-hospitals-account",
+        "source": "ARY News",
+        "date": "2026-08-26T13:38:04+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PIMS-aunt.jpg"
+      },
       {
         "title": "Security, traffic plans for Eid Miladun Nabi processions",
         "summary": "<p>Authorities have made elaborate security and road traffic arrangements across the country for rallies in connection with the 12th Rabiul Awwal on Wednesday.</p> <h2><a id=\"karachi\" href=\"#karachi\" class=\"heading-permalink\" aria-hidden=\"true\" title=\"Permalink\"></a>Karachi</h2> <p>In Karachi, 4,208 policemen have been",
@@ -1205,14 +1237,6 @@
         "source": "ARY News",
         "date": "2026-08-26T13:14:46+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PM-Mustafa-Kamal.jpg"
-      },
-      {
-        "title": "14 infants killed in fire at Pims' gynae ward in Islamabad",
-        "summary": "<p>ISLAMABAD: Fourteen infants were killed in a fire that broke out in the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims) early on Wednesday.</p> <p>Footage aired on television showed rescue workers using ladders to reach broken windows to access the affected area. Outside the hospital, an <em>AF",
-        "url": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad",
-        "source": "Dawn",
-        "date": "2026-08-26T13:10:41+05:00",
-        "img": ""
       },
       {
         "title": "Yousaf urges youth to draw guidance from Seerat of Holy Prophet (SAWW)",
@@ -1303,6 +1327,14 @@
         "img": ""
       },
       {
+        "title": "گھر کے کاموں سے بور ہو گئی ہیں؟ یہ طریقے اپنا کر روزمرہ زندگی کو دلچسپ بنائیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829273/bored-with-household-chores-try-these-methods-to-make-your-daily-life-interesting-2829273/",
+        "source": "Express",
+        "date": "2026-08-26T09:02:51+05:00",
+        "img": ""
+      },
+      {
         "title": "Deaths in Lahore police custody: Forensic report confirms women were addicts, says IGP",
         "summary": "<p><a href=\"https://www.dawn.com/news/2025309\">https://www.dawn.com/news/2025309</a></p>",
         "url": "https://www.dawn.com/news/2025386/deaths-in-lahore-police-custody-forensic-report-confirms-women-were-addicts-says-igp",
@@ -1335,6 +1367,14 @@
         "img": ""
       },
       {
+        "title": "قومی ویمن کرکٹر ایمن انور کا انٹرنیشنل کرکٹ سے ریٹائرمنٹ کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829270/aimen-anwar-announces-retirement-from-international-cricket-2829270/",
+        "source": "Express",
+        "date": "2026-08-26T08:52:16+05:00",
+        "img": ""
+      },
+      {
         "title": "CM Murad pledges continued support for children with special needs",
         "summary": "<p>KARACHI: Chief Minister Syed Murad Ali Shah on Tuesday said that every child deserved access to quality education, therapy and equal opportunities to succeed, pledging the provincial government’s continued support for children with special needs.</p> <p>Addressing a ceremony organised by the Milestone Charitable Tru",
         "url": "https://www.dawn.com/news/2025292/cm-murad-pledges-continued-support-for-children-with-special-needs",
@@ -1351,19 +1391,19 @@
         "img": ""
       },
       {
+        "title": "عمران خان شفا اسپتال نہیں گئے، منسوب تصاویر بھی جعلی؛ حقیقت جانیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829269/imran-khan-did-not-visit-shifa-hospital-the-circulated-photos-are-also-fakehere-are-the-facts-2829269/",
+        "source": "Express",
+        "date": "2026-08-26T08:23:08+05:00",
+        "img": ""
+      },
+      {
         "title": "CM Bugti reiterates merit-based recruitment in Balochistan public sector",
         "summary": "<p><a href=\"https://www.dawn.com/news/2025333\">https://www.dawn.com/news/2025333</a></p>",
         "url": "https://www.dawn.com/news/2025382/cm-bugti-reiterates-merit-based-recruitment-in-balochistan-public-sector",
         "source": "Dawn",
         "date": "2026-08-26T08:22:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
-        "source": "Express",
-        "date": "2026-08-26T08:22:29+05:00",
         "img": ""
       },
       {
@@ -1380,6 +1420,14 @@
         "url": "https://www.dawn.com/news/2025381/constituency-issues-dominate-national-assembly-session-as-58-point-agenda-deferred",
         "source": "Dawn",
         "date": "2026-08-26T08:15:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "جنوبی لبنان پر اسرائیل کا بڑا حملہ، جنگی طیاروں کے بعد توپ خانے سے بھی گولہ باری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829265/israeli-airstrikes-and-artillery-shelling-hit-southern-lebanon-2829265/",
+        "source": "Express",
+        "date": "2026-08-26T08:11:22+05:00",
         "img": ""
       },
       {
@@ -1495,43 +1543,11 @@
         "img": ""
       },
       {
-        "title": "بنگلا دیشی وزیراعظم کے دورہ بھارت کے التوا سے مودی سرکار کی سفارتی ناکامی نمایاں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829235/postponement-of-bangladeshi-prime-ministers-visit-to-india-highlights-modi-governments-diplomatic-failure-2829235/",
-        "source": "Express",
-        "date": "2026-08-26T06:19:58+05:00",
-        "img": ""
-      },
-      {
-        "title": "گووندا اور سنیتا آہوجا نے انسٹاگرام پر ایک دوسرے کو ان فالو کر دیا، علیحدگی کی افواہیں پھر تیز",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829234/govinda-and-sunita-ahuja-have-unfollowed-each-other-on-instagram-rumors-of-a-split-have-intensified-once-again-2829234/",
-        "source": "Express",
-        "date": "2026-08-26T06:17:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبو ٹیسٹ: سری لنکا پہلی اننگز میں 290 پر آل آؤٹ ہوکر فالو آن کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829233/india-enforce-follow-on-after-bowling-out-sri-lanka-for-290-2829233/",
-        "source": "Express",
-        "date": "2026-08-26T06:08:09+05:00",
-        "img": ""
-      },
-      {
         "title": "Pakistan Rejects Badakhshan Allegations by Taliban",
         "summary": "ISLAMABAD: Pakistan has firmly dismissed claims made by the Afghan Taliban administration alleging that Pakistani forces backed or took part alongside armed opposition groups operating in Badakhshan, calling the accusation entirely without merit. The allegation surfaced after Afghan Taliban spokesman Zabihullah Mujahid",
         "url": "https://khybernews.tv/pakistan-rejects-badakhshan-allegations-by-taliban/",
         "source": "Khyber News",
         "date": "2026-08-26T06:07:29+00:00",
-        "img": ""
-      },
-      {
-        "title": "فلم کی شوٹنگ جاری، رجب بٹ امر خان کے ساتھ فلم کے سیٹ پر نظر آگئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829232/filming-is-underway-rajab-butt-was-spotted-on-the-set-with-amar-khan-2829232/",
-        "source": "Express",
-        "date": "2026-08-26T06:01:41+05:00",
         "img": ""
       },
       {
@@ -1567,11 +1583,43 @@
         "img": ""
       },
       {
+        "title": "اسپتال کے اندر 55 بچے موجود تھے، سب جل گئے، جاں بحق بچی کے باپ کا بیان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829272/there-were-55-children-inside-the-hospital-all-burned-to-death-says-father-of-deceased-girl-2829272/",
+        "source": "Express",
+        "date": "2026-08-26T03:53:45+00:00",
+        "img": ""
+      },
+      {
+        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
+        "source": "Express",
+        "date": "2026-08-26T03:22:29+00:00",
+        "img": ""
+      },
+      {
         "title": "دیر بالا میں رات کی تاریکی میں پولیس پوسٹ جلا دی گئی",
         "summary": "",
         "url": "https://www.express.pk/story/2829267/upper-dir-police-post-set-on-fire-under-cover-of-darkness-2829267/",
         "source": "Express",
         "date": "2026-08-26T03:15:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمز آتشزدگی واقعہ: فواد چوہدری کا وزیر صحت مصطفیٰ کمال سے استعفے کا مطالبہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829264/pims-incident-fawad-demands-kamal-resignation-2829264/",
+        "source": "Express",
+        "date": "2026-08-26T03:06:14+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیرِ صحت رہنے کا کوئی جواز نہیں بچا، مصطفی کمال مستعفی ہوں، شرمیلا فاروقی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829263/there-is-no-justification-left-for-him-to-remain-as-health-minister-mustafa-kamal-should-resign-sharmila-farooqui-2829263/",
+        "source": "Express",
+        "date": "2026-08-26T02:55:41+00:00",
         "img": ""
       },
       {
@@ -1588,6 +1636,14 @@
         "url": "https://www.express.pk/story/2829257/death-of-15-children-statement-of-executive-director-pims-revealed-2829257/",
         "source": "Express",
         "date": "2026-08-26T02:29:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمزسپتال میں برسوں سےایمرجنسی فائر ڈرل کی مشق نہ کروائے جانے کا انکشاف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829254/it-has-been-revealed-that-emergency-fire-drills-have-not-been-conducted-at-pims-hospital-for-years-2829254/",
+        "source": "Express",
+        "date": "2026-08-26T02:24:17+00:00",
         "img": ""
       },
       {
@@ -1623,30 +1679,6 @@
         "img": ""
       },
       {
-        "title": "اسلام آباد ایئرپورٹ پر مسافروں کو عالمی معیار کی سہولیات کیلیے اقدام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829239/initiatives-to-provide-world-class-facilities-to-passengers-at-islamabad-airport-2829239/",
-        "source": "Express",
-        "date": "2026-08-26T01:35:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "پمز سانحہ؛ وزیراعظم نے ہنگامی اجلاس طلب کرلیا، وزیرِ صحت کو اسپتال پہنچنے کا حکم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829238/pims-tragedy-prime-minister-calls-emergency-meeting-orders-health-minister-to-reach-hospital-2829238/",
-        "source": "Express",
-        "date": "2026-08-26T01:30:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "جس وقت آگ لگی عملہ انکیوبیشن سینٹر میں نہیں تھا، والدین کا الزام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829236/pims-fire-incident-2829236/",
-        "source": "Express",
-        "date": "2026-08-26T01:21:07+00:00",
-        "img": ""
-      },
-      {
         "title": "Pilot executes emergency ocean landing near Florida beach",
         "summary": "Pilot executes emergency ocean landing near Florida beach",
         "url": "https://arynews.tv/pilot-executes-emergency-ocean-landing-near-florida-beach",
@@ -1661,14 +1693,6 @@
         "source": "ARY News",
         "date": "2026-08-26T01:12:55+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Keytruda.jpg"
-      },
-      {
-        "title": "لاہور: کمسن بچی سے مبینہ نازیبا حرکات، سوشل میڈیا ویڈیو وائرل کرنے والے ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829231/police-arrest-two-suspects-after-inappropriate-video-of-minor-2829231/",
-        "source": "Express",
-        "date": "2026-08-26T01:00:15+00:00",
-        "img": ""
       },
       {
         "title": "Pakistan’s access to finance initiatives show strong progress",
@@ -1781,30 +1805,6 @@
         "source": "ARY News",
         "date": "2026-08-25T21:26:21+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-25T203854.778.jpg"
-      },
-      {
-        "title": "Federal bureaucracy sees major reshuffle in Islamabad",
-        "summary": "Federal bureaucracy sees major reshuffle in Islamabad",
-        "url": "https://arynews.tv/federal-bureaucracy-sees-major-reshuffle-in-islamabad",
-        "source": "ARY News",
-        "date": "2026-08-25T20:29:03+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Islamabad.jpg"
-      },
-      {
-        "title": "HEC to hold four-day AI literacy training for faculty members",
-        "summary": "HEC to hold four-day AI literacy training for faculty members",
-        "url": "https://arynews.tv/hec-to-hold-four-day-ai-literacy-training-for-faculty-members",
-        "source": "ARY News",
-        "date": "2026-08-25T20:12:53+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/HEC.jpg"
-      },
-      {
-        "title": "Imaavy: US expands approval for J&J’s drug for rare blood disorder",
-        "summary": "Imaavy: US expands approval for J&J’s drug for rare blood disorder",
-        "url": "https://arynews.tv/imaavy-us-expands-approval-for-jjs-drug-for-rare-blood-disorder",
-        "source": "ARY News",
-        "date": "2026-08-25T20:02:10+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/imaavy.jpg"
       },
       {
         "title": "Ayaz Sadiq says there is 'realisation' in govt about NA's lack of quorum, hopeful situation will improve",
@@ -1857,19 +1857,19 @@
     ],
     "punjab": [
       {
+        "title": "14 infants killed in fire at Pims' gynae ward in Islamabad",
+        "summary": "<p>ISLAMABAD: Fourteen infants were killed in a fire that broke out in the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims) early on Wednesday.</p> <p>Footage aired on television showed rescue workers using ladders to reach broken windows to access the affected area. Outside the hospital, an <em>AF",
+        "url": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad",
+        "source": "Dawn",
+        "date": "2026-08-26T14:33:11+05:00",
+        "img": ""
+      },
+      {
         "title": "Security, traffic plans for Eid Miladun Nabi processions",
         "summary": "<p>Authorities have made elaborate security and road traffic arrangements across the country for rallies in connection with the 12th Rabiul Awwal on Wednesday.</p> <h2><a id=\"karachi\" href=\"#karachi\" class=\"heading-permalink\" aria-hidden=\"true\" title=\"Permalink\"></a>Karachi</h2> <p>In Karachi, 4,208 policemen have been",
         "url": "https://www.dawn.com/news/2025246/security-traffic-plans-for-eid-miladun-nabi-processions",
         "source": "Dawn",
         "date": "2026-08-26T13:34:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "14 infants killed in fire at Pims' gynae ward in Islamabad",
-        "summary": "<p>ISLAMABAD: Fourteen infants were killed in a fire that broke out in the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims) early on Wednesday.</p> <p>Footage aired on television showed rescue workers using ladders to reach broken windows to access the affected area. Outside the hospital, an <em>AF",
-        "url": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad",
-        "source": "Dawn",
-        "date": "2026-08-26T13:10:41+05:00",
         "img": ""
       },
       {
@@ -1921,6 +1921,14 @@
         "img": ""
       },
       {
+        "title": "گھر کے کاموں سے بور ہو گئی ہیں؟ یہ طریقے اپنا کر روزمرہ زندگی کو دلچسپ بنائیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829273/bored-with-household-chores-try-these-methods-to-make-your-daily-life-interesting-2829273/",
+        "source": "Express",
+        "date": "2026-08-26T09:02:51+05:00",
+        "img": ""
+      },
+      {
         "title": "Deaths in Lahore police custody: Forensic report confirms women were addicts, says IGP",
         "summary": "<p><a href=\"https://www.dawn.com/news/2025309\">https://www.dawn.com/news/2025309</a></p>",
         "url": "https://www.dawn.com/news/2025386/deaths-in-lahore-police-custody-forensic-report-confirms-women-were-addicts-says-igp",
@@ -1953,6 +1961,14 @@
         "img": ""
       },
       {
+        "title": "قومی ویمن کرکٹر ایمن انور کا انٹرنیشنل کرکٹ سے ریٹائرمنٹ کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829270/aimen-anwar-announces-retirement-from-international-cricket-2829270/",
+        "source": "Express",
+        "date": "2026-08-26T08:52:16+05:00",
+        "img": ""
+      },
+      {
         "title": "CM Murad pledges continued support for children with special needs",
         "summary": "<p>KARACHI: Chief Minister Syed Murad Ali Shah on Tuesday said that every child deserved access to quality education, therapy and equal opportunities to succeed, pledging the provincial government’s continued support for children with special needs.</p> <p>Addressing a ceremony organised by the Milestone Charitable Tru",
         "url": "https://www.dawn.com/news/2025292/cm-murad-pledges-continued-support-for-children-with-special-needs",
@@ -1969,19 +1985,19 @@
         "img": ""
       },
       {
+        "title": "عمران خان شفا اسپتال نہیں گئے، منسوب تصاویر بھی جعلی؛ حقیقت جانیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829269/imran-khan-did-not-visit-shifa-hospital-the-circulated-photos-are-also-fakehere-are-the-facts-2829269/",
+        "source": "Express",
+        "date": "2026-08-26T08:23:08+05:00",
+        "img": ""
+      },
+      {
         "title": "CM Bugti reiterates merit-based recruitment in Balochistan public sector",
         "summary": "<p><a href=\"https://www.dawn.com/news/2025333\">https://www.dawn.com/news/2025333</a></p>",
         "url": "https://www.dawn.com/news/2025382/cm-bugti-reiterates-merit-based-recruitment-in-balochistan-public-sector",
         "source": "Dawn",
         "date": "2026-08-26T08:22:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
-        "source": "Express",
-        "date": "2026-08-26T08:22:29+05:00",
         "img": ""
       },
       {
@@ -1998,6 +2014,14 @@
         "url": "https://www.dawn.com/news/2025381/constituency-issues-dominate-national-assembly-session-as-58-point-agenda-deferred",
         "source": "Dawn",
         "date": "2026-08-26T08:15:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "جنوبی لبنان پر اسرائیل کا بڑا حملہ، جنگی طیاروں کے بعد توپ خانے سے بھی گولہ باری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829265/israeli-airstrikes-and-artillery-shelling-hit-southern-lebanon-2829265/",
+        "source": "Express",
+        "date": "2026-08-26T08:11:22+05:00",
         "img": ""
       },
       {
@@ -2105,35 +2129,19 @@
         "img": ""
       },
       {
-        "title": "بنگلا دیشی وزیراعظم کے دورہ بھارت کے التوا سے مودی سرکار کی سفارتی ناکامی نمایاں",
+        "title": "اسپتال کے اندر 55 بچے موجود تھے، سب جل گئے، جاں بحق بچی کے باپ کا بیان",
         "summary": "",
-        "url": "https://www.express.pk/story/2829235/postponement-of-bangladeshi-prime-ministers-visit-to-india-highlights-modi-governments-diplomatic-failure-2829235/",
+        "url": "https://www.express.pk/story/2829272/there-were-55-children-inside-the-hospital-all-burned-to-death-says-father-of-deceased-girl-2829272/",
         "source": "Express",
-        "date": "2026-08-26T06:19:58+05:00",
+        "date": "2026-08-26T03:53:45+00:00",
         "img": ""
       },
       {
-        "title": "گووندا اور سنیتا آہوجا نے انسٹاگرام پر ایک دوسرے کو ان فالو کر دیا، علیحدگی کی افواہیں پھر تیز",
+        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
         "summary": "",
-        "url": "https://www.express.pk/story/2829234/govinda-and-sunita-ahuja-have-unfollowed-each-other-on-instagram-rumors-of-a-split-have-intensified-once-again-2829234/",
+        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
         "source": "Express",
-        "date": "2026-08-26T06:17:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبو ٹیسٹ: سری لنکا پہلی اننگز میں 290 پر آل آؤٹ ہوکر فالو آن کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829233/india-enforce-follow-on-after-bowling-out-sri-lanka-for-290-2829233/",
-        "source": "Express",
-        "date": "2026-08-26T06:08:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "فلم کی شوٹنگ جاری، رجب بٹ امر خان کے ساتھ فلم کے سیٹ پر نظر آگئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829232/filming-is-underway-rajab-butt-was-spotted-on-the-set-with-amar-khan-2829232/",
-        "source": "Express",
-        "date": "2026-08-26T06:01:41+05:00",
+        "date": "2026-08-26T03:22:29+00:00",
         "img": ""
       },
       {
@@ -2142,6 +2150,22 @@
         "url": "https://www.express.pk/story/2829267/upper-dir-police-post-set-on-fire-under-cover-of-darkness-2829267/",
         "source": "Express",
         "date": "2026-08-26T03:15:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمز آتشزدگی واقعہ: فواد چوہدری کا وزیر صحت مصطفیٰ کمال سے استعفے کا مطالبہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829264/pims-incident-fawad-demands-kamal-resignation-2829264/",
+        "source": "Express",
+        "date": "2026-08-26T03:06:14+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیرِ صحت رہنے کا کوئی جواز نہیں بچا، مصطفی کمال مستعفی ہوں، شرمیلا فاروقی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829263/there-is-no-justification-left-for-him-to-remain-as-health-minister-mustafa-kamal-should-resign-sharmila-farooqui-2829263/",
+        "source": "Express",
+        "date": "2026-08-26T02:55:41+00:00",
         "img": ""
       },
       {
@@ -2158,6 +2182,14 @@
         "url": "https://www.express.pk/story/2829257/death-of-15-children-statement-of-executive-director-pims-revealed-2829257/",
         "source": "Express",
         "date": "2026-08-26T02:29:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمزسپتال میں برسوں سےایمرجنسی فائر ڈرل کی مشق نہ کروائے جانے کا انکشاف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829254/it-has-been-revealed-that-emergency-fire-drills-have-not-been-conducted-at-pims-hospital-for-years-2829254/",
+        "source": "Express",
+        "date": "2026-08-26T02:24:17+00:00",
         "img": ""
       },
       {
@@ -2190,38 +2222,6 @@
         "url": "https://www.express.pk/story/2829243/pims-fire-incident-2829243/",
         "source": "Express",
         "date": "2026-08-26T01:50:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد ایئرپورٹ پر مسافروں کو عالمی معیار کی سہولیات کیلیے اقدام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829239/initiatives-to-provide-world-class-facilities-to-passengers-at-islamabad-airport-2829239/",
-        "source": "Express",
-        "date": "2026-08-26T01:35:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "پمز سانحہ؛ وزیراعظم نے ہنگامی اجلاس طلب کرلیا، وزیرِ صحت کو اسپتال پہنچنے کا حکم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829238/pims-tragedy-prime-minister-calls-emergency-meeting-orders-health-minister-to-reach-hospital-2829238/",
-        "source": "Express",
-        "date": "2026-08-26T01:30:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "جس وقت آگ لگی عملہ انکیوبیشن سینٹر میں نہیں تھا، والدین کا الزام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829236/pims-fire-incident-2829236/",
-        "source": "Express",
-        "date": "2026-08-26T01:21:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور: کمسن بچی سے مبینہ نازیبا حرکات، سوشل میڈیا ویڈیو وائرل کرنے والے ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829231/police-arrest-two-suspects-after-inappropriate-video-of-minor-2829231/",
-        "source": "Express",
-        "date": "2026-08-26T01:00:15+00:00",
         "img": ""
       },
       {
@@ -2259,19 +2259,19 @@
     ],
     "sindh": [
       {
+        "title": "14 infants killed in fire at Pims' gynae ward in Islamabad",
+        "summary": "<p>ISLAMABAD: Fourteen infants were killed in a fire that broke out in the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims) early on Wednesday.</p> <p>Footage aired on television showed rescue workers using ladders to reach broken windows to access the affected area. Outside the hospital, an <em>AF",
+        "url": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad",
+        "source": "Dawn",
+        "date": "2026-08-26T14:33:11+05:00",
+        "img": ""
+      },
+      {
         "title": "Security, traffic plans for Eid Miladun Nabi processions",
         "summary": "<p>Authorities have made elaborate security and road traffic arrangements across the country for rallies in connection with the 12th Rabiul Awwal on Wednesday.</p> <h2><a id=\"karachi\" href=\"#karachi\" class=\"heading-permalink\" aria-hidden=\"true\" title=\"Permalink\"></a>Karachi</h2> <p>In Karachi, 4,208 policemen have been",
         "url": "https://www.dawn.com/news/2025246/security-traffic-plans-for-eid-miladun-nabi-processions",
         "source": "Dawn",
         "date": "2026-08-26T13:34:02+05:00",
-        "img": ""
-      },
-      {
-        "title": "14 infants killed in fire at Pims' gynae ward in Islamabad",
-        "summary": "<p>ISLAMABAD: Fourteen infants were killed in a fire that broke out in the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims) early on Wednesday.</p> <p>Footage aired on television showed rescue workers using ladders to reach broken windows to access the affected area. Outside the hospital, an <em>AF",
-        "url": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad",
-        "source": "Dawn",
-        "date": "2026-08-26T13:10:41+05:00",
         "img": ""
       },
       {
@@ -2323,6 +2323,14 @@
         "img": ""
       },
       {
+        "title": "گھر کے کاموں سے بور ہو گئی ہیں؟ یہ طریقے اپنا کر روزمرہ زندگی کو دلچسپ بنائیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829273/bored-with-household-chores-try-these-methods-to-make-your-daily-life-interesting-2829273/",
+        "source": "Express",
+        "date": "2026-08-26T09:02:51+05:00",
+        "img": ""
+      },
+      {
         "title": "Deaths in Lahore police custody: Forensic report confirms women were addicts, says IGP",
         "summary": "<p><a href=\"https://www.dawn.com/news/2025309\">https://www.dawn.com/news/2025309</a></p>",
         "url": "https://www.dawn.com/news/2025386/deaths-in-lahore-police-custody-forensic-report-confirms-women-were-addicts-says-igp",
@@ -2355,6 +2363,14 @@
         "img": ""
       },
       {
+        "title": "قومی ویمن کرکٹر ایمن انور کا انٹرنیشنل کرکٹ سے ریٹائرمنٹ کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829270/aimen-anwar-announces-retirement-from-international-cricket-2829270/",
+        "source": "Express",
+        "date": "2026-08-26T08:52:16+05:00",
+        "img": ""
+      },
+      {
         "title": "CM Murad pledges continued support for children with special needs",
         "summary": "<p>KARACHI: Chief Minister Syed Murad Ali Shah on Tuesday said that every child deserved access to quality education, therapy and equal opportunities to succeed, pledging the provincial government’s continued support for children with special needs.</p> <p>Addressing a ceremony organised by the Milestone Charitable Tru",
         "url": "https://www.dawn.com/news/2025292/cm-murad-pledges-continued-support-for-children-with-special-needs",
@@ -2371,19 +2387,19 @@
         "img": ""
       },
       {
+        "title": "عمران خان شفا اسپتال نہیں گئے، منسوب تصاویر بھی جعلی؛ حقیقت جانیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829269/imran-khan-did-not-visit-shifa-hospital-the-circulated-photos-are-also-fakehere-are-the-facts-2829269/",
+        "source": "Express",
+        "date": "2026-08-26T08:23:08+05:00",
+        "img": ""
+      },
+      {
         "title": "CM Bugti reiterates merit-based recruitment in Balochistan public sector",
         "summary": "<p><a href=\"https://www.dawn.com/news/2025333\">https://www.dawn.com/news/2025333</a></p>",
         "url": "https://www.dawn.com/news/2025382/cm-bugti-reiterates-merit-based-recruitment-in-balochistan-public-sector",
         "source": "Dawn",
         "date": "2026-08-26T08:22:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
-        "source": "Express",
-        "date": "2026-08-26T08:22:29+05:00",
         "img": ""
       },
       {
@@ -2400,6 +2416,14 @@
         "url": "https://www.dawn.com/news/2025381/constituency-issues-dominate-national-assembly-session-as-58-point-agenda-deferred",
         "source": "Dawn",
         "date": "2026-08-26T08:15:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "جنوبی لبنان پر اسرائیل کا بڑا حملہ، جنگی طیاروں کے بعد توپ خانے سے بھی گولہ باری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829265/israeli-airstrikes-and-artillery-shelling-hit-southern-lebanon-2829265/",
+        "source": "Express",
+        "date": "2026-08-26T08:11:22+05:00",
         "img": ""
       },
       {
@@ -2507,35 +2531,19 @@
         "img": ""
       },
       {
-        "title": "بنگلا دیشی وزیراعظم کے دورہ بھارت کے التوا سے مودی سرکار کی سفارتی ناکامی نمایاں",
+        "title": "اسپتال کے اندر 55 بچے موجود تھے، سب جل گئے، جاں بحق بچی کے باپ کا بیان",
         "summary": "",
-        "url": "https://www.express.pk/story/2829235/postponement-of-bangladeshi-prime-ministers-visit-to-india-highlights-modi-governments-diplomatic-failure-2829235/",
+        "url": "https://www.express.pk/story/2829272/there-were-55-children-inside-the-hospital-all-burned-to-death-says-father-of-deceased-girl-2829272/",
         "source": "Express",
-        "date": "2026-08-26T06:19:58+05:00",
+        "date": "2026-08-26T03:53:45+00:00",
         "img": ""
       },
       {
-        "title": "گووندا اور سنیتا آہوجا نے انسٹاگرام پر ایک دوسرے کو ان فالو کر دیا، علیحدگی کی افواہیں پھر تیز",
+        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
         "summary": "",
-        "url": "https://www.express.pk/story/2829234/govinda-and-sunita-ahuja-have-unfollowed-each-other-on-instagram-rumors-of-a-split-have-intensified-once-again-2829234/",
+        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
         "source": "Express",
-        "date": "2026-08-26T06:17:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبو ٹیسٹ: سری لنکا پہلی اننگز میں 290 پر آل آؤٹ ہوکر فالو آن کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829233/india-enforce-follow-on-after-bowling-out-sri-lanka-for-290-2829233/",
-        "source": "Express",
-        "date": "2026-08-26T06:08:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "فلم کی شوٹنگ جاری، رجب بٹ امر خان کے ساتھ فلم کے سیٹ پر نظر آگئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829232/filming-is-underway-rajab-butt-was-spotted-on-the-set-with-amar-khan-2829232/",
-        "source": "Express",
-        "date": "2026-08-26T06:01:41+05:00",
+        "date": "2026-08-26T03:22:29+00:00",
         "img": ""
       },
       {
@@ -2544,6 +2552,22 @@
         "url": "https://www.express.pk/story/2829267/upper-dir-police-post-set-on-fire-under-cover-of-darkness-2829267/",
         "source": "Express",
         "date": "2026-08-26T03:15:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمز آتشزدگی واقعہ: فواد چوہدری کا وزیر صحت مصطفیٰ کمال سے استعفے کا مطالبہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829264/pims-incident-fawad-demands-kamal-resignation-2829264/",
+        "source": "Express",
+        "date": "2026-08-26T03:06:14+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیرِ صحت رہنے کا کوئی جواز نہیں بچا، مصطفی کمال مستعفی ہوں، شرمیلا فاروقی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829263/there-is-no-justification-left-for-him-to-remain-as-health-minister-mustafa-kamal-should-resign-sharmila-farooqui-2829263/",
+        "source": "Express",
+        "date": "2026-08-26T02:55:41+00:00",
         "img": ""
       },
       {
@@ -2560,6 +2584,14 @@
         "url": "https://www.express.pk/story/2829257/death-of-15-children-statement-of-executive-director-pims-revealed-2829257/",
         "source": "Express",
         "date": "2026-08-26T02:29:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمزسپتال میں برسوں سےایمرجنسی فائر ڈرل کی مشق نہ کروائے جانے کا انکشاف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829254/it-has-been-revealed-that-emergency-fire-drills-have-not-been-conducted-at-pims-hospital-for-years-2829254/",
+        "source": "Express",
+        "date": "2026-08-26T02:24:17+00:00",
         "img": ""
       },
       {
@@ -2592,38 +2624,6 @@
         "url": "https://www.express.pk/story/2829243/pims-fire-incident-2829243/",
         "source": "Express",
         "date": "2026-08-26T01:50:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد ایئرپورٹ پر مسافروں کو عالمی معیار کی سہولیات کیلیے اقدام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829239/initiatives-to-provide-world-class-facilities-to-passengers-at-islamabad-airport-2829239/",
-        "source": "Express",
-        "date": "2026-08-26T01:35:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "پمز سانحہ؛ وزیراعظم نے ہنگامی اجلاس طلب کرلیا، وزیرِ صحت کو اسپتال پہنچنے کا حکم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829238/pims-tragedy-prime-minister-calls-emergency-meeting-orders-health-minister-to-reach-hospital-2829238/",
-        "source": "Express",
-        "date": "2026-08-26T01:30:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "جس وقت آگ لگی عملہ انکیوبیشن سینٹر میں نہیں تھا، والدین کا الزام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829236/pims-fire-incident-2829236/",
-        "source": "Express",
-        "date": "2026-08-26T01:21:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور: کمسن بچی سے مبینہ نازیبا حرکات، سوشل میڈیا ویڈیو وائرل کرنے والے ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829231/police-arrest-two-suspects-after-inappropriate-video-of-minor-2829231/",
-        "source": "Express",
-        "date": "2026-08-26T01:00:15+00:00",
         "img": ""
       },
       {
@@ -2661,6 +2661,38 @@
     ],
     "baloch": [
       {
+        "title": "14 infants killed in fire at Pims' gynae ward in Islamabad",
+        "summary": "<p>ISLAMABAD: Fourteen infants were killed in a fire that broke out in the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims) early on Wednesday.</p> <p>Footage aired on television showed rescue workers using ladders to reach broken windows to access the affected area. Outside the hospital, an <em>AF",
+        "url": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad",
+        "source": "Dawn",
+        "date": "2026-08-26T14:33:11+05:00",
+        "img": ""
+      },
+      {
+        "title": "US spy chief visits Russia for meetings, media reports",
+        "summary": "US spy chief visits Russia for meetings, media reports",
+        "url": "https://arynews.tv/us-spy-chief-visits-russia-for-meetings-media-reports",
+        "source": "ARY News",
+        "date": "2026-08-26T14:07:09+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Spy-Chief.jpg"
+      },
+      {
+        "title": "PM orders high-level inquiry into PIMS nursery fire, removes health scretary",
+        "summary": "PM orders high-level inquiry into PIMS nursery fire, removes health scretary",
+        "url": "https://arynews.tv/pm-orders-high-level-inquiry-into-pims-nursery-fire",
+        "source": "ARY News",
+        "date": "2026-08-26T13:39:40+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Federal-Sec-health-removed.jpg"
+      },
+      {
+        "title": "PIMS fire: Relative claims she rescued newborn, contradicts hospital’s account",
+        "summary": "PIMS fire: Relative claims she rescued newborn, contradicts hospital’s account",
+        "url": "https://arynews.tv/pims-fire-relative-claims-she-rescued-newborn-contradicts-hospitals-account",
+        "source": "ARY News",
+        "date": "2026-08-26T13:38:04+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PIMS-aunt.jpg"
+      },
+      {
         "title": "Security, traffic plans for Eid Miladun Nabi processions",
         "summary": "<p>Authorities have made elaborate security and road traffic arrangements across the country for rallies in connection with the 12th Rabiul Awwal on Wednesday.</p> <h2><a id=\"karachi\" href=\"#karachi\" class=\"heading-permalink\" aria-hidden=\"true\" title=\"Permalink\"></a>Karachi</h2> <p>In Karachi, 4,208 policemen have been",
         "url": "https://www.dawn.com/news/2025246/security-traffic-plans-for-eid-miladun-nabi-processions",
@@ -2691,14 +2723,6 @@
         "source": "ARY News",
         "date": "2026-08-26T13:14:46+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PM-Mustafa-Kamal.jpg"
-      },
-      {
-        "title": "14 infants killed in fire at Pims' gynae ward in Islamabad",
-        "summary": "<p>ISLAMABAD: Fourteen infants were killed in a fire that broke out in the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims) early on Wednesday.</p> <p>Footage aired on television showed rescue workers using ladders to reach broken windows to access the affected area. Outside the hospital, an <em>AF",
-        "url": "https://www.dawn.com/news/2025385/14-infants-killed-in-fire-at-pims-gynae-ward-in-islamabad",
-        "source": "Dawn",
-        "date": "2026-08-26T13:10:41+05:00",
-        "img": ""
       },
       {
         "title": "Yousaf urges youth to draw guidance from Seerat of Holy Prophet (SAWW)",
@@ -2789,6 +2813,14 @@
         "img": ""
       },
       {
+        "title": "گھر کے کاموں سے بور ہو گئی ہیں؟ یہ طریقے اپنا کر روزمرہ زندگی کو دلچسپ بنائیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829273/bored-with-household-chores-try-these-methods-to-make-your-daily-life-interesting-2829273/",
+        "source": "Express",
+        "date": "2026-08-26T09:02:51+05:00",
+        "img": ""
+      },
+      {
         "title": "Deaths in Lahore police custody: Forensic report confirms women were addicts, says IGP",
         "summary": "<p><a href=\"https://www.dawn.com/news/2025309\">https://www.dawn.com/news/2025309</a></p>",
         "url": "https://www.dawn.com/news/2025386/deaths-in-lahore-police-custody-forensic-report-confirms-women-were-addicts-says-igp",
@@ -2821,6 +2853,14 @@
         "img": ""
       },
       {
+        "title": "قومی ویمن کرکٹر ایمن انور کا انٹرنیشنل کرکٹ سے ریٹائرمنٹ کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829270/aimen-anwar-announces-retirement-from-international-cricket-2829270/",
+        "source": "Express",
+        "date": "2026-08-26T08:52:16+05:00",
+        "img": ""
+      },
+      {
         "title": "CM Murad pledges continued support for children with special needs",
         "summary": "<p>KARACHI: Chief Minister Syed Murad Ali Shah on Tuesday said that every child deserved access to quality education, therapy and equal opportunities to succeed, pledging the provincial government’s continued support for children with special needs.</p> <p>Addressing a ceremony organised by the Milestone Charitable Tru",
         "url": "https://www.dawn.com/news/2025292/cm-murad-pledges-continued-support-for-children-with-special-needs",
@@ -2837,19 +2877,19 @@
         "img": ""
       },
       {
+        "title": "عمران خان شفا اسپتال نہیں گئے، منسوب تصاویر بھی جعلی؛ حقیقت جانیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829269/imran-khan-did-not-visit-shifa-hospital-the-circulated-photos-are-also-fakehere-are-the-facts-2829269/",
+        "source": "Express",
+        "date": "2026-08-26T08:23:08+05:00",
+        "img": ""
+      },
+      {
         "title": "CM Bugti reiterates merit-based recruitment in Balochistan public sector",
         "summary": "<p><a href=\"https://www.dawn.com/news/2025333\">https://www.dawn.com/news/2025333</a></p>",
         "url": "https://www.dawn.com/news/2025382/cm-bugti-reiterates-merit-based-recruitment-in-balochistan-public-sector",
         "source": "Dawn",
         "date": "2026-08-26T08:22:31+05:00",
-        "img": ""
-      },
-      {
-        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
-        "source": "Express",
-        "date": "2026-08-26T08:22:29+05:00",
         "img": ""
       },
       {
@@ -2866,6 +2906,14 @@
         "url": "https://www.dawn.com/news/2025381/constituency-issues-dominate-national-assembly-session-as-58-point-agenda-deferred",
         "source": "Dawn",
         "date": "2026-08-26T08:15:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "جنوبی لبنان پر اسرائیل کا بڑا حملہ، جنگی طیاروں کے بعد توپ خانے سے بھی گولہ باری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829265/israeli-airstrikes-and-artillery-shelling-hit-southern-lebanon-2829265/",
+        "source": "Express",
+        "date": "2026-08-26T08:11:22+05:00",
         "img": ""
       },
       {
@@ -2973,35 +3021,19 @@
         "img": ""
       },
       {
-        "title": "بنگلا دیشی وزیراعظم کے دورہ بھارت کے التوا سے مودی سرکار کی سفارتی ناکامی نمایاں",
+        "title": "اسپتال کے اندر 55 بچے موجود تھے، سب جل گئے، جاں بحق بچی کے باپ کا بیان",
         "summary": "",
-        "url": "https://www.express.pk/story/2829235/postponement-of-bangladeshi-prime-ministers-visit-to-india-highlights-modi-governments-diplomatic-failure-2829235/",
+        "url": "https://www.express.pk/story/2829272/there-were-55-children-inside-the-hospital-all-burned-to-death-says-father-of-deceased-girl-2829272/",
         "source": "Express",
-        "date": "2026-08-26T06:19:58+05:00",
+        "date": "2026-08-26T03:53:45+00:00",
         "img": ""
       },
       {
-        "title": "گووندا اور سنیتا آہوجا نے انسٹاگرام پر ایک دوسرے کو ان فالو کر دیا، علیحدگی کی افواہیں پھر تیز",
+        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
         "summary": "",
-        "url": "https://www.express.pk/story/2829234/govinda-and-sunita-ahuja-have-unfollowed-each-other-on-instagram-rumors-of-a-split-have-intensified-once-again-2829234/",
+        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
         "source": "Express",
-        "date": "2026-08-26T06:17:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبو ٹیسٹ: سری لنکا پہلی اننگز میں 290 پر آل آؤٹ ہوکر فالو آن کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829233/india-enforce-follow-on-after-bowling-out-sri-lanka-for-290-2829233/",
-        "source": "Express",
-        "date": "2026-08-26T06:08:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "فلم کی شوٹنگ جاری، رجب بٹ امر خان کے ساتھ فلم کے سیٹ پر نظر آگئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829232/filming-is-underway-rajab-butt-was-spotted-on-the-set-with-amar-khan-2829232/",
-        "source": "Express",
-        "date": "2026-08-26T06:01:41+05:00",
+        "date": "2026-08-26T03:22:29+00:00",
         "img": ""
       },
       {
@@ -3010,6 +3042,22 @@
         "url": "https://www.express.pk/story/2829267/upper-dir-police-post-set-on-fire-under-cover-of-darkness-2829267/",
         "source": "Express",
         "date": "2026-08-26T03:15:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمز آتشزدگی واقعہ: فواد چوہدری کا وزیر صحت مصطفیٰ کمال سے استعفے کا مطالبہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829264/pims-incident-fawad-demands-kamal-resignation-2829264/",
+        "source": "Express",
+        "date": "2026-08-26T03:06:14+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیرِ صحت رہنے کا کوئی جواز نہیں بچا، مصطفی کمال مستعفی ہوں، شرمیلا فاروقی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829263/there-is-no-justification-left-for-him-to-remain-as-health-minister-mustafa-kamal-should-resign-sharmila-farooqui-2829263/",
+        "source": "Express",
+        "date": "2026-08-26T02:55:41+00:00",
         "img": ""
       },
       {
@@ -3026,6 +3074,14 @@
         "url": "https://www.express.pk/story/2829257/death-of-15-children-statement-of-executive-director-pims-revealed-2829257/",
         "source": "Express",
         "date": "2026-08-26T02:29:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمزسپتال میں برسوں سےایمرجنسی فائر ڈرل کی مشق نہ کروائے جانے کا انکشاف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829254/it-has-been-revealed-that-emergency-fire-drills-have-not-been-conducted-at-pims-hospital-for-years-2829254/",
+        "source": "Express",
+        "date": "2026-08-26T02:24:17+00:00",
         "img": ""
       },
       {
@@ -3061,30 +3117,6 @@
         "img": ""
       },
       {
-        "title": "اسلام آباد ایئرپورٹ پر مسافروں کو عالمی معیار کی سہولیات کیلیے اقدام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829239/initiatives-to-provide-world-class-facilities-to-passengers-at-islamabad-airport-2829239/",
-        "source": "Express",
-        "date": "2026-08-26T01:35:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "پمز سانحہ؛ وزیراعظم نے ہنگامی اجلاس طلب کرلیا، وزیرِ صحت کو اسپتال پہنچنے کا حکم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829238/pims-tragedy-prime-minister-calls-emergency-meeting-orders-health-minister-to-reach-hospital-2829238/",
-        "source": "Express",
-        "date": "2026-08-26T01:30:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "جس وقت آگ لگی عملہ انکیوبیشن سینٹر میں نہیں تھا، والدین کا الزام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829236/pims-fire-incident-2829236/",
-        "source": "Express",
-        "date": "2026-08-26T01:21:07+00:00",
-        "img": ""
-      },
-      {
         "title": "Pilot executes emergency ocean landing near Florida beach",
         "summary": "Pilot executes emergency ocean landing near Florida beach",
         "url": "https://arynews.tv/pilot-executes-emergency-ocean-landing-near-florida-beach",
@@ -3099,14 +3131,6 @@
         "source": "ARY News",
         "date": "2026-08-26T01:12:55+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Keytruda.jpg"
-      },
-      {
-        "title": "لاہور: کمسن بچی سے مبینہ نازیبا حرکات، سوشل میڈیا ویڈیو وائرل کرنے والے ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829231/police-arrest-two-suspects-after-inappropriate-video-of-minor-2829231/",
-        "source": "Express",
-        "date": "2026-08-26T01:00:15+00:00",
-        "img": ""
       },
       {
         "title": "Pakistan’s access to finance initiatives show strong progress",
@@ -3221,30 +3245,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-25T203854.778.jpg"
       },
       {
-        "title": "Federal bureaucracy sees major reshuffle in Islamabad",
-        "summary": "Federal bureaucracy sees major reshuffle in Islamabad",
-        "url": "https://arynews.tv/federal-bureaucracy-sees-major-reshuffle-in-islamabad",
-        "source": "ARY News",
-        "date": "2026-08-25T20:29:03+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Islamabad.jpg"
-      },
-      {
-        "title": "HEC to hold four-day AI literacy training for faculty members",
-        "summary": "HEC to hold four-day AI literacy training for faculty members",
-        "url": "https://arynews.tv/hec-to-hold-four-day-ai-literacy-training-for-faculty-members",
-        "source": "ARY News",
-        "date": "2026-08-25T20:12:53+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/HEC.jpg"
-      },
-      {
-        "title": "Imaavy: US expands approval for J&J’s drug for rare blood disorder",
-        "summary": "Imaavy: US expands approval for J&J’s drug for rare blood disorder",
-        "url": "https://arynews.tv/imaavy-us-expands-approval-for-jjs-drug-for-rare-blood-disorder",
-        "source": "ARY News",
-        "date": "2026-08-25T20:02:10+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/imaavy.jpg"
-      },
-      {
         "title": "Ayaz Sadiq says there is 'realisation' in govt about NA's lack of quorum, hopeful situation will improve",
         "summary": "<p>National Assembly Speaker Sardar Ayaz Sadiq on Tuesday said there was “realisation” among the treasury members about the lack of quorum in the House and he was hopeful that the situation would improve.</p> <p>Lately, NA proceedings have been marred by a lack of attendance amid a rift between the ruling PML-N and its",
         "url": "https://www.dawn.com/news/2025209/ayaz-sadiq-says-there-is-realisation-in-govt-about-nas-lack-of-quorum-hopeful-situation-will-improve",
@@ -3262,6 +3262,30 @@
       }
     ],
     "education": [
+      {
+        "title": "US spy chief visits Russia for meetings, media reports",
+        "summary": "US spy chief visits Russia for meetings, media reports",
+        "url": "https://arynews.tv/us-spy-chief-visits-russia-for-meetings-media-reports",
+        "source": "ARY News",
+        "date": "2026-08-26T14:07:09+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Spy-Chief.jpg"
+      },
+      {
+        "title": "PM orders high-level inquiry into PIMS nursery fire, removes health scretary",
+        "summary": "PM orders high-level inquiry into PIMS nursery fire, removes health scretary",
+        "url": "https://arynews.tv/pm-orders-high-level-inquiry-into-pims-nursery-fire",
+        "source": "ARY News",
+        "date": "2026-08-26T13:39:40+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Federal-Sec-health-removed.jpg"
+      },
+      {
+        "title": "PIMS fire: Relative claims she rescued newborn, contradicts hospital’s account",
+        "summary": "PIMS fire: Relative claims she rescued newborn, contradicts hospital’s account",
+        "url": "https://arynews.tv/pims-fire-relative-claims-she-rescued-newborn-contradicts-hospitals-account",
+        "source": "ARY News",
+        "date": "2026-08-26T13:38:04+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PIMS-aunt.jpg"
+      },
       {
         "title": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz",
         "summary": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz",
@@ -3327,11 +3351,35 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PIMS.jpg"
       },
       {
-        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
+        "title": "گھر کے کاموں سے بور ہو گئی ہیں؟ یہ طریقے اپنا کر روزمرہ زندگی کو دلچسپ بنائیں",
         "summary": "",
-        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
+        "url": "https://www.express.pk/story/2829273/bored-with-household-chores-try-these-methods-to-make-your-daily-life-interesting-2829273/",
         "source": "Express",
-        "date": "2026-08-26T08:22:29+05:00",
+        "date": "2026-08-26T09:02:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "قومی ویمن کرکٹر ایمن انور کا انٹرنیشنل کرکٹ سے ریٹائرمنٹ کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829270/aimen-anwar-announces-retirement-from-international-cricket-2829270/",
+        "source": "Express",
+        "date": "2026-08-26T08:52:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "عمران خان شفا اسپتال نہیں گئے، منسوب تصاویر بھی جعلی؛ حقیقت جانیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829269/imran-khan-did-not-visit-shifa-hospital-the-circulated-photos-are-also-fakehere-are-the-facts-2829269/",
+        "source": "Express",
+        "date": "2026-08-26T08:23:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "جنوبی لبنان پر اسرائیل کا بڑا حملہ، جنگی طیاروں کے بعد توپ خانے سے بھی گولہ باری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829265/israeli-airstrikes-and-artillery-shelling-hit-southern-lebanon-2829265/",
+        "source": "Express",
+        "date": "2026-08-26T08:11:22+05:00",
         "img": ""
       },
       {
@@ -3407,35 +3455,19 @@
         "img": ""
       },
       {
-        "title": "بنگلا دیشی وزیراعظم کے دورہ بھارت کے التوا سے مودی سرکار کی سفارتی ناکامی نمایاں",
+        "title": "اسپتال کے اندر 55 بچے موجود تھے، سب جل گئے، جاں بحق بچی کے باپ کا بیان",
         "summary": "",
-        "url": "https://www.express.pk/story/2829235/postponement-of-bangladeshi-prime-ministers-visit-to-india-highlights-modi-governments-diplomatic-failure-2829235/",
+        "url": "https://www.express.pk/story/2829272/there-were-55-children-inside-the-hospital-all-burned-to-death-says-father-of-deceased-girl-2829272/",
         "source": "Express",
-        "date": "2026-08-26T06:19:58+05:00",
+        "date": "2026-08-26T03:53:45+00:00",
         "img": ""
       },
       {
-        "title": "گووندا اور سنیتا آہوجا نے انسٹاگرام پر ایک دوسرے کو ان فالو کر دیا، علیحدگی کی افواہیں پھر تیز",
+        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
         "summary": "",
-        "url": "https://www.express.pk/story/2829234/govinda-and-sunita-ahuja-have-unfollowed-each-other-on-instagram-rumors-of-a-split-have-intensified-once-again-2829234/",
+        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
         "source": "Express",
-        "date": "2026-08-26T06:17:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبو ٹیسٹ: سری لنکا پہلی اننگز میں 290 پر آل آؤٹ ہوکر فالو آن کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829233/india-enforce-follow-on-after-bowling-out-sri-lanka-for-290-2829233/",
-        "source": "Express",
-        "date": "2026-08-26T06:08:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "فلم کی شوٹنگ جاری، رجب بٹ امر خان کے ساتھ فلم کے سیٹ پر نظر آگئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829232/filming-is-underway-rajab-butt-was-spotted-on-the-set-with-amar-khan-2829232/",
-        "source": "Express",
-        "date": "2026-08-26T06:01:41+05:00",
+        "date": "2026-08-26T03:22:29+00:00",
         "img": ""
       },
       {
@@ -3444,6 +3476,22 @@
         "url": "https://www.express.pk/story/2829267/upper-dir-police-post-set-on-fire-under-cover-of-darkness-2829267/",
         "source": "Express",
         "date": "2026-08-26T03:15:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمز آتشزدگی واقعہ: فواد چوہدری کا وزیر صحت مصطفیٰ کمال سے استعفے کا مطالبہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829264/pims-incident-fawad-demands-kamal-resignation-2829264/",
+        "source": "Express",
+        "date": "2026-08-26T03:06:14+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیرِ صحت رہنے کا کوئی جواز نہیں بچا، مصطفی کمال مستعفی ہوں، شرمیلا فاروقی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829263/there-is-no-justification-left-for-him-to-remain-as-health-minister-mustafa-kamal-should-resign-sharmila-farooqui-2829263/",
+        "source": "Express",
+        "date": "2026-08-26T02:55:41+00:00",
         "img": ""
       },
       {
@@ -3460,6 +3508,14 @@
         "url": "https://www.express.pk/story/2829257/death-of-15-children-statement-of-executive-director-pims-revealed-2829257/",
         "source": "Express",
         "date": "2026-08-26T02:29:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمزسپتال میں برسوں سےایمرجنسی فائر ڈرل کی مشق نہ کروائے جانے کا انکشاف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829254/it-has-been-revealed-that-emergency-fire-drills-have-not-been-conducted-at-pims-hospital-for-years-2829254/",
+        "source": "Express",
+        "date": "2026-08-26T02:24:17+00:00",
         "img": ""
       },
       {
@@ -3495,30 +3551,6 @@
         "img": ""
       },
       {
-        "title": "اسلام آباد ایئرپورٹ پر مسافروں کو عالمی معیار کی سہولیات کیلیے اقدام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829239/initiatives-to-provide-world-class-facilities-to-passengers-at-islamabad-airport-2829239/",
-        "source": "Express",
-        "date": "2026-08-26T01:35:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "پمز سانحہ؛ وزیراعظم نے ہنگامی اجلاس طلب کرلیا، وزیرِ صحت کو اسپتال پہنچنے کا حکم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829238/pims-tragedy-prime-minister-calls-emergency-meeting-orders-health-minister-to-reach-hospital-2829238/",
-        "source": "Express",
-        "date": "2026-08-26T01:30:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "جس وقت آگ لگی عملہ انکیوبیشن سینٹر میں نہیں تھا، والدین کا الزام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829236/pims-fire-incident-2829236/",
-        "source": "Express",
-        "date": "2026-08-26T01:21:07+00:00",
-        "img": ""
-      },
-      {
         "title": "Pilot executes emergency ocean landing near Florida beach",
         "summary": "Pilot executes emergency ocean landing near Florida beach",
         "url": "https://arynews.tv/pilot-executes-emergency-ocean-landing-near-florida-beach",
@@ -3533,14 +3565,6 @@
         "source": "ARY News",
         "date": "2026-08-26T01:12:55+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Keytruda.jpg"
-      },
-      {
-        "title": "لاہور: کمسن بچی سے مبینہ نازیبا حرکات، سوشل میڈیا ویڈیو وائرل کرنے والے ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829231/police-arrest-two-suspects-after-inappropriate-video-of-minor-2829231/",
-        "source": "Express",
-        "date": "2026-08-26T01:00:15+00:00",
-        "img": ""
       },
       {
         "title": "Pakistan’s access to finance initiatives show strong progress",
@@ -3637,33 +3661,33 @@
         "source": "ARY News",
         "date": "2026-08-25T21:26:21+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-25T203854.778.jpg"
-      },
-      {
-        "title": "Federal bureaucracy sees major reshuffle in Islamabad",
-        "summary": "Federal bureaucracy sees major reshuffle in Islamabad",
-        "url": "https://arynews.tv/federal-bureaucracy-sees-major-reshuffle-in-islamabad",
-        "source": "ARY News",
-        "date": "2026-08-25T20:29:03+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Islamabad.jpg"
-      },
-      {
-        "title": "HEC to hold four-day AI literacy training for faculty members",
-        "summary": "HEC to hold four-day AI literacy training for faculty members",
-        "url": "https://arynews.tv/hec-to-hold-four-day-ai-literacy-training-for-faculty-members",
-        "source": "ARY News",
-        "date": "2026-08-25T20:12:53+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/HEC.jpg"
-      },
-      {
-        "title": "Imaavy: US expands approval for J&J’s drug for rare blood disorder",
-        "summary": "Imaavy: US expands approval for J&J’s drug for rare blood disorder",
-        "url": "https://arynews.tv/imaavy-us-expands-approval-for-jjs-drug-for-rare-blood-disorder",
-        "source": "ARY News",
-        "date": "2026-08-25T20:02:10+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/imaavy.jpg"
       }
     ],
     "science": [
+      {
+        "title": "US spy chief visits Russia for meetings, media reports",
+        "summary": "US spy chief visits Russia for meetings, media reports",
+        "url": "https://arynews.tv/us-spy-chief-visits-russia-for-meetings-media-reports",
+        "source": "ARY News",
+        "date": "2026-08-26T14:07:09+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Spy-Chief.jpg"
+      },
+      {
+        "title": "PM orders high-level inquiry into PIMS nursery fire, removes health scretary",
+        "summary": "PM orders high-level inquiry into PIMS nursery fire, removes health scretary",
+        "url": "https://arynews.tv/pm-orders-high-level-inquiry-into-pims-nursery-fire",
+        "source": "ARY News",
+        "date": "2026-08-26T13:39:40+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Federal-Sec-health-removed.jpg"
+      },
+      {
+        "title": "PIMS fire: Relative claims she rescued newborn, contradicts hospital’s account",
+        "summary": "PIMS fire: Relative claims she rescued newborn, contradicts hospital’s account",
+        "url": "https://arynews.tv/pims-fire-relative-claims-she-rescued-newborn-contradicts-hospitals-account",
+        "source": "ARY News",
+        "date": "2026-08-26T13:38:04+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PIMS-aunt.jpg"
+      },
       {
         "title": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz",
         "summary": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz",
@@ -3839,30 +3863,6 @@
         "source": "ARY News",
         "date": "2026-08-25T21:26:21+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/ARY-1200-x-675-px-2026-08-25T203854.778.jpg"
-      },
-      {
-        "title": "Federal bureaucracy sees major reshuffle in Islamabad",
-        "summary": "Federal bureaucracy sees major reshuffle in Islamabad",
-        "url": "https://arynews.tv/federal-bureaucracy-sees-major-reshuffle-in-islamabad",
-        "source": "ARY News",
-        "date": "2026-08-25T20:29:03+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Islamabad.jpg"
-      },
-      {
-        "title": "HEC to hold four-day AI literacy training for faculty members",
-        "summary": "HEC to hold four-day AI literacy training for faculty members",
-        "url": "https://arynews.tv/hec-to-hold-four-day-ai-literacy-training-for-faculty-members",
-        "source": "ARY News",
-        "date": "2026-08-25T20:12:53+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/HEC.jpg"
-      },
-      {
-        "title": "Imaavy: US expands approval for J&J’s drug for rare blood disorder",
-        "summary": "Imaavy: US expands approval for J&J’s drug for rare blood disorder",
-        "url": "https://arynews.tv/imaavy-us-expands-approval-for-jjs-drug-for-rare-blood-disorder",
-        "source": "ARY News",
-        "date": "2026-08-25T20:02:10+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/imaavy.jpg"
       }
     ],
     "sports": [
@@ -3883,11 +3883,35 @@
         "img": ""
       },
       {
-        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
+        "title": "گھر کے کاموں سے بور ہو گئی ہیں؟ یہ طریقے اپنا کر روزمرہ زندگی کو دلچسپ بنائیں",
         "summary": "",
-        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
+        "url": "https://www.express.pk/story/2829273/bored-with-household-chores-try-these-methods-to-make-your-daily-life-interesting-2829273/",
         "source": "Express",
-        "date": "2026-08-26T08:22:29+05:00",
+        "date": "2026-08-26T09:02:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "قومی ویمن کرکٹر ایمن انور کا انٹرنیشنل کرکٹ سے ریٹائرمنٹ کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829270/aimen-anwar-announces-retirement-from-international-cricket-2829270/",
+        "source": "Express",
+        "date": "2026-08-26T08:52:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "عمران خان شفا اسپتال نہیں گئے، منسوب تصاویر بھی جعلی؛ حقیقت جانیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829269/imran-khan-did-not-visit-shifa-hospital-the-circulated-photos-are-also-fakehere-are-the-facts-2829269/",
+        "source": "Express",
+        "date": "2026-08-26T08:23:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "جنوبی لبنان پر اسرائیل کا بڑا حملہ، جنگی طیاروں کے بعد توپ خانے سے بھی گولہ باری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829265/israeli-airstrikes-and-artillery-shelling-hit-southern-lebanon-2829265/",
+        "source": "Express",
+        "date": "2026-08-26T08:11:22+05:00",
         "img": ""
       },
       {
@@ -3963,35 +3987,19 @@
         "img": ""
       },
       {
-        "title": "بنگلا دیشی وزیراعظم کے دورہ بھارت کے التوا سے مودی سرکار کی سفارتی ناکامی نمایاں",
+        "title": "اسپتال کے اندر 55 بچے موجود تھے، سب جل گئے، جاں بحق بچی کے باپ کا بیان",
         "summary": "",
-        "url": "https://www.express.pk/story/2829235/postponement-of-bangladeshi-prime-ministers-visit-to-india-highlights-modi-governments-diplomatic-failure-2829235/",
+        "url": "https://www.express.pk/story/2829272/there-were-55-children-inside-the-hospital-all-burned-to-death-says-father-of-deceased-girl-2829272/",
         "source": "Express",
-        "date": "2026-08-26T06:19:58+05:00",
+        "date": "2026-08-26T03:53:45+00:00",
         "img": ""
       },
       {
-        "title": "گووندا اور سنیتا آہوجا نے انسٹاگرام پر ایک دوسرے کو ان فالو کر دیا، علیحدگی کی افواہیں پھر تیز",
+        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
         "summary": "",
-        "url": "https://www.express.pk/story/2829234/govinda-and-sunita-ahuja-have-unfollowed-each-other-on-instagram-rumors-of-a-split-have-intensified-once-again-2829234/",
+        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
         "source": "Express",
-        "date": "2026-08-26T06:17:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبو ٹیسٹ: سری لنکا پہلی اننگز میں 290 پر آل آؤٹ ہوکر فالو آن کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829233/india-enforce-follow-on-after-bowling-out-sri-lanka-for-290-2829233/",
-        "source": "Express",
-        "date": "2026-08-26T06:08:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "فلم کی شوٹنگ جاری، رجب بٹ امر خان کے ساتھ فلم کے سیٹ پر نظر آگئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829232/filming-is-underway-rajab-butt-was-spotted-on-the-set-with-amar-khan-2829232/",
-        "source": "Express",
-        "date": "2026-08-26T06:01:41+05:00",
+        "date": "2026-08-26T03:22:29+00:00",
         "img": ""
       },
       {
@@ -4000,6 +4008,22 @@
         "url": "https://www.express.pk/story/2829267/upper-dir-police-post-set-on-fire-under-cover-of-darkness-2829267/",
         "source": "Express",
         "date": "2026-08-26T03:15:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمز آتشزدگی واقعہ: فواد چوہدری کا وزیر صحت مصطفیٰ کمال سے استعفے کا مطالبہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829264/pims-incident-fawad-demands-kamal-resignation-2829264/",
+        "source": "Express",
+        "date": "2026-08-26T03:06:14+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیرِ صحت رہنے کا کوئی جواز نہیں بچا، مصطفی کمال مستعفی ہوں، شرمیلا فاروقی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829263/there-is-no-justification-left-for-him-to-remain-as-health-minister-mustafa-kamal-should-resign-sharmila-farooqui-2829263/",
+        "source": "Express",
+        "date": "2026-08-26T02:55:41+00:00",
         "img": ""
       },
       {
@@ -4016,6 +4040,14 @@
         "url": "https://www.express.pk/story/2829257/death-of-15-children-statement-of-executive-director-pims-revealed-2829257/",
         "source": "Express",
         "date": "2026-08-26T02:29:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمزسپتال میں برسوں سےایمرجنسی فائر ڈرل کی مشق نہ کروائے جانے کا انکشاف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829254/it-has-been-revealed-that-emergency-fire-drills-have-not-been-conducted-at-pims-hospital-for-years-2829254/",
+        "source": "Express",
+        "date": "2026-08-26T02:24:17+00:00",
         "img": ""
       },
       {
@@ -4048,38 +4080,6 @@
         "url": "https://www.express.pk/story/2829243/pims-fire-incident-2829243/",
         "source": "Express",
         "date": "2026-08-26T01:50:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد ایئرپورٹ پر مسافروں کو عالمی معیار کی سہولیات کیلیے اقدام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829239/initiatives-to-provide-world-class-facilities-to-passengers-at-islamabad-airport-2829239/",
-        "source": "Express",
-        "date": "2026-08-26T01:35:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "پمز سانحہ؛ وزیراعظم نے ہنگامی اجلاس طلب کرلیا، وزیرِ صحت کو اسپتال پہنچنے کا حکم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829238/pims-tragedy-prime-minister-calls-emergency-meeting-orders-health-minister-to-reach-hospital-2829238/",
-        "source": "Express",
-        "date": "2026-08-26T01:30:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "جس وقت آگ لگی عملہ انکیوبیشن سینٹر میں نہیں تھا، والدین کا الزام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829236/pims-fire-incident-2829236/",
-        "source": "Express",
-        "date": "2026-08-26T01:21:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور: کمسن بچی سے مبینہ نازیبا حرکات، سوشل میڈیا ویڈیو وائرل کرنے والے ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829231/police-arrest-two-suspects-after-inappropriate-video-of-minor-2829231/",
-        "source": "Express",
-        "date": "2026-08-26T01:00:15+00:00",
         "img": ""
       },
       {
@@ -4421,11 +4421,35 @@
     ],
     "business": [
       {
-        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
+        "title": "گھر کے کاموں سے بور ہو گئی ہیں؟ یہ طریقے اپنا کر روزمرہ زندگی کو دلچسپ بنائیں",
         "summary": "",
-        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
+        "url": "https://www.express.pk/story/2829273/bored-with-household-chores-try-these-methods-to-make-your-daily-life-interesting-2829273/",
         "source": "Express",
-        "date": "2026-08-26T08:22:29+05:00",
+        "date": "2026-08-26T09:02:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "قومی ویمن کرکٹر ایمن انور کا انٹرنیشنل کرکٹ سے ریٹائرمنٹ کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829270/aimen-anwar-announces-retirement-from-international-cricket-2829270/",
+        "source": "Express",
+        "date": "2026-08-26T08:52:16+05:00",
+        "img": ""
+      },
+      {
+        "title": "عمران خان شفا اسپتال نہیں گئے، منسوب تصاویر بھی جعلی؛ حقیقت جانیے",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829269/imran-khan-did-not-visit-shifa-hospital-the-circulated-photos-are-also-fakehere-are-the-facts-2829269/",
+        "source": "Express",
+        "date": "2026-08-26T08:23:08+05:00",
+        "img": ""
+      },
+      {
+        "title": "جنوبی لبنان پر اسرائیل کا بڑا حملہ، جنگی طیاروں کے بعد توپ خانے سے بھی گولہ باری",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829265/israeli-airstrikes-and-artillery-shelling-hit-southern-lebanon-2829265/",
+        "source": "Express",
+        "date": "2026-08-26T08:11:22+05:00",
         "img": ""
       },
       {
@@ -4549,35 +4573,19 @@
         "img": ""
       },
       {
-        "title": "بنگلا دیشی وزیراعظم کے دورہ بھارت کے التوا سے مودی سرکار کی سفارتی ناکامی نمایاں",
+        "title": "اسپتال کے اندر 55 بچے موجود تھے، سب جل گئے، جاں بحق بچی کے باپ کا بیان",
         "summary": "",
-        "url": "https://www.express.pk/story/2829235/postponement-of-bangladeshi-prime-ministers-visit-to-india-highlights-modi-governments-diplomatic-failure-2829235/",
+        "url": "https://www.express.pk/story/2829272/there-were-55-children-inside-the-hospital-all-burned-to-death-says-father-of-deceased-girl-2829272/",
         "source": "Express",
-        "date": "2026-08-26T06:19:58+05:00",
+        "date": "2026-08-26T03:53:45+00:00",
         "img": ""
       },
       {
-        "title": "گووندا اور سنیتا آہوجا نے انسٹاگرام پر ایک دوسرے کو ان فالو کر دیا، علیحدگی کی افواہیں پھر تیز",
+        "title": "15 بچوں کی اموات محض حادثہ نہیں؛ وزیر صحت ذمے داری قبول کریں، ترجمان سندھ حکومت",
         "summary": "",
-        "url": "https://www.express.pk/story/2829234/govinda-and-sunita-ahuja-have-unfollowed-each-other-on-instagram-rumors-of-a-split-have-intensified-once-again-2829234/",
+        "url": "https://www.express.pk/story/2829268/deaths-of-15-children-not-just-an-accident-health-minister-should-accept-responsibility-sindh-government-spokesperson-says-2829268/",
         "source": "Express",
-        "date": "2026-08-26T06:17:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "کولمبو ٹیسٹ: سری لنکا پہلی اننگز میں 290 پر آل آؤٹ ہوکر فالو آن کا شکار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829233/india-enforce-follow-on-after-bowling-out-sri-lanka-for-290-2829233/",
-        "source": "Express",
-        "date": "2026-08-26T06:08:09+05:00",
-        "img": ""
-      },
-      {
-        "title": "فلم کی شوٹنگ جاری، رجب بٹ امر خان کے ساتھ فلم کے سیٹ پر نظر آگئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829232/filming-is-underway-rajab-butt-was-spotted-on-the-set-with-amar-khan-2829232/",
-        "source": "Express",
-        "date": "2026-08-26T06:01:41+05:00",
+        "date": "2026-08-26T03:22:29+00:00",
         "img": ""
       },
       {
@@ -4586,6 +4594,22 @@
         "url": "https://www.express.pk/story/2829267/upper-dir-police-post-set-on-fire-under-cover-of-darkness-2829267/",
         "source": "Express",
         "date": "2026-08-26T03:15:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمز آتشزدگی واقعہ: فواد چوہدری کا وزیر صحت مصطفیٰ کمال سے استعفے کا مطالبہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829264/pims-incident-fawad-demands-kamal-resignation-2829264/",
+        "source": "Express",
+        "date": "2026-08-26T03:06:14+00:00",
+        "img": ""
+      },
+      {
+        "title": "وزیرِ صحت رہنے کا کوئی جواز نہیں بچا، مصطفی کمال مستعفی ہوں، شرمیلا فاروقی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829263/there-is-no-justification-left-for-him-to-remain-as-health-minister-mustafa-kamal-should-resign-sharmila-farooqui-2829263/",
+        "source": "Express",
+        "date": "2026-08-26T02:55:41+00:00",
         "img": ""
       },
       {
@@ -4602,6 +4626,14 @@
         "url": "https://www.express.pk/story/2829257/death-of-15-children-statement-of-executive-director-pims-revealed-2829257/",
         "source": "Express",
         "date": "2026-08-26T02:29:09+00:00",
+        "img": ""
+      },
+      {
+        "title": "پمزسپتال میں برسوں سےایمرجنسی فائر ڈرل کی مشق نہ کروائے جانے کا انکشاف",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829254/it-has-been-revealed-that-emergency-fire-drills-have-not-been-conducted-at-pims-hospital-for-years-2829254/",
+        "source": "Express",
+        "date": "2026-08-26T02:24:17+00:00",
         "img": ""
       },
       {
@@ -4634,38 +4666,6 @@
         "url": "https://www.express.pk/story/2829243/pims-fire-incident-2829243/",
         "source": "Express",
         "date": "2026-08-26T01:50:13+00:00",
-        "img": ""
-      },
-      {
-        "title": "اسلام آباد ایئرپورٹ پر مسافروں کو عالمی معیار کی سہولیات کیلیے اقدام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829239/initiatives-to-provide-world-class-facilities-to-passengers-at-islamabad-airport-2829239/",
-        "source": "Express",
-        "date": "2026-08-26T01:35:02+00:00",
-        "img": ""
-      },
-      {
-        "title": "پمز سانحہ؛ وزیراعظم نے ہنگامی اجلاس طلب کرلیا، وزیرِ صحت کو اسپتال پہنچنے کا حکم",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829238/pims-tragedy-prime-minister-calls-emergency-meeting-orders-health-minister-to-reach-hospital-2829238/",
-        "source": "Express",
-        "date": "2026-08-26T01:30:28+00:00",
-        "img": ""
-      },
-      {
-        "title": "جس وقت آگ لگی عملہ انکیوبیشن سینٹر میں نہیں تھا، والدین کا الزام",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829236/pims-fire-incident-2829236/",
-        "source": "Express",
-        "date": "2026-08-26T01:21:07+00:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور: کمسن بچی سے مبینہ نازیبا حرکات، سوشل میڈیا ویڈیو وائرل کرنے والے ملزمان گرفتار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829231/police-arrest-two-suspects-after-inappropriate-video-of-minor-2829231/",
-        "source": "Express",
-        "date": "2026-08-26T01:00:15+00:00",
         "img": ""
       },
       {
