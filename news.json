@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-08-25T23:20:27.087916+00:00",
+  "fetched": "2026-08-26T01:00:29.525654+00:00",
   "categories": {
     "international": [
       {
@@ -17,6 +17,14 @@
         "source": "ARY News",
         "date": "2026-08-26T01:12:55+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Keytruda.jpg"
+      },
+      {
+        "title": "آبنائے ہرمز کو بارودی سرنگوں سے مکمل طور پر پاک کر دیا گیا ہے: صدر ٹرمپ کا دعویٰ",
+        "summary": "امریکی صدر نے سوشل نیٹ ورک ’ٹروتھ سوشل‘ پر لکھا کہ بحریہ نے انھیں مطلع کیا ہے کہ ’آبنائے ہرمز کے بین الاقوامی پانیوں میں موجود تمام بارودی سرنگیں یا تو ہٹا دی گئی ہیں یا انھیں دھماکے سے تباہ کر دیا گیا ہے۔‘",
+        "url": "https://www.bbc.co.uk/urdu/live/ckm2qnnv1p9yt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-08-26T01:00:31.509799+00:00",
+        "img": ""
       },
       {
         "title": "Dolly Parton, queen of country music, dies at 80",
@@ -80,14 +88,6 @@
         "url": "https://www.dawn.com/news/2025247/iraq-may-show-how-us-can-squeeze-irans-trade-partners",
         "source": "Dawn",
         "date": "2026-08-25T23:23:21+05:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز کو بارودی سرنگوں سے مکمل طور پر پاک کر دیا گیا ہے: صدر ٹرمپ کا دعویٰ",
-        "summary": "امریکی صدر نے سوشل نیٹ ورک ’ٹروتھ سوشل‘ پر لکھا کہ بحریہ نے انھیں مطلع کیا ہے کہ ’آبنائے ہرمز کے بین الاقوامی پانیوں میں موجود تمام بارودی سرنگیں یا تو ہٹا دی گئی ہیں یا انھیں دھماکے سے تباہ کر دیا گیا ہے۔‘",
-        "url": "https://www.bbc.co.uk/urdu/live/ckm2qnnv1p9yt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-08-25T23:20:30.503977+00:00",
         "img": ""
       },
       {
@@ -621,6 +621,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-55-2.jpg"
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 6 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829194/karachi-police-encounters-in-various-parts-of-the-city-6-robbers-arrested-including-3-injured-2829194/",
+        "source": "Express",
+        "date": "2026-08-25T23:52:08+05:00",
+        "img": ""
+      },
+      {
         "title": "UNICEF praises Pakistan Customs for facilitating humanitarian cargo to Afghanistan",
         "summary": "UNICEF praises Pakistan Customs for facilitating humanitarian cargo to Afghanistan",
         "url": "https://arynews.tv/unicef-praises-pakistan-customs-for-facilitating-humanitarian-cargo-to-afghanistan",
@@ -1042,14 +1050,6 @@
         "url": "https://www.dawn.com/news/2025207/pims-says-its-ct-machine-remains-functional-following-reports-of-failure-to-conduct-imrans-heart-scan",
         "source": "Dawn",
         "date": "2026-08-25T14:36:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایران اور عمان کا ہرمز میں عارضی راہداری کے قیام اور بارودی سرنگیں صاف کرنے پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829167/iran-oman-say-discussed-hormuz-temporary-corridor-mine-clearing-2829167/",
-        "source": "Express",
-        "date": "2026-08-25T13:40:38+00:00",
         "img": ""
       },
       {
@@ -1223,6 +1223,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-55-2.jpg"
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 6 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829194/karachi-police-encounters-in-various-parts-of-the-city-6-robbers-arrested-including-3-injured-2829194/",
+        "source": "Express",
+        "date": "2026-08-25T23:52:08+05:00",
+        "img": ""
+      },
+      {
         "title": "UNICEF praises Pakistan Customs for facilitating humanitarian cargo to Afghanistan",
         "summary": "UNICEF praises Pakistan Customs for facilitating humanitarian cargo to Afghanistan",
         "url": "https://arynews.tv/unicef-praises-pakistan-customs-for-facilitating-humanitarian-cargo-to-afghanistan",
@@ -1644,14 +1652,6 @@
         "url": "https://www.dawn.com/news/2025207/pims-says-its-ct-machine-remains-functional-following-reports-of-failure-to-conduct-imrans-heart-scan",
         "source": "Dawn",
         "date": "2026-08-25T14:36:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایران اور عمان کا ہرمز میں عارضی راہداری کے قیام اور بارودی سرنگیں صاف کرنے پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829167/iran-oman-say-discussed-hormuz-temporary-corridor-mine-clearing-2829167/",
-        "source": "Express",
-        "date": "2026-08-25T13:40:38+00:00",
         "img": ""
       },
       {
@@ -1857,6 +1857,14 @@
     ],
     "punjab": [
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 6 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829194/karachi-police-encounters-in-various-parts-of-the-city-6-robbers-arrested-including-3-injured-2829194/",
+        "source": "Express",
+        "date": "2026-08-25T23:52:08+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt forms high-powered body to break deadlock over Iran-Pakistan gas pipeline amid penalty threats",
         "summary": "<p>ISLAMABAD: With millions of dollars in potential penalties looming, the government has constituted a high-powered committee to find a “mutually acceptable” way out of the <a rel=\"noopener noreferrer\" target=\"_blank\" class=\"link--external\" href=\"http://beta.dawn.com/news/831981/pakistan-iran-finally-sign-gas-pipeline",
         "url": "https://www.dawn.com/news/2025241/govt-forms-high-powered-body-to-break-deadlock-over-iran-pakistan-gas-pipeline-amid-penalty-threats",
@@ -2126,14 +2134,6 @@
         "url": "https://www.dawn.com/news/2025207/pims-says-its-ct-machine-remains-functional-following-reports-of-failure-to-conduct-imrans-heart-scan",
         "source": "Dawn",
         "date": "2026-08-25T14:36:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایران اور عمان کا ہرمز میں عارضی راہداری کے قیام اور بارودی سرنگیں صاف کرنے پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829167/iran-oman-say-discussed-hormuz-temporary-corridor-mine-clearing-2829167/",
-        "source": "Express",
-        "date": "2026-08-25T13:40:38+00:00",
         "img": ""
       },
       {
@@ -2259,6 +2259,14 @@
     ],
     "sindh": [
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 6 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829194/karachi-police-encounters-in-various-parts-of-the-city-6-robbers-arrested-including-3-injured-2829194/",
+        "source": "Express",
+        "date": "2026-08-25T23:52:08+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt forms high-powered body to break deadlock over Iran-Pakistan gas pipeline amid penalty threats",
         "summary": "<p>ISLAMABAD: With millions of dollars in potential penalties looming, the government has constituted a high-powered committee to find a “mutually acceptable” way out of the <a rel=\"noopener noreferrer\" target=\"_blank\" class=\"link--external\" href=\"http://beta.dawn.com/news/831981/pakistan-iran-finally-sign-gas-pipeline",
         "url": "https://www.dawn.com/news/2025241/govt-forms-high-powered-body-to-break-deadlock-over-iran-pakistan-gas-pipeline-amid-penalty-threats",
@@ -2528,14 +2536,6 @@
         "url": "https://www.dawn.com/news/2025207/pims-says-its-ct-machine-remains-functional-following-reports-of-failure-to-conduct-imrans-heart-scan",
         "source": "Dawn",
         "date": "2026-08-25T14:36:56+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایران اور عمان کا ہرمز میں عارضی راہداری کے قیام اور بارودی سرنگیں صاف کرنے پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829167/iran-oman-say-discussed-hormuz-temporary-corridor-mine-clearing-2829167/",
-        "source": "Express",
-        "date": "2026-08-25T13:40:38+00:00",
         "img": ""
       },
       {
@@ -2709,6 +2709,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-55-2.jpg"
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 6 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829194/karachi-police-encounters-in-various-parts-of-the-city-6-robbers-arrested-including-3-injured-2829194/",
+        "source": "Express",
+        "date": "2026-08-25T23:52:08+05:00",
+        "img": ""
+      },
+      {
         "title": "UNICEF praises Pakistan Customs for facilitating humanitarian cargo to Afghanistan",
         "summary": "UNICEF praises Pakistan Customs for facilitating humanitarian cargo to Afghanistan",
         "url": "https://arynews.tv/unicef-praises-pakistan-customs-for-facilitating-humanitarian-cargo-to-afghanistan",
@@ -3133,14 +3141,6 @@
         "img": ""
       },
       {
-        "title": "ایران اور عمان کا ہرمز میں عارضی راہداری کے قیام اور بارودی سرنگیں صاف کرنے پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829167/iran-oman-say-discussed-hormuz-temporary-corridor-mine-clearing-2829167/",
-        "source": "Express",
-        "date": "2026-08-25T13:40:38+00:00",
-        "img": ""
-      },
-      {
         "title": "4 women from GB successfully summit Spantik",
         "summary": "<p>GILGIT: Four women mountaineers from Gilgit-Baltistan, joined by a Romanian climber and a male mountaineer from Punjab, successfully summited 7,027-metre Spantik Peak without the assistance of high-altitude porters, marking an inspiring achievement amid challenging conditions in the region.</p> <p>The Alpine Club of",
         "url": "https://www.dawn.com/news/2025118/4-women-from-gb-successfully-summit-spantik",
@@ -3309,6 +3309,14 @@
         "source": "ARY News",
         "date": "2026-08-25T23:54:31+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FotoJet-55-2.jpg"
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 6 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829194/karachi-police-encounters-in-various-parts-of-the-city-6-robbers-arrested-including-3-injured-2829194/",
+        "source": "Express",
+        "date": "2026-08-25T23:52:08+05:00",
+        "img": ""
       },
       {
         "title": "UNICEF praises Pakistan Customs for facilitating humanitarian cargo to Afghanistan",
@@ -3652,14 +3660,6 @@
         "url": "https://www.express.pk/story/2829172/afghanistan-taliban-food-poison-in-army-base-2829172/",
         "source": "Express",
         "date": "2026-08-25T14:56:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران اور عمان کا ہرمز میں عارضی راہداری کے قیام اور بارودی سرنگیں صاف کرنے پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829167/iran-oman-say-discussed-hormuz-temporary-corridor-mine-clearing-2829167/",
-        "source": "Express",
-        "date": "2026-08-25T13:40:38+00:00",
         "img": ""
       }
     ],
@@ -3866,6 +3866,14 @@
       }
     ],
     "sports": [
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 6 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829194/karachi-police-encounters-in-various-parts-of-the-city-6-robbers-arrested-including-3-injured-2829194/",
+        "source": "Express",
+        "date": "2026-08-25T23:52:08+05:00",
+        "img": ""
+      },
       {
         "title": "Babar Azam fit for Lord’s Test? Umar Gul provides key fitness update ahead of 2nd Test vs England",
         "summary": "Babar Azam fit for Lord’s Test? Umar Gul provides key fitness update ahead of 2nd Test vs England",
@@ -4129,14 +4137,6 @@
         "source": "ARY Sports",
         "date": "2026-08-25T14:52:47+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/1-157.jpg"
-      },
-      {
-        "title": "ایران اور عمان کا ہرمز میں عارضی راہداری کے قیام اور بارودی سرنگیں صاف کرنے پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829167/iran-oman-say-discussed-hormuz-temporary-corridor-mine-clearing-2829167/",
-        "source": "Express",
-        "date": "2026-08-25T13:40:38+00:00",
-        "img": ""
       },
       {
         "title": "Broad backs Babar for Lord’s Test return",
@@ -4429,6 +4429,14 @@
     ],
     "business": [
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 6 ڈاکو گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2829194/karachi-police-encounters-in-various-parts-of-the-city-6-robbers-arrested-including-3-injured-2829194/",
+        "source": "Express",
+        "date": "2026-08-25T23:52:08+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt increases petrol price by Rs1.12, high-speed diesel by Rs1.11",
         "summary": "<iframe id=\"raw-html-6a8ddc2f99a08\" class=\"raw-html-embed\" style=\"width: 100%; min-height: 50px; max-height: 9200px; border: none; overflow: hidden;\" scrolling=\"no\" srcdoc=\"<!DOCTYPE html> <html> <head> <style> body { margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; overflow-wrap: anywhere; } <",
         "url": "https://www.dawn.com/news/2025238/govt-increases-petrol-price-by-rs112-high-speed-diesel-by-rs111",
@@ -4634,14 +4642,6 @@
         "url": "https://www.express.pk/story/2829172/afghanistan-taliban-food-poison-in-army-base-2829172/",
         "source": "Express",
         "date": "2026-08-25T14:56:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران اور عمان کا ہرمز میں عارضی راہداری کے قیام اور بارودی سرنگیں صاف کرنے پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2829167/iran-oman-say-discussed-hormuz-temporary-corridor-mine-clearing-2829167/",
-        "source": "Express",
-        "date": "2026-08-25T13:40:38+00:00",
         "img": ""
       },
       {
