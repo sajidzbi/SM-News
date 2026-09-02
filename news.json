@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-01T22:56:47.291601+00:00",
+  "fetched": "2026-09-02T00:50:27.194111+00:00",
   "categories": {
     "international": [
       {
@@ -9,6 +9,14 @@
         "source": "ARY News",
         "date": "2026-09-02T01:18:35+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-19.jpg"
+      },
+      {
+        "title": "امریکہ کے ایران پر تازہ حملوں میں چار ہلاکتوں کی تصدیق، پاسدارانِ انقلاب کا اُردن میں امریکی اڈے پر حملہ",
+        "summary": "ایران کی سرکاری خبر رساں ایجنسی نے رپورٹ کیا ہے کہ ایران نے تازہ امریکی حملوں کے جواب میں ’اردن میں موجود امریکی اڈوں‘ پر میزائل داغے ہیں۔ صوبہ ہرمزگان کے علاقے ’سرک‘ میں امریکی حملے کے نتیجے میں کم از کم چار افراد ہلاک ہو گئے ہیں۔ اس سے قبل امریکہ نے پاسدارانِ انقلاب کے ٹھکانوں کو نشانہ بنانے کا دعویٰ کیا تھا۔",
+        "url": "https://www.bbc.co.uk/urdu/live/cvlylnr7z7nzt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-09-02T00:50:29.814547+00:00",
+        "img": ""
       },
       {
         "title": "Punjab approves Rs 500m interest-free loan scheme for women entrepreneurs, artisans",
@@ -89,14 +97,6 @@
         "source": "ARY News",
         "date": "2026-09-01T23:03:20+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-14.jpg"
-      },
-      {
-        "title": "امریکہ کے ایران پر تازہ حملوں میں چار ہلاکتوں کی تصدیق، پاسدارانِ انقلاب کا اُردن میں امریکی اڈے پر حملہ",
-        "summary": "ایران کی سرکاری خبر رساں ایجنسی نے رپورٹ کیا ہے کہ ایران نے تازہ امریکی حملوں کے جواب میں ’اردن میں موجود امریکی اڈوں‘ پر میزائل داغے ہیں۔ صوبہ ہرمزگان کے علاقے ’سرک‘ میں امریکی حملے کے نتیجے میں کم از کم چار افراد ہلاک ہو گئے ہیں۔ اس سے قبل امریکہ نے پاسدارانِ انقلاب کے ٹھکانوں کو نشانہ بنانے کا دعویٰ کیا تھا۔",
-        "url": "https://www.bbc.co.uk/urdu/live/cvlylnr7z7nzt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-09-01T22:56:49.011567+00:00",
-        "img": ""
       },
       {
         "title": "US launches fresh strikes on Iran around Strait of Hormuz",
@@ -637,6 +637,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-Pump-1.jpg"
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Newcastle sign Belgium forward Fernandez-Pardo",
         "summary": "Newcastle sign Belgium forward Fernandez-Pardo",
         "url": "https://arynews.tv/newcastle-sign-belgium-forward-fernandez-pardo",
@@ -869,11 +877,27 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
         "title": "Karachi court issues notices to SSP, SHO on plea seeking FIR over DHA scuffle case",
         "summary": "<p>A Karachi additional sessions court on Tuesday sought responses from the South senior superintendent of police (SSP) and Darakhshan station house officer (SHO) on a resident’s plea seeking the registration of a case over an <a href=\"https://www.dawn.com/news/2025940\">apartment scuffle</a>.</p> <p>Last week, a video ",
         "url": "https://www.dawn.com/news/2026618/karachi-court-issues-notices-to-ssp-sho-on-plea-seeking-fir-over-dha-scuffle-case",
         "source": "Dawn",
         "date": "2026-09-01T19:29:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
         "img": ""
       },
       {
@@ -890,14 +914,6 @@
         "url": "https://www.express.pk/story/2830406/miss-world-uganda-c-section-inspired-designer-gown-2830406/",
         "source": "Express",
         "date": "2026-09-01T19:20:05+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
-        "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
         "img": ""
       },
       {
@@ -939,6 +955,22 @@
         "source": "ARY News",
         "date": "2026-09-01T18:46:12+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/NEPRA-bars-K-Electric-from-load-shedding-over-power-losses.jpg"
+      },
+      {
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
+        "source": "Express",
+        "date": "2026-09-01T17:58:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
+        "source": "Express",
+        "date": "2026-09-01T17:43:10+00:00",
+        "img": ""
       },
       {
         "title": "طالبان حکومت کے 5 سال مکمل، اسلام آباد کانفرنس میں بڑے دعووں کی قلعی کھل گئی",
@@ -1005,43 +1037,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
         "title": "ECP reserves verdict on maintainability of Awaam Pakistan’s appeal against its delisting",
         "summary": "<p>ISLAMABAD: The Election Commission of Pakistan (ECP) on Tuesday reserved its verdict on the maintainability of an appeal filed by Awaam Pakistan against its delisting over allegedly failing to hold intra-party elections.</p> <p>A four-member bench headed by Chief Election Commissioner (CEC) Sikandar Sultan Raja hear",
         "url": "https://www.dawn.com/news/2026606/ecp-reserves-verdict-on-maintainability-of-awaam-pakistans-appeal-against-its-delisting",
         "source": "Dawn",
         "date": "2026-09-01T13:32:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
         "img": ""
       },
       {
@@ -1239,6 +1239,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-Pump-1.jpg"
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Newcastle sign Belgium forward Fernandez-Pardo",
         "summary": "Newcastle sign Belgium forward Fernandez-Pardo",
         "url": "https://arynews.tv/newcastle-sign-belgium-forward-fernandez-pardo",
@@ -1471,11 +1479,27 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
         "title": "Karachi court issues notices to SSP, SHO on plea seeking FIR over DHA scuffle case",
         "summary": "<p>A Karachi additional sessions court on Tuesday sought responses from the South senior superintendent of police (SSP) and Darakhshan station house officer (SHO) on a resident’s plea seeking the registration of a case over an <a href=\"https://www.dawn.com/news/2025940\">apartment scuffle</a>.</p> <p>Last week, a video ",
         "url": "https://www.dawn.com/news/2026618/karachi-court-issues-notices-to-ssp-sho-on-plea-seeking-fir-over-dha-scuffle-case",
         "source": "Dawn",
         "date": "2026-09-01T19:29:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
         "img": ""
       },
       {
@@ -1492,14 +1516,6 @@
         "url": "https://www.express.pk/story/2830406/miss-world-uganda-c-section-inspired-designer-gown-2830406/",
         "source": "Express",
         "date": "2026-09-01T19:20:05+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
-        "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
         "img": ""
       },
       {
@@ -1541,6 +1557,22 @@
         "source": "ARY News",
         "date": "2026-09-01T18:46:12+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/NEPRA-bars-K-Electric-from-load-shedding-over-power-losses.jpg"
+      },
+      {
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
+        "source": "Express",
+        "date": "2026-09-01T17:58:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
+        "source": "Express",
+        "date": "2026-09-01T17:43:10+00:00",
+        "img": ""
       },
       {
         "title": "طالبان حکومت کے 5 سال مکمل، اسلام آباد کانفرنس میں بڑے دعووں کی قلعی کھل گئی",
@@ -1607,43 +1639,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
         "title": "ECP reserves verdict on maintainability of Awaam Pakistan’s appeal against its delisting",
         "summary": "<p>ISLAMABAD: The Election Commission of Pakistan (ECP) on Tuesday reserved its verdict on the maintainability of an appeal filed by Awaam Pakistan against its delisting over allegedly failing to hold intra-party elections.</p> <p>A four-member bench headed by Chief Election Commissioner (CEC) Sikandar Sultan Raja hear",
         "url": "https://www.dawn.com/news/2026606/ecp-reserves-verdict-on-maintainability-of-awaam-pakistans-appeal-against-its-delisting",
         "source": "Dawn",
         "date": "2026-09-01T13:32:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
         "img": ""
       },
       {
@@ -1865,6 +1865,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Mir Raza murder case: Judicial commission records statements, MLO says he was ‘under no pressure’ during autopsy",
         "summary": "<p>KARACHI: The judicial commission <a href=\"https://www.dawn.com/news/2025655\">formed</a> to investigate the circumstances surrounding the murder of Mir Raza Ali and possible negligence in the case on Tuesday recorded the testimonies of a medico-legal officer (MLO), police officials, two volunteers of a charity organi",
         "url": "https://www.dawn.com/news/2026610/mir-raza-murder-case-judicial-commission-records-statements-mlo-says-he-was-under-no-pressure-during-autopsy",
@@ -1985,11 +1993,27 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
         "title": "Karachi court issues notices to SSP, SHO on plea seeking FIR over DHA scuffle case",
         "summary": "<p>A Karachi additional sessions court on Tuesday sought responses from the South senior superintendent of police (SSP) and Darakhshan station house officer (SHO) on a resident’s plea seeking the registration of a case over an <a href=\"https://www.dawn.com/news/2025940\">apartment scuffle</a>.</p> <p>Last week, a video ",
         "url": "https://www.dawn.com/news/2026618/karachi-court-issues-notices-to-ssp-sho-on-plea-seeking-fir-over-dha-scuffle-case",
         "source": "Dawn",
         "date": "2026-09-01T19:29:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
         "img": ""
       },
       {
@@ -2009,19 +2033,27 @@
         "img": ""
       },
       {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
-        "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
-        "img": ""
-      },
-      {
         "title": "Terrorist attacks increase but fatalities decline during August: PICSS",
         "summary": "<p>ISLAMABAD: The number of terrorist attacks increased significantly in August despite sustained counter-terrorism pressure, but their human impact declined compared with July, according to a monthly security assessment by an Islamabad-based think tank.</p> <p>According to monthly data <a rel=\"nofollow noopener norefe",
         "url": "https://www.dawn.com/news/2026645/terrorist-attacks-increase-but-fatalities-decline-during-august-picss",
         "source": "Dawn",
         "date": "2026-09-01T19:07:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
+        "source": "Express",
+        "date": "2026-09-01T17:58:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
+        "source": "Express",
+        "date": "2026-09-01T17:43:10+00:00",
         "img": ""
       },
       {
@@ -2089,43 +2121,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
         "title": "ECP reserves verdict on maintainability of Awaam Pakistan’s appeal against its delisting",
         "summary": "<p>ISLAMABAD: The Election Commission of Pakistan (ECP) on Tuesday reserved its verdict on the maintainability of an appeal filed by Awaam Pakistan against its delisting over allegedly failing to hold intra-party elections.</p> <p>A four-member bench headed by Chief Election Commissioner (CEC) Sikandar Sultan Raja hear",
         "url": "https://www.dawn.com/news/2026606/ecp-reserves-verdict-on-maintainability-of-awaam-pakistans-appeal-against-its-delisting",
         "source": "Dawn",
         "date": "2026-09-01T13:32:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
         "img": ""
       },
       {
@@ -2267,6 +2267,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Mir Raza murder case: Judicial commission records statements, MLO says he was ‘under no pressure’ during autopsy",
         "summary": "<p>KARACHI: The judicial commission <a href=\"https://www.dawn.com/news/2025655\">formed</a> to investigate the circumstances surrounding the murder of Mir Raza Ali and possible negligence in the case on Tuesday recorded the testimonies of a medico-legal officer (MLO), police officials, two volunteers of a charity organi",
         "url": "https://www.dawn.com/news/2026610/mir-raza-murder-case-judicial-commission-records-statements-mlo-says-he-was-under-no-pressure-during-autopsy",
@@ -2387,11 +2395,27 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
         "title": "Karachi court issues notices to SSP, SHO on plea seeking FIR over DHA scuffle case",
         "summary": "<p>A Karachi additional sessions court on Tuesday sought responses from the South senior superintendent of police (SSP) and Darakhshan station house officer (SHO) on a resident’s plea seeking the registration of a case over an <a href=\"https://www.dawn.com/news/2025940\">apartment scuffle</a>.</p> <p>Last week, a video ",
         "url": "https://www.dawn.com/news/2026618/karachi-court-issues-notices-to-ssp-sho-on-plea-seeking-fir-over-dha-scuffle-case",
         "source": "Dawn",
         "date": "2026-09-01T19:29:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
         "img": ""
       },
       {
@@ -2411,19 +2435,27 @@
         "img": ""
       },
       {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
-        "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
-        "img": ""
-      },
-      {
         "title": "Terrorist attacks increase but fatalities decline during August: PICSS",
         "summary": "<p>ISLAMABAD: The number of terrorist attacks increased significantly in August despite sustained counter-terrorism pressure, but their human impact declined compared with July, according to a monthly security assessment by an Islamabad-based think tank.</p> <p>According to monthly data <a rel=\"nofollow noopener norefe",
         "url": "https://www.dawn.com/news/2026645/terrorist-attacks-increase-but-fatalities-decline-during-august-picss",
         "source": "Dawn",
         "date": "2026-09-01T19:07:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
+        "source": "Express",
+        "date": "2026-09-01T17:58:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
+        "source": "Express",
+        "date": "2026-09-01T17:43:10+00:00",
         "img": ""
       },
       {
@@ -2491,43 +2523,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
         "title": "ECP reserves verdict on maintainability of Awaam Pakistan’s appeal against its delisting",
         "summary": "<p>ISLAMABAD: The Election Commission of Pakistan (ECP) on Tuesday reserved its verdict on the maintainability of an appeal filed by Awaam Pakistan against its delisting over allegedly failing to hold intra-party elections.</p> <p>A four-member bench headed by Chief Election Commissioner (CEC) Sikandar Sultan Raja hear",
         "url": "https://www.dawn.com/news/2026606/ecp-reserves-verdict-on-maintainability-of-awaam-pakistans-appeal-against-its-delisting",
         "source": "Dawn",
         "date": "2026-09-01T13:32:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
         "img": ""
       },
       {
@@ -2725,6 +2725,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-Pump-1.jpg"
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Newcastle sign Belgium forward Fernandez-Pardo",
         "summary": "Newcastle sign Belgium forward Fernandez-Pardo",
         "url": "https://arynews.tv/newcastle-sign-belgium-forward-fernandez-pardo",
@@ -2957,11 +2965,27 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
         "title": "Karachi court issues notices to SSP, SHO on plea seeking FIR over DHA scuffle case",
         "summary": "<p>A Karachi additional sessions court on Tuesday sought responses from the South senior superintendent of police (SSP) and Darakhshan station house officer (SHO) on a resident’s plea seeking the registration of a case over an <a href=\"https://www.dawn.com/news/2025940\">apartment scuffle</a>.</p> <p>Last week, a video ",
         "url": "https://www.dawn.com/news/2026618/karachi-court-issues-notices-to-ssp-sho-on-plea-seeking-fir-over-dha-scuffle-case",
         "source": "Dawn",
         "date": "2026-09-01T19:29:56+05:00",
+        "img": ""
+      },
+      {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
         "img": ""
       },
       {
@@ -2978,14 +3002,6 @@
         "url": "https://www.express.pk/story/2830406/miss-world-uganda-c-section-inspired-designer-gown-2830406/",
         "source": "Express",
         "date": "2026-09-01T19:20:05+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
-        "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
         "img": ""
       },
       {
@@ -3027,6 +3043,22 @@
         "source": "ARY News",
         "date": "2026-09-01T18:46:12+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/NEPRA-bars-K-Electric-from-load-shedding-over-power-losses.jpg"
+      },
+      {
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
+        "source": "Express",
+        "date": "2026-09-01T17:58:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
+        "source": "Express",
+        "date": "2026-09-01T17:43:10+00:00",
+        "img": ""
       },
       {
         "title": "طالبان حکومت کے 5 سال مکمل، اسلام آباد کانفرنس میں بڑے دعووں کی قلعی کھل گئی",
@@ -3093,43 +3125,11 @@
         "img": ""
       },
       {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
         "title": "ECP reserves verdict on maintainability of Awaam Pakistan’s appeal against its delisting",
         "summary": "<p>ISLAMABAD: The Election Commission of Pakistan (ECP) on Tuesday reserved its verdict on the maintainability of an appeal filed by Awaam Pakistan against its delisting over allegedly failing to hold intra-party elections.</p> <p>A four-member bench headed by Chief Election Commissioner (CEC) Sikandar Sultan Raja hear",
         "url": "https://www.dawn.com/news/2026606/ecp-reserves-verdict-on-maintainability-of-awaam-pakistans-appeal-against-its-delisting",
         "source": "Dawn",
         "date": "2026-09-01T13:32:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
         "img": ""
       },
       {
@@ -3317,6 +3317,14 @@
         "source": "ARY News",
         "date": "2026-09-01T23:06:02+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-Pump-1.jpg"
+      },
+      {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
       },
       {
         "title": "Newcastle sign Belgium forward Fernandez-Pardo",
@@ -3527,6 +3535,22 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
+        "img": ""
+      },
+      {
         "title": "گمنامی کی زندگی گزارنے والی ماضی کی ہیروئن کی اپنی ویڈیو وائرل ہونے پر مداحوں سے اپیل",
         "summary": "",
         "url": "https://www.express.pk/story/2830407/raaz-actress-malini-sharma-farmstay-fans-whatsapp-2830407/",
@@ -3540,14 +3564,6 @@
         "url": "https://www.express.pk/story/2830406/miss-world-uganda-c-section-inspired-designer-gown-2830406/",
         "source": "Express",
         "date": "2026-09-01T19:20:05+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
-        "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
         "img": ""
       },
       {
@@ -3581,6 +3597,22 @@
         "source": "ARY News",
         "date": "2026-09-01T18:46:12+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/NEPRA-bars-K-Electric-from-load-shedding-over-power-losses.jpg"
+      },
+      {
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
+        "source": "Express",
+        "date": "2026-09-01T17:58:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
+        "source": "Express",
+        "date": "2026-09-01T17:43:10+00:00",
+        "img": ""
       },
       {
         "title": "طالبان حکومت کے 5 سال مکمل، اسلام آباد کانفرنس میں بڑے دعووں کی قلعی کھل گئی",
@@ -3628,38 +3660,6 @@
         "url": "https://www.express.pk/story/2830405/karachi-woman-accused-of-a-house-burglary-arrested-15-tolas-of-gold-jewellery-and-other-stolen-items-recovered-2830405/",
         "source": "Express",
         "date": "2026-09-01T14:18:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
         "img": ""
       }
     ],
@@ -3883,6 +3883,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-15.jpg"
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Newcastle sign Belgium forward Fernandez-Pardo",
         "summary": "Newcastle sign Belgium forward Fernandez-Pardo",
         "url": "https://arynews.tv/newcastle-sign-belgium-forward-fernandez-pardo",
@@ -4011,6 +4019,22 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
+        "img": ""
+      },
+      {
         "title": "گمنامی کی زندگی گزارنے والی ماضی کی ہیروئن کی اپنی ویڈیو وائرل ہونے پر مداحوں سے اپیل",
         "summary": "",
         "url": "https://www.express.pk/story/2830407/raaz-actress-malini-sharma-farmstay-fans-whatsapp-2830407/",
@@ -4027,11 +4051,11 @@
         "img": ""
       },
       {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
         "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
+        "date": "2026-09-01T17:58:55+00:00",
         "img": ""
       },
       {
@@ -4041,6 +4065,14 @@
         "source": "ARY Sports",
         "date": "2026-09-01T17:53:10+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/1-5.jpg"
+      },
+      {
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
+        "source": "Express",
+        "date": "2026-09-01T17:43:10+00:00",
+        "img": ""
       },
       {
         "title": "طالبان حکومت کے 5 سال مکمل، اسلام آباد کانفرنس میں بڑے دعووں کی قلعی کھل گئی",
@@ -4139,14 +4171,6 @@
         "img": ""
       },
       {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
-        "img": ""
-      },
-      {
         "title": "Australia axe Labuschagne for Zimbabwe, South Africa ODI series",
         "summary": "Australia axe Labuschagne for Zimbabwe, South Africa ODI series",
         "url": "https://arynews.tv/australia-axe-labuschagne-for-zimbabwe-south-africa-odi-series",
@@ -4155,36 +4179,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/1-1.jpg"
       },
       {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
         "title": "Babar Azam’s drop, recall shows PCB’s short-term approach: Mohammad Wasim",
         "summary": "Babar Azam’s drop, recall shows PCB’s short-term approach: Mohammad Wasim",
         "url": "https://arynews.tv/babar-azams-drop-recall-show-pcbs-short-term-approach-wasim",
         "source": "ARY Sports",
         "date": "2026-09-01T13:30:30+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Babar-Azam-New-Pic.jpg"
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
-        "img": ""
       },
       {
         "title": "Misbah-ul-Haq resigns from PCB selection committee: Sources",
@@ -4437,6 +4437,14 @@
         "img": ""
       },
       {
+        "title": "کراچی، گھر کی چھت گرنے سے خاتون جاں بحق، بہن بھائی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830428/karachi-woman-dies-siblings-injured-after-house-roof-collapses-2830428/",
+        "source": "Express",
+        "date": "2026-09-01T23:05:40+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistani installment-financing platform raises Rs500m through privately placed Sukuk",
         "summary": "<p>A Pakistani instalment-financing platform, QistBazaar, said on Tuesday that it had successfully raised Rs500 million through a privately placed Sukuk bond.</p> <p>In a press release, QistBazaar — also a Buy Now, Pay Later (BNPL) platform — said the Sukuk marked the first tranche in a planned series of Sukuk issuance",
         "url": "https://www.dawn.com/news/2026662/pakistani-installment-financing-platform-raises-rs500m-through-privately-placed-sukuk",
@@ -4541,6 +4549,22 @@
         "img": ""
       },
       {
+        "title": "موجودہ حکومتی ڈھانچہ ناکام، 15 نئے صوبے یا 160 ضلعی حکومتیں ناگزیر ہیں، احسن اقبال",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830430/the-current-government-structure-has-failed-15-new-provinces-or-160-district-governments-are-inevitable-ahsan-iqbal-2830430/",
+        "source": "Express",
+        "date": "2026-09-01T19:30:13+00:00",
+        "img": ""
+      },
+      {
+        "title": "اگست میں مہنگائی کی شرح 11 اعشاریہ 2 فی صد تک پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830429/the-inflation-rate-reached-112-percent-in-august-2830429/",
+        "source": "Express",
+        "date": "2026-09-01T19:22:18+00:00",
+        "img": ""
+      },
+      {
         "title": "گمنامی کی زندگی گزارنے والی ماضی کی ہیروئن کی اپنی ویڈیو وائرل ہونے پر مداحوں سے اپیل",
         "summary": "",
         "url": "https://www.express.pk/story/2830407/raaz-actress-malini-sharma-farmstay-fans-whatsapp-2830407/",
@@ -4557,11 +4581,19 @@
         "img": ""
       },
       {
-        "title": "پی سی بی نے فیلڈنگ کوچ کے لیے تلاش شروع کر دی",
+        "title": "سکھر، اے این ایف نے ایمبولینس کے ذریعے منشیات اسمگلنگ کی کوشش ناکام بنا دی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830404/hiring-fielding-coach-2830404/",
+        "url": "https://www.express.pk/story/2830427/sukkur-anf-foils-attempt-to-smuggle-drugs-via-ambulance-2830427/",
         "source": "Express",
-        "date": "2026-09-01T19:18:08+05:00",
+        "date": "2026-09-01T17:58:55+00:00",
+        "img": ""
+      },
+      {
+        "title": "بابائے حریت سید علی شاہ گیلانی کی 5 ویں برسی پر اسلام آباد میں تقریب کا اہتمام",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830426/event-organized-in-islamabad-to-mark-the-5th-death-anniversary-of-the-father-of-freedom-syed-ali-shah-geelani-2830426/",
+        "source": "Express",
+        "date": "2026-09-01T17:43:10+00:00",
         "img": ""
       },
       {
@@ -4618,38 +4650,6 @@
         "url": "https://www.express.pk/story/2830405/karachi-woman-accused-of-a-house-burglary-arrested-15-tolas-of-gold-jewellery-and-other-stolen-items-recovered-2830405/",
         "source": "Express",
         "date": "2026-09-01T14:18:38+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی میں ٹارگٹ کلنگ کا سوئچ آن، 24 گھنٹوں میں مذہبی جماعت کے کارکن سمیت 3 افراد قتل",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830403/karachi-target-killing-switch-on-3-killed-in-24-hours-2830403/",
-        "source": "Express",
-        "date": "2026-09-01T14:11:48+00:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان سے دوستی پر فخر ہے، ہماری ثقافت و روایات ملتی ہیں، سفیر ازبکستان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830400/uzbek-ambassador-says-we-are-proud-of-our-friendship-with-pakistan-our-cultures-and-traditions-are-similar-2830400/",
-        "source": "Express",
-        "date": "2026-09-01T13:50:47+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایئرپورٹ پر ڈرون حملے جواب میں جرمنی کا روسی قونصل خانہ بند کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830399/germany-blames-russia-leipzig-airport-drone-attack-2830399/",
-        "source": "Express",
-        "date": "2026-09-01T13:37:26+00:00",
-        "img": ""
-      },
-      {
-        "title": "امریکا کے ایران پر متعدد فضائی حملے؛ پاسداران انقلاب کے ٹھکانے تباہ کرنے کا دعویٰ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830398/us-new-strikes-on-us-attack-on-iran-qassim-bander-abbas-chahabahar-2830398/",
-        "source": "Express",
-        "date": "2026-09-01T13:29:44+00:00",
         "img": ""
       },
       {
