@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-02T21:31:41.076862+00:00",
+  "fetched": "2026-09-02T23:47:39.376946+00:00",
   "categories": {
     "international": [
       {
@@ -72,6 +72,14 @@
         "url": "https://www.dawn.com/news/2026977/member-of-ahmadi-community-killed-in-suspected-targeted-attack-in-mandi-bahauddin-police",
         "source": "Dawn",
         "date": "2026-09-02T23:55:57+05:00",
+        "img": ""
+      },
+      {
+        "title": "امریکہ کو میدانِ جنگ میں ایران کی نئی حکمتِ عملی کا سامنا کرنا پڑے گا: محسن رضائی",
+        "summary": "ایرانی سپریم نیشنل سکیورٹی کونسل کے سیکریٹری محسن رضائی نے دعویٰ کیا ہے کہ امریکہ کو تہران کی جانب سے ایک ’نئی حکمتِ عملی‘ کا سامنا کرنا پڑے گا۔ سوشل میڈیا پلیٹ فارم ایکس پر امریکہ کو مخاطب کرتے ہوئے محسن رضائی نے لکھا: ’میدانِ جنگ، سفارت کاری اور معاشی محاصرے کا مقابلہ کرنے کے حوالے سے ایران کی نئی حکمتِ عملی آپ کی بن",
+        "url": "https://www.bbc.co.uk/urdu/live/cvp8dljwxy28t?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-09-02T23:47:41.576580+00:00",
         "img": ""
       },
       {
@@ -193,14 +201,6 @@
         "source": "ARY News",
         "date": "2026-09-02T21:33:09+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Donald-Trump-lake.jpg"
-      },
-      {
-        "title": "امریکہ کو میدانِ جنگ میں ایران کی نئی حکمتِ عملی کا سامنا کرنا پڑے گا: محسن رضائی",
-        "summary": "ایرانی سپریم نیشنل سکیورٹی کونسل کے سیکریٹری محسن رضائی نے دعویٰ کیا ہے کہ امریکہ کو تہران کی جانب سے ایک ’نئی حکمتِ عملی‘ کا سامنا کرنا پڑے گا۔ سوشل میڈیا پلیٹ فارم ایکس پر امریکہ کو مخاطب کرتے ہوئے محسن رضائی نے لکھا: ’میدانِ جنگ، سفارت کاری اور معاشی محاصرے کا مقابلہ کرنے کے حوالے سے ایران کی نئی حکمتِ عملی آپ کی بن",
-        "url": "https://www.bbc.co.uk/urdu/live/cvp8dljwxy28t?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-09-02T21:31:43.831698+00:00",
-        "img": ""
       },
       {
         "title": "Body of missing Irish mountaineer recovered from Siran Valley in KP",
@@ -669,6 +669,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-02T230432.035.jpg"
       },
       {
+        "title": "ٹیسٹ سیریز کا آخری معرکہ، قومی کرکٹ ٹیم برمنگھم پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830595/final-showdown-of-the-test-series-national-cricket-team-arrives-in-birmingham-2830595/",
+        "source": "Express",
+        "date": "2026-09-02T23:21:01+05:00",
+        "img": ""
+      },
+      {
         "title": "Saudi Arabia and Nepal ink air transport agreement",
         "summary": "Saudi Arabia and Nepal ink air transport agreement",
         "url": "https://arynews.tv/saudi-arabia-and-nepal-ink-air-transport-agreement",
@@ -725,6 +733,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Saudi-citizens-Absher.jpg"
       },
       {
+        "title": "کراچی میں ریسٹورینٹ پر اندھا دھند فائرنگ سے گداگر زخمی، سی سی ٹی وی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830594/beggar-injured-in-indiscriminate-firing-at-a-karachi-restaurant-cctv-footage-has-surfaced-2830594/",
+        "source": "Express",
+        "date": "2026-09-02T21:37:22+05:00",
+        "img": ""
+      },
+      {
         "title": "Trump floats ‘Trump Strait’ name for contested Hormuz waterway",
         "summary": "Trump floats ‘Trump Strait’ name for contested Hormuz waterway",
         "url": "https://arynews.tv/trump-floats-trump-strait-name-for-contested-hormuz-waterway",
@@ -738,14 +754,6 @@
         "url": "https://www.dawn.com/news/2026943/body-of-missing-irish-mountaineer-recovered-from-siran-valley-in-kp",
         "source": "Dawn",
         "date": "2026-09-02T21:27:11+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
-        "source": "Express",
-        "date": "2026-09-02T21:24:30+05:00",
         "img": ""
       },
       {
@@ -965,22 +973,6 @@
         "img": ""
       },
       {
-        "title": "بلاک بسٹر فلم ’میں نے پیار کیا‘ کے بعد بھی سلمان خان کئی ماہ بیروزگار کیوں رہے تھے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830569/salman-khan-jobless-after-maine-pyar-kiya-2830569/",
-        "source": "Express",
-        "date": "2026-09-02T18:00:58+05:00",
-        "img": ""
-      },
-      {
-        "title": "لندن: پاکستانی کرکٹ ٹیم اور چیئرمین پی سی بی کی برطانوی بادشاہ چارلس سے ملاقات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830568/london-pakistani-cricket-team-and-pcb-chairman-meet-british-king-charles-2830568/",
-        "source": "Express",
-        "date": "2026-09-02T17:54:31+05:00",
-        "img": ""
-      },
-      {
         "title": "PIA to increase weekly flights to London from four to seven from Oct 27",
         "summary": "<p>Pakistan International Airlines (PIA) on Wednesday said that it would be increasing its weekly flights to London from four to seven starting October 27.</p> <p>Under the new schedule, five flights would depart from Islamabad while two would operate on the Lahore-London route, the airline said in a statement.</p> <p>",
         "url": "https://www.dawn.com/news/2026866/pia-to-increase-weekly-flights-to-london-from-four-to-seven-from-oct-27",
@@ -994,6 +986,14 @@
         "url": "https://www.dawn.com/news/2026890/pakistan-navy-commences-seaspark-2026-exercise-to-test-combat-readiness",
         "source": "Dawn",
         "date": "2026-09-02T16:31:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
+        "source": "Express",
+        "date": "2026-09-02T16:24:30+00:00",
         "img": ""
       },
       {
@@ -1271,6 +1271,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-02T230432.035.jpg"
       },
       {
+        "title": "ٹیسٹ سیریز کا آخری معرکہ، قومی کرکٹ ٹیم برمنگھم پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830595/final-showdown-of-the-test-series-national-cricket-team-arrives-in-birmingham-2830595/",
+        "source": "Express",
+        "date": "2026-09-02T23:21:01+05:00",
+        "img": ""
+      },
+      {
         "title": "Saudi Arabia and Nepal ink air transport agreement",
         "summary": "Saudi Arabia and Nepal ink air transport agreement",
         "url": "https://arynews.tv/saudi-arabia-and-nepal-ink-air-transport-agreement",
@@ -1327,6 +1335,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Saudi-citizens-Absher.jpg"
       },
       {
+        "title": "کراچی میں ریسٹورینٹ پر اندھا دھند فائرنگ سے گداگر زخمی، سی سی ٹی وی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830594/beggar-injured-in-indiscriminate-firing-at-a-karachi-restaurant-cctv-footage-has-surfaced-2830594/",
+        "source": "Express",
+        "date": "2026-09-02T21:37:22+05:00",
+        "img": ""
+      },
+      {
         "title": "Trump floats ‘Trump Strait’ name for contested Hormuz waterway",
         "summary": "Trump floats ‘Trump Strait’ name for contested Hormuz waterway",
         "url": "https://arynews.tv/trump-floats-trump-strait-name-for-contested-hormuz-waterway",
@@ -1340,14 +1356,6 @@
         "url": "https://www.dawn.com/news/2026943/body-of-missing-irish-mountaineer-recovered-from-siran-valley-in-kp",
         "source": "Dawn",
         "date": "2026-09-02T21:27:11+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
-        "source": "Express",
-        "date": "2026-09-02T21:24:30+05:00",
         "img": ""
       },
       {
@@ -1567,22 +1575,6 @@
         "img": ""
       },
       {
-        "title": "بلاک بسٹر فلم ’میں نے پیار کیا‘ کے بعد بھی سلمان خان کئی ماہ بیروزگار کیوں رہے تھے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830569/salman-khan-jobless-after-maine-pyar-kiya-2830569/",
-        "source": "Express",
-        "date": "2026-09-02T18:00:58+05:00",
-        "img": ""
-      },
-      {
-        "title": "لندن: پاکستانی کرکٹ ٹیم اور چیئرمین پی سی بی کی برطانوی بادشاہ چارلس سے ملاقات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830568/london-pakistani-cricket-team-and-pcb-chairman-meet-british-king-charles-2830568/",
-        "source": "Express",
-        "date": "2026-09-02T17:54:31+05:00",
-        "img": ""
-      },
-      {
         "title": "PIA to increase weekly flights to London from four to seven from Oct 27",
         "summary": "<p>Pakistan International Airlines (PIA) on Wednesday said that it would be increasing its weekly flights to London from four to seven starting October 27.</p> <p>Under the new schedule, five flights would depart from Islamabad while two would operate on the Lahore-London route, the airline said in a statement.</p> <p>",
         "url": "https://www.dawn.com/news/2026866/pia-to-increase-weekly-flights-to-london-from-four-to-seven-from-oct-27",
@@ -1596,6 +1588,14 @@
         "url": "https://www.dawn.com/news/2026890/pakistan-navy-commences-seaspark-2026-exercise-to-test-combat-readiness",
         "source": "Dawn",
         "date": "2026-09-02T16:31:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
+        "source": "Express",
+        "date": "2026-09-02T16:24:30+00:00",
         "img": ""
       },
       {
@@ -1865,6 +1865,14 @@
         "img": ""
       },
       {
+        "title": "ٹیسٹ سیریز کا آخری معرکہ، قومی کرکٹ ٹیم برمنگھم پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830595/final-showdown-of-the-test-series-national-cricket-team-arrives-in-birmingham-2830595/",
+        "source": "Express",
+        "date": "2026-09-02T23:21:01+05:00",
+        "img": ""
+      },
+      {
         "title": "Pims fire: PM Shehbaz reiterates no leniency for officials found negligent in their duties",
         "summary": "<p>ISLAMABAD: Prime Minister Shehbaz Sharif on Tuesday chaired an emergency meeting on health affairs and the fire at the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims), reiterating that no leniency would be shown to officials found negligent in their duties.</p> <p>“No leniency will be shown to ",
         "url": "https://www.dawn.com/news/2026968/pims-fire-pm-shehbaz-reiterates-no-leniency-for-officials-found-negligent-in-their-duties",
@@ -1873,19 +1881,19 @@
         "img": ""
       },
       {
+        "title": "کراچی میں ریسٹورینٹ پر اندھا دھند فائرنگ سے گداگر زخمی، سی سی ٹی وی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830594/beggar-injured-in-indiscriminate-firing-at-a-karachi-restaurant-cctv-footage-has-surfaced-2830594/",
+        "source": "Express",
+        "date": "2026-09-02T21:37:22+05:00",
+        "img": ""
+      },
+      {
         "title": "Body of missing Irish mountaineer recovered from Siran Valley in KP",
         "summary": "<p>MANSEHRA: The body of Irish mountaineer Alexander, who went missing while descending from the 13,500-foot-high Musa Da Musalla peak in Khyber Pakhtunkhwa’s Siran Valley amid rough weather, was recovered on Wednesday from the dense forests of the Paracha Khatta area.</p> <p>On Monday, it was <a href=\"https://www.dawn",
         "url": "https://www.dawn.com/news/2026943/body-of-missing-irish-mountaineer-recovered-from-siran-valley-in-kp",
         "source": "Dawn",
         "date": "2026-09-02T21:27:11+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
-        "source": "Express",
-        "date": "2026-09-02T21:24:30+05:00",
         "img": ""
       },
       {
@@ -2049,22 +2057,6 @@
         "img": ""
       },
       {
-        "title": "بلاک بسٹر فلم ’میں نے پیار کیا‘ کے بعد بھی سلمان خان کئی ماہ بیروزگار کیوں رہے تھے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830569/salman-khan-jobless-after-maine-pyar-kiya-2830569/",
-        "source": "Express",
-        "date": "2026-09-02T18:00:58+05:00",
-        "img": ""
-      },
-      {
-        "title": "لندن: پاکستانی کرکٹ ٹیم اور چیئرمین پی سی بی کی برطانوی بادشاہ چارلس سے ملاقات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830568/london-pakistani-cricket-team-and-pcb-chairman-meet-british-king-charles-2830568/",
-        "source": "Express",
-        "date": "2026-09-02T17:54:31+05:00",
-        "img": ""
-      },
-      {
         "title": "PIA to increase weekly flights to London from four to seven from Oct 27",
         "summary": "<p>Pakistan International Airlines (PIA) on Wednesday said that it would be increasing its weekly flights to London from four to seven starting October 27.</p> <p>Under the new schedule, five flights would depart from Islamabad while two would operate on the Lahore-London route, the airline said in a statement.</p> <p>",
         "url": "https://www.dawn.com/news/2026866/pia-to-increase-weekly-flights-to-london-from-four-to-seven-from-oct-27",
@@ -2078,6 +2070,14 @@
         "url": "https://www.dawn.com/news/2026890/pakistan-navy-commences-seaspark-2026-exercise-to-test-combat-readiness",
         "source": "Dawn",
         "date": "2026-09-02T16:31:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
+        "source": "Express",
+        "date": "2026-09-02T16:24:30+00:00",
         "img": ""
       },
       {
@@ -2267,6 +2267,14 @@
         "img": ""
       },
       {
+        "title": "ٹیسٹ سیریز کا آخری معرکہ، قومی کرکٹ ٹیم برمنگھم پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830595/final-showdown-of-the-test-series-national-cricket-team-arrives-in-birmingham-2830595/",
+        "source": "Express",
+        "date": "2026-09-02T23:21:01+05:00",
+        "img": ""
+      },
+      {
         "title": "Pims fire: PM Shehbaz reiterates no leniency for officials found negligent in their duties",
         "summary": "<p>ISLAMABAD: Prime Minister Shehbaz Sharif on Tuesday chaired an emergency meeting on health affairs and the fire at the gynaecology ward of the Pakistan Institute of Medical Sciences (Pims), reiterating that no leniency would be shown to officials found negligent in their duties.</p> <p>“No leniency will be shown to ",
         "url": "https://www.dawn.com/news/2026968/pims-fire-pm-shehbaz-reiterates-no-leniency-for-officials-found-negligent-in-their-duties",
@@ -2275,19 +2283,19 @@
         "img": ""
       },
       {
+        "title": "کراچی میں ریسٹورینٹ پر اندھا دھند فائرنگ سے گداگر زخمی، سی سی ٹی وی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830594/beggar-injured-in-indiscriminate-firing-at-a-karachi-restaurant-cctv-footage-has-surfaced-2830594/",
+        "source": "Express",
+        "date": "2026-09-02T21:37:22+05:00",
+        "img": ""
+      },
+      {
         "title": "Body of missing Irish mountaineer recovered from Siran Valley in KP",
         "summary": "<p>MANSEHRA: The body of Irish mountaineer Alexander, who went missing while descending from the 13,500-foot-high Musa Da Musalla peak in Khyber Pakhtunkhwa’s Siran Valley amid rough weather, was recovered on Wednesday from the dense forests of the Paracha Khatta area.</p> <p>On Monday, it was <a href=\"https://www.dawn",
         "url": "https://www.dawn.com/news/2026943/body-of-missing-irish-mountaineer-recovered-from-siran-valley-in-kp",
         "source": "Dawn",
         "date": "2026-09-02T21:27:11+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
-        "source": "Express",
-        "date": "2026-09-02T21:24:30+05:00",
         "img": ""
       },
       {
@@ -2451,22 +2459,6 @@
         "img": ""
       },
       {
-        "title": "بلاک بسٹر فلم ’میں نے پیار کیا‘ کے بعد بھی سلمان خان کئی ماہ بیروزگار کیوں رہے تھے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830569/salman-khan-jobless-after-maine-pyar-kiya-2830569/",
-        "source": "Express",
-        "date": "2026-09-02T18:00:58+05:00",
-        "img": ""
-      },
-      {
-        "title": "لندن: پاکستانی کرکٹ ٹیم اور چیئرمین پی سی بی کی برطانوی بادشاہ چارلس سے ملاقات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830568/london-pakistani-cricket-team-and-pcb-chairman-meet-british-king-charles-2830568/",
-        "source": "Express",
-        "date": "2026-09-02T17:54:31+05:00",
-        "img": ""
-      },
-      {
         "title": "PIA to increase weekly flights to London from four to seven from Oct 27",
         "summary": "<p>Pakistan International Airlines (PIA) on Wednesday said that it would be increasing its weekly flights to London from four to seven starting October 27.</p> <p>Under the new schedule, five flights would depart from Islamabad while two would operate on the Lahore-London route, the airline said in a statement.</p> <p>",
         "url": "https://www.dawn.com/news/2026866/pia-to-increase-weekly-flights-to-london-from-four-to-seven-from-oct-27",
@@ -2480,6 +2472,14 @@
         "url": "https://www.dawn.com/news/2026890/pakistan-navy-commences-seaspark-2026-exercise-to-test-combat-readiness",
         "source": "Dawn",
         "date": "2026-09-02T16:31:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
+        "source": "Express",
+        "date": "2026-09-02T16:24:30+00:00",
         "img": ""
       },
       {
@@ -2757,6 +2757,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-02T230432.035.jpg"
       },
       {
+        "title": "ٹیسٹ سیریز کا آخری معرکہ، قومی کرکٹ ٹیم برمنگھم پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830595/final-showdown-of-the-test-series-national-cricket-team-arrives-in-birmingham-2830595/",
+        "source": "Express",
+        "date": "2026-09-02T23:21:01+05:00",
+        "img": ""
+      },
+      {
         "title": "Saudi Arabia and Nepal ink air transport agreement",
         "summary": "Saudi Arabia and Nepal ink air transport agreement",
         "url": "https://arynews.tv/saudi-arabia-and-nepal-ink-air-transport-agreement",
@@ -2813,6 +2821,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Saudi-citizens-Absher.jpg"
       },
       {
+        "title": "کراچی میں ریسٹورینٹ پر اندھا دھند فائرنگ سے گداگر زخمی، سی سی ٹی وی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830594/beggar-injured-in-indiscriminate-firing-at-a-karachi-restaurant-cctv-footage-has-surfaced-2830594/",
+        "source": "Express",
+        "date": "2026-09-02T21:37:22+05:00",
+        "img": ""
+      },
+      {
         "title": "Trump floats ‘Trump Strait’ name for contested Hormuz waterway",
         "summary": "Trump floats ‘Trump Strait’ name for contested Hormuz waterway",
         "url": "https://arynews.tv/trump-floats-trump-strait-name-for-contested-hormuz-waterway",
@@ -2826,14 +2842,6 @@
         "url": "https://www.dawn.com/news/2026943/body-of-missing-irish-mountaineer-recovered-from-siran-valley-in-kp",
         "source": "Dawn",
         "date": "2026-09-02T21:27:11+05:00",
-        "img": ""
-      },
-      {
-        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
-        "source": "Express",
-        "date": "2026-09-02T21:24:30+05:00",
         "img": ""
       },
       {
@@ -3053,22 +3061,6 @@
         "img": ""
       },
       {
-        "title": "بلاک بسٹر فلم ’میں نے پیار کیا‘ کے بعد بھی سلمان خان کئی ماہ بیروزگار کیوں رہے تھے؟",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830569/salman-khan-jobless-after-maine-pyar-kiya-2830569/",
-        "source": "Express",
-        "date": "2026-09-02T18:00:58+05:00",
-        "img": ""
-      },
-      {
-        "title": "لندن: پاکستانی کرکٹ ٹیم اور چیئرمین پی سی بی کی برطانوی بادشاہ چارلس سے ملاقات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830568/london-pakistani-cricket-team-and-pcb-chairman-meet-british-king-charles-2830568/",
-        "source": "Express",
-        "date": "2026-09-02T17:54:31+05:00",
-        "img": ""
-      },
-      {
         "title": "PIA to increase weekly flights to London from four to seven from Oct 27",
         "summary": "<p>Pakistan International Airlines (PIA) on Wednesday said that it would be increasing its weekly flights to London from four to seven starting October 27.</p> <p>Under the new schedule, five flights would depart from Islamabad while two would operate on the Lahore-London route, the airline said in a statement.</p> <p>",
         "url": "https://www.dawn.com/news/2026866/pia-to-increase-weekly-flights-to-london-from-four-to-seven-from-oct-27",
@@ -3082,6 +3074,14 @@
         "url": "https://www.dawn.com/news/2026890/pakistan-navy-commences-seaspark-2026-exercise-to-test-combat-readiness",
         "source": "Dawn",
         "date": "2026-09-02T16:31:21+05:00",
+        "img": ""
+      },
+      {
+        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
+        "source": "Express",
+        "date": "2026-09-02T16:24:30+00:00",
         "img": ""
       },
       {
@@ -3351,6 +3351,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-02T230432.035.jpg"
       },
       {
+        "title": "ٹیسٹ سیریز کا آخری معرکہ، قومی کرکٹ ٹیم برمنگھم پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830595/final-showdown-of-the-test-series-national-cricket-team-arrives-in-birmingham-2830595/",
+        "source": "Express",
+        "date": "2026-09-02T23:21:01+05:00",
+        "img": ""
+      },
+      {
         "title": "Saudi Arabia and Nepal ink air transport agreement",
         "summary": "Saudi Arabia and Nepal ink air transport agreement",
         "url": "https://arynews.tv/saudi-arabia-and-nepal-ink-air-transport-agreement",
@@ -3399,20 +3407,20 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Saudi-citizens-Absher.jpg"
       },
       {
+        "title": "کراچی میں ریسٹورینٹ پر اندھا دھند فائرنگ سے گداگر زخمی، سی سی ٹی وی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830594/beggar-injured-in-indiscriminate-firing-at-a-karachi-restaurant-cctv-footage-has-surfaced-2830594/",
+        "source": "Express",
+        "date": "2026-09-02T21:37:22+05:00",
+        "img": ""
+      },
+      {
         "title": "Trump floats ‘Trump Strait’ name for contested Hormuz waterway",
         "summary": "Trump floats ‘Trump Strait’ name for contested Hormuz waterway",
         "url": "https://arynews.tv/trump-floats-trump-strait-name-for-contested-hormuz-waterway",
         "source": "ARY News",
         "date": "2026-09-02T21:33:09+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Donald-Trump-lake.jpg"
-      },
-      {
-        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
-        "source": "Express",
-        "date": "2026-09-02T21:24:30+05:00",
-        "img": ""
       },
       {
         "title": "بندشیں،رنجشیںاور تنہائی",
@@ -3599,19 +3607,11 @@
         "img": ""
       },
       {
-        "title": "بلاک بسٹر فلم ’میں نے پیار کیا‘ کے بعد بھی سلمان خان کئی ماہ بیروزگار کیوں رہے تھے؟",
+        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
         "summary": "",
-        "url": "https://www.express.pk/story/2830569/salman-khan-jobless-after-maine-pyar-kiya-2830569/",
+        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
         "source": "Express",
-        "date": "2026-09-02T18:00:58+05:00",
-        "img": ""
-      },
-      {
-        "title": "لندن: پاکستانی کرکٹ ٹیم اور چیئرمین پی سی بی کی برطانوی بادشاہ چارلس سے ملاقات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830568/london-pakistani-cricket-team-and-pcb-chairman-meet-british-king-charles-2830568/",
-        "source": "Express",
-        "date": "2026-09-02T17:54:31+05:00",
+        "date": "2026-09-02T16:24:30+00:00",
         "img": ""
       },
       {
@@ -3875,6 +3875,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-10-1.jpg"
       },
       {
+        "title": "ٹیسٹ سیریز کا آخری معرکہ، قومی کرکٹ ٹیم برمنگھم پہنچ گئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830595/final-showdown-of-the-test-series-national-cricket-team-arrives-in-birmingham-2830595/",
+        "source": "Express",
+        "date": "2026-09-02T23:21:01+05:00",
+        "img": ""
+      },
+      {
         "title": "Kylian Mbappé targeted in busted French kidnapping plot",
         "summary": "Kylian Mbappé targeted in busted French kidnapping plot",
         "url": "https://arynews.tv/kylian-mbappe-targeted-in-busted-french-kidnapping-plot",
@@ -3899,11 +3907,11 @@
         "img": ""
       },
       {
-        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
+        "title": "کراچی میں ریسٹورینٹ پر اندھا دھند فائرنگ سے گداگر زخمی، سی سی ٹی وی فوٹیج سامنے آگئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
+        "url": "https://www.express.pk/story/2830594/beggar-injured-in-indiscriminate-firing-at-a-karachi-restaurant-cctv-footage-has-surfaced-2830594/",
         "source": "Express",
-        "date": "2026-09-02T21:24:30+05:00",
+        "date": "2026-09-02T21:37:22+05:00",
         "img": ""
       },
       {
@@ -4051,19 +4059,11 @@
         "img": ""
       },
       {
-        "title": "بلاک بسٹر فلم ’میں نے پیار کیا‘ کے بعد بھی سلمان خان کئی ماہ بیروزگار کیوں رہے تھے؟",
+        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
         "summary": "",
-        "url": "https://www.express.pk/story/2830569/salman-khan-jobless-after-maine-pyar-kiya-2830569/",
+        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
         "source": "Express",
-        "date": "2026-09-02T18:00:58+05:00",
-        "img": ""
-      },
-      {
-        "title": "لندن: پاکستانی کرکٹ ٹیم اور چیئرمین پی سی بی کی برطانوی بادشاہ چارلس سے ملاقات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830568/london-pakistani-cricket-team-and-pcb-chairman-meet-british-king-charles-2830568/",
-        "source": "Express",
-        "date": "2026-09-02T17:54:31+05:00",
+        "date": "2026-09-02T16:24:30+00:00",
         "img": ""
       },
       {
@@ -4437,11 +4437,19 @@
         "img": ""
       },
       {
-        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
+        "title": "ٹیسٹ سیریز کا آخری معرکہ، قومی کرکٹ ٹیم برمنگھم پہنچ گئی",
         "summary": "",
-        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
+        "url": "https://www.express.pk/story/2830595/final-showdown-of-the-test-series-national-cricket-team-arrives-in-birmingham-2830595/",
         "source": "Express",
-        "date": "2026-09-02T21:24:30+05:00",
+        "date": "2026-09-02T23:21:01+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی میں ریسٹورینٹ پر اندھا دھند فائرنگ سے گداگر زخمی، سی سی ٹی وی فوٹیج سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2830594/beggar-injured-in-indiscriminate-firing-at-a-karachi-restaurant-cctv-footage-has-surfaced-2830594/",
+        "source": "Express",
+        "date": "2026-09-02T21:37:22+05:00",
         "img": ""
       },
       {
@@ -4581,19 +4589,11 @@
         "img": ""
       },
       {
-        "title": "بلاک بسٹر فلم ’میں نے پیار کیا‘ کے بعد بھی سلمان خان کئی ماہ بیروزگار کیوں رہے تھے؟",
+        "title": "پاکستان، ایشیائی بینک کا منصوبوں پر عملدرآمد تیز کرنے پر اتفاق",
         "summary": "",
-        "url": "https://www.express.pk/story/2830569/salman-khan-jobless-after-maine-pyar-kiya-2830569/",
+        "url": "https://www.express.pk/story/2830593/pakistan-asian-bank-agree-to-accelerate-project-implementation-2830593/",
         "source": "Express",
-        "date": "2026-09-02T18:00:58+05:00",
-        "img": ""
-      },
-      {
-        "title": "لندن: پاکستانی کرکٹ ٹیم اور چیئرمین پی سی بی کی برطانوی بادشاہ چارلس سے ملاقات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2830568/london-pakistani-cricket-team-and-pcb-chairman-meet-british-king-charles-2830568/",
-        "source": "Express",
-        "date": "2026-09-02T17:54:31+05:00",
+        "date": "2026-09-02T16:24:30+00:00",
         "img": ""
       },
       {
