@@ -1,7 +1,15 @@
 {
-  "fetched": "2026-09-09T19:38:18.448700+00:00",
+  "fetched": "2026-09-09T22:11:27.311568+00:00",
   "categories": {
     "international": [
+      {
+        "title": "Israeli missile strike hits near Lebanese reporter",
+        "summary": "Israeli missile strike hits near Lebanese reporter",
+        "url": "https://arynews.tv/israeli-missile-strike-hits-near-lebanese-reporter",
+        "source": "ARY News",
+        "date": "2026-09-10T00:45:08+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/lebanese-Journalist.jpg"
+      },
       {
         "title": "Curacao extend manager Advocaat’s contract after turbulent year",
         "summary": "Curacao extend manager Advocaat’s contract after turbulent year",
@@ -171,6 +179,14 @@
         "img": ""
       },
       {
+        "title": "وسط مدتی انتخابات کے ’فوراً بعد‘ جنگ ختم ہو جائے گی، ایران سے مذاکرات پر غور نہیں کر رہے: ٹرمپ",
+        "summary": "ٹرمپ کا کہنا ہے کہ وہ وسط مدتی انتخابات سے قبل مستقبل قریب میں ایران کے ساتھ مذاکرات کے خواہش مند نہیں ہیں۔ انھوں نے مزید کہا کہ ’سچ پوچھیں تو ہم اس کی کوشش ہی نہیں کر رہے۔ ابتدا میں، میں ایک معاہدہ کرنا چاہتا تھا، لیکن اب ہم اس مرحلے سے بہت آگے نکل چکے ہیں۔‘",
+        "url": "https://www.bbc.co.uk/urdu/live/cmqlwee12qzpt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-09-09T22:11:29.587924+00:00",
+        "img": ""
+      },
+      {
         "title": "FATF warns of emerging risks to economies from rising online gaming, gambling operations",
         "summary": "<p>ISLAMABAD: The Financial Action Task Force (FATF) has warned of emerging risks to economies from rising online gaming and gambling operations, while sharing new risk indicators with countries to combat money laundering and terror financing.</p> <p>“As gaming and gambling services become increasingly digital, cross-b",
         "url": "https://www.dawn.com/news/2028647/fatf-warns-of-emerging-risks-to-economies-from-rising-online-gaming-gambling-operations",
@@ -233,14 +249,6 @@
         "source": "ARY News",
         "date": "2026-09-09T20:03:22+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Raza-Ali-14.jpg"
-      },
-      {
-        "title": "وسط مدتی انتخابات کے ’فوراً بعد‘ جنگ ختم ہو جائے گی، ایران سے مذاکرات پر غور نہیں کر رہے: ٹرمپ",
-        "summary": "ٹرمپ کا کہنا ہے کہ وہ وسط مدتی انتخابات سے قبل مستقبل قریب میں ایران کے ساتھ مذاکرات کے خواہش مند نہیں ہیں۔ انھوں نے مزید کہا کہ ’سچ پوچھیں تو ہم اس کی کوشش ہی نہیں کر رہے۔ ابتدا میں، میں ایک معاہدہ کرنا چاہتا تھا، لیکن اب ہم اس مرحلے سے بہت آگے نکل چکے ہیں۔‘",
-        "url": "https://www.bbc.co.uk/urdu/live/cmqlwee12qzpt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-09-09T19:38:19.905319+00:00",
-        "img": ""
       },
       {
         "title": "Sindh eases penalties on showroom cars",
@@ -313,14 +321,6 @@
         "source": "Dawn",
         "date": "2026-09-09T18:16:18+05:00",
         "img": ""
-      },
-      {
-        "title": "Iran says ‘prohibited zone’ near Hormuz to cover parts of Gulf of Oman and beyond",
-        "summary": "Iran says ‘prohibited zone’ near Hormuz to cover parts of Gulf of Oman and beyond",
-        "url": "https://arynews.tv/iran-says-prohibited-zone-near-hormuz-to-cover-parts-of-gulf-of-oman-and-beyond",
-        "source": "ARY News",
-        "date": "2026-09-09T18:13:25+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Strait-of-Hormuz-.jpg"
       },
       {
         "title": "Asif warns Makkah defence pact could become operational after Houthi attacks on Saudi Arabia",
@@ -573,6 +573,14 @@
     ],
     "national": [
       {
+        "title": "Israeli missile strike hits near Lebanese reporter",
+        "summary": "Israeli missile strike hits near Lebanese reporter",
+        "url": "https://arynews.tv/israeli-missile-strike-hits-near-lebanese-reporter",
+        "source": "ARY News",
+        "date": "2026-09-10T00:45:08+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/lebanese-Journalist.jpg"
+      },
+      {
         "title": "Curacao extend manager Advocaat’s contract after turbulent year",
         "summary": "Curacao extend manager Advocaat’s contract after turbulent year",
         "url": "https://arynews.tv/curacao-extend-manager-advocaats-contract-after-turbulent-year",
@@ -725,6 +733,62 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ANP-JI.jpg"
       },
       {
+        "title": "پنجاب اور اسلام آباد کو مثال بنائیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831844/punjab-aur-islamabad-ko-misaal-banayen-2831844/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "سیاست کا بے اعتبار موسم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831843/siyasat-ka-be-aitibar-mausam-2831843/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "نئے صوبوں کی پرانی بحث",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831842/naye-subon-ki-purani-bahas-2831842/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیکسٹائل برآمدات کا حجم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831841/textile-baramdaat-ka-hajm-2831841/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "کھیتوں کے فضلے سے توانائی، کمالیہ سے ایک نئی امید",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831840/kheton-ke-fazlay-se-tawanai-kamalia-se-aik-nai-umee-2831840/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "خلیجی آگ اور عالمی امن کا امتحان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831839/khaleeji-aag-aur-aalami-aman-ka-imteha-2831839/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "دفاعی اور نظریاتی سرحدوں کے باوقار محافظ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831837/difaai-aur-nazriyati-sarhadon-ke-ba-waqar-muhafiz-2831837/",
+        "source": "Express",
+        "date": "2026-09-09T20:39:17+05:00",
+        "img": ""
+      },
+      {
         "title": "Arif Khan Saqi case: PML-F distances itself from incident, says Ali Gohar Shah joined PPP",
         "summary": "Arif Khan Saqi case: PML-F distances itself from incident, says Ali Gohar Shah joined PPP",
         "url": "https://arynews.tv/arif-khan-saqi-case-pml-f-distances-itself-from-incident-says-ali-gohar-shah-joined-ppp",
@@ -739,6 +803,14 @@
         "source": "ARY News",
         "date": "2026-09-09T20:34:43+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/SPA-2.jpg"
+      },
+      {
+        "title": "انگور کھٹے ہیں؛ریئلٹی شو کو فیک کہنے پر نیہا کا سنیدھی چوہان کو کٹھا میٹھا جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831835/neha-kakkar-reality-shows-sunidhi-chauhan-fake-remark-2831835/",
+        "source": "Express",
+        "date": "2026-09-09T20:15:38+05:00",
+        "img": ""
       },
       {
         "title": "ML-1 project design to be completed by October, ADB reaffirms",
@@ -757,12 +829,36 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Raza-Ali-14.jpg"
       },
       {
+        "title": "مائیکل جیکسن کی جادوئی دنیا؛ 2700 ایکڑ پر محیط گھر، چڑیا گھر اور تھیم پارک بھی تھا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831833/michael-jackson-neverland-ranch-private-theme-park-zoo-2831833/",
+        "source": "Express",
+        "date": "2026-09-09T19:56:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "مریم نواز کی صاحبزادی ماہ نور کا نکاح طے، تاریخ سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831830/maryam-nawaz-daughter-maha-noor-nikkah-date-fix-2831830/",
+        "source": "Express",
+        "date": "2026-09-09T19:42:30+05:00",
+        "img": ""
+      },
+      {
         "title": "Sindh eases penalties on showroom cars",
         "summary": "Sindh eases penalties on showroom cars",
         "url": "https://arynews.tv/sindh-eases-penalties-on-showroom-cars",
         "source": "ARY News",
         "date": "2026-09-09T19:31:25+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/car-showroom.jpg"
+      },
+      {
+        "title": "تھا جس کا انتظار؛ کرائم تھرلر دریشم 3 کا ٹریلر، کہانی میں چونکا دینے والا کیا ہے؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831829/drishyam-3-trailer-ajay-devgn-tabu-jaideep-ahlawat-prakash-raj-2831829/",
+        "source": "Express",
+        "date": "2026-09-09T19:21:18+05:00",
+        "img": ""
       },
       {
         "title": "Timings for govt schools, colleges across Sindh reduced by an hour",
@@ -802,6 +898,14 @@
         "url": "https://www.express.pk/story/2831827/9-year-old-girl-raped-shot-dead-in-swat-suspect-arrested-2831827/",
         "source": "Express",
         "date": "2026-09-09T19:10:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "سندھ بار کونسل کا آج یوم یکجہتی سندھ منانے کا اعلان، عدالتوں کا بائیکاٹ کیا جائے گا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831826/sindh-bar-council-announces-to-celebrate-sindh-solidarity-day-today-courts-will-be-boycotted-2831826/",
+        "source": "Express",
+        "date": "2026-09-09T19:09:29+05:00",
         "img": ""
       },
       {
@@ -861,14 +965,6 @@
         "img": ""
       },
       {
-        "title": "Iran says ‘prohibited zone’ near Hormuz to cover parts of Gulf of Oman and beyond",
-        "summary": "Iran says ‘prohibited zone’ near Hormuz to cover parts of Gulf of Oman and beyond",
-        "url": "https://arynews.tv/iran-says-prohibited-zone-near-hormuz-to-cover-parts-of-gulf-of-oman-and-beyond",
-        "source": "ARY News",
-        "date": "2026-09-09T18:13:25+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Strait-of-Hormuz-.jpg"
-      },
-      {
         "title": "Asif warns Makkah defence pact could become operational after Houthi attacks on Saudi Arabia",
         "summary": "<p>Defence Minister Khawaja Asif has cautioned that the tripartite Makkah Defence Alliance between Pakistan, Saudi Arabia and Turkiye could become operational if there was a “spillover” of the conflict in Yemen into Riyadh.</p> <p>The development comes after Yemen’s Houthi rebels <a href=\"https://www.dawn.com/news/2028",
         "url": "https://www.dawn.com/news/2028592/asif-warns-makkah-defence-pact-could-become-operational-after-houthi-attacks-on-saudi-arabia",
@@ -893,30 +989,6 @@
         "img": ""
       },
       {
-        "title": "مریم نواز کے صوبوں سے متعلق بیان پر پشاور میں مقدمے کیلئے درخواست",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831813/maryam-nawaz-statement-provinces-application-for-case-2831813/",
-        "source": "Express",
-        "date": "2026-09-09T17:22:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "ڈیبیو میچ میں پاکستانی بولر رضااللہ نے انگلش کپتان کو پہلے ہی اوور میں آؤٹ کر دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831812/in-his-debut-match-pakistani-fast-bowler-razaullah-dismissed-the-english-captain-in-the-very-first-over-2831812/",
-        "source": "Express",
-        "date": "2026-09-09T17:19:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "فریج کے استعمال میں یہ معمولی سی غلطی بجلی کا بل بڑھا سکتی ہے، آسان حل جانیے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831811/this-minor-mistake-in-using-the-refrigerator-can-increase-your-electricity-bill-2831811/",
-        "source": "Express",
-        "date": "2026-09-09T16:55:01+05:00",
-        "img": ""
-      },
-      {
         "title": "Cop martyred, another injured in attack on police team in KP's Karak",
         "summary": "<p>LAKKI MARWAT: A policeman was martyred and another sustained bullet injuries when unknown armed men targeted a police patrol party in the Shatakai dam area of Khyber Pakhtunkhwa’s Karak district late on Tuesday night.</p> <p>The district police officer’s (DPO) spokesperson, Shaukat Khan, said in a statement that the",
         "url": "https://www.dawn.com/news/2028578/cop-martyred-another-injured-in-attack-on-police-team-in-kps-karak",
@@ -933,59 +1005,19 @@
         "img": ""
       },
       {
-        "title": "پی سی بی کی ہدایت پر شاہین آفریدی کا فرسٹ کلاس کرکٹ میں شرکت کا فیصلہ",
+        "title": "کراچی، بھیم پورا میں گٹر میں کام کے دوران بہیوش ہونے والے 2 خاکروب جاں بحق",
         "summary": "",
-        "url": "https://www.express.pk/story/2831810/shaheen-afridi-decides-to-participate-in-first-class-cricket-on-pcbs-instructions-2831810/",
+        "url": "https://www.express.pk/story/2831846/two-sanitation-workers-died-after-losing-consciousness-while-working-in-a-sewer-in-bhim-pura-karachi-2831846/",
         "source": "Express",
-        "date": "2026-09-09T16:16:43+05:00",
+        "date": "2026-09-09T16:42:07+00:00",
         "img": ""
       },
       {
-        "title": "دلجیت دوسانجھ کے نئے گانے ’ڈیول‘ کا تعلق ’کاکروچ احتجاج‘سے جوڑ دیا گیا",
+        "title": "آٹو پالیسی، نئی انرجی گاڑیوں پر بڑے ٹیکس ریلیف کی منظوری",
         "summary": "",
-        "url": "https://www.express.pk/story/2831809/diljit-dosanjh-new-song-devil-linked-to-cockroach-agitation-2831809/",
+        "url": "https://www.express.pk/story/2831845/auto-policy-approval-of-major-tax-relief-for-new-energy-vehicles-2831845/",
         "source": "Express",
-        "date": "2026-09-09T16:12:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "جامعہ کراچی کے پروفیسر پر تشدد، ملزم کے والد معافی مانگنے انکے گھر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831808/assault-on-university-of-karachi-professor-accuseds-father-visits-his-home-to-apologize-2831808/",
-        "source": "Express",
-        "date": "2026-09-09T16:11:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "چیٹ جی پی ٹی کے نئے امیجز فیچر نے تہلکہ مچا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831806/openais-new-chatgpt-images-25-2831806/",
-        "source": "Express",
-        "date": "2026-09-09T16:08:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں خوفناک حادثہ؛ لوہے کی سلاخیں بس کو چیر کر ڈرائیور کے سینے میں پیوست ہوگئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831802/india-karnataka-bus-accident-iron-rods-driver-killed-2831802/",
-        "source": "Express",
-        "date": "2026-09-09T15:40:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "انگلینڈ کے اولی رابنسن ٹیسٹ کرکٹ میں 100 وکٹیں حاصل کرنیوالے 50ویں بولر بن گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831801/englands-ollie-robinson-has-become-the-50th-bowler-to-take-100-wickets-in-test-cricket-2831801/",
-        "source": "Express",
-        "date": "2026-09-09T15:28:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "سشانت سنگھ کو قتل اور اس کی سیکریٹری کو اجتماعی زیادتی کا نشانہ بنایا گیا تھا، اہم انکشافات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831800/sushant-singh-was-murdered-and-his-secretary-was-gang-raped-important-revelations-2831800/",
-        "source": "Express",
-        "date": "2026-09-09T15:13:51+05:00",
+        "date": "2026-09-09T16:19:52+00:00",
         "img": ""
       },
       {
@@ -994,6 +1026,22 @@
         "url": "https://www.dawn.com/news/2028609/girls-dominate-top-positions-in-fbise-intermediate-exam-results",
         "source": "Dawn",
         "date": "2026-09-09T15:07:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے عوام کیلئے ریلیف کا اعلان نہیں کیا تو لانگ مارچ کا اعلان کریں گے، حافظ نعیم الرحمان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831832/hafiz-naeem-says-if-the-government-does-not-announce-relief-for-the-people-we-will-announce-a-long-march-2831832/",
+        "source": "Express",
+        "date": "2026-09-09T14:50:58+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایران جنگ ختم اور پیٹرول کب سستا ہوگا؟ ٹرمپ نے پہلی بار تاریخ بتادی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831831/trump-iran-war-end-after-midterm-elections-oil-prices-2831831/",
+        "source": "Express",
+        "date": "2026-09-09T14:42:30+00:00",
         "img": ""
       },
       {
@@ -1037,59 +1085,11 @@
         "img": ""
       },
       {
-        "title": "پیٹرول و ڈیزل کی قیمت میں ایک بار پھر اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831815/petroleum-price-notification-issued-2831815/",
-        "source": "Express",
-        "date": "2026-09-09T12:49:19+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر مملکت آصف زرداری لندن سے خصوصی طیارے پر پاکستان کیلئے روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831814/president-asif-zardari-departs-london-for-pakistan-on-a-special-aircraft-2831814/",
-        "source": "Express",
-        "date": "2026-09-09T12:40:24+00:00",
-        "img": ""
-      },
-      {
         "title": "'Instead of speaking at business forums, Naqvi should visit Parliament': Bilawal on interior minister's call for governance reset",
         "summary": "<p>Amid growing debate in the country on the creation of new provinces to improve governance, PPP Chairman Bilawal Bhutto-Zardari has said that the issue should be debated in Parliament.</p> <p>He expressed these views while speaking to the media in London, where he is on a visit with his father, President Asif Ali Zar",
         "url": "https://www.dawn.com/news/2028581/instead-of-speaking-at-business-forums-naqvi-should-visit-parliament-bilawal-on-interior-ministers-call-for-governance-reset",
         "source": "Dawn",
         "date": "2026-09-09T11:39:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "غیرمعیاری کاسمیٹکس پر پابندی کا بل منظور، خلاف ورزی پر 7 سال قید اور 1 کروڑ جرمانہ ہوگا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831807/bill-to-ban-substandard-cosmetics-passed-violation-will-be-punishable-by-7-years-in-prison-and-a-fine-of-rs-10-million-2831807/",
-        "source": "Express",
-        "date": "2026-09-09T11:10:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ ڈاکوؤں نے بیٹے کے سامنے باپ کو فائرنگ کر کے قتل کر دیا، بیٹا حواس کھو بیٹھا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831805/karachi-robbers-shot-father-dead-in-front-of-his-son-son-loses-his-senses-2831805/",
-        "source": "Express",
-        "date": "2026-09-09T11:02:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "تعلیمی اداروں میں انرجی ڈرنکس پر پابندی اور جرمانے کا بل منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831804/bill-passed-to-ban-and-fine-energy-drinks-in-educational-institutions-2831804/",
-        "source": "Express",
-        "date": "2026-09-09T10:59:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "راولپنڈی: لاپتا 8 سالہ یتیم بچے کی لاش کنویں سے برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831803/rawalpindi-body-of-missing-8-year-old-orphan-boy-recovered-from-a-well-2831803/",
-        "source": "Express",
-        "date": "2026-09-09T10:56:18+00:00",
         "img": ""
       },
       {
@@ -1175,6 +1175,14 @@
     ],
     "kpk": [
       {
+        "title": "Israeli missile strike hits near Lebanese reporter",
+        "summary": "Israeli missile strike hits near Lebanese reporter",
+        "url": "https://arynews.tv/israeli-missile-strike-hits-near-lebanese-reporter",
+        "source": "ARY News",
+        "date": "2026-09-10T00:45:08+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/lebanese-Journalist.jpg"
+      },
+      {
         "title": "Curacao extend manager Advocaat’s contract after turbulent year",
         "summary": "Curacao extend manager Advocaat’s contract after turbulent year",
         "url": "https://arynews.tv/curacao-extend-manager-advocaats-contract-after-turbulent-year",
@@ -1327,6 +1335,62 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ANP-JI.jpg"
       },
       {
+        "title": "پنجاب اور اسلام آباد کو مثال بنائیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831844/punjab-aur-islamabad-ko-misaal-banayen-2831844/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "سیاست کا بے اعتبار موسم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831843/siyasat-ka-be-aitibar-mausam-2831843/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "نئے صوبوں کی پرانی بحث",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831842/naye-subon-ki-purani-bahas-2831842/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیکسٹائل برآمدات کا حجم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831841/textile-baramdaat-ka-hajm-2831841/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "کھیتوں کے فضلے سے توانائی، کمالیہ سے ایک نئی امید",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831840/kheton-ke-fazlay-se-tawanai-kamalia-se-aik-nai-umee-2831840/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "خلیجی آگ اور عالمی امن کا امتحان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831839/khaleeji-aag-aur-aalami-aman-ka-imteha-2831839/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "دفاعی اور نظریاتی سرحدوں کے باوقار محافظ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831837/difaai-aur-nazriyati-sarhadon-ke-ba-waqar-muhafiz-2831837/",
+        "source": "Express",
+        "date": "2026-09-09T20:39:17+05:00",
+        "img": ""
+      },
+      {
         "title": "Arif Khan Saqi case: PML-F distances itself from incident, says Ali Gohar Shah joined PPP",
         "summary": "Arif Khan Saqi case: PML-F distances itself from incident, says Ali Gohar Shah joined PPP",
         "url": "https://arynews.tv/arif-khan-saqi-case-pml-f-distances-itself-from-incident-says-ali-gohar-shah-joined-ppp",
@@ -1341,6 +1405,14 @@
         "source": "ARY News",
         "date": "2026-09-09T20:34:43+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/SPA-2.jpg"
+      },
+      {
+        "title": "انگور کھٹے ہیں؛ریئلٹی شو کو فیک کہنے پر نیہا کا سنیدھی چوہان کو کٹھا میٹھا جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831835/neha-kakkar-reality-shows-sunidhi-chauhan-fake-remark-2831835/",
+        "source": "Express",
+        "date": "2026-09-09T20:15:38+05:00",
+        "img": ""
       },
       {
         "title": "ML-1 project design to be completed by October, ADB reaffirms",
@@ -1359,12 +1431,36 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Raza-Ali-14.jpg"
       },
       {
+        "title": "مائیکل جیکسن کی جادوئی دنیا؛ 2700 ایکڑ پر محیط گھر، چڑیا گھر اور تھیم پارک بھی تھا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831833/michael-jackson-neverland-ranch-private-theme-park-zoo-2831833/",
+        "source": "Express",
+        "date": "2026-09-09T19:56:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "مریم نواز کی صاحبزادی ماہ نور کا نکاح طے، تاریخ سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831830/maryam-nawaz-daughter-maha-noor-nikkah-date-fix-2831830/",
+        "source": "Express",
+        "date": "2026-09-09T19:42:30+05:00",
+        "img": ""
+      },
+      {
         "title": "Sindh eases penalties on showroom cars",
         "summary": "Sindh eases penalties on showroom cars",
         "url": "https://arynews.tv/sindh-eases-penalties-on-showroom-cars",
         "source": "ARY News",
         "date": "2026-09-09T19:31:25+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/car-showroom.jpg"
+      },
+      {
+        "title": "تھا جس کا انتظار؛ کرائم تھرلر دریشم 3 کا ٹریلر، کہانی میں چونکا دینے والا کیا ہے؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831829/drishyam-3-trailer-ajay-devgn-tabu-jaideep-ahlawat-prakash-raj-2831829/",
+        "source": "Express",
+        "date": "2026-09-09T19:21:18+05:00",
+        "img": ""
       },
       {
         "title": "Timings for govt schools, colleges across Sindh reduced by an hour",
@@ -1404,6 +1500,14 @@
         "url": "https://www.express.pk/story/2831827/9-year-old-girl-raped-shot-dead-in-swat-suspect-arrested-2831827/",
         "source": "Express",
         "date": "2026-09-09T19:10:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "سندھ بار کونسل کا آج یوم یکجہتی سندھ منانے کا اعلان، عدالتوں کا بائیکاٹ کیا جائے گا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831826/sindh-bar-council-announces-to-celebrate-sindh-solidarity-day-today-courts-will-be-boycotted-2831826/",
+        "source": "Express",
+        "date": "2026-09-09T19:09:29+05:00",
         "img": ""
       },
       {
@@ -1463,14 +1567,6 @@
         "img": ""
       },
       {
-        "title": "Iran says ‘prohibited zone’ near Hormuz to cover parts of Gulf of Oman and beyond",
-        "summary": "Iran says ‘prohibited zone’ near Hormuz to cover parts of Gulf of Oman and beyond",
-        "url": "https://arynews.tv/iran-says-prohibited-zone-near-hormuz-to-cover-parts-of-gulf-of-oman-and-beyond",
-        "source": "ARY News",
-        "date": "2026-09-09T18:13:25+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Strait-of-Hormuz-.jpg"
-      },
-      {
         "title": "Asif warns Makkah defence pact could become operational after Houthi attacks on Saudi Arabia",
         "summary": "<p>Defence Minister Khawaja Asif has cautioned that the tripartite Makkah Defence Alliance between Pakistan, Saudi Arabia and Turkiye could become operational if there was a “spillover” of the conflict in Yemen into Riyadh.</p> <p>The development comes after Yemen’s Houthi rebels <a href=\"https://www.dawn.com/news/2028",
         "url": "https://www.dawn.com/news/2028592/asif-warns-makkah-defence-pact-could-become-operational-after-houthi-attacks-on-saudi-arabia",
@@ -1495,30 +1591,6 @@
         "img": ""
       },
       {
-        "title": "مریم نواز کے صوبوں سے متعلق بیان پر پشاور میں مقدمے کیلئے درخواست",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831813/maryam-nawaz-statement-provinces-application-for-case-2831813/",
-        "source": "Express",
-        "date": "2026-09-09T17:22:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "ڈیبیو میچ میں پاکستانی بولر رضااللہ نے انگلش کپتان کو پہلے ہی اوور میں آؤٹ کر دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831812/in-his-debut-match-pakistani-fast-bowler-razaullah-dismissed-the-english-captain-in-the-very-first-over-2831812/",
-        "source": "Express",
-        "date": "2026-09-09T17:19:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "فریج کے استعمال میں یہ معمولی سی غلطی بجلی کا بل بڑھا سکتی ہے، آسان حل جانیے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831811/this-minor-mistake-in-using-the-refrigerator-can-increase-your-electricity-bill-2831811/",
-        "source": "Express",
-        "date": "2026-09-09T16:55:01+05:00",
-        "img": ""
-      },
-      {
         "title": "Cop martyred, another injured in attack on police team in KP's Karak",
         "summary": "<p>LAKKI MARWAT: A policeman was martyred and another sustained bullet injuries when unknown armed men targeted a police patrol party in the Shatakai dam area of Khyber Pakhtunkhwa’s Karak district late on Tuesday night.</p> <p>The district police officer’s (DPO) spokesperson, Shaukat Khan, said in a statement that the",
         "url": "https://www.dawn.com/news/2028578/cop-martyred-another-injured-in-attack-on-police-team-in-kps-karak",
@@ -1535,59 +1607,19 @@
         "img": ""
       },
       {
-        "title": "پی سی بی کی ہدایت پر شاہین آفریدی کا فرسٹ کلاس کرکٹ میں شرکت کا فیصلہ",
+        "title": "کراچی، بھیم پورا میں گٹر میں کام کے دوران بہیوش ہونے والے 2 خاکروب جاں بحق",
         "summary": "",
-        "url": "https://www.express.pk/story/2831810/shaheen-afridi-decides-to-participate-in-first-class-cricket-on-pcbs-instructions-2831810/",
+        "url": "https://www.express.pk/story/2831846/two-sanitation-workers-died-after-losing-consciousness-while-working-in-a-sewer-in-bhim-pura-karachi-2831846/",
         "source": "Express",
-        "date": "2026-09-09T16:16:43+05:00",
+        "date": "2026-09-09T16:42:07+00:00",
         "img": ""
       },
       {
-        "title": "دلجیت دوسانجھ کے نئے گانے ’ڈیول‘ کا تعلق ’کاکروچ احتجاج‘سے جوڑ دیا گیا",
+        "title": "آٹو پالیسی، نئی انرجی گاڑیوں پر بڑے ٹیکس ریلیف کی منظوری",
         "summary": "",
-        "url": "https://www.express.pk/story/2831809/diljit-dosanjh-new-song-devil-linked-to-cockroach-agitation-2831809/",
+        "url": "https://www.express.pk/story/2831845/auto-policy-approval-of-major-tax-relief-for-new-energy-vehicles-2831845/",
         "source": "Express",
-        "date": "2026-09-09T16:12:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "جامعہ کراچی کے پروفیسر پر تشدد، ملزم کے والد معافی مانگنے انکے گھر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831808/assault-on-university-of-karachi-professor-accuseds-father-visits-his-home-to-apologize-2831808/",
-        "source": "Express",
-        "date": "2026-09-09T16:11:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "چیٹ جی پی ٹی کے نئے امیجز فیچر نے تہلکہ مچا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831806/openais-new-chatgpt-images-25-2831806/",
-        "source": "Express",
-        "date": "2026-09-09T16:08:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں خوفناک حادثہ؛ لوہے کی سلاخیں بس کو چیر کر ڈرائیور کے سینے میں پیوست ہوگئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831802/india-karnataka-bus-accident-iron-rods-driver-killed-2831802/",
-        "source": "Express",
-        "date": "2026-09-09T15:40:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "انگلینڈ کے اولی رابنسن ٹیسٹ کرکٹ میں 100 وکٹیں حاصل کرنیوالے 50ویں بولر بن گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831801/englands-ollie-robinson-has-become-the-50th-bowler-to-take-100-wickets-in-test-cricket-2831801/",
-        "source": "Express",
-        "date": "2026-09-09T15:28:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "سشانت سنگھ کو قتل اور اس کی سیکریٹری کو اجتماعی زیادتی کا نشانہ بنایا گیا تھا، اہم انکشافات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831800/sushant-singh-was-murdered-and-his-secretary-was-gang-raped-important-revelations-2831800/",
-        "source": "Express",
-        "date": "2026-09-09T15:13:51+05:00",
+        "date": "2026-09-09T16:19:52+00:00",
         "img": ""
       },
       {
@@ -1596,6 +1628,22 @@
         "url": "https://www.dawn.com/news/2028609/girls-dominate-top-positions-in-fbise-intermediate-exam-results",
         "source": "Dawn",
         "date": "2026-09-09T15:07:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے عوام کیلئے ریلیف کا اعلان نہیں کیا تو لانگ مارچ کا اعلان کریں گے، حافظ نعیم الرحمان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831832/hafiz-naeem-says-if-the-government-does-not-announce-relief-for-the-people-we-will-announce-a-long-march-2831832/",
+        "source": "Express",
+        "date": "2026-09-09T14:50:58+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایران جنگ ختم اور پیٹرول کب سستا ہوگا؟ ٹرمپ نے پہلی بار تاریخ بتادی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831831/trump-iran-war-end-after-midterm-elections-oil-prices-2831831/",
+        "source": "Express",
+        "date": "2026-09-09T14:42:30+00:00",
         "img": ""
       },
       {
@@ -1639,59 +1687,11 @@
         "img": ""
       },
       {
-        "title": "پیٹرول و ڈیزل کی قیمت میں ایک بار پھر اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831815/petroleum-price-notification-issued-2831815/",
-        "source": "Express",
-        "date": "2026-09-09T12:49:19+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر مملکت آصف زرداری لندن سے خصوصی طیارے پر پاکستان کیلئے روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831814/president-asif-zardari-departs-london-for-pakistan-on-a-special-aircraft-2831814/",
-        "source": "Express",
-        "date": "2026-09-09T12:40:24+00:00",
-        "img": ""
-      },
-      {
         "title": "'Instead of speaking at business forums, Naqvi should visit Parliament': Bilawal on interior minister's call for governance reset",
         "summary": "<p>Amid growing debate in the country on the creation of new provinces to improve governance, PPP Chairman Bilawal Bhutto-Zardari has said that the issue should be debated in Parliament.</p> <p>He expressed these views while speaking to the media in London, where he is on a visit with his father, President Asif Ali Zar",
         "url": "https://www.dawn.com/news/2028581/instead-of-speaking-at-business-forums-naqvi-should-visit-parliament-bilawal-on-interior-ministers-call-for-governance-reset",
         "source": "Dawn",
         "date": "2026-09-09T11:39:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "غیرمعیاری کاسمیٹکس پر پابندی کا بل منظور، خلاف ورزی پر 7 سال قید اور 1 کروڑ جرمانہ ہوگا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831807/bill-to-ban-substandard-cosmetics-passed-violation-will-be-punishable-by-7-years-in-prison-and-a-fine-of-rs-10-million-2831807/",
-        "source": "Express",
-        "date": "2026-09-09T11:10:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ ڈاکوؤں نے بیٹے کے سامنے باپ کو فائرنگ کر کے قتل کر دیا، بیٹا حواس کھو بیٹھا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831805/karachi-robbers-shot-father-dead-in-front-of-his-son-son-loses-his-senses-2831805/",
-        "source": "Express",
-        "date": "2026-09-09T11:02:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "تعلیمی اداروں میں انرجی ڈرنکس پر پابندی اور جرمانے کا بل منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831804/bill-passed-to-ban-and-fine-energy-drinks-in-educational-institutions-2831804/",
-        "source": "Express",
-        "date": "2026-09-09T10:59:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "راولپنڈی: لاپتا 8 سالہ یتیم بچے کی لاش کنویں سے برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831803/rawalpindi-body-of-missing-8-year-old-orphan-boy-recovered-from-a-well-2831803/",
-        "source": "Express",
-        "date": "2026-09-09T10:56:18+00:00",
         "img": ""
       },
       {
@@ -1889,6 +1889,94 @@
         "img": ""
       },
       {
+        "title": "پنجاب اور اسلام آباد کو مثال بنائیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831844/punjab-aur-islamabad-ko-misaal-banayen-2831844/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "سیاست کا بے اعتبار موسم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831843/siyasat-ka-be-aitibar-mausam-2831843/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "نئے صوبوں کی پرانی بحث",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831842/naye-subon-ki-purani-bahas-2831842/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیکسٹائل برآمدات کا حجم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831841/textile-baramdaat-ka-hajm-2831841/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "کھیتوں کے فضلے سے توانائی، کمالیہ سے ایک نئی امید",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831840/kheton-ke-fazlay-se-tawanai-kamalia-se-aik-nai-umee-2831840/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "خلیجی آگ اور عالمی امن کا امتحان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831839/khaleeji-aag-aur-aalami-aman-ka-imteha-2831839/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "دفاعی اور نظریاتی سرحدوں کے باوقار محافظ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831837/difaai-aur-nazriyati-sarhadon-ke-ba-waqar-muhafiz-2831837/",
+        "source": "Express",
+        "date": "2026-09-09T20:39:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "انگور کھٹے ہیں؛ریئلٹی شو کو فیک کہنے پر نیہا کا سنیدھی چوہان کو کٹھا میٹھا جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831835/neha-kakkar-reality-shows-sunidhi-chauhan-fake-remark-2831835/",
+        "source": "Express",
+        "date": "2026-09-09T20:15:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "مائیکل جیکسن کی جادوئی دنیا؛ 2700 ایکڑ پر محیط گھر، چڑیا گھر اور تھیم پارک بھی تھا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831833/michael-jackson-neverland-ranch-private-theme-park-zoo-2831833/",
+        "source": "Express",
+        "date": "2026-09-09T19:56:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "مریم نواز کی صاحبزادی ماہ نور کا نکاح طے، تاریخ سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831830/maryam-nawaz-daughter-maha-noor-nikkah-date-fix-2831830/",
+        "source": "Express",
+        "date": "2026-09-09T19:42:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "تھا جس کا انتظار؛ کرائم تھرلر دریشم 3 کا ٹریلر، کہانی میں چونکا دینے والا کیا ہے؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831829/drishyam-3-trailer-ajay-devgn-tabu-jaideep-ahlawat-prakash-raj-2831829/",
+        "source": "Express",
+        "date": "2026-09-09T19:21:18+05:00",
+        "img": ""
+      },
+      {
         "title": "Timings for govt schools, colleges across Sindh reduced by an hour",
         "summary": "<p>The Sindh government on Wednesday reduced the class timings for public schools and colleges by an hour until further orders.</p> <p>In a circular, the Sindh School Education and Literacy Department said school timings prescribed in an earlier notification would “stand reduced by one hour during the prescribed five d",
         "url": "https://www.dawn.com/news/2028636/timings-for-govt-schools-colleges-across-sindh-reduced-by-an-hour",
@@ -1910,6 +1998,14 @@
         "url": "https://www.express.pk/story/2831827/9-year-old-girl-raped-shot-dead-in-swat-suspect-arrested-2831827/",
         "source": "Express",
         "date": "2026-09-09T19:10:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "سندھ بار کونسل کا آج یوم یکجہتی سندھ منانے کا اعلان، عدالتوں کا بائیکاٹ کیا جائے گا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831826/sindh-bar-council-announces-to-celebrate-sindh-solidarity-day-today-courts-will-be-boycotted-2831826/",
+        "source": "Express",
+        "date": "2026-09-09T19:09:29+05:00",
         "img": ""
       },
       {
@@ -1977,30 +2073,6 @@
         "img": ""
       },
       {
-        "title": "مریم نواز کے صوبوں سے متعلق بیان پر پشاور میں مقدمے کیلئے درخواست",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831813/maryam-nawaz-statement-provinces-application-for-case-2831813/",
-        "source": "Express",
-        "date": "2026-09-09T17:22:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "ڈیبیو میچ میں پاکستانی بولر رضااللہ نے انگلش کپتان کو پہلے ہی اوور میں آؤٹ کر دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831812/in-his-debut-match-pakistani-fast-bowler-razaullah-dismissed-the-english-captain-in-the-very-first-over-2831812/",
-        "source": "Express",
-        "date": "2026-09-09T17:19:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "فریج کے استعمال میں یہ معمولی سی غلطی بجلی کا بل بڑھا سکتی ہے، آسان حل جانیے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831811/this-minor-mistake-in-using-the-refrigerator-can-increase-your-electricity-bill-2831811/",
-        "source": "Express",
-        "date": "2026-09-09T16:55:01+05:00",
-        "img": ""
-      },
-      {
         "title": "Cop martyred, another injured in attack on police team in KP's Karak",
         "summary": "<p>LAKKI MARWAT: A policeman was martyred and another sustained bullet injuries when unknown armed men targeted a police patrol party in the Shatakai dam area of Khyber Pakhtunkhwa’s Karak district late on Tuesday night.</p> <p>The district police officer’s (DPO) spokesperson, Shaukat Khan, said in a statement that the",
         "url": "https://www.dawn.com/news/2028578/cop-martyred-another-injured-in-attack-on-police-team-in-kps-karak",
@@ -2017,59 +2089,19 @@
         "img": ""
       },
       {
-        "title": "پی سی بی کی ہدایت پر شاہین آفریدی کا فرسٹ کلاس کرکٹ میں شرکت کا فیصلہ",
+        "title": "کراچی، بھیم پورا میں گٹر میں کام کے دوران بہیوش ہونے والے 2 خاکروب جاں بحق",
         "summary": "",
-        "url": "https://www.express.pk/story/2831810/shaheen-afridi-decides-to-participate-in-first-class-cricket-on-pcbs-instructions-2831810/",
+        "url": "https://www.express.pk/story/2831846/two-sanitation-workers-died-after-losing-consciousness-while-working-in-a-sewer-in-bhim-pura-karachi-2831846/",
         "source": "Express",
-        "date": "2026-09-09T16:16:43+05:00",
+        "date": "2026-09-09T16:42:07+00:00",
         "img": ""
       },
       {
-        "title": "دلجیت دوسانجھ کے نئے گانے ’ڈیول‘ کا تعلق ’کاکروچ احتجاج‘سے جوڑ دیا گیا",
+        "title": "آٹو پالیسی، نئی انرجی گاڑیوں پر بڑے ٹیکس ریلیف کی منظوری",
         "summary": "",
-        "url": "https://www.express.pk/story/2831809/diljit-dosanjh-new-song-devil-linked-to-cockroach-agitation-2831809/",
+        "url": "https://www.express.pk/story/2831845/auto-policy-approval-of-major-tax-relief-for-new-energy-vehicles-2831845/",
         "source": "Express",
-        "date": "2026-09-09T16:12:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "جامعہ کراچی کے پروفیسر پر تشدد، ملزم کے والد معافی مانگنے انکے گھر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831808/assault-on-university-of-karachi-professor-accuseds-father-visits-his-home-to-apologize-2831808/",
-        "source": "Express",
-        "date": "2026-09-09T16:11:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "چیٹ جی پی ٹی کے نئے امیجز فیچر نے تہلکہ مچا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831806/openais-new-chatgpt-images-25-2831806/",
-        "source": "Express",
-        "date": "2026-09-09T16:08:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں خوفناک حادثہ؛ لوہے کی سلاخیں بس کو چیر کر ڈرائیور کے سینے میں پیوست ہوگئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831802/india-karnataka-bus-accident-iron-rods-driver-killed-2831802/",
-        "source": "Express",
-        "date": "2026-09-09T15:40:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "انگلینڈ کے اولی رابنسن ٹیسٹ کرکٹ میں 100 وکٹیں حاصل کرنیوالے 50ویں بولر بن گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831801/englands-ollie-robinson-has-become-the-50th-bowler-to-take-100-wickets-in-test-cricket-2831801/",
-        "source": "Express",
-        "date": "2026-09-09T15:28:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "سشانت سنگھ کو قتل اور اس کی سیکریٹری کو اجتماعی زیادتی کا نشانہ بنایا گیا تھا، اہم انکشافات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831800/sushant-singh-was-murdered-and-his-secretary-was-gang-raped-important-revelations-2831800/",
-        "source": "Express",
-        "date": "2026-09-09T15:13:51+05:00",
+        "date": "2026-09-09T16:19:52+00:00",
         "img": ""
       },
       {
@@ -2078,6 +2110,22 @@
         "url": "https://www.dawn.com/news/2028609/girls-dominate-top-positions-in-fbise-intermediate-exam-results",
         "source": "Dawn",
         "date": "2026-09-09T15:07:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے عوام کیلئے ریلیف کا اعلان نہیں کیا تو لانگ مارچ کا اعلان کریں گے، حافظ نعیم الرحمان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831832/hafiz-naeem-says-if-the-government-does-not-announce-relief-for-the-people-we-will-announce-a-long-march-2831832/",
+        "source": "Express",
+        "date": "2026-09-09T14:50:58+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایران جنگ ختم اور پیٹرول کب سستا ہوگا؟ ٹرمپ نے پہلی بار تاریخ بتادی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831831/trump-iran-war-end-after-midterm-elections-oil-prices-2831831/",
+        "source": "Express",
+        "date": "2026-09-09T14:42:30+00:00",
         "img": ""
       },
       {
@@ -2121,59 +2169,11 @@
         "img": ""
       },
       {
-        "title": "پیٹرول و ڈیزل کی قیمت میں ایک بار پھر اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831815/petroleum-price-notification-issued-2831815/",
-        "source": "Express",
-        "date": "2026-09-09T12:49:19+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر مملکت آصف زرداری لندن سے خصوصی طیارے پر پاکستان کیلئے روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831814/president-asif-zardari-departs-london-for-pakistan-on-a-special-aircraft-2831814/",
-        "source": "Express",
-        "date": "2026-09-09T12:40:24+00:00",
-        "img": ""
-      },
-      {
         "title": "'Instead of speaking at business forums, Naqvi should visit Parliament': Bilawal on interior minister's call for governance reset",
         "summary": "<p>Amid growing debate in the country on the creation of new provinces to improve governance, PPP Chairman Bilawal Bhutto-Zardari has said that the issue should be debated in Parliament.</p> <p>He expressed these views while speaking to the media in London, where he is on a visit with his father, President Asif Ali Zar",
         "url": "https://www.dawn.com/news/2028581/instead-of-speaking-at-business-forums-naqvi-should-visit-parliament-bilawal-on-interior-ministers-call-for-governance-reset",
         "source": "Dawn",
         "date": "2026-09-09T11:39:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "غیرمعیاری کاسمیٹکس پر پابندی کا بل منظور، خلاف ورزی پر 7 سال قید اور 1 کروڑ جرمانہ ہوگا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831807/bill-to-ban-substandard-cosmetics-passed-violation-will-be-punishable-by-7-years-in-prison-and-a-fine-of-rs-10-million-2831807/",
-        "source": "Express",
-        "date": "2026-09-09T11:10:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ ڈاکوؤں نے بیٹے کے سامنے باپ کو فائرنگ کر کے قتل کر دیا، بیٹا حواس کھو بیٹھا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831805/karachi-robbers-shot-father-dead-in-front-of-his-son-son-loses-his-senses-2831805/",
-        "source": "Express",
-        "date": "2026-09-09T11:02:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "تعلیمی اداروں میں انرجی ڈرنکس پر پابندی اور جرمانے کا بل منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831804/bill-passed-to-ban-and-fine-energy-drinks-in-educational-institutions-2831804/",
-        "source": "Express",
-        "date": "2026-09-09T10:59:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "راولپنڈی: لاپتا 8 سالہ یتیم بچے کی لاش کنویں سے برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831803/rawalpindi-body-of-missing-8-year-old-orphan-boy-recovered-from-a-well-2831803/",
-        "source": "Express",
-        "date": "2026-09-09T10:56:18+00:00",
         "img": ""
       },
       {
@@ -2291,6 +2291,94 @@
         "img": ""
       },
       {
+        "title": "پنجاب اور اسلام آباد کو مثال بنائیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831844/punjab-aur-islamabad-ko-misaal-banayen-2831844/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "سیاست کا بے اعتبار موسم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831843/siyasat-ka-be-aitibar-mausam-2831843/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "نئے صوبوں کی پرانی بحث",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831842/naye-subon-ki-purani-bahas-2831842/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیکسٹائل برآمدات کا حجم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831841/textile-baramdaat-ka-hajm-2831841/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "کھیتوں کے فضلے سے توانائی، کمالیہ سے ایک نئی امید",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831840/kheton-ke-fazlay-se-tawanai-kamalia-se-aik-nai-umee-2831840/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "خلیجی آگ اور عالمی امن کا امتحان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831839/khaleeji-aag-aur-aalami-aman-ka-imteha-2831839/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "دفاعی اور نظریاتی سرحدوں کے باوقار محافظ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831837/difaai-aur-nazriyati-sarhadon-ke-ba-waqar-muhafiz-2831837/",
+        "source": "Express",
+        "date": "2026-09-09T20:39:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "انگور کھٹے ہیں؛ریئلٹی شو کو فیک کہنے پر نیہا کا سنیدھی چوہان کو کٹھا میٹھا جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831835/neha-kakkar-reality-shows-sunidhi-chauhan-fake-remark-2831835/",
+        "source": "Express",
+        "date": "2026-09-09T20:15:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "مائیکل جیکسن کی جادوئی دنیا؛ 2700 ایکڑ پر محیط گھر، چڑیا گھر اور تھیم پارک بھی تھا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831833/michael-jackson-neverland-ranch-private-theme-park-zoo-2831833/",
+        "source": "Express",
+        "date": "2026-09-09T19:56:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "مریم نواز کی صاحبزادی ماہ نور کا نکاح طے، تاریخ سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831830/maryam-nawaz-daughter-maha-noor-nikkah-date-fix-2831830/",
+        "source": "Express",
+        "date": "2026-09-09T19:42:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "تھا جس کا انتظار؛ کرائم تھرلر دریشم 3 کا ٹریلر، کہانی میں چونکا دینے والا کیا ہے؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831829/drishyam-3-trailer-ajay-devgn-tabu-jaideep-ahlawat-prakash-raj-2831829/",
+        "source": "Express",
+        "date": "2026-09-09T19:21:18+05:00",
+        "img": ""
+      },
+      {
         "title": "Timings for govt schools, colleges across Sindh reduced by an hour",
         "summary": "<p>The Sindh government on Wednesday reduced the class timings for public schools and colleges by an hour until further orders.</p> <p>In a circular, the Sindh School Education and Literacy Department said school timings prescribed in an earlier notification would “stand reduced by one hour during the prescribed five d",
         "url": "https://www.dawn.com/news/2028636/timings-for-govt-schools-colleges-across-sindh-reduced-by-an-hour",
@@ -2312,6 +2400,14 @@
         "url": "https://www.express.pk/story/2831827/9-year-old-girl-raped-shot-dead-in-swat-suspect-arrested-2831827/",
         "source": "Express",
         "date": "2026-09-09T19:10:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "سندھ بار کونسل کا آج یوم یکجہتی سندھ منانے کا اعلان، عدالتوں کا بائیکاٹ کیا جائے گا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831826/sindh-bar-council-announces-to-celebrate-sindh-solidarity-day-today-courts-will-be-boycotted-2831826/",
+        "source": "Express",
+        "date": "2026-09-09T19:09:29+05:00",
         "img": ""
       },
       {
@@ -2379,30 +2475,6 @@
         "img": ""
       },
       {
-        "title": "مریم نواز کے صوبوں سے متعلق بیان پر پشاور میں مقدمے کیلئے درخواست",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831813/maryam-nawaz-statement-provinces-application-for-case-2831813/",
-        "source": "Express",
-        "date": "2026-09-09T17:22:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "ڈیبیو میچ میں پاکستانی بولر رضااللہ نے انگلش کپتان کو پہلے ہی اوور میں آؤٹ کر دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831812/in-his-debut-match-pakistani-fast-bowler-razaullah-dismissed-the-english-captain-in-the-very-first-over-2831812/",
-        "source": "Express",
-        "date": "2026-09-09T17:19:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "فریج کے استعمال میں یہ معمولی سی غلطی بجلی کا بل بڑھا سکتی ہے، آسان حل جانیے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831811/this-minor-mistake-in-using-the-refrigerator-can-increase-your-electricity-bill-2831811/",
-        "source": "Express",
-        "date": "2026-09-09T16:55:01+05:00",
-        "img": ""
-      },
-      {
         "title": "Cop martyred, another injured in attack on police team in KP's Karak",
         "summary": "<p>LAKKI MARWAT: A policeman was martyred and another sustained bullet injuries when unknown armed men targeted a police patrol party in the Shatakai dam area of Khyber Pakhtunkhwa’s Karak district late on Tuesday night.</p> <p>The district police officer’s (DPO) spokesperson, Shaukat Khan, said in a statement that the",
         "url": "https://www.dawn.com/news/2028578/cop-martyred-another-injured-in-attack-on-police-team-in-kps-karak",
@@ -2419,59 +2491,19 @@
         "img": ""
       },
       {
-        "title": "پی سی بی کی ہدایت پر شاہین آفریدی کا فرسٹ کلاس کرکٹ میں شرکت کا فیصلہ",
+        "title": "کراچی، بھیم پورا میں گٹر میں کام کے دوران بہیوش ہونے والے 2 خاکروب جاں بحق",
         "summary": "",
-        "url": "https://www.express.pk/story/2831810/shaheen-afridi-decides-to-participate-in-first-class-cricket-on-pcbs-instructions-2831810/",
+        "url": "https://www.express.pk/story/2831846/two-sanitation-workers-died-after-losing-consciousness-while-working-in-a-sewer-in-bhim-pura-karachi-2831846/",
         "source": "Express",
-        "date": "2026-09-09T16:16:43+05:00",
+        "date": "2026-09-09T16:42:07+00:00",
         "img": ""
       },
       {
-        "title": "دلجیت دوسانجھ کے نئے گانے ’ڈیول‘ کا تعلق ’کاکروچ احتجاج‘سے جوڑ دیا گیا",
+        "title": "آٹو پالیسی، نئی انرجی گاڑیوں پر بڑے ٹیکس ریلیف کی منظوری",
         "summary": "",
-        "url": "https://www.express.pk/story/2831809/diljit-dosanjh-new-song-devil-linked-to-cockroach-agitation-2831809/",
+        "url": "https://www.express.pk/story/2831845/auto-policy-approval-of-major-tax-relief-for-new-energy-vehicles-2831845/",
         "source": "Express",
-        "date": "2026-09-09T16:12:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "جامعہ کراچی کے پروفیسر پر تشدد، ملزم کے والد معافی مانگنے انکے گھر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831808/assault-on-university-of-karachi-professor-accuseds-father-visits-his-home-to-apologize-2831808/",
-        "source": "Express",
-        "date": "2026-09-09T16:11:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "چیٹ جی پی ٹی کے نئے امیجز فیچر نے تہلکہ مچا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831806/openais-new-chatgpt-images-25-2831806/",
-        "source": "Express",
-        "date": "2026-09-09T16:08:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں خوفناک حادثہ؛ لوہے کی سلاخیں بس کو چیر کر ڈرائیور کے سینے میں پیوست ہوگئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831802/india-karnataka-bus-accident-iron-rods-driver-killed-2831802/",
-        "source": "Express",
-        "date": "2026-09-09T15:40:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "انگلینڈ کے اولی رابنسن ٹیسٹ کرکٹ میں 100 وکٹیں حاصل کرنیوالے 50ویں بولر بن گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831801/englands-ollie-robinson-has-become-the-50th-bowler-to-take-100-wickets-in-test-cricket-2831801/",
-        "source": "Express",
-        "date": "2026-09-09T15:28:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "سشانت سنگھ کو قتل اور اس کی سیکریٹری کو اجتماعی زیادتی کا نشانہ بنایا گیا تھا، اہم انکشافات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831800/sushant-singh-was-murdered-and-his-secretary-was-gang-raped-important-revelations-2831800/",
-        "source": "Express",
-        "date": "2026-09-09T15:13:51+05:00",
+        "date": "2026-09-09T16:19:52+00:00",
         "img": ""
       },
       {
@@ -2480,6 +2512,22 @@
         "url": "https://www.dawn.com/news/2028609/girls-dominate-top-positions-in-fbise-intermediate-exam-results",
         "source": "Dawn",
         "date": "2026-09-09T15:07:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے عوام کیلئے ریلیف کا اعلان نہیں کیا تو لانگ مارچ کا اعلان کریں گے، حافظ نعیم الرحمان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831832/hafiz-naeem-says-if-the-government-does-not-announce-relief-for-the-people-we-will-announce-a-long-march-2831832/",
+        "source": "Express",
+        "date": "2026-09-09T14:50:58+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایران جنگ ختم اور پیٹرول کب سستا ہوگا؟ ٹرمپ نے پہلی بار تاریخ بتادی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831831/trump-iran-war-end-after-midterm-elections-oil-prices-2831831/",
+        "source": "Express",
+        "date": "2026-09-09T14:42:30+00:00",
         "img": ""
       },
       {
@@ -2523,59 +2571,11 @@
         "img": ""
       },
       {
-        "title": "پیٹرول و ڈیزل کی قیمت میں ایک بار پھر اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831815/petroleum-price-notification-issued-2831815/",
-        "source": "Express",
-        "date": "2026-09-09T12:49:19+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر مملکت آصف زرداری لندن سے خصوصی طیارے پر پاکستان کیلئے روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831814/president-asif-zardari-departs-london-for-pakistan-on-a-special-aircraft-2831814/",
-        "source": "Express",
-        "date": "2026-09-09T12:40:24+00:00",
-        "img": ""
-      },
-      {
         "title": "'Instead of speaking at business forums, Naqvi should visit Parliament': Bilawal on interior minister's call for governance reset",
         "summary": "<p>Amid growing debate in the country on the creation of new provinces to improve governance, PPP Chairman Bilawal Bhutto-Zardari has said that the issue should be debated in Parliament.</p> <p>He expressed these views while speaking to the media in London, where he is on a visit with his father, President Asif Ali Zar",
         "url": "https://www.dawn.com/news/2028581/instead-of-speaking-at-business-forums-naqvi-should-visit-parliament-bilawal-on-interior-ministers-call-for-governance-reset",
         "source": "Dawn",
         "date": "2026-09-09T11:39:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "غیرمعیاری کاسمیٹکس پر پابندی کا بل منظور، خلاف ورزی پر 7 سال قید اور 1 کروڑ جرمانہ ہوگا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831807/bill-to-ban-substandard-cosmetics-passed-violation-will-be-punishable-by-7-years-in-prison-and-a-fine-of-rs-10-million-2831807/",
-        "source": "Express",
-        "date": "2026-09-09T11:10:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ ڈاکوؤں نے بیٹے کے سامنے باپ کو فائرنگ کر کے قتل کر دیا، بیٹا حواس کھو بیٹھا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831805/karachi-robbers-shot-father-dead-in-front-of-his-son-son-loses-his-senses-2831805/",
-        "source": "Express",
-        "date": "2026-09-09T11:02:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "تعلیمی اداروں میں انرجی ڈرنکس پر پابندی اور جرمانے کا بل منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831804/bill-passed-to-ban-and-fine-energy-drinks-in-educational-institutions-2831804/",
-        "source": "Express",
-        "date": "2026-09-09T10:59:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "راولپنڈی: لاپتا 8 سالہ یتیم بچے کی لاش کنویں سے برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831803/rawalpindi-body-of-missing-8-year-old-orphan-boy-recovered-from-a-well-2831803/",
-        "source": "Express",
-        "date": "2026-09-09T10:56:18+00:00",
         "img": ""
       },
       {
@@ -2660,6 +2660,14 @@
       }
     ],
     "baloch": [
+      {
+        "title": "Israeli missile strike hits near Lebanese reporter",
+        "summary": "Israeli missile strike hits near Lebanese reporter",
+        "url": "https://arynews.tv/israeli-missile-strike-hits-near-lebanese-reporter",
+        "source": "ARY News",
+        "date": "2026-09-10T00:45:08+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/lebanese-Journalist.jpg"
+      },
       {
         "title": "Curacao extend manager Advocaat’s contract after turbulent year",
         "summary": "Curacao extend manager Advocaat’s contract after turbulent year",
@@ -2813,6 +2821,62 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ANP-JI.jpg"
       },
       {
+        "title": "پنجاب اور اسلام آباد کو مثال بنائیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831844/punjab-aur-islamabad-ko-misaal-banayen-2831844/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "سیاست کا بے اعتبار موسم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831843/siyasat-ka-be-aitibar-mausam-2831843/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "نئے صوبوں کی پرانی بحث",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831842/naye-subon-ki-purani-bahas-2831842/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیکسٹائل برآمدات کا حجم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831841/textile-baramdaat-ka-hajm-2831841/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "کھیتوں کے فضلے سے توانائی، کمالیہ سے ایک نئی امید",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831840/kheton-ke-fazlay-se-tawanai-kamalia-se-aik-nai-umee-2831840/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "خلیجی آگ اور عالمی امن کا امتحان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831839/khaleeji-aag-aur-aalami-aman-ka-imteha-2831839/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "دفاعی اور نظریاتی سرحدوں کے باوقار محافظ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831837/difaai-aur-nazriyati-sarhadon-ke-ba-waqar-muhafiz-2831837/",
+        "source": "Express",
+        "date": "2026-09-09T20:39:17+05:00",
+        "img": ""
+      },
+      {
         "title": "Arif Khan Saqi case: PML-F distances itself from incident, says Ali Gohar Shah joined PPP",
         "summary": "Arif Khan Saqi case: PML-F distances itself from incident, says Ali Gohar Shah joined PPP",
         "url": "https://arynews.tv/arif-khan-saqi-case-pml-f-distances-itself-from-incident-says-ali-gohar-shah-joined-ppp",
@@ -2827,6 +2891,14 @@
         "source": "ARY News",
         "date": "2026-09-09T20:34:43+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/SPA-2.jpg"
+      },
+      {
+        "title": "انگور کھٹے ہیں؛ریئلٹی شو کو فیک کہنے پر نیہا کا سنیدھی چوہان کو کٹھا میٹھا جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831835/neha-kakkar-reality-shows-sunidhi-chauhan-fake-remark-2831835/",
+        "source": "Express",
+        "date": "2026-09-09T20:15:38+05:00",
+        "img": ""
       },
       {
         "title": "ML-1 project design to be completed by October, ADB reaffirms",
@@ -2845,12 +2917,36 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Raza-Ali-14.jpg"
       },
       {
+        "title": "مائیکل جیکسن کی جادوئی دنیا؛ 2700 ایکڑ پر محیط گھر، چڑیا گھر اور تھیم پارک بھی تھا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831833/michael-jackson-neverland-ranch-private-theme-park-zoo-2831833/",
+        "source": "Express",
+        "date": "2026-09-09T19:56:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "مریم نواز کی صاحبزادی ماہ نور کا نکاح طے، تاریخ سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831830/maryam-nawaz-daughter-maha-noor-nikkah-date-fix-2831830/",
+        "source": "Express",
+        "date": "2026-09-09T19:42:30+05:00",
+        "img": ""
+      },
+      {
         "title": "Sindh eases penalties on showroom cars",
         "summary": "Sindh eases penalties on showroom cars",
         "url": "https://arynews.tv/sindh-eases-penalties-on-showroom-cars",
         "source": "ARY News",
         "date": "2026-09-09T19:31:25+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/car-showroom.jpg"
+      },
+      {
+        "title": "تھا جس کا انتظار؛ کرائم تھرلر دریشم 3 کا ٹریلر، کہانی میں چونکا دینے والا کیا ہے؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831829/drishyam-3-trailer-ajay-devgn-tabu-jaideep-ahlawat-prakash-raj-2831829/",
+        "source": "Express",
+        "date": "2026-09-09T19:21:18+05:00",
+        "img": ""
       },
       {
         "title": "Timings for govt schools, colleges across Sindh reduced by an hour",
@@ -2890,6 +2986,14 @@
         "url": "https://www.express.pk/story/2831827/9-year-old-girl-raped-shot-dead-in-swat-suspect-arrested-2831827/",
         "source": "Express",
         "date": "2026-09-09T19:10:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "سندھ بار کونسل کا آج یوم یکجہتی سندھ منانے کا اعلان، عدالتوں کا بائیکاٹ کیا جائے گا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831826/sindh-bar-council-announces-to-celebrate-sindh-solidarity-day-today-courts-will-be-boycotted-2831826/",
+        "source": "Express",
+        "date": "2026-09-09T19:09:29+05:00",
         "img": ""
       },
       {
@@ -2949,14 +3053,6 @@
         "img": ""
       },
       {
-        "title": "Iran says ‘prohibited zone’ near Hormuz to cover parts of Gulf of Oman and beyond",
-        "summary": "Iran says ‘prohibited zone’ near Hormuz to cover parts of Gulf of Oman and beyond",
-        "url": "https://arynews.tv/iran-says-prohibited-zone-near-hormuz-to-cover-parts-of-gulf-of-oman-and-beyond",
-        "source": "ARY News",
-        "date": "2026-09-09T18:13:25+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Strait-of-Hormuz-.jpg"
-      },
-      {
         "title": "Asif warns Makkah defence pact could become operational after Houthi attacks on Saudi Arabia",
         "summary": "<p>Defence Minister Khawaja Asif has cautioned that the tripartite Makkah Defence Alliance between Pakistan, Saudi Arabia and Turkiye could become operational if there was a “spillover” of the conflict in Yemen into Riyadh.</p> <p>The development comes after Yemen’s Houthi rebels <a href=\"https://www.dawn.com/news/2028",
         "url": "https://www.dawn.com/news/2028592/asif-warns-makkah-defence-pact-could-become-operational-after-houthi-attacks-on-saudi-arabia",
@@ -2981,30 +3077,6 @@
         "img": ""
       },
       {
-        "title": "مریم نواز کے صوبوں سے متعلق بیان پر پشاور میں مقدمے کیلئے درخواست",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831813/maryam-nawaz-statement-provinces-application-for-case-2831813/",
-        "source": "Express",
-        "date": "2026-09-09T17:22:36+05:00",
-        "img": ""
-      },
-      {
-        "title": "ڈیبیو میچ میں پاکستانی بولر رضااللہ نے انگلش کپتان کو پہلے ہی اوور میں آؤٹ کر دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831812/in-his-debut-match-pakistani-fast-bowler-razaullah-dismissed-the-english-captain-in-the-very-first-over-2831812/",
-        "source": "Express",
-        "date": "2026-09-09T17:19:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "فریج کے استعمال میں یہ معمولی سی غلطی بجلی کا بل بڑھا سکتی ہے، آسان حل جانیے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831811/this-minor-mistake-in-using-the-refrigerator-can-increase-your-electricity-bill-2831811/",
-        "source": "Express",
-        "date": "2026-09-09T16:55:01+05:00",
-        "img": ""
-      },
-      {
         "title": "Cop martyred, another injured in attack on police team in KP's Karak",
         "summary": "<p>LAKKI MARWAT: A policeman was martyred and another sustained bullet injuries when unknown armed men targeted a police patrol party in the Shatakai dam area of Khyber Pakhtunkhwa’s Karak district late on Tuesday night.</p> <p>The district police officer’s (DPO) spokesperson, Shaukat Khan, said in a statement that the",
         "url": "https://www.dawn.com/news/2028578/cop-martyred-another-injured-in-attack-on-police-team-in-kps-karak",
@@ -3021,59 +3093,19 @@
         "img": ""
       },
       {
-        "title": "پی سی بی کی ہدایت پر شاہین آفریدی کا فرسٹ کلاس کرکٹ میں شرکت کا فیصلہ",
+        "title": "کراچی، بھیم پورا میں گٹر میں کام کے دوران بہیوش ہونے والے 2 خاکروب جاں بحق",
         "summary": "",
-        "url": "https://www.express.pk/story/2831810/shaheen-afridi-decides-to-participate-in-first-class-cricket-on-pcbs-instructions-2831810/",
+        "url": "https://www.express.pk/story/2831846/two-sanitation-workers-died-after-losing-consciousness-while-working-in-a-sewer-in-bhim-pura-karachi-2831846/",
         "source": "Express",
-        "date": "2026-09-09T16:16:43+05:00",
+        "date": "2026-09-09T16:42:07+00:00",
         "img": ""
       },
       {
-        "title": "دلجیت دوسانجھ کے نئے گانے ’ڈیول‘ کا تعلق ’کاکروچ احتجاج‘سے جوڑ دیا گیا",
+        "title": "آٹو پالیسی، نئی انرجی گاڑیوں پر بڑے ٹیکس ریلیف کی منظوری",
         "summary": "",
-        "url": "https://www.express.pk/story/2831809/diljit-dosanjh-new-song-devil-linked-to-cockroach-agitation-2831809/",
+        "url": "https://www.express.pk/story/2831845/auto-policy-approval-of-major-tax-relief-for-new-energy-vehicles-2831845/",
         "source": "Express",
-        "date": "2026-09-09T16:12:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "جامعہ کراچی کے پروفیسر پر تشدد، ملزم کے والد معافی مانگنے انکے گھر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831808/assault-on-university-of-karachi-professor-accuseds-father-visits-his-home-to-apologize-2831808/",
-        "source": "Express",
-        "date": "2026-09-09T16:11:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "چیٹ جی پی ٹی کے نئے امیجز فیچر نے تہلکہ مچا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831806/openais-new-chatgpt-images-25-2831806/",
-        "source": "Express",
-        "date": "2026-09-09T16:08:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں خوفناک حادثہ؛ لوہے کی سلاخیں بس کو چیر کر ڈرائیور کے سینے میں پیوست ہوگئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831802/india-karnataka-bus-accident-iron-rods-driver-killed-2831802/",
-        "source": "Express",
-        "date": "2026-09-09T15:40:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "انگلینڈ کے اولی رابنسن ٹیسٹ کرکٹ میں 100 وکٹیں حاصل کرنیوالے 50ویں بولر بن گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831801/englands-ollie-robinson-has-become-the-50th-bowler-to-take-100-wickets-in-test-cricket-2831801/",
-        "source": "Express",
-        "date": "2026-09-09T15:28:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "سشانت سنگھ کو قتل اور اس کی سیکریٹری کو اجتماعی زیادتی کا نشانہ بنایا گیا تھا، اہم انکشافات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831800/sushant-singh-was-murdered-and-his-secretary-was-gang-raped-important-revelations-2831800/",
-        "source": "Express",
-        "date": "2026-09-09T15:13:51+05:00",
+        "date": "2026-09-09T16:19:52+00:00",
         "img": ""
       },
       {
@@ -3082,6 +3114,22 @@
         "url": "https://www.dawn.com/news/2028609/girls-dominate-top-positions-in-fbise-intermediate-exam-results",
         "source": "Dawn",
         "date": "2026-09-09T15:07:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "حکومت نے عوام کیلئے ریلیف کا اعلان نہیں کیا تو لانگ مارچ کا اعلان کریں گے، حافظ نعیم الرحمان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831832/hafiz-naeem-says-if-the-government-does-not-announce-relief-for-the-people-we-will-announce-a-long-march-2831832/",
+        "source": "Express",
+        "date": "2026-09-09T14:50:58+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایران جنگ ختم اور پیٹرول کب سستا ہوگا؟ ٹرمپ نے پہلی بار تاریخ بتادی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831831/trump-iran-war-end-after-midterm-elections-oil-prices-2831831/",
+        "source": "Express",
+        "date": "2026-09-09T14:42:30+00:00",
         "img": ""
       },
       {
@@ -3125,59 +3173,11 @@
         "img": ""
       },
       {
-        "title": "پیٹرول و ڈیزل کی قیمت میں ایک بار پھر اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831815/petroleum-price-notification-issued-2831815/",
-        "source": "Express",
-        "date": "2026-09-09T12:49:19+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر مملکت آصف زرداری لندن سے خصوصی طیارے پر پاکستان کیلئے روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831814/president-asif-zardari-departs-london-for-pakistan-on-a-special-aircraft-2831814/",
-        "source": "Express",
-        "date": "2026-09-09T12:40:24+00:00",
-        "img": ""
-      },
-      {
         "title": "'Instead of speaking at business forums, Naqvi should visit Parliament': Bilawal on interior minister's call for governance reset",
         "summary": "<p>Amid growing debate in the country on the creation of new provinces to improve governance, PPP Chairman Bilawal Bhutto-Zardari has said that the issue should be debated in Parliament.</p> <p>He expressed these views while speaking to the media in London, where he is on a visit with his father, President Asif Ali Zar",
         "url": "https://www.dawn.com/news/2028581/instead-of-speaking-at-business-forums-naqvi-should-visit-parliament-bilawal-on-interior-ministers-call-for-governance-reset",
         "source": "Dawn",
         "date": "2026-09-09T11:39:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "غیرمعیاری کاسمیٹکس پر پابندی کا بل منظور، خلاف ورزی پر 7 سال قید اور 1 کروڑ جرمانہ ہوگا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831807/bill-to-ban-substandard-cosmetics-passed-violation-will-be-punishable-by-7-years-in-prison-and-a-fine-of-rs-10-million-2831807/",
-        "source": "Express",
-        "date": "2026-09-09T11:10:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ ڈاکوؤں نے بیٹے کے سامنے باپ کو فائرنگ کر کے قتل کر دیا، بیٹا حواس کھو بیٹھا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831805/karachi-robbers-shot-father-dead-in-front-of-his-son-son-loses-his-senses-2831805/",
-        "source": "Express",
-        "date": "2026-09-09T11:02:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "تعلیمی اداروں میں انرجی ڈرنکس پر پابندی اور جرمانے کا بل منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831804/bill-passed-to-ban-and-fine-energy-drinks-in-educational-institutions-2831804/",
-        "source": "Express",
-        "date": "2026-09-09T10:59:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "راولپنڈی: لاپتا 8 سالہ یتیم بچے کی لاش کنویں سے برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831803/rawalpindi-body-of-missing-8-year-old-orphan-boy-recovered-from-a-well-2831803/",
-        "source": "Express",
-        "date": "2026-09-09T10:56:18+00:00",
         "img": ""
       },
       {
@@ -3263,6 +3263,14 @@
     ],
     "education": [
       {
+        "title": "Israeli missile strike hits near Lebanese reporter",
+        "summary": "Israeli missile strike hits near Lebanese reporter",
+        "url": "https://arynews.tv/israeli-missile-strike-hits-near-lebanese-reporter",
+        "source": "ARY News",
+        "date": "2026-09-10T00:45:08+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/lebanese-Journalist.jpg"
+      },
+      {
         "title": "Curacao extend manager Advocaat’s contract after turbulent year",
         "summary": "Curacao extend manager Advocaat’s contract after turbulent year",
         "url": "https://arynews.tv/curacao-extend-manager-advocaats-contract-after-turbulent-year",
@@ -3383,6 +3391,62 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ANP-JI.jpg"
       },
       {
+        "title": "پنجاب اور اسلام آباد کو مثال بنائیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831844/punjab-aur-islamabad-ko-misaal-banayen-2831844/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "سیاست کا بے اعتبار موسم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831843/siyasat-ka-be-aitibar-mausam-2831843/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "نئے صوبوں کی پرانی بحث",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831842/naye-subon-ki-purani-bahas-2831842/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیکسٹائل برآمدات کا حجم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831841/textile-baramdaat-ka-hajm-2831841/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "کھیتوں کے فضلے سے توانائی، کمالیہ سے ایک نئی امید",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831840/kheton-ke-fazlay-se-tawanai-kamalia-se-aik-nai-umee-2831840/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "خلیجی آگ اور عالمی امن کا امتحان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831839/khaleeji-aag-aur-aalami-aman-ka-imteha-2831839/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "دفاعی اور نظریاتی سرحدوں کے باوقار محافظ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831837/difaai-aur-nazriyati-sarhadon-ke-ba-waqar-muhafiz-2831837/",
+        "source": "Express",
+        "date": "2026-09-09T20:39:17+05:00",
+        "img": ""
+      },
+      {
         "title": "Arif Khan Saqi case: PML-F distances itself from incident, says Ali Gohar Shah joined PPP",
         "summary": "Arif Khan Saqi case: PML-F distances itself from incident, says Ali Gohar Shah joined PPP",
         "url": "https://arynews.tv/arif-khan-saqi-case-pml-f-distances-itself-from-incident-says-ali-gohar-shah-joined-ppp",
@@ -3397,6 +3461,14 @@
         "source": "ARY News",
         "date": "2026-09-09T20:34:43+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/SPA-2.jpg"
+      },
+      {
+        "title": "انگور کھٹے ہیں؛ریئلٹی شو کو فیک کہنے پر نیہا کا سنیدھی چوہان کو کٹھا میٹھا جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831835/neha-kakkar-reality-shows-sunidhi-chauhan-fake-remark-2831835/",
+        "source": "Express",
+        "date": "2026-09-09T20:15:38+05:00",
+        "img": ""
       },
       {
         "title": "ML-1 project design to be completed by October, ADB reaffirms",
@@ -3415,12 +3487,36 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mir-Raza-Ali-14.jpg"
       },
       {
+        "title": "مائیکل جیکسن کی جادوئی دنیا؛ 2700 ایکڑ پر محیط گھر، چڑیا گھر اور تھیم پارک بھی تھا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831833/michael-jackson-neverland-ranch-private-theme-park-zoo-2831833/",
+        "source": "Express",
+        "date": "2026-09-09T19:56:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "مریم نواز کی صاحبزادی ماہ نور کا نکاح طے، تاریخ سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831830/maryam-nawaz-daughter-maha-noor-nikkah-date-fix-2831830/",
+        "source": "Express",
+        "date": "2026-09-09T19:42:30+05:00",
+        "img": ""
+      },
+      {
         "title": "Sindh eases penalties on showroom cars",
         "summary": "Sindh eases penalties on showroom cars",
         "url": "https://arynews.tv/sindh-eases-penalties-on-showroom-cars",
         "source": "ARY News",
         "date": "2026-09-09T19:31:25+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/car-showroom.jpg"
+      },
+      {
+        "title": "تھا جس کا انتظار؛ کرائم تھرلر دریشم 3 کا ٹریلر، کہانی میں چونکا دینے والا کیا ہے؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831829/drishyam-3-trailer-ajay-devgn-tabu-jaideep-ahlawat-prakash-raj-2831829/",
+        "source": "Express",
+        "date": "2026-09-09T19:21:18+05:00",
+        "img": ""
       },
       {
         "title": "Gul Plaza Fire Case: Defense accuses police of shielding Govt agencies as court refuses JIT",
@@ -3452,6 +3548,14 @@
         "url": "https://www.express.pk/story/2831827/9-year-old-girl-raped-shot-dead-in-swat-suspect-arrested-2831827/",
         "source": "Express",
         "date": "2026-09-09T19:10:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "سندھ بار کونسل کا آج یوم یکجہتی سندھ منانے کا اعلان، عدالتوں کا بائیکاٹ کیا جائے گا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831826/sindh-bar-council-announces-to-celebrate-sindh-solidarity-day-today-courts-will-be-boycotted-2831826/",
+        "source": "Express",
+        "date": "2026-09-09T19:09:29+05:00",
         "img": ""
       },
       {
@@ -3495,14 +3599,6 @@
         "img": ""
       },
       {
-        "title": "Iran says ‘prohibited zone’ near Hormuz to cover parts of Gulf of Oman and beyond",
-        "summary": "Iran says ‘prohibited zone’ near Hormuz to cover parts of Gulf of Oman and beyond",
-        "url": "https://arynews.tv/iran-says-prohibited-zone-near-hormuz-to-cover-parts-of-gulf-of-oman-and-beyond",
-        "source": "ARY News",
-        "date": "2026-09-09T18:13:25+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Strait-of-Hormuz-.jpg"
-      },
-      {
         "title": "لکی مروت میں باپ نے کلہاڑی کے وار سے بیٹی کو قتل کردیا، بہن کی مدعیت میں مقدمہ درج",
         "summary": "",
         "url": "https://www.express.pk/story/2831818/father-kills-daughter-with-axe-in-lakki-marwat-2831818/",
@@ -3519,83 +3615,35 @@
         "img": ""
       },
       {
-        "title": "مریم نواز کے صوبوں سے متعلق بیان پر پشاور میں مقدمے کیلئے درخواست",
+        "title": "کراچی، بھیم پورا میں گٹر میں کام کے دوران بہیوش ہونے والے 2 خاکروب جاں بحق",
         "summary": "",
-        "url": "https://www.express.pk/story/2831813/maryam-nawaz-statement-provinces-application-for-case-2831813/",
+        "url": "https://www.express.pk/story/2831846/two-sanitation-workers-died-after-losing-consciousness-while-working-in-a-sewer-in-bhim-pura-karachi-2831846/",
         "source": "Express",
-        "date": "2026-09-09T17:22:36+05:00",
+        "date": "2026-09-09T16:42:07+00:00",
         "img": ""
       },
       {
-        "title": "ڈیبیو میچ میں پاکستانی بولر رضااللہ نے انگلش کپتان کو پہلے ہی اوور میں آؤٹ کر دیا",
+        "title": "آٹو پالیسی، نئی انرجی گاڑیوں پر بڑے ٹیکس ریلیف کی منظوری",
         "summary": "",
-        "url": "https://www.express.pk/story/2831812/in-his-debut-match-pakistani-fast-bowler-razaullah-dismissed-the-english-captain-in-the-very-first-over-2831812/",
+        "url": "https://www.express.pk/story/2831845/auto-policy-approval-of-major-tax-relief-for-new-energy-vehicles-2831845/",
         "source": "Express",
-        "date": "2026-09-09T17:19:24+05:00",
+        "date": "2026-09-09T16:19:52+00:00",
         "img": ""
       },
       {
-        "title": "فریج کے استعمال میں یہ معمولی سی غلطی بجلی کا بل بڑھا سکتی ہے، آسان حل جانیے",
+        "title": "حکومت نے عوام کیلئے ریلیف کا اعلان نہیں کیا تو لانگ مارچ کا اعلان کریں گے، حافظ نعیم الرحمان",
         "summary": "",
-        "url": "https://www.express.pk/story/2831811/this-minor-mistake-in-using-the-refrigerator-can-increase-your-electricity-bill-2831811/",
+        "url": "https://www.express.pk/story/2831832/hafiz-naeem-says-if-the-government-does-not-announce-relief-for-the-people-we-will-announce-a-long-march-2831832/",
         "source": "Express",
-        "date": "2026-09-09T16:55:01+05:00",
+        "date": "2026-09-09T14:50:58+00:00",
         "img": ""
       },
       {
-        "title": "پی سی بی کی ہدایت پر شاہین آفریدی کا فرسٹ کلاس کرکٹ میں شرکت کا فیصلہ",
+        "title": "ایران جنگ ختم اور پیٹرول کب سستا ہوگا؟ ٹرمپ نے پہلی بار تاریخ بتادی",
         "summary": "",
-        "url": "https://www.express.pk/story/2831810/shaheen-afridi-decides-to-participate-in-first-class-cricket-on-pcbs-instructions-2831810/",
+        "url": "https://www.express.pk/story/2831831/trump-iran-war-end-after-midterm-elections-oil-prices-2831831/",
         "source": "Express",
-        "date": "2026-09-09T16:16:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "دلجیت دوسانجھ کے نئے گانے ’ڈیول‘ کا تعلق ’کاکروچ احتجاج‘سے جوڑ دیا گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831809/diljit-dosanjh-new-song-devil-linked-to-cockroach-agitation-2831809/",
-        "source": "Express",
-        "date": "2026-09-09T16:12:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "جامعہ کراچی کے پروفیسر پر تشدد، ملزم کے والد معافی مانگنے انکے گھر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831808/assault-on-university-of-karachi-professor-accuseds-father-visits-his-home-to-apologize-2831808/",
-        "source": "Express",
-        "date": "2026-09-09T16:11:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "چیٹ جی پی ٹی کے نئے امیجز فیچر نے تہلکہ مچا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831806/openais-new-chatgpt-images-25-2831806/",
-        "source": "Express",
-        "date": "2026-09-09T16:08:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں خوفناک حادثہ؛ لوہے کی سلاخیں بس کو چیر کر ڈرائیور کے سینے میں پیوست ہوگئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831802/india-karnataka-bus-accident-iron-rods-driver-killed-2831802/",
-        "source": "Express",
-        "date": "2026-09-09T15:40:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "انگلینڈ کے اولی رابنسن ٹیسٹ کرکٹ میں 100 وکٹیں حاصل کرنیوالے 50ویں بولر بن گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831801/englands-ollie-robinson-has-become-the-50th-bowler-to-take-100-wickets-in-test-cricket-2831801/",
-        "source": "Express",
-        "date": "2026-09-09T15:28:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "سشانت سنگھ کو قتل اور اس کی سیکریٹری کو اجتماعی زیادتی کا نشانہ بنایا گیا تھا، اہم انکشافات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831800/sushant-singh-was-murdered-and-his-secretary-was-gang-raped-important-revelations-2831800/",
-        "source": "Express",
-        "date": "2026-09-09T15:13:51+05:00",
+        "date": "2026-09-09T14:42:30+00:00",
         "img": ""
       },
       {
@@ -3613,57 +3661,17 @@
         "source": "Express",
         "date": "2026-09-09T13:26:52+00:00",
         "img": ""
-      },
-      {
-        "title": "پیٹرول و ڈیزل کی قیمت میں ایک بار پھر اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831815/petroleum-price-notification-issued-2831815/",
-        "source": "Express",
-        "date": "2026-09-09T12:49:19+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر مملکت آصف زرداری لندن سے خصوصی طیارے پر پاکستان کیلئے روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831814/president-asif-zardari-departs-london-for-pakistan-on-a-special-aircraft-2831814/",
-        "source": "Express",
-        "date": "2026-09-09T12:40:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "غیرمعیاری کاسمیٹکس پر پابندی کا بل منظور، خلاف ورزی پر 7 سال قید اور 1 کروڑ جرمانہ ہوگا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831807/bill-to-ban-substandard-cosmetics-passed-violation-will-be-punishable-by-7-years-in-prison-and-a-fine-of-rs-10-million-2831807/",
-        "source": "Express",
-        "date": "2026-09-09T11:10:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ ڈاکوؤں نے بیٹے کے سامنے باپ کو فائرنگ کر کے قتل کر دیا، بیٹا حواس کھو بیٹھا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831805/karachi-robbers-shot-father-dead-in-front-of-his-son-son-loses-his-senses-2831805/",
-        "source": "Express",
-        "date": "2026-09-09T11:02:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "تعلیمی اداروں میں انرجی ڈرنکس پر پابندی اور جرمانے کا بل منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831804/bill-passed-to-ban-and-fine-energy-drinks-in-educational-institutions-2831804/",
-        "source": "Express",
-        "date": "2026-09-09T10:59:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "راولپنڈی: لاپتا 8 سالہ یتیم بچے کی لاش کنویں سے برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831803/rawalpindi-body-of-missing-8-year-old-orphan-boy-recovered-from-a-well-2831803/",
-        "source": "Express",
-        "date": "2026-09-09T10:56:18+00:00",
-        "img": ""
       }
     ],
     "science": [
+      {
+        "title": "Israeli missile strike hits near Lebanese reporter",
+        "summary": "Israeli missile strike hits near Lebanese reporter",
+        "url": "https://arynews.tv/israeli-missile-strike-hits-near-lebanese-reporter",
+        "source": "ARY News",
+        "date": "2026-09-10T00:45:08+05:00",
+        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/lebanese-Journalist.jpg"
+      },
       {
         "title": "Curacao extend manager Advocaat’s contract after turbulent year",
         "summary": "Curacao extend manager Advocaat’s contract after turbulent year",
@@ -3855,14 +3863,6 @@
         "source": "ARY News",
         "date": "2026-09-09T18:31:18+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Injection.jpg"
-      },
-      {
-        "title": "Iran says ‘prohibited zone’ near Hormuz to cover parts of Gulf of Oman and beyond",
-        "summary": "Iran says ‘prohibited zone’ near Hormuz to cover parts of Gulf of Oman and beyond",
-        "url": "https://arynews.tv/iran-says-prohibited-zone-near-hormuz-to-cover-parts-of-gulf-of-oman-and-beyond",
-        "source": "ARY News",
-        "date": "2026-09-09T18:13:25+05:00",
-        "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Strait-of-Hormuz-.jpg"
       }
     ],
     "sports": [
@@ -3907,6 +3907,94 @@
         "img": ""
       },
       {
+        "title": "پنجاب اور اسلام آباد کو مثال بنائیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831844/punjab-aur-islamabad-ko-misaal-banayen-2831844/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "سیاست کا بے اعتبار موسم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831843/siyasat-ka-be-aitibar-mausam-2831843/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "نئے صوبوں کی پرانی بحث",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831842/naye-subon-ki-purani-bahas-2831842/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیکسٹائل برآمدات کا حجم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831841/textile-baramdaat-ka-hajm-2831841/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "کھیتوں کے فضلے سے توانائی، کمالیہ سے ایک نئی امید",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831840/kheton-ke-fazlay-se-tawanai-kamalia-se-aik-nai-umee-2831840/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "خلیجی آگ اور عالمی امن کا امتحان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831839/khaleeji-aag-aur-aalami-aman-ka-imteha-2831839/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "دفاعی اور نظریاتی سرحدوں کے باوقار محافظ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831837/difaai-aur-nazriyati-sarhadon-ke-ba-waqar-muhafiz-2831837/",
+        "source": "Express",
+        "date": "2026-09-09T20:39:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "انگور کھٹے ہیں؛ریئلٹی شو کو فیک کہنے پر نیہا کا سنیدھی چوہان کو کٹھا میٹھا جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831835/neha-kakkar-reality-shows-sunidhi-chauhan-fake-remark-2831835/",
+        "source": "Express",
+        "date": "2026-09-09T20:15:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "مائیکل جیکسن کی جادوئی دنیا؛ 2700 ایکڑ پر محیط گھر، چڑیا گھر اور تھیم پارک بھی تھا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831833/michael-jackson-neverland-ranch-private-theme-park-zoo-2831833/",
+        "source": "Express",
+        "date": "2026-09-09T19:56:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "مریم نواز کی صاحبزادی ماہ نور کا نکاح طے، تاریخ سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831830/maryam-nawaz-daughter-maha-noor-nikkah-date-fix-2831830/",
+        "source": "Express",
+        "date": "2026-09-09T19:42:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "تھا جس کا انتظار؛ کرائم تھرلر دریشم 3 کا ٹریلر، کہانی میں چونکا دینے والا کیا ہے؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831829/drishyam-3-trailer-ajay-devgn-tabu-jaideep-ahlawat-prakash-raj-2831829/",
+        "source": "Express",
+        "date": "2026-09-09T19:21:18+05:00",
+        "img": ""
+      },
+      {
         "title": "پاکستان انڈر 19 نے انگلینڈ کو 177 رنز سے شکست دے دی",
         "summary": "",
         "url": "https://www.express.pk/story/2831828/pakistan-under-19-defeated-england-by-177-runs-2831828/",
@@ -3920,6 +4008,14 @@
         "url": "https://www.express.pk/story/2831827/9-year-old-girl-raped-shot-dead-in-swat-suspect-arrested-2831827/",
         "source": "Express",
         "date": "2026-09-09T19:10:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "سندھ بار کونسل کا آج یوم یکجہتی سندھ منانے کا اعلان، عدالتوں کا بائیکاٹ کیا جائے گا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831826/sindh-bar-council-announces-to-celebrate-sindh-solidarity-day-today-courts-will-be-boycotted-2831826/",
+        "source": "Express",
+        "date": "2026-09-09T19:09:29+05:00",
         "img": ""
       },
       {
@@ -3971,59 +4067,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/1-56.jpg"
       },
       {
-        "title": "مریم نواز کے صوبوں سے متعلق بیان پر پشاور میں مقدمے کیلئے درخواست",
+        "title": "کراچی، بھیم پورا میں گٹر میں کام کے دوران بہیوش ہونے والے 2 خاکروب جاں بحق",
         "summary": "",
-        "url": "https://www.express.pk/story/2831813/maryam-nawaz-statement-provinces-application-for-case-2831813/",
+        "url": "https://www.express.pk/story/2831846/two-sanitation-workers-died-after-losing-consciousness-while-working-in-a-sewer-in-bhim-pura-karachi-2831846/",
         "source": "Express",
-        "date": "2026-09-09T17:22:36+05:00",
+        "date": "2026-09-09T16:42:07+00:00",
         "img": ""
       },
       {
-        "title": "ڈیبیو میچ میں پاکستانی بولر رضااللہ نے انگلش کپتان کو پہلے ہی اوور میں آؤٹ کر دیا",
+        "title": "آٹو پالیسی، نئی انرجی گاڑیوں پر بڑے ٹیکس ریلیف کی منظوری",
         "summary": "",
-        "url": "https://www.express.pk/story/2831812/in-his-debut-match-pakistani-fast-bowler-razaullah-dismissed-the-english-captain-in-the-very-first-over-2831812/",
+        "url": "https://www.express.pk/story/2831845/auto-policy-approval-of-major-tax-relief-for-new-energy-vehicles-2831845/",
         "source": "Express",
-        "date": "2026-09-09T17:19:24+05:00",
-        "img": ""
-      },
-      {
-        "title": "فریج کے استعمال میں یہ معمولی سی غلطی بجلی کا بل بڑھا سکتی ہے، آسان حل جانیے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831811/this-minor-mistake-in-using-the-refrigerator-can-increase-your-electricity-bill-2831811/",
-        "source": "Express",
-        "date": "2026-09-09T16:55:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی سی بی کی ہدایت پر شاہین آفریدی کا فرسٹ کلاس کرکٹ میں شرکت کا فیصلہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831810/shaheen-afridi-decides-to-participate-in-first-class-cricket-on-pcbs-instructions-2831810/",
-        "source": "Express",
-        "date": "2026-09-09T16:16:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "دلجیت دوسانجھ کے نئے گانے ’ڈیول‘ کا تعلق ’کاکروچ احتجاج‘سے جوڑ دیا گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831809/diljit-dosanjh-new-song-devil-linked-to-cockroach-agitation-2831809/",
-        "source": "Express",
-        "date": "2026-09-09T16:12:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "جامعہ کراچی کے پروفیسر پر تشدد، ملزم کے والد معافی مانگنے انکے گھر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831808/assault-on-university-of-karachi-professor-accuseds-father-visits-his-home-to-apologize-2831808/",
-        "source": "Express",
-        "date": "2026-09-09T16:11:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "چیٹ جی پی ٹی کے نئے امیجز فیچر نے تہلکہ مچا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831806/openais-new-chatgpt-images-25-2831806/",
-        "source": "Express",
-        "date": "2026-09-09T16:08:57+05:00",
+        "date": "2026-09-09T16:19:52+00:00",
         "img": ""
       },
       {
@@ -4051,28 +4107,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/1-53.jpg"
       },
       {
-        "title": "بھارت میں خوفناک حادثہ؛ لوہے کی سلاخیں بس کو چیر کر ڈرائیور کے سینے میں پیوست ہوگئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831802/india-karnataka-bus-accident-iron-rods-driver-killed-2831802/",
-        "source": "Express",
-        "date": "2026-09-09T15:40:59+05:00",
-        "img": ""
-      },
-      {
         "title": "Pakistan women cricketers draw attention for wearing Virat Kohli’s One8 Shoes in Asia Cup",
         "summary": "Pakistan women cricketers draw attention for wearing Virat Kohli’s One8 Shoes in Asia Cup",
         "url": "https://arynews.tv/pakistan-women-cricketers-wear-virat-kohlis-one8-shoes",
         "source": "ARY Sports",
         "date": "2026-09-09T15:37:07+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Pakistan-women-cricketrs-Viral-Kohli.jpg"
-      },
-      {
-        "title": "انگلینڈ کے اولی رابنسن ٹیسٹ کرکٹ میں 100 وکٹیں حاصل کرنیوالے 50ویں بولر بن گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831801/englands-ollie-robinson-has-become-the-50th-bowler-to-take-100-wickets-in-test-cricket-2831801/",
-        "source": "Express",
-        "date": "2026-09-09T15:28:49+05:00",
-        "img": ""
       },
       {
         "title": "England bowl against much-changed Pakistan in third Test",
@@ -4091,11 +4131,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/1-51.jpg"
       },
       {
-        "title": "سشانت سنگھ کو قتل اور اس کی سیکریٹری کو اجتماعی زیادتی کا نشانہ بنایا گیا تھا، اہم انکشافات",
+        "title": "حکومت نے عوام کیلئے ریلیف کا اعلان نہیں کیا تو لانگ مارچ کا اعلان کریں گے، حافظ نعیم الرحمان",
         "summary": "",
-        "url": "https://www.express.pk/story/2831800/sushant-singh-was-murdered-and-his-secretary-was-gang-raped-important-revelations-2831800/",
+        "url": "https://www.express.pk/story/2831832/hafiz-naeem-says-if-the-government-does-not-announce-relief-for-the-people-we-will-announce-a-long-march-2831832/",
         "source": "Express",
-        "date": "2026-09-09T15:13:51+05:00",
+        "date": "2026-09-09T14:50:58+00:00",
+        "img": ""
+      },
+      {
+        "title": "ایران جنگ ختم اور پیٹرول کب سستا ہوگا؟ ٹرمپ نے پہلی بار تاریخ بتادی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831831/trump-iran-war-end-after-midterm-elections-oil-prices-2831831/",
+        "source": "Express",
+        "date": "2026-09-09T14:42:30+00:00",
         "img": ""
       },
       {
@@ -4155,22 +4203,6 @@
         "img": ""
       },
       {
-        "title": "پیٹرول و ڈیزل کی قیمت میں ایک بار پھر اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831815/petroleum-price-notification-issued-2831815/",
-        "source": "Express",
-        "date": "2026-09-09T12:49:19+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر مملکت آصف زرداری لندن سے خصوصی طیارے پر پاکستان کیلئے روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831814/president-asif-zardari-departs-london-for-pakistan-on-a-special-aircraft-2831814/",
-        "source": "Express",
-        "date": "2026-09-09T12:40:24+00:00",
-        "img": ""
-      },
-      {
         "title": "Indian hockey back to blue after anger over orange kit",
         "summary": "<p>India’s field hockey teams will return to their traditional blue jerseys at this month’s Asian Games after criticism of their orange kits at the recent World Cup.</p> <p>The colour change at the tournament in Belgium and the Netherlands drew the ire of Hockey India officials and former players.</p> <p>The bright ora",
         "url": "https://www.dawn.com/news/2028591/indian-hockey-back-to-blue-after-anger-over-orange-kit",
@@ -4179,43 +4211,11 @@
         "img": ""
       },
       {
-        "title": "غیرمعیاری کاسمیٹکس پر پابندی کا بل منظور، خلاف ورزی پر 7 سال قید اور 1 کروڑ جرمانہ ہوگا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831807/bill-to-ban-substandard-cosmetics-passed-violation-will-be-punishable-by-7-years-in-prison-and-a-fine-of-rs-10-million-2831807/",
-        "source": "Express",
-        "date": "2026-09-09T11:10:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ ڈاکوؤں نے بیٹے کے سامنے باپ کو فائرنگ کر کے قتل کر دیا، بیٹا حواس کھو بیٹھا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831805/karachi-robbers-shot-father-dead-in-front-of-his-son-son-loses-his-senses-2831805/",
-        "source": "Express",
-        "date": "2026-09-09T11:02:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "تعلیمی اداروں میں انرجی ڈرنکس پر پابندی اور جرمانے کا بل منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831804/bill-passed-to-ban-and-fine-energy-drinks-in-educational-institutions-2831804/",
-        "source": "Express",
-        "date": "2026-09-09T10:59:17+00:00",
-        "img": ""
-      },
-      {
         "title": "Sabalenka, Pegula reach US Open final four, Tiafoe triumphs Michelsen",
         "summary": "<p>Two-time defending champion Aryna Sabalenka rallied in the final set to beat Linda Noskova on Tuesday and reach a sixth straight US Open semi-final.</p> <p>Sabalenka triumphed 7-6 (7/1), 3-6, 7-6 (10/7) over the 21-year-old Wimbledon champion, who went toe-to-toe with the world number one on Arthur Ashe Stadium – wh",
         "url": "https://www.dawn.com/news/2028577/sabalenka-pegula-reach-us-open-final-four-tiafoe-triumphs-michelsen",
         "source": "Dawn",
         "date": "2026-09-09T10:57:03+05:00",
-        "img": ""
-      },
-      {
-        "title": "راولپنڈی: لاپتا 8 سالہ یتیم بچے کی لاش کنویں سے برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831803/rawalpindi-body-of-missing-8-year-old-orphan-boy-recovered-from-a-well-2831803/",
-        "source": "Express",
-        "date": "2026-09-09T10:56:18+00:00",
         "img": ""
       },
       {
@@ -4437,6 +4437,94 @@
         "img": ""
       },
       {
+        "title": "پنجاب اور اسلام آباد کو مثال بنائیں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831844/punjab-aur-islamabad-ko-misaal-banayen-2831844/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:48+05:00",
+        "img": ""
+      },
+      {
+        "title": "سیاست کا بے اعتبار موسم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831843/siyasat-ka-be-aitibar-mausam-2831843/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "نئے صوبوں کی پرانی بحث",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831842/naye-subon-ki-purani-bahas-2831842/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "ٹیکسٹائل برآمدات کا حجم",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831841/textile-baramdaat-ka-hajm-2831841/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:47+05:00",
+        "img": ""
+      },
+      {
+        "title": "کھیتوں کے فضلے سے توانائی، کمالیہ سے ایک نئی امید",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831840/kheton-ke-fazlay-se-tawanai-kamalia-se-aik-nai-umee-2831840/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "خلیجی آگ اور عالمی امن کا امتحان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831839/khaleeji-aag-aur-aalami-aman-ka-imteha-2831839/",
+        "source": "Express",
+        "date": "2026-09-09T20:48:46+05:00",
+        "img": ""
+      },
+      {
+        "title": "دفاعی اور نظریاتی سرحدوں کے باوقار محافظ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831837/difaai-aur-nazriyati-sarhadon-ke-ba-waqar-muhafiz-2831837/",
+        "source": "Express",
+        "date": "2026-09-09T20:39:17+05:00",
+        "img": ""
+      },
+      {
+        "title": "انگور کھٹے ہیں؛ریئلٹی شو کو فیک کہنے پر نیہا کا سنیدھی چوہان کو کٹھا میٹھا جواب",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831835/neha-kakkar-reality-shows-sunidhi-chauhan-fake-remark-2831835/",
+        "source": "Express",
+        "date": "2026-09-09T20:15:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "مائیکل جیکسن کی جادوئی دنیا؛ 2700 ایکڑ پر محیط گھر، چڑیا گھر اور تھیم پارک بھی تھا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831833/michael-jackson-neverland-ranch-private-theme-park-zoo-2831833/",
+        "source": "Express",
+        "date": "2026-09-09T19:56:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "مریم نواز کی صاحبزادی ماہ نور کا نکاح طے، تاریخ سامنے آگئی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831830/maryam-nawaz-daughter-maha-noor-nikkah-date-fix-2831830/",
+        "source": "Express",
+        "date": "2026-09-09T19:42:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "تھا جس کا انتظار؛ کرائم تھرلر دریشم 3 کا ٹریلر، کہانی میں چونکا دینے والا کیا ہے؟",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831829/drishyam-3-trailer-ajay-devgn-tabu-jaideep-ahlawat-prakash-raj-2831829/",
+        "source": "Express",
+        "date": "2026-09-09T19:21:18+05:00",
+        "img": ""
+      },
+      {
         "title": "پاکستان انڈر 19 نے انگلینڈ کو 177 رنز سے شکست دے دی",
         "summary": "",
         "url": "https://www.express.pk/story/2831828/pakistan-under-19-defeated-england-by-177-runs-2831828/",
@@ -4450,6 +4538,14 @@
         "url": "https://www.express.pk/story/2831827/9-year-old-girl-raped-shot-dead-in-swat-suspect-arrested-2831827/",
         "source": "Express",
         "date": "2026-09-09T19:10:13+05:00",
+        "img": ""
+      },
+      {
+        "title": "سندھ بار کونسل کا آج یوم یکجہتی سندھ منانے کا اعلان، عدالتوں کا بائیکاٹ کیا جائے گا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831826/sindh-bar-council-announces-to-celebrate-sindh-solidarity-day-today-courts-will-be-boycotted-2831826/",
+        "source": "Express",
+        "date": "2026-09-09T19:09:29+05:00",
         "img": ""
       },
       {
@@ -4493,83 +4589,27 @@
         "img": ""
       },
       {
-        "title": "مریم نواز کے صوبوں سے متعلق بیان پر پشاور میں مقدمے کیلئے درخواست",
+        "title": "کراچی، بھیم پورا میں گٹر میں کام کے دوران بہیوش ہونے والے 2 خاکروب جاں بحق",
         "summary": "",
-        "url": "https://www.express.pk/story/2831813/maryam-nawaz-statement-provinces-application-for-case-2831813/",
+        "url": "https://www.express.pk/story/2831846/two-sanitation-workers-died-after-losing-consciousness-while-working-in-a-sewer-in-bhim-pura-karachi-2831846/",
         "source": "Express",
-        "date": "2026-09-09T17:22:36+05:00",
+        "date": "2026-09-09T16:42:07+00:00",
         "img": ""
       },
       {
-        "title": "ڈیبیو میچ میں پاکستانی بولر رضااللہ نے انگلش کپتان کو پہلے ہی اوور میں آؤٹ کر دیا",
+        "title": "آٹو پالیسی، نئی انرجی گاڑیوں پر بڑے ٹیکس ریلیف کی منظوری",
         "summary": "",
-        "url": "https://www.express.pk/story/2831812/in-his-debut-match-pakistani-fast-bowler-razaullah-dismissed-the-english-captain-in-the-very-first-over-2831812/",
+        "url": "https://www.express.pk/story/2831845/auto-policy-approval-of-major-tax-relief-for-new-energy-vehicles-2831845/",
         "source": "Express",
-        "date": "2026-09-09T17:19:24+05:00",
+        "date": "2026-09-09T16:19:52+00:00",
         "img": ""
       },
       {
-        "title": "فریج کے استعمال میں یہ معمولی سی غلطی بجلی کا بل بڑھا سکتی ہے، آسان حل جانیے",
+        "title": "حکومت نے عوام کیلئے ریلیف کا اعلان نہیں کیا تو لانگ مارچ کا اعلان کریں گے، حافظ نعیم الرحمان",
         "summary": "",
-        "url": "https://www.express.pk/story/2831811/this-minor-mistake-in-using-the-refrigerator-can-increase-your-electricity-bill-2831811/",
+        "url": "https://www.express.pk/story/2831832/hafiz-naeem-says-if-the-government-does-not-announce-relief-for-the-people-we-will-announce-a-long-march-2831832/",
         "source": "Express",
-        "date": "2026-09-09T16:55:01+05:00",
-        "img": ""
-      },
-      {
-        "title": "پی سی بی کی ہدایت پر شاہین آفریدی کا فرسٹ کلاس کرکٹ میں شرکت کا فیصلہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831810/shaheen-afridi-decides-to-participate-in-first-class-cricket-on-pcbs-instructions-2831810/",
-        "source": "Express",
-        "date": "2026-09-09T16:16:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "دلجیت دوسانجھ کے نئے گانے ’ڈیول‘ کا تعلق ’کاکروچ احتجاج‘سے جوڑ دیا گیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831809/diljit-dosanjh-new-song-devil-linked-to-cockroach-agitation-2831809/",
-        "source": "Express",
-        "date": "2026-09-09T16:12:33+05:00",
-        "img": ""
-      },
-      {
-        "title": "جامعہ کراچی کے پروفیسر پر تشدد، ملزم کے والد معافی مانگنے انکے گھر پہنچ گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831808/assault-on-university-of-karachi-professor-accuseds-father-visits-his-home-to-apologize-2831808/",
-        "source": "Express",
-        "date": "2026-09-09T16:11:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "چیٹ جی پی ٹی کے نئے امیجز فیچر نے تہلکہ مچا دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831806/openais-new-chatgpt-images-25-2831806/",
-        "source": "Express",
-        "date": "2026-09-09T16:08:57+05:00",
-        "img": ""
-      },
-      {
-        "title": "بھارت میں خوفناک حادثہ؛ لوہے کی سلاخیں بس کو چیر کر ڈرائیور کے سینے میں پیوست ہوگئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831802/india-karnataka-bus-accident-iron-rods-driver-killed-2831802/",
-        "source": "Express",
-        "date": "2026-09-09T15:40:59+05:00",
-        "img": ""
-      },
-      {
-        "title": "انگلینڈ کے اولی رابنسن ٹیسٹ کرکٹ میں 100 وکٹیں حاصل کرنیوالے 50ویں بولر بن گئے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831801/englands-ollie-robinson-has-become-the-50th-bowler-to-take-100-wickets-in-test-cricket-2831801/",
-        "source": "Express",
-        "date": "2026-09-09T15:28:49+05:00",
-        "img": ""
-      },
-      {
-        "title": "سشانت سنگھ کو قتل اور اس کی سیکریٹری کو اجتماعی زیادتی کا نشانہ بنایا گیا تھا، اہم انکشافات",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831800/sushant-singh-was-murdered-and-his-secretary-was-gang-raped-important-revelations-2831800/",
-        "source": "Express",
-        "date": "2026-09-09T15:13:51+05:00",
+        "date": "2026-09-09T14:50:58+00:00",
         "img": ""
       },
       {
@@ -4578,6 +4618,14 @@
         "url": "https://www.dawn.com/news/2028610/brent-crude-rises-above-100-a-barrel-as-middle-east-conflict-intensifies",
         "source": "Dawn",
         "date": "2026-09-09T14:44:32+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایران جنگ ختم اور پیٹرول کب سستا ہوگا؟ ٹرمپ نے پہلی بار تاریخ بتادی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2831831/trump-iran-war-end-after-midterm-elections-oil-prices-2831831/",
+        "source": "Express",
+        "date": "2026-09-09T14:42:30+00:00",
         "img": ""
       },
       {
@@ -4594,54 +4642,6 @@
         "url": "https://www.express.pk/story/2831822/kp-mines-and-mineral-bill-2025-decide-under-consideration-new-amendments-2831822/",
         "source": "Express",
         "date": "2026-09-09T13:26:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "پیٹرول و ڈیزل کی قیمت میں ایک بار پھر اضافہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831815/petroleum-price-notification-issued-2831815/",
-        "source": "Express",
-        "date": "2026-09-09T12:49:19+00:00",
-        "img": ""
-      },
-      {
-        "title": "صدر مملکت آصف زرداری لندن سے خصوصی طیارے پر پاکستان کیلئے روانہ",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831814/president-asif-zardari-departs-london-for-pakistan-on-a-special-aircraft-2831814/",
-        "source": "Express",
-        "date": "2026-09-09T12:40:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "غیرمعیاری کاسمیٹکس پر پابندی کا بل منظور، خلاف ورزی پر 7 سال قید اور 1 کروڑ جرمانہ ہوگا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831807/bill-to-ban-substandard-cosmetics-passed-violation-will-be-punishable-by-7-years-in-prison-and-a-fine-of-rs-10-million-2831807/",
-        "source": "Express",
-        "date": "2026-09-09T11:10:32+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ ڈاکوؤں نے بیٹے کے سامنے باپ کو فائرنگ کر کے قتل کر دیا، بیٹا حواس کھو بیٹھا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831805/karachi-robbers-shot-father-dead-in-front-of-his-son-son-loses-his-senses-2831805/",
-        "source": "Express",
-        "date": "2026-09-09T11:02:52+00:00",
-        "img": ""
-      },
-      {
-        "title": "تعلیمی اداروں میں انرجی ڈرنکس پر پابندی اور جرمانے کا بل منظور",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831804/bill-passed-to-ban-and-fine-energy-drinks-in-educational-institutions-2831804/",
-        "source": "Express",
-        "date": "2026-09-09T10:59:17+00:00",
-        "img": ""
-      },
-      {
-        "title": "راولپنڈی: لاپتا 8 سالہ یتیم بچے کی لاش کنویں سے برآمد",
-        "summary": "",
-        "url": "https://www.express.pk/story/2831803/rawalpindi-body-of-missing-8-year-old-orphan-boy-recovered-from-a-well-2831803/",
-        "source": "Express",
-        "date": "2026-09-09T10:56:18+00:00",
         "img": ""
       },
       {
