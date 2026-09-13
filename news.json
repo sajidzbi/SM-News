@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-12T22:47:29.410358+00:00",
+  "fetched": "2026-09-13T00:34:04.047921+00:00",
   "categories": {
     "international": [
       {
@@ -17,6 +17,14 @@
         "source": "ARY News",
         "date": "2026-09-13T01:10:59+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-63.jpg"
+      },
+      {
+        "title": "’یمن میں جھڑپوں کے باعث کم از کم 76 ہزار افراد بے گھر ہوئے‘: حوثیوں نے امریکہ سے یمن میں مداخلت نہ کرنے کی درخواست کی ہے، ٹرمپ",
+        "summary": "امریکی صدر ڈونلڈ ٹرمپ نے دعویٰ کیا ہے کہ حوثیوں نے امریکہ سے رابطہ کر کے یمن میں مداخلت نہ کرنے کی درخواست کی ہے۔ ان کا کہنا ہے کہ حوثی ہم سے لڑنا نہیں چاہتے۔ دوسری جانب اقوامِ متحدہ کے ادارہ برائے پناہ گزین کا کہنا ہے کہ یمن میں حوثیوں اور حکومتی فورسز کے درمیان حالیہ جھڑپوں کے نتیجے میں کم از کم 76 ہزار افراد اپنے گھ",
+        "url": "https://www.bbc.co.uk/urdu/live/cqzjzv0mrgdlt?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-09-13T00:34:05.366833+00:00",
+        "img": ""
       },
       {
         "title": "Pakistan’s textiles, apparel remain core to exports and employment: Amb. Baloch",
@@ -88,14 +96,6 @@
         "url": "https://www.dawn.com/news/2029418/hesson-open-to-taking-charge-of-pakistan-test-side",
         "source": "Dawn",
         "date": "2026-09-12T22:52:26+05:00",
-        "img": ""
-      },
-      {
-        "title": "’یمن میں جھڑپوں کے باعث کم از کم 76 ہزار افراد بے گھر ہوئے‘: حوثیوں نے امریکہ سے یمن میں مداخلت نہ کرنے کی درخواست کی ہے، ٹرمپ",
-        "summary": "امریکی صدر ڈونلڈ ٹرمپ نے دعویٰ کیا ہے کہ حوثیوں نے امریکہ سے رابطہ کر کے یمن میں مداخلت نہ کرنے کی درخواست کی ہے۔ ان کا کہنا ہے کہ حوثی ہم سے لڑنا نہیں چاہتے۔ دوسری جانب اقوامِ متحدہ کے ادارہ برائے پناہ گزین کا کہنا ہے کہ یمن میں حوثیوں اور حکومتی فورسز کے درمیان حالیہ جھڑپوں کے نتیجے میں کم از کم 76 ہزار افراد اپنے گھ",
-        "url": "https://www.bbc.co.uk/urdu/live/cqzjzv0mrgdlt?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-09-12T22:47:31.101321+00:00",
         "img": ""
       },
       {
@@ -581,6 +581,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-63.jpg"
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan’s textiles, apparel remain core to exports and employment: Amb. Baloch",
         "summary": "Pakistan’s textiles, apparel remain core to exports and employment: Amb. Baloch",
         "url": "https://arynews.tv/pakistans-textiles-apparel-remain-core-to-exports-and-employment-amb-baloch",
@@ -603,6 +611,14 @@
         "source": "ARY News",
         "date": "2026-09-12T23:23:08+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/XI-urges-brics.jpg"
+      },
+      {
+        "title": "محمود اچکزئی کی اختر مینگل سے ملاقات، ملکی و بلوچستان کی سیاسی صورتحال پر مشاورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832399/mahmood-achakzai-meets-akhtar-mengal-discusses-political-situation-in-the-country-and-balochistan-2832399/",
+        "source": "Express",
+        "date": "2026-09-12T23:12:28+05:00",
+        "img": ""
       },
       {
         "title": "PML-N's Rana Sanaullah says Parliament to decide on more provinces",
@@ -909,27 +925,11 @@
         "img": ""
       },
       {
-        "title": "برائون انگریزکا سسٹم",
+        "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
         "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
+        "url": "https://www.express.pk/story/2832398/the-decision-regarding-new-provinces-will-be-made-in-parliament-says-rana-sanaullah-2832398/",
         "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "ہائے ہائے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832368/alas-alas-2832368/",
-        "source": "Express",
-        "date": "2026-09-12T17:47:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "لوح بھی تُو قلم بھی تُو (صلی اللہ علیہ وآلہ وسلم)",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832367/you-are-the-tablet-and-you-are-the-pen-peace-and-blessings-of-allah-be-upon-him-2832367/",
-        "source": "Express",
-        "date": "2026-09-12T17:43:43+05:00",
+        "date": "2026-09-12T17:46:15+00:00",
         "img": ""
       },
       {
@@ -1183,6 +1183,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-63.jpg"
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan’s textiles, apparel remain core to exports and employment: Amb. Baloch",
         "summary": "Pakistan’s textiles, apparel remain core to exports and employment: Amb. Baloch",
         "url": "https://arynews.tv/pakistans-textiles-apparel-remain-core-to-exports-and-employment-amb-baloch",
@@ -1205,6 +1213,14 @@
         "source": "ARY News",
         "date": "2026-09-12T23:23:08+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/XI-urges-brics.jpg"
+      },
+      {
+        "title": "محمود اچکزئی کی اختر مینگل سے ملاقات، ملکی و بلوچستان کی سیاسی صورتحال پر مشاورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832399/mahmood-achakzai-meets-akhtar-mengal-discusses-political-situation-in-the-country-and-balochistan-2832399/",
+        "source": "Express",
+        "date": "2026-09-12T23:12:28+05:00",
+        "img": ""
       },
       {
         "title": "PML-N's Rana Sanaullah says Parliament to decide on more provinces",
@@ -1511,27 +1527,11 @@
         "img": ""
       },
       {
-        "title": "برائون انگریزکا سسٹم",
+        "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
         "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
+        "url": "https://www.express.pk/story/2832398/the-decision-regarding-new-provinces-will-be-made-in-parliament-says-rana-sanaullah-2832398/",
         "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "ہائے ہائے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832368/alas-alas-2832368/",
-        "source": "Express",
-        "date": "2026-09-12T17:47:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "لوح بھی تُو قلم بھی تُو (صلی اللہ علیہ وآلہ وسلم)",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832367/you-are-the-tablet-and-you-are-the-pen-peace-and-blessings-of-allah-be-upon-him-2832367/",
-        "source": "Express",
-        "date": "2026-09-12T17:43:43+05:00",
+        "date": "2026-09-12T17:46:15+00:00",
         "img": ""
       },
       {
@@ -1857,6 +1857,22 @@
     ],
     "punjab": [
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "محمود اچکزئی کی اختر مینگل سے ملاقات، ملکی و بلوچستان کی سیاسی صورتحال پر مشاورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832399/mahmood-achakzai-meets-akhtar-mengal-discusses-political-situation-in-the-country-and-balochistan-2832399/",
+        "source": "Express",
+        "date": "2026-09-12T23:12:28+05:00",
+        "img": ""
+      },
+      {
         "title": "PML-N's Rana Sanaullah says Parliament to decide on more provinces",
         "summary": "<p>Adviser to the Prime Minister on Political Affairs Rana Sanaullah said on Saturday that Parliament will decide on the matter of creating new provinces.</p> <p>The <a href=\"https://www.dawn.com/news/2020299\"><u>recent debate</u></a> regarding new provinces began in late July when Interior Minister Mohsin Naqvi <a hre",
         "url": "https://www.dawn.com/news/2029377/pml-ns-rana-sanaullah-says-parliament-to-decide-on-more-provinces",
@@ -2041,27 +2057,11 @@
         "img": ""
       },
       {
-        "title": "برائون انگریزکا سسٹم",
+        "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
         "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
+        "url": "https://www.express.pk/story/2832398/the-decision-regarding-new-provinces-will-be-made-in-parliament-says-rana-sanaullah-2832398/",
         "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "ہائے ہائے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832368/alas-alas-2832368/",
-        "source": "Express",
-        "date": "2026-09-12T17:47:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "لوح بھی تُو قلم بھی تُو (صلی اللہ علیہ وآلہ وسلم)",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832367/you-are-the-tablet-and-you-are-the-pen-peace-and-blessings-of-allah-be-upon-him-2832367/",
-        "source": "Express",
-        "date": "2026-09-12T17:43:43+05:00",
+        "date": "2026-09-12T17:46:15+00:00",
         "img": ""
       },
       {
@@ -2259,6 +2259,22 @@
     ],
     "sindh": [
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "محمود اچکزئی کی اختر مینگل سے ملاقات، ملکی و بلوچستان کی سیاسی صورتحال پر مشاورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832399/mahmood-achakzai-meets-akhtar-mengal-discusses-political-situation-in-the-country-and-balochistan-2832399/",
+        "source": "Express",
+        "date": "2026-09-12T23:12:28+05:00",
+        "img": ""
+      },
+      {
         "title": "PML-N's Rana Sanaullah says Parliament to decide on more provinces",
         "summary": "<p>Adviser to the Prime Minister on Political Affairs Rana Sanaullah said on Saturday that Parliament will decide on the matter of creating new provinces.</p> <p>The <a href=\"https://www.dawn.com/news/2020299\"><u>recent debate</u></a> regarding new provinces began in late July when Interior Minister Mohsin Naqvi <a hre",
         "url": "https://www.dawn.com/news/2029377/pml-ns-rana-sanaullah-says-parliament-to-decide-on-more-provinces",
@@ -2443,27 +2459,11 @@
         "img": ""
       },
       {
-        "title": "برائون انگریزکا سسٹم",
+        "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
         "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
+        "url": "https://www.express.pk/story/2832398/the-decision-regarding-new-provinces-will-be-made-in-parliament-says-rana-sanaullah-2832398/",
         "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "ہائے ہائے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832368/alas-alas-2832368/",
-        "source": "Express",
-        "date": "2026-09-12T17:47:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "لوح بھی تُو قلم بھی تُو (صلی اللہ علیہ وآلہ وسلم)",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832367/you-are-the-tablet-and-you-are-the-pen-peace-and-blessings-of-allah-be-upon-him-2832367/",
-        "source": "Express",
-        "date": "2026-09-12T17:43:43+05:00",
+        "date": "2026-09-12T17:46:15+00:00",
         "img": ""
       },
       {
@@ -2669,6 +2669,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-63.jpg"
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan’s textiles, apparel remain core to exports and employment: Amb. Baloch",
         "summary": "Pakistan’s textiles, apparel remain core to exports and employment: Amb. Baloch",
         "url": "https://arynews.tv/pakistans-textiles-apparel-remain-core-to-exports-and-employment-amb-baloch",
@@ -2691,6 +2699,14 @@
         "source": "ARY News",
         "date": "2026-09-12T23:23:08+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/XI-urges-brics.jpg"
+      },
+      {
+        "title": "محمود اچکزئی کی اختر مینگل سے ملاقات، ملکی و بلوچستان کی سیاسی صورتحال پر مشاورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832399/mahmood-achakzai-meets-akhtar-mengal-discusses-political-situation-in-the-country-and-balochistan-2832399/",
+        "source": "Express",
+        "date": "2026-09-12T23:12:28+05:00",
+        "img": ""
       },
       {
         "title": "PML-N's Rana Sanaullah says Parliament to decide on more provinces",
@@ -2997,27 +3013,11 @@
         "img": ""
       },
       {
-        "title": "برائون انگریزکا سسٹم",
+        "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
         "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
+        "url": "https://www.express.pk/story/2832398/the-decision-regarding-new-provinces-will-be-made-in-parliament-says-rana-sanaullah-2832398/",
         "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "ہائے ہائے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832368/alas-alas-2832368/",
-        "source": "Express",
-        "date": "2026-09-12T17:47:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "لوح بھی تُو قلم بھی تُو (صلی اللہ علیہ وآلہ وسلم)",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832367/you-are-the-tablet-and-you-are-the-pen-peace-and-blessings-of-allah-be-upon-him-2832367/",
-        "source": "Express",
-        "date": "2026-09-12T17:43:43+05:00",
+        "date": "2026-09-12T17:46:15+00:00",
         "img": ""
       },
       {
@@ -3271,6 +3271,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-63.jpg"
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan’s textiles, apparel remain core to exports and employment: Amb. Baloch",
         "summary": "Pakistan’s textiles, apparel remain core to exports and employment: Amb. Baloch",
         "url": "https://arynews.tv/pakistans-textiles-apparel-remain-core-to-exports-and-employment-amb-baloch",
@@ -3293,6 +3301,14 @@
         "source": "ARY News",
         "date": "2026-09-12T23:23:08+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/XI-urges-brics.jpg"
+      },
+      {
+        "title": "محمود اچکزئی کی اختر مینگل سے ملاقات، ملکی و بلوچستان کی سیاسی صورتحال پر مشاورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832399/mahmood-achakzai-meets-akhtar-mengal-discusses-political-situation-in-the-country-and-balochistan-2832399/",
+        "source": "Express",
+        "date": "2026-09-12T23:12:28+05:00",
+        "img": ""
       },
       {
         "title": "کراچی، سچل پولیس کی کارروائی، فائرنگ کے تبادلے کے بعد 2 ملزمان گرفتار",
@@ -3551,27 +3567,11 @@
         "img": ""
       },
       {
-        "title": "برائون انگریزکا سسٹم",
+        "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
         "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
+        "url": "https://www.express.pk/story/2832398/the-decision-regarding-new-provinces-will-be-made-in-parliament-says-rana-sanaullah-2832398/",
         "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "ہائے ہائے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832368/alas-alas-2832368/",
-        "source": "Express",
-        "date": "2026-09-12T17:47:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "لوح بھی تُو قلم بھی تُو (صلی اللہ علیہ وآلہ وسلم)",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832367/you-are-the-tablet-and-you-are-the-pen-peace-and-blessings-of-allah-be-upon-him-2832367/",
-        "source": "Express",
-        "date": "2026-09-12T17:43:43+05:00",
+        "date": "2026-09-12T17:46:15+00:00",
         "img": ""
       },
       {
@@ -3875,6 +3875,22 @@
         "img": ""
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "محمود اچکزئی کی اختر مینگل سے ملاقات، ملکی و بلوچستان کی سیاسی صورتحال پر مشاورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832399/mahmood-achakzai-meets-akhtar-mengal-discusses-political-situation-in-the-country-and-balochistan-2832399/",
+        "source": "Express",
+        "date": "2026-09-12T23:12:28+05:00",
+        "img": ""
+      },
+      {
         "title": "Hesson open to taking charge of Pakistan Test side",
         "summary": "<p>Pakistan interim head coach Mike Hesson has expressed his willingness to take up the Test coaching role on a permanent basis alongside his existing white-ball responsibilities, saying he believes the country has <a href=\"https://www.dawn.com/news/2029310/happy-gilmore-is-real-and-he-plays-cricket-for-pakistan\">enoug",
         "url": "https://www.dawn.com/news/2029418/hesson-open-to-taking-charge-of-pakistan-test-side",
@@ -4059,27 +4075,11 @@
         "img": ""
       },
       {
-        "title": "برائون انگریزکا سسٹم",
+        "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
         "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
+        "url": "https://www.express.pk/story/2832398/the-decision-regarding-new-provinces-will-be-made-in-parliament-says-rana-sanaullah-2832398/",
         "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "ہائے ہائے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832368/alas-alas-2832368/",
-        "source": "Express",
-        "date": "2026-09-12T17:47:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "لوح بھی تُو قلم بھی تُو (صلی اللہ علیہ وآلہ وسلم)",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832367/you-are-the-tablet-and-you-are-the-pen-peace-and-blessings-of-allah-be-upon-him-2832367/",
-        "source": "Express",
-        "date": "2026-09-12T17:43:43+05:00",
+        "date": "2026-09-12T17:46:15+00:00",
         "img": ""
       },
       {
@@ -4413,6 +4413,22 @@
     ],
     "business": [
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 4 ملزمان زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832401/karachi-police-encounters-in-various-parts-of-the-city-four-suspects-arrested-in-injured-condition-2832401/",
+        "source": "Express",
+        "date": "2026-09-13T00:15:20+05:00",
+        "img": ""
+      },
+      {
+        "title": "محمود اچکزئی کی اختر مینگل سے ملاقات، ملکی و بلوچستان کی سیاسی صورتحال پر مشاورت",
+        "summary": "",
+        "url": "https://www.express.pk/story/2832399/mahmood-achakzai-meets-akhtar-mengal-discusses-political-situation-in-the-country-and-balochistan-2832399/",
+        "source": "Express",
+        "date": "2026-09-12T23:12:28+05:00",
+        "img": ""
+      },
+      {
         "title": "کراچی، سچل پولیس کی کارروائی، فائرنگ کے تبادلے کے بعد 2 ملزمان گرفتار",
         "summary": "",
         "url": "https://www.express.pk/story/2832397/karachi-sachal-police-operation-two-suspects-arrested-following-an-exchange-of-fire-2832397/",
@@ -4549,27 +4565,11 @@
         "img": ""
       },
       {
-        "title": "برائون انگریزکا سسٹم",
+        "title": "نئے صوبوں کا فیصلہ پارلیمنٹ میں ہو گا، رانا ثناء اللہ",
         "summary": "",
-        "url": "https://www.express.pk/story/2832369/the-brown-englishmans-system-2832369/",
+        "url": "https://www.express.pk/story/2832398/the-decision-regarding-new-provinces-will-be-made-in-parliament-says-rana-sanaullah-2832398/",
         "source": "Express",
-        "date": "2026-09-12T17:50:17+05:00",
-        "img": ""
-      },
-      {
-        "title": "ہائے ہائے",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832368/alas-alas-2832368/",
-        "source": "Express",
-        "date": "2026-09-12T17:47:15+05:00",
-        "img": ""
-      },
-      {
-        "title": "لوح بھی تُو قلم بھی تُو (صلی اللہ علیہ وآلہ وسلم)",
-        "summary": "",
-        "url": "https://www.express.pk/story/2832367/you-are-the-tablet-and-you-are-the-pen-peace-and-blessings-of-allah-be-upon-him-2832367/",
-        "source": "Express",
-        "date": "2026-09-12T17:43:43+05:00",
+        "date": "2026-09-12T17:46:15+00:00",
         "img": ""
       },
       {
