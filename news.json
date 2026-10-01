@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-30T22:47:03.226798+00:00",
+  "fetched": "2026-10-01T01:45:58.661759+00:00",
   "categories": {
     "international": [
       {
@@ -16,6 +16,14 @@
         "url": "https://www.dawn.com/news/2033890/mitchell-marsh-hails-improvements-after-australia-win-final-odi-against-south-africa",
         "source": "Dawn",
         "date": "2026-10-01T03:31:38+05:00",
+        "img": ""
+      },
+      {
+        "title": "ایرانی صدر کا اسلام آباد مفاہمتی یادداشت کا دفاع: ’اس معاہدے نے امریکہ کو پابند کیا تھا‘",
+        "summary": "امریکہ سے سفارت کاری کی حمایت کرتے ہوئے ایرانی صدر مسعود پزشکیان نے کہا ہے کہ اسلام آباد مفاہمتی یادداشت کے تحت ’جو معاہدہ طے پایا تھا، اس سے ہماری عزت پر بھی حرف نہیں آیا اور امریکہ کو بھی بعض واضح وعدے پورے کرنے کا پابند بنایا گیا۔‘",
+        "url": "https://www.bbc.co.uk/urdu/live/ck20l5z7n9l9t?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-10-01T01:46:00.591850+00:00",
         "img": ""
       },
       {
@@ -120,14 +128,6 @@
         "url": "https://www.dawn.com/news/2033790/shubman-gill-double-ton-powers-india-to-mammoth-odi-chase-of-406",
         "source": "Dawn",
         "date": "2026-09-30T22:49:39+05:00",
-        "img": ""
-      },
-      {
-        "title": "ایرانی صدر کا اسلام آباد مفاہمتی یادداشت کا دفاع: ’اس معاہدے نے امریکہ کو پابند کیا تھا‘",
-        "summary": "امریکہ سے سفارت کاری کی حمایت کرتے ہوئے ایرانی صدر مسعود پزشکیان نے کہا ہے کہ اسلام آباد مفاہمتی یادداشت کے تحت ’جو معاہدہ طے پایا تھا، اس سے ہماری عزت پر بھی حرف نہیں آیا اور امریکہ کو بھی بعض واضح وعدے پورے کرنے کا پابند بنایا گیا۔‘",
-        "url": "https://www.bbc.co.uk/urdu/live/ck20l5z7n9l9t?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-09-30T22:47:05.902180+00:00",
         "img": ""
       },
       {
@@ -573,6 +573,22 @@
     ],
     "national": [
       {
+        "title": "یو اے ای پرواز واقعہ، نیتن یاہو اور اماراتی صدر میں ہنگامی رابطہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835678/uae-flight-incident-netanyahu-and-emirati-president-hold-emergency-contact-2835678/",
+        "source": "Express",
+        "date": "2026-10-01T01:36:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 زخمیوں سمیت 6 ڈاکو گرفتار، ایک پولیس اہلکار بھی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835677/karachi-police-encounters-in-different-areas-of-the-city-6-robbers-arrested-including-5-injured-one-policeman-also-injured-2835677/",
+        "source": "Express",
+        "date": "2026-10-01T00:40:02+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan says Taliban’s allegations reflect failure to address internal problems",
         "summary": "Pakistan says Taliban’s allegations reflect failure to address internal problems",
         "url": "https://arynews.tv/pakistan-says-talibans-allegations-reflect-failure-to-address-internal-problems",
@@ -626,6 +642,14 @@
         "url": "https://www.dawn.com/news/2033784/minister-says-federal-govt-seriously-considering-imposition-of-emergency-in-kp",
         "source": "Dawn",
         "date": "2026-09-30T23:09:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835673/karachi-police-encounters-in-various-parts-of-the-city-two-bandits-arrested-in-injured-condition-2835673/",
+        "source": "Express",
+        "date": "2026-09-30T23:08:10+05:00",
         "img": ""
       },
       {
@@ -861,6 +885,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Babar-Azam.jpg"
       },
       {
+        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
+        "source": "Express",
+        "date": "2026-09-30T19:53:41+05:00",
+        "img": ""
+      },
+      {
         "title": "Electricity per unit sales tax rates revised for steel sector",
         "summary": "Electricity per unit sales tax rates revised for steel sector",
         "url": "https://arynews.tv/electricity-per-unit-sales-tax-rates-revised-for-steel-sector",
@@ -893,19 +925,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Young-adults-using-AI-for-health-advice-show-higher-rates-of-anxiety.jpg"
       },
       {
+        "title": "کراچی، 59 لڑکیوں کے موبائل فونز چوری ہونے کے معاملے میں اہم گرفتاریاں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835675/karachi-key-arrests-made-in-the-case-of-mobile-phones-stolen-from-59-girls-2835675/",
+        "source": "Express",
+        "date": "2026-09-30T19:26:54+00:00",
+        "img": ""
+      },
+      {
         "title": "لاہور؛ کوٹ لکھپت جیل میں قیدیوں کے دو گروپس میں جھگڑا، ایک جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2835652/lahore-clash-between-two-groups-of-inmates-at-kot-lakhpat-jail-one-killed-2835652/",
         "source": "Express",
         "date": "2026-09-30T19:26:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "برطانیہ: ویٹرن براڈکاسٹر 86 برس کی عمر میں انتقال کر گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835651/dame-esther-rantzen-2835651/",
-        "source": "Express",
-        "date": "2026-09-30T19:24:04+05:00",
         "img": ""
       },
       {
@@ -915,14 +947,6 @@
         "source": "ARY News",
         "date": "2026-09-30T19:20:18+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/tariq-fazal.jpg"
-      },
-      {
-        "title": "امریکی محکمہ دفاع پینٹاگون کا 30 لاکھ افراد کا حساس ڈیٹا لیک ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835648/pentagon-data-leak-30-lac-peoples-2835648/",
-        "source": "Express",
-        "date": "2026-09-30T19:14:08+05:00",
-        "img": ""
       },
       {
         "title": "Karachi security guard attempts suicide by shooting himself with rifle",
@@ -938,14 +962,6 @@
         "url": "https://www.dawn.com/news/2033764/punjab-rolls-out-33-mobile-police-stations-offering-14-services-including-fir-registration",
         "source": "Dawn",
         "date": "2026-09-30T19:03:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "رونالڈو نے پرتگال کا تربیتی کیمپ چھوڑنے پر خاموشی توڑ دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835647/ronaldo-has-broken-his-silence-on-leaving-portugals-training-camp-2835647/",
-        "source": "Express",
-        "date": "2026-09-30T19:02:40+05:00",
         "img": ""
       },
       {
@@ -965,19 +981,35 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Baghdad-Iraq.jpg"
       },
       {
-        "title": "لوئر دیر میں پُراسرار بخار کی بیماری پھیل گئی، بچوں سمیت 7 جاں بحق، درجنوں متاثر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835645/mysterious-fever-outbreak-in-lower-dir-7-dead-including-children-dozens-infected-2835645/",
-        "source": "Express",
-        "date": "2026-09-30T18:45:00+05:00",
-        "img": ""
-      },
-      {
         "title": "3 Pakistanis among 5 crew lost during operation to recover ship hijacked by Somali pirates, FO confirms",
         "summary": "<p>The Foreign Office (FO) on Wednesday expressed condolences over the death of three Pakistani nationals during an <a href=\"https://www.dawn.com/news/2033553\">operation </a>to recover the MT Honour 25 oil tanker, which had been <a href=\"https://www.dawn.com/news/2000038\">hijacked</a> by Somali pirates in April.</p> <p",
         "url": "https://www.dawn.com/news/2033759/3-pakistanis-among-5-crew-lost-during-operation-to-recover-ship-hijacked-by-somali-pirates-fo-confirms",
         "source": "Dawn",
         "date": "2026-09-30T18:25:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "سعودی عرب پر حملہ ہوا تو بھرپور جواب دیں گے، محمد بن سلمان کا دوٹوک اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835674/we-will-respond-forcefully-if-saudi-arabia-is-attacked-mohammed-bin-salmans-unequivocal-declaration-2835674/",
+        "source": "Express",
+        "date": "2026-09-30T18:17:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "سپر انٹیلی جنس کی دوڑ جیتنے والا دنیا پر راج کرے گا، ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835672/whoever-wins-the-race-for-super-intelligence-will-rule-the-world-trump-2835672/",
+        "source": "Express",
+        "date": "2026-09-30T17:59:06+00:00",
+        "img": ""
+      },
+      {
+        "title": "آئینی عدالت کے رولز پبلک، توہین عدالت پر سوموٹو کا اختیار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835671/constitutional-court-rules-public-suo-motu-authority-over-contempt-of-court-2835671/",
+        "source": "Express",
+        "date": "2026-09-30T17:48:04+00:00",
         "img": ""
       },
       {
@@ -989,7 +1021,7 @@
         "img": ""
       },
       {
-        "title": "پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
+        "title": "خانیوال میں بیٹھے پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
         "summary": "",
         "url": "https://www.express.pk/story/2835669/a-pakistani-youth-swindled-the-us-postal-service-out-of-126-million-2835669/",
         "source": "Express",
@@ -1026,38 +1058,6 @@
         "url": "https://www.dawn.com/news/2033731/lahore-police-granted-3-day-physical-remand-of-woman-in-connection-with-azeri-nationals-rape-case",
         "source": "Dawn",
         "date": "2026-09-30T15:04:13+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
-        "source": "Express",
-        "date": "2026-09-30T14:53:41+00:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور، پرائیوٹ کالج کے سوئمنگ پول میں 23 سالہ طالب علم ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835650/23-year-old-student-drown-in-swimming-poll-2835650/",
-        "source": "Express",
-        "date": "2026-09-30T14:21:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران نےعراق سے امریکی فوجی انخلا کو اپنی فتح قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835646/iran-claim-it-success-us-left-iraq-after-decades-2835646/",
-        "source": "Express",
-        "date": "2026-09-30T13:47:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایس سی او سربراہی اجلاس کیلئے 45 بلٹ پروف گاڑیوں کی خریداری، حکومت کی وضاحت جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835643/government-issues-clarification-regarding-the-purchase-of-45-bulletproof-vehicles-for-the-sco-summit-2835643/",
-        "source": "Express",
-        "date": "2026-09-30T13:33:05+00:00",
         "img": ""
       },
       {
@@ -1175,6 +1175,22 @@
     ],
     "kpk": [
       {
+        "title": "یو اے ای پرواز واقعہ، نیتن یاہو اور اماراتی صدر میں ہنگامی رابطہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835678/uae-flight-incident-netanyahu-and-emirati-president-hold-emergency-contact-2835678/",
+        "source": "Express",
+        "date": "2026-10-01T01:36:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 زخمیوں سمیت 6 ڈاکو گرفتار، ایک پولیس اہلکار بھی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835677/karachi-police-encounters-in-different-areas-of-the-city-6-robbers-arrested-including-5-injured-one-policeman-also-injured-2835677/",
+        "source": "Express",
+        "date": "2026-10-01T00:40:02+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan says Taliban’s allegations reflect failure to address internal problems",
         "summary": "Pakistan says Taliban’s allegations reflect failure to address internal problems",
         "url": "https://arynews.tv/pakistan-says-talibans-allegations-reflect-failure-to-address-internal-problems",
@@ -1228,6 +1244,14 @@
         "url": "https://www.dawn.com/news/2033784/minister-says-federal-govt-seriously-considering-imposition-of-emergency-in-kp",
         "source": "Dawn",
         "date": "2026-09-30T23:09:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835673/karachi-police-encounters-in-various-parts-of-the-city-two-bandits-arrested-in-injured-condition-2835673/",
+        "source": "Express",
+        "date": "2026-09-30T23:08:10+05:00",
         "img": ""
       },
       {
@@ -1463,6 +1487,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Babar-Azam.jpg"
       },
       {
+        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
+        "source": "Express",
+        "date": "2026-09-30T19:53:41+05:00",
+        "img": ""
+      },
+      {
         "title": "Electricity per unit sales tax rates revised for steel sector",
         "summary": "Electricity per unit sales tax rates revised for steel sector",
         "url": "https://arynews.tv/electricity-per-unit-sales-tax-rates-revised-for-steel-sector",
@@ -1495,19 +1527,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Young-adults-using-AI-for-health-advice-show-higher-rates-of-anxiety.jpg"
       },
       {
+        "title": "کراچی، 59 لڑکیوں کے موبائل فونز چوری ہونے کے معاملے میں اہم گرفتاریاں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835675/karachi-key-arrests-made-in-the-case-of-mobile-phones-stolen-from-59-girls-2835675/",
+        "source": "Express",
+        "date": "2026-09-30T19:26:54+00:00",
+        "img": ""
+      },
+      {
         "title": "لاہور؛ کوٹ لکھپت جیل میں قیدیوں کے دو گروپس میں جھگڑا، ایک جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2835652/lahore-clash-between-two-groups-of-inmates-at-kot-lakhpat-jail-one-killed-2835652/",
         "source": "Express",
         "date": "2026-09-30T19:26:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "برطانیہ: ویٹرن براڈکاسٹر 86 برس کی عمر میں انتقال کر گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835651/dame-esther-rantzen-2835651/",
-        "source": "Express",
-        "date": "2026-09-30T19:24:04+05:00",
         "img": ""
       },
       {
@@ -1517,14 +1549,6 @@
         "source": "ARY News",
         "date": "2026-09-30T19:20:18+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/tariq-fazal.jpg"
-      },
-      {
-        "title": "امریکی محکمہ دفاع پینٹاگون کا 30 لاکھ افراد کا حساس ڈیٹا لیک ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835648/pentagon-data-leak-30-lac-peoples-2835648/",
-        "source": "Express",
-        "date": "2026-09-30T19:14:08+05:00",
-        "img": ""
       },
       {
         "title": "Karachi security guard attempts suicide by shooting himself with rifle",
@@ -1540,14 +1564,6 @@
         "url": "https://www.dawn.com/news/2033764/punjab-rolls-out-33-mobile-police-stations-offering-14-services-including-fir-registration",
         "source": "Dawn",
         "date": "2026-09-30T19:03:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "رونالڈو نے پرتگال کا تربیتی کیمپ چھوڑنے پر خاموشی توڑ دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835647/ronaldo-has-broken-his-silence-on-leaving-portugals-training-camp-2835647/",
-        "source": "Express",
-        "date": "2026-09-30T19:02:40+05:00",
         "img": ""
       },
       {
@@ -1567,19 +1583,35 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Baghdad-Iraq.jpg"
       },
       {
-        "title": "لوئر دیر میں پُراسرار بخار کی بیماری پھیل گئی، بچوں سمیت 7 جاں بحق، درجنوں متاثر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835645/mysterious-fever-outbreak-in-lower-dir-7-dead-including-children-dozens-infected-2835645/",
-        "source": "Express",
-        "date": "2026-09-30T18:45:00+05:00",
-        "img": ""
-      },
-      {
         "title": "3 Pakistanis among 5 crew lost during operation to recover ship hijacked by Somali pirates, FO confirms",
         "summary": "<p>The Foreign Office (FO) on Wednesday expressed condolences over the death of three Pakistani nationals during an <a href=\"https://www.dawn.com/news/2033553\">operation </a>to recover the MT Honour 25 oil tanker, which had been <a href=\"https://www.dawn.com/news/2000038\">hijacked</a> by Somali pirates in April.</p> <p",
         "url": "https://www.dawn.com/news/2033759/3-pakistanis-among-5-crew-lost-during-operation-to-recover-ship-hijacked-by-somali-pirates-fo-confirms",
         "source": "Dawn",
         "date": "2026-09-30T18:25:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "سعودی عرب پر حملہ ہوا تو بھرپور جواب دیں گے، محمد بن سلمان کا دوٹوک اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835674/we-will-respond-forcefully-if-saudi-arabia-is-attacked-mohammed-bin-salmans-unequivocal-declaration-2835674/",
+        "source": "Express",
+        "date": "2026-09-30T18:17:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "سپر انٹیلی جنس کی دوڑ جیتنے والا دنیا پر راج کرے گا، ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835672/whoever-wins-the-race-for-super-intelligence-will-rule-the-world-trump-2835672/",
+        "source": "Express",
+        "date": "2026-09-30T17:59:06+00:00",
+        "img": ""
+      },
+      {
+        "title": "آئینی عدالت کے رولز پبلک، توہین عدالت پر سوموٹو کا اختیار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835671/constitutional-court-rules-public-suo-motu-authority-over-contempt-of-court-2835671/",
+        "source": "Express",
+        "date": "2026-09-30T17:48:04+00:00",
         "img": ""
       },
       {
@@ -1591,7 +1623,7 @@
         "img": ""
       },
       {
-        "title": "پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
+        "title": "خانیوال میں بیٹھے پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
         "summary": "",
         "url": "https://www.express.pk/story/2835669/a-pakistani-youth-swindled-the-us-postal-service-out-of-126-million-2835669/",
         "source": "Express",
@@ -1628,38 +1660,6 @@
         "url": "https://www.dawn.com/news/2033731/lahore-police-granted-3-day-physical-remand-of-woman-in-connection-with-azeri-nationals-rape-case",
         "source": "Dawn",
         "date": "2026-09-30T15:04:13+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
-        "source": "Express",
-        "date": "2026-09-30T14:53:41+00:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور، پرائیوٹ کالج کے سوئمنگ پول میں 23 سالہ طالب علم ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835650/23-year-old-student-drown-in-swimming-poll-2835650/",
-        "source": "Express",
-        "date": "2026-09-30T14:21:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران نےعراق سے امریکی فوجی انخلا کو اپنی فتح قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835646/iran-claim-it-success-us-left-iraq-after-decades-2835646/",
-        "source": "Express",
-        "date": "2026-09-30T13:47:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایس سی او سربراہی اجلاس کیلئے 45 بلٹ پروف گاڑیوں کی خریداری، حکومت کی وضاحت جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835643/government-issues-clarification-regarding-the-purchase-of-45-bulletproof-vehicles-for-the-sco-summit-2835643/",
-        "source": "Express",
-        "date": "2026-09-30T13:33:05+00:00",
         "img": ""
       },
       {
@@ -1857,11 +1857,35 @@
     ],
     "punjab": [
       {
+        "title": "یو اے ای پرواز واقعہ، نیتن یاہو اور اماراتی صدر میں ہنگامی رابطہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835678/uae-flight-incident-netanyahu-and-emirati-president-hold-emergency-contact-2835678/",
+        "source": "Express",
+        "date": "2026-10-01T01:36:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 زخمیوں سمیت 6 ڈاکو گرفتار، ایک پولیس اہلکار بھی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835677/karachi-police-encounters-in-different-areas-of-the-city-6-robbers-arrested-including-5-injured-one-policeman-also-injured-2835677/",
+        "source": "Express",
+        "date": "2026-10-01T00:40:02+05:00",
+        "img": ""
+      },
+      {
         "title": "Minister says federal govt 'seriously considering' imposition of emergency in KP",
         "summary": "<p>Parliamentary Affairs Minister Tariq Fazal Chaudhry said on Wednesday that the federal government was “seriously considering” imposing an emergency in Khyber Pakhtunkhwa.</p> <p>The government has threatened to send the PTI government in KP packing by imposing governor’s rule or an emergency if the provincial leader",
         "url": "https://www.dawn.com/news/2033784/minister-says-federal-govt-seriously-considering-imposition-of-emergency-in-kp",
         "source": "Dawn",
         "date": "2026-09-30T23:09:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835673/karachi-police-encounters-in-various-parts-of-the-city-two-bandits-arrested-in-injured-condition-2835673/",
+        "source": "Express",
+        "date": "2026-09-30T23:08:10+05:00",
         "img": ""
       },
       {
@@ -2001,11 +2025,27 @@
         "img": ""
       },
       {
+        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
+        "source": "Express",
+        "date": "2026-09-30T19:53:41+05:00",
+        "img": ""
+      },
+      {
         "title": "جامعہ کراچی:قائم مقام وائس چانسلر کی عدم موجودگی میں عارضی شیخ الجامعہ کی تقرری",
         "summary": "",
         "url": "https://www.express.pk/story/2835654/ku-vc-2835654/",
         "source": "Express",
         "date": "2026-09-30T19:41:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، 59 لڑکیوں کے موبائل فونز چوری ہونے کے معاملے میں اہم گرفتاریاں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835675/karachi-key-arrests-made-in-the-case-of-mobile-phones-stolen-from-59-girls-2835675/",
+        "source": "Express",
+        "date": "2026-09-30T19:26:54+00:00",
         "img": ""
       },
       {
@@ -2017,43 +2057,11 @@
         "img": ""
       },
       {
-        "title": "برطانیہ: ویٹرن براڈکاسٹر 86 برس کی عمر میں انتقال کر گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835651/dame-esther-rantzen-2835651/",
-        "source": "Express",
-        "date": "2026-09-30T19:24:04+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکی محکمہ دفاع پینٹاگون کا 30 لاکھ افراد کا حساس ڈیٹا لیک ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835648/pentagon-data-leak-30-lac-peoples-2835648/",
-        "source": "Express",
-        "date": "2026-09-30T19:14:08+05:00",
-        "img": ""
-      },
-      {
         "title": "Punjab rolls out 33 mobile police stations offering 14 services, including FIR registration",
         "summary": "<p>LAHORE: Punjab Chief Minister Maryam Nawaz on Wednesday inaugurated 33 mobile police stations that would provide 14 services, including the registration of cases, across Punjab, an official statement said.</p> <p>Six of these units would be dedicated for addressing issues faced by women, the statement quoted Punjab ",
         "url": "https://www.dawn.com/news/2033764/punjab-rolls-out-33-mobile-police-stations-offering-14-services-including-fir-registration",
         "source": "Dawn",
         "date": "2026-09-30T19:03:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "رونالڈو نے پرتگال کا تربیتی کیمپ چھوڑنے پر خاموشی توڑ دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835647/ronaldo-has-broken-his-silence-on-leaving-portugals-training-camp-2835647/",
-        "source": "Express",
-        "date": "2026-09-30T19:02:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "لوئر دیر میں پُراسرار بخار کی بیماری پھیل گئی، بچوں سمیت 7 جاں بحق، درجنوں متاثر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835645/mysterious-fever-outbreak-in-lower-dir-7-dead-including-children-dozens-infected-2835645/",
-        "source": "Express",
-        "date": "2026-09-30T18:45:00+05:00",
         "img": ""
       },
       {
@@ -2065,6 +2073,30 @@
         "img": ""
       },
       {
+        "title": "سعودی عرب پر حملہ ہوا تو بھرپور جواب دیں گے، محمد بن سلمان کا دوٹوک اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835674/we-will-respond-forcefully-if-saudi-arabia-is-attacked-mohammed-bin-salmans-unequivocal-declaration-2835674/",
+        "source": "Express",
+        "date": "2026-09-30T18:17:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "سپر انٹیلی جنس کی دوڑ جیتنے والا دنیا پر راج کرے گا، ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835672/whoever-wins-the-race-for-super-intelligence-will-rule-the-world-trump-2835672/",
+        "source": "Express",
+        "date": "2026-09-30T17:59:06+00:00",
+        "img": ""
+      },
+      {
+        "title": "آئینی عدالت کے رولز پبلک، توہین عدالت پر سوموٹو کا اختیار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835671/constitutional-court-rules-public-suo-motu-authority-over-contempt-of-court-2835671/",
+        "source": "Express",
+        "date": "2026-09-30T17:48:04+00:00",
+        "img": ""
+      },
+      {
         "title": "ویلتھ اسٹیٹمنٹ بدل کر9 ارب روپے کا فراڈ، 48 انکوائریاں شروع",
         "summary": "",
         "url": "https://www.express.pk/story/2835670/rs-9-billion-fraud-involving-altered-wealth-statements-48-inquiries-initiated-2835670/",
@@ -2073,7 +2105,7 @@
         "img": ""
       },
       {
-        "title": "پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
+        "title": "خانیوال میں بیٹھے پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
         "summary": "",
         "url": "https://www.express.pk/story/2835669/a-pakistani-youth-swindled-the-us-postal-service-out-of-126-million-2835669/",
         "source": "Express",
@@ -2110,38 +2142,6 @@
         "url": "https://www.dawn.com/news/2033731/lahore-police-granted-3-day-physical-remand-of-woman-in-connection-with-azeri-nationals-rape-case",
         "source": "Dawn",
         "date": "2026-09-30T15:04:13+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
-        "source": "Express",
-        "date": "2026-09-30T14:53:41+00:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور، پرائیوٹ کالج کے سوئمنگ پول میں 23 سالہ طالب علم ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835650/23-year-old-student-drown-in-swimming-poll-2835650/",
-        "source": "Express",
-        "date": "2026-09-30T14:21:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران نےعراق سے امریکی فوجی انخلا کو اپنی فتح قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835646/iran-claim-it-success-us-left-iraq-after-decades-2835646/",
-        "source": "Express",
-        "date": "2026-09-30T13:47:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایس سی او سربراہی اجلاس کیلئے 45 بلٹ پروف گاڑیوں کی خریداری، حکومت کی وضاحت جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835643/government-issues-clarification-regarding-the-purchase-of-45-bulletproof-vehicles-for-the-sco-summit-2835643/",
-        "source": "Express",
-        "date": "2026-09-30T13:33:05+00:00",
         "img": ""
       },
       {
@@ -2259,11 +2259,35 @@
     ],
     "sindh": [
       {
+        "title": "یو اے ای پرواز واقعہ، نیتن یاہو اور اماراتی صدر میں ہنگامی رابطہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835678/uae-flight-incident-netanyahu-and-emirati-president-hold-emergency-contact-2835678/",
+        "source": "Express",
+        "date": "2026-10-01T01:36:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 زخمیوں سمیت 6 ڈاکو گرفتار، ایک پولیس اہلکار بھی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835677/karachi-police-encounters-in-different-areas-of-the-city-6-robbers-arrested-including-5-injured-one-policeman-also-injured-2835677/",
+        "source": "Express",
+        "date": "2026-10-01T00:40:02+05:00",
+        "img": ""
+      },
+      {
         "title": "Minister says federal govt 'seriously considering' imposition of emergency in KP",
         "summary": "<p>Parliamentary Affairs Minister Tariq Fazal Chaudhry said on Wednesday that the federal government was “seriously considering” imposing an emergency in Khyber Pakhtunkhwa.</p> <p>The government has threatened to send the PTI government in KP packing by imposing governor’s rule or an emergency if the provincial leader",
         "url": "https://www.dawn.com/news/2033784/minister-says-federal-govt-seriously-considering-imposition-of-emergency-in-kp",
         "source": "Dawn",
         "date": "2026-09-30T23:09:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835673/karachi-police-encounters-in-various-parts-of-the-city-two-bandits-arrested-in-injured-condition-2835673/",
+        "source": "Express",
+        "date": "2026-09-30T23:08:10+05:00",
         "img": ""
       },
       {
@@ -2403,11 +2427,27 @@
         "img": ""
       },
       {
+        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
+        "source": "Express",
+        "date": "2026-09-30T19:53:41+05:00",
+        "img": ""
+      },
+      {
         "title": "جامعہ کراچی:قائم مقام وائس چانسلر کی عدم موجودگی میں عارضی شیخ الجامعہ کی تقرری",
         "summary": "",
         "url": "https://www.express.pk/story/2835654/ku-vc-2835654/",
         "source": "Express",
         "date": "2026-09-30T19:41:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، 59 لڑکیوں کے موبائل فونز چوری ہونے کے معاملے میں اہم گرفتاریاں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835675/karachi-key-arrests-made-in-the-case-of-mobile-phones-stolen-from-59-girls-2835675/",
+        "source": "Express",
+        "date": "2026-09-30T19:26:54+00:00",
         "img": ""
       },
       {
@@ -2419,43 +2459,11 @@
         "img": ""
       },
       {
-        "title": "برطانیہ: ویٹرن براڈکاسٹر 86 برس کی عمر میں انتقال کر گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835651/dame-esther-rantzen-2835651/",
-        "source": "Express",
-        "date": "2026-09-30T19:24:04+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکی محکمہ دفاع پینٹاگون کا 30 لاکھ افراد کا حساس ڈیٹا لیک ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835648/pentagon-data-leak-30-lac-peoples-2835648/",
-        "source": "Express",
-        "date": "2026-09-30T19:14:08+05:00",
-        "img": ""
-      },
-      {
         "title": "Punjab rolls out 33 mobile police stations offering 14 services, including FIR registration",
         "summary": "<p>LAHORE: Punjab Chief Minister Maryam Nawaz on Wednesday inaugurated 33 mobile police stations that would provide 14 services, including the registration of cases, across Punjab, an official statement said.</p> <p>Six of these units would be dedicated for addressing issues faced by women, the statement quoted Punjab ",
         "url": "https://www.dawn.com/news/2033764/punjab-rolls-out-33-mobile-police-stations-offering-14-services-including-fir-registration",
         "source": "Dawn",
         "date": "2026-09-30T19:03:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "رونالڈو نے پرتگال کا تربیتی کیمپ چھوڑنے پر خاموشی توڑ دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835647/ronaldo-has-broken-his-silence-on-leaving-portugals-training-camp-2835647/",
-        "source": "Express",
-        "date": "2026-09-30T19:02:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "لوئر دیر میں پُراسرار بخار کی بیماری پھیل گئی، بچوں سمیت 7 جاں بحق، درجنوں متاثر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835645/mysterious-fever-outbreak-in-lower-dir-7-dead-including-children-dozens-infected-2835645/",
-        "source": "Express",
-        "date": "2026-09-30T18:45:00+05:00",
         "img": ""
       },
       {
@@ -2467,6 +2475,30 @@
         "img": ""
       },
       {
+        "title": "سعودی عرب پر حملہ ہوا تو بھرپور جواب دیں گے، محمد بن سلمان کا دوٹوک اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835674/we-will-respond-forcefully-if-saudi-arabia-is-attacked-mohammed-bin-salmans-unequivocal-declaration-2835674/",
+        "source": "Express",
+        "date": "2026-09-30T18:17:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "سپر انٹیلی جنس کی دوڑ جیتنے والا دنیا پر راج کرے گا، ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835672/whoever-wins-the-race-for-super-intelligence-will-rule-the-world-trump-2835672/",
+        "source": "Express",
+        "date": "2026-09-30T17:59:06+00:00",
+        "img": ""
+      },
+      {
+        "title": "آئینی عدالت کے رولز پبلک، توہین عدالت پر سوموٹو کا اختیار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835671/constitutional-court-rules-public-suo-motu-authority-over-contempt-of-court-2835671/",
+        "source": "Express",
+        "date": "2026-09-30T17:48:04+00:00",
+        "img": ""
+      },
+      {
         "title": "ویلتھ اسٹیٹمنٹ بدل کر9 ارب روپے کا فراڈ، 48 انکوائریاں شروع",
         "summary": "",
         "url": "https://www.express.pk/story/2835670/rs-9-billion-fraud-involving-altered-wealth-statements-48-inquiries-initiated-2835670/",
@@ -2475,7 +2507,7 @@
         "img": ""
       },
       {
-        "title": "پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
+        "title": "خانیوال میں بیٹھے پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
         "summary": "",
         "url": "https://www.express.pk/story/2835669/a-pakistani-youth-swindled-the-us-postal-service-out-of-126-million-2835669/",
         "source": "Express",
@@ -2512,38 +2544,6 @@
         "url": "https://www.dawn.com/news/2033731/lahore-police-granted-3-day-physical-remand-of-woman-in-connection-with-azeri-nationals-rape-case",
         "source": "Dawn",
         "date": "2026-09-30T15:04:13+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
-        "source": "Express",
-        "date": "2026-09-30T14:53:41+00:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور، پرائیوٹ کالج کے سوئمنگ پول میں 23 سالہ طالب علم ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835650/23-year-old-student-drown-in-swimming-poll-2835650/",
-        "source": "Express",
-        "date": "2026-09-30T14:21:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران نےعراق سے امریکی فوجی انخلا کو اپنی فتح قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835646/iran-claim-it-success-us-left-iraq-after-decades-2835646/",
-        "source": "Express",
-        "date": "2026-09-30T13:47:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایس سی او سربراہی اجلاس کیلئے 45 بلٹ پروف گاڑیوں کی خریداری، حکومت کی وضاحت جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835643/government-issues-clarification-regarding-the-purchase-of-45-bulletproof-vehicles-for-the-sco-summit-2835643/",
-        "source": "Express",
-        "date": "2026-09-30T13:33:05+00:00",
         "img": ""
       },
       {
@@ -2661,6 +2661,22 @@
     ],
     "baloch": [
       {
+        "title": "یو اے ای پرواز واقعہ، نیتن یاہو اور اماراتی صدر میں ہنگامی رابطہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835678/uae-flight-incident-netanyahu-and-emirati-president-hold-emergency-contact-2835678/",
+        "source": "Express",
+        "date": "2026-10-01T01:36:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 زخمیوں سمیت 6 ڈاکو گرفتار، ایک پولیس اہلکار بھی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835677/karachi-police-encounters-in-different-areas-of-the-city-6-robbers-arrested-including-5-injured-one-policeman-also-injured-2835677/",
+        "source": "Express",
+        "date": "2026-10-01T00:40:02+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan says Taliban’s allegations reflect failure to address internal problems",
         "summary": "Pakistan says Taliban’s allegations reflect failure to address internal problems",
         "url": "https://arynews.tv/pakistan-says-talibans-allegations-reflect-failure-to-address-internal-problems",
@@ -2714,6 +2730,14 @@
         "url": "https://www.dawn.com/news/2033784/minister-says-federal-govt-seriously-considering-imposition-of-emergency-in-kp",
         "source": "Dawn",
         "date": "2026-09-30T23:09:26+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835673/karachi-police-encounters-in-various-parts-of-the-city-two-bandits-arrested-in-injured-condition-2835673/",
+        "source": "Express",
+        "date": "2026-09-30T23:08:10+05:00",
         "img": ""
       },
       {
@@ -2949,6 +2973,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Babar-Azam.jpg"
       },
       {
+        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
+        "source": "Express",
+        "date": "2026-09-30T19:53:41+05:00",
+        "img": ""
+      },
+      {
         "title": "Electricity per unit sales tax rates revised for steel sector",
         "summary": "Electricity per unit sales tax rates revised for steel sector",
         "url": "https://arynews.tv/electricity-per-unit-sales-tax-rates-revised-for-steel-sector",
@@ -2981,19 +3013,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Young-adults-using-AI-for-health-advice-show-higher-rates-of-anxiety.jpg"
       },
       {
+        "title": "کراچی، 59 لڑکیوں کے موبائل فونز چوری ہونے کے معاملے میں اہم گرفتاریاں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835675/karachi-key-arrests-made-in-the-case-of-mobile-phones-stolen-from-59-girls-2835675/",
+        "source": "Express",
+        "date": "2026-09-30T19:26:54+00:00",
+        "img": ""
+      },
+      {
         "title": "لاہور؛ کوٹ لکھپت جیل میں قیدیوں کے دو گروپس میں جھگڑا، ایک جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2835652/lahore-clash-between-two-groups-of-inmates-at-kot-lakhpat-jail-one-killed-2835652/",
         "source": "Express",
         "date": "2026-09-30T19:26:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "برطانیہ: ویٹرن براڈکاسٹر 86 برس کی عمر میں انتقال کر گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835651/dame-esther-rantzen-2835651/",
-        "source": "Express",
-        "date": "2026-09-30T19:24:04+05:00",
         "img": ""
       },
       {
@@ -3003,14 +3035,6 @@
         "source": "ARY News",
         "date": "2026-09-30T19:20:18+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/tariq-fazal.jpg"
-      },
-      {
-        "title": "امریکی محکمہ دفاع پینٹاگون کا 30 لاکھ افراد کا حساس ڈیٹا لیک ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835648/pentagon-data-leak-30-lac-peoples-2835648/",
-        "source": "Express",
-        "date": "2026-09-30T19:14:08+05:00",
-        "img": ""
       },
       {
         "title": "Karachi security guard attempts suicide by shooting himself with rifle",
@@ -3026,14 +3050,6 @@
         "url": "https://www.dawn.com/news/2033764/punjab-rolls-out-33-mobile-police-stations-offering-14-services-including-fir-registration",
         "source": "Dawn",
         "date": "2026-09-30T19:03:27+05:00",
-        "img": ""
-      },
-      {
-        "title": "رونالڈو نے پرتگال کا تربیتی کیمپ چھوڑنے پر خاموشی توڑ دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835647/ronaldo-has-broken-his-silence-on-leaving-portugals-training-camp-2835647/",
-        "source": "Express",
-        "date": "2026-09-30T19:02:40+05:00",
         "img": ""
       },
       {
@@ -3053,19 +3069,35 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Baghdad-Iraq.jpg"
       },
       {
-        "title": "لوئر دیر میں پُراسرار بخار کی بیماری پھیل گئی، بچوں سمیت 7 جاں بحق، درجنوں متاثر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835645/mysterious-fever-outbreak-in-lower-dir-7-dead-including-children-dozens-infected-2835645/",
-        "source": "Express",
-        "date": "2026-09-30T18:45:00+05:00",
-        "img": ""
-      },
-      {
         "title": "3 Pakistanis among 5 crew lost during operation to recover ship hijacked by Somali pirates, FO confirms",
         "summary": "<p>The Foreign Office (FO) on Wednesday expressed condolences over the death of three Pakistani nationals during an <a href=\"https://www.dawn.com/news/2033553\">operation </a>to recover the MT Honour 25 oil tanker, which had been <a href=\"https://www.dawn.com/news/2000038\">hijacked</a> by Somali pirates in April.</p> <p",
         "url": "https://www.dawn.com/news/2033759/3-pakistanis-among-5-crew-lost-during-operation-to-recover-ship-hijacked-by-somali-pirates-fo-confirms",
         "source": "Dawn",
         "date": "2026-09-30T18:25:51+05:00",
+        "img": ""
+      },
+      {
+        "title": "سعودی عرب پر حملہ ہوا تو بھرپور جواب دیں گے، محمد بن سلمان کا دوٹوک اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835674/we-will-respond-forcefully-if-saudi-arabia-is-attacked-mohammed-bin-salmans-unequivocal-declaration-2835674/",
+        "source": "Express",
+        "date": "2026-09-30T18:17:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "سپر انٹیلی جنس کی دوڑ جیتنے والا دنیا پر راج کرے گا، ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835672/whoever-wins-the-race-for-super-intelligence-will-rule-the-world-trump-2835672/",
+        "source": "Express",
+        "date": "2026-09-30T17:59:06+00:00",
+        "img": ""
+      },
+      {
+        "title": "آئینی عدالت کے رولز پبلک، توہین عدالت پر سوموٹو کا اختیار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835671/constitutional-court-rules-public-suo-motu-authority-over-contempt-of-court-2835671/",
+        "source": "Express",
+        "date": "2026-09-30T17:48:04+00:00",
         "img": ""
       },
       {
@@ -3077,7 +3109,7 @@
         "img": ""
       },
       {
-        "title": "پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
+        "title": "خانیوال میں بیٹھے پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
         "summary": "",
         "url": "https://www.express.pk/story/2835669/a-pakistani-youth-swindled-the-us-postal-service-out-of-126-million-2835669/",
         "source": "Express",
@@ -3114,38 +3146,6 @@
         "url": "https://www.dawn.com/news/2033731/lahore-police-granted-3-day-physical-remand-of-woman-in-connection-with-azeri-nationals-rape-case",
         "source": "Dawn",
         "date": "2026-09-30T15:04:13+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
-        "source": "Express",
-        "date": "2026-09-30T14:53:41+00:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور، پرائیوٹ کالج کے سوئمنگ پول میں 23 سالہ طالب علم ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835650/23-year-old-student-drown-in-swimming-poll-2835650/",
-        "source": "Express",
-        "date": "2026-09-30T14:21:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران نےعراق سے امریکی فوجی انخلا کو اپنی فتح قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835646/iran-claim-it-success-us-left-iraq-after-decades-2835646/",
-        "source": "Express",
-        "date": "2026-09-30T13:47:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایس سی او سربراہی اجلاس کیلئے 45 بلٹ پروف گاڑیوں کی خریداری، حکومت کی وضاحت جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835643/government-issues-clarification-regarding-the-purchase-of-45-bulletproof-vehicles-for-the-sco-summit-2835643/",
-        "source": "Express",
-        "date": "2026-09-30T13:33:05+00:00",
         "img": ""
       },
       {
@@ -3263,6 +3263,22 @@
     ],
     "education": [
       {
+        "title": "یو اے ای پرواز واقعہ، نیتن یاہو اور اماراتی صدر میں ہنگامی رابطہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835678/uae-flight-incident-netanyahu-and-emirati-president-hold-emergency-contact-2835678/",
+        "source": "Express",
+        "date": "2026-10-01T01:36:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 زخمیوں سمیت 6 ڈاکو گرفتار، ایک پولیس اہلکار بھی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835677/karachi-police-encounters-in-different-areas-of-the-city-6-robbers-arrested-including-5-injured-one-policeman-also-injured-2835677/",
+        "source": "Express",
+        "date": "2026-10-01T00:40:02+05:00",
+        "img": ""
+      },
+      {
         "title": "Pakistan says Taliban’s allegations reflect failure to address internal problems",
         "summary": "Pakistan says Taliban’s allegations reflect failure to address internal problems",
         "url": "https://arynews.tv/pakistan-says-talibans-allegations-reflect-failure-to-address-internal-problems",
@@ -3309,6 +3325,14 @@
         "source": "ARY News",
         "date": "2026-09-30T23:22:22+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Petrol-pump-closure.jpg"
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835673/karachi-police-encounters-in-various-parts-of-the-city-two-bandits-arrested-in-injured-condition-2835673/",
+        "source": "Express",
+        "date": "2026-09-30T23:08:10+05:00",
+        "img": ""
       },
       {
         "title": "GTA 6 will feature wildlife ecosystem with over 170 animal species",
@@ -3511,6 +3535,14 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Babar-Azam.jpg"
       },
       {
+        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
+        "source": "Express",
+        "date": "2026-09-30T19:53:41+05:00",
+        "img": ""
+      },
+      {
         "title": "Electricity per unit sales tax rates revised for steel sector",
         "summary": "Electricity per unit sales tax rates revised for steel sector",
         "url": "https://arynews.tv/electricity-per-unit-sales-tax-rates-revised-for-steel-sector",
@@ -3543,19 +3575,19 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Young-adults-using-AI-for-health-advice-show-higher-rates-of-anxiety.jpg"
       },
       {
+        "title": "کراچی، 59 لڑکیوں کے موبائل فونز چوری ہونے کے معاملے میں اہم گرفتاریاں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835675/karachi-key-arrests-made-in-the-case-of-mobile-phones-stolen-from-59-girls-2835675/",
+        "source": "Express",
+        "date": "2026-09-30T19:26:54+00:00",
+        "img": ""
+      },
+      {
         "title": "لاہور؛ کوٹ لکھپت جیل میں قیدیوں کے دو گروپس میں جھگڑا، ایک جاں بحق",
         "summary": "",
         "url": "https://www.express.pk/story/2835652/lahore-clash-between-two-groups-of-inmates-at-kot-lakhpat-jail-one-killed-2835652/",
         "source": "Express",
         "date": "2026-09-30T19:26:38+05:00",
-        "img": ""
-      },
-      {
-        "title": "برطانیہ: ویٹرن براڈکاسٹر 86 برس کی عمر میں انتقال کر گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835651/dame-esther-rantzen-2835651/",
-        "source": "Express",
-        "date": "2026-09-30T19:24:04+05:00",
         "img": ""
       },
       {
@@ -3567,28 +3599,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/tariq-fazal.jpg"
       },
       {
-        "title": "امریکی محکمہ دفاع پینٹاگون کا 30 لاکھ افراد کا حساس ڈیٹا لیک ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835648/pentagon-data-leak-30-lac-peoples-2835648/",
-        "source": "Express",
-        "date": "2026-09-30T19:14:08+05:00",
-        "img": ""
-      },
-      {
         "title": "Karachi security guard attempts suicide by shooting himself with rifle",
         "summary": "Karachi security guard attempts suicide by shooting himself with rifle",
         "url": "https://arynews.tv/karachi-security-guard-attempts-suicide-by-shooting-himself-with-rifle",
         "source": "ARY News",
         "date": "2026-09-30T19:13:59+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Secuirty-Guard.jpg"
-      },
-      {
-        "title": "رونالڈو نے پرتگال کا تربیتی کیمپ چھوڑنے پر خاموشی توڑ دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835647/ronaldo-has-broken-his-silence-on-leaving-portugals-training-camp-2835647/",
-        "source": "Express",
-        "date": "2026-09-30T19:02:40+05:00",
-        "img": ""
       },
       {
         "title": "New rule for transfer of imported vehicles in Punjab",
@@ -3607,11 +3623,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Baghdad-Iraq.jpg"
       },
       {
-        "title": "لوئر دیر میں پُراسرار بخار کی بیماری پھیل گئی، بچوں سمیت 7 جاں بحق، درجنوں متاثر",
+        "title": "سعودی عرب پر حملہ ہوا تو بھرپور جواب دیں گے، محمد بن سلمان کا دوٹوک اعلان",
         "summary": "",
-        "url": "https://www.express.pk/story/2835645/mysterious-fever-outbreak-in-lower-dir-7-dead-including-children-dozens-infected-2835645/",
+        "url": "https://www.express.pk/story/2835674/we-will-respond-forcefully-if-saudi-arabia-is-attacked-mohammed-bin-salmans-unequivocal-declaration-2835674/",
         "source": "Express",
-        "date": "2026-09-30T18:45:00+05:00",
+        "date": "2026-09-30T18:17:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "سپر انٹیلی جنس کی دوڑ جیتنے والا دنیا پر راج کرے گا، ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835672/whoever-wins-the-race-for-super-intelligence-will-rule-the-world-trump-2835672/",
+        "source": "Express",
+        "date": "2026-09-30T17:59:06+00:00",
+        "img": ""
+      },
+      {
+        "title": "آئینی عدالت کے رولز پبلک، توہین عدالت پر سوموٹو کا اختیار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835671/constitutional-court-rules-public-suo-motu-authority-over-contempt-of-court-2835671/",
+        "source": "Express",
+        "date": "2026-09-30T17:48:04+00:00",
         "img": ""
       },
       {
@@ -3623,43 +3655,11 @@
         "img": ""
       },
       {
-        "title": "پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
+        "title": "خانیوال میں بیٹھے پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
         "summary": "",
         "url": "https://www.express.pk/story/2835669/a-pakistani-youth-swindled-the-us-postal-service-out-of-126-million-2835669/",
         "source": "Express",
         "date": "2026-09-30T16:45:59+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
-        "source": "Express",
-        "date": "2026-09-30T14:53:41+00:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور، پرائیوٹ کالج کے سوئمنگ پول میں 23 سالہ طالب علم ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835650/23-year-old-student-drown-in-swimming-poll-2835650/",
-        "source": "Express",
-        "date": "2026-09-30T14:21:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران نےعراق سے امریکی فوجی انخلا کو اپنی فتح قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835646/iran-claim-it-success-us-left-iraq-after-decades-2835646/",
-        "source": "Express",
-        "date": "2026-09-30T13:47:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایس سی او سربراہی اجلاس کیلئے 45 بلٹ پروف گاڑیوں کی خریداری، حکومت کی وضاحت جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835643/government-issues-clarification-regarding-the-purchase-of-45-bulletproof-vehicles-for-the-sco-summit-2835643/",
-        "source": "Express",
-        "date": "2026-09-30T13:33:05+00:00",
         "img": ""
       }
     ],
@@ -3883,6 +3883,30 @@
         "img": ""
       },
       {
+        "title": "یو اے ای پرواز واقعہ، نیتن یاہو اور اماراتی صدر میں ہنگامی رابطہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835678/uae-flight-incident-netanyahu-and-emirati-president-hold-emergency-contact-2835678/",
+        "source": "Express",
+        "date": "2026-10-01T01:36:55+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 زخمیوں سمیت 6 ڈاکو گرفتار، ایک پولیس اہلکار بھی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835677/karachi-police-encounters-in-different-areas-of-the-city-6-robbers-arrested-including-5-injured-one-policeman-also-injured-2835677/",
+        "source": "Express",
+        "date": "2026-10-01T00:40:02+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835673/karachi-police-encounters-in-various-parts-of-the-city-two-bandits-arrested-in-injured-condition-2835673/",
+        "source": "Express",
+        "date": "2026-09-30T23:08:10+05:00",
+        "img": ""
+      },
+      {
         "title": "Fans swarm Babar Azam after dismissal as fourth round of President’s Trophy begins",
         "summary": "<p>Pakistan Test captain Babar Azam was surrounded by spectators as he walked back to the pavilion after being dismissed for 21 on the opening day of the fourth round of the President’s Trophy Grade-I at the Diamond Cricket Ground in Islamabad on Wednesday.</p> <p>Babar, batting at number four for Oil and Gas Developme",
         "url": "https://www.dawn.com/news/2033791/fans-swarm-babar-azam-after-dismissal-as-fourth-round-of-presidents-trophy-begins",
@@ -4027,11 +4051,27 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Babar-Azam.jpg"
       },
       {
+        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
+        "source": "Express",
+        "date": "2026-09-30T19:53:41+05:00",
+        "img": ""
+      },
+      {
         "title": "جامعہ کراچی:قائم مقام وائس چانسلر کی عدم موجودگی میں عارضی شیخ الجامعہ کی تقرری",
         "summary": "",
         "url": "https://www.express.pk/story/2835654/ku-vc-2835654/",
         "source": "Express",
         "date": "2026-09-30T19:41:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، 59 لڑکیوں کے موبائل فونز چوری ہونے کے معاملے میں اہم گرفتاریاں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835675/karachi-key-arrests-made-in-the-case-of-mobile-phones-stolen-from-59-girls-2835675/",
+        "source": "Express",
+        "date": "2026-09-30T19:26:54+00:00",
         "img": ""
       },
       {
@@ -4043,44 +4083,36 @@
         "img": ""
       },
       {
-        "title": "برطانیہ: ویٹرن براڈکاسٹر 86 برس کی عمر میں انتقال کر گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835651/dame-esther-rantzen-2835651/",
-        "source": "Express",
-        "date": "2026-09-30T19:24:04+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکی محکمہ دفاع پینٹاگون کا 30 لاکھ افراد کا حساس ڈیٹا لیک ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835648/pentagon-data-leak-30-lac-peoples-2835648/",
-        "source": "Express",
-        "date": "2026-09-30T19:14:08+05:00",
-        "img": ""
-      },
-      {
-        "title": "رونالڈو نے پرتگال کا تربیتی کیمپ چھوڑنے پر خاموشی توڑ دی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835647/ronaldo-has-broken-his-silence-on-leaving-portugals-training-camp-2835647/",
-        "source": "Express",
-        "date": "2026-09-30T19:02:40+05:00",
-        "img": ""
-      },
-      {
-        "title": "لوئر دیر میں پُراسرار بخار کی بیماری پھیل گئی، بچوں سمیت 7 جاں بحق، درجنوں متاثر",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835645/mysterious-fever-outbreak-in-lower-dir-7-dead-including-children-dozens-infected-2835645/",
-        "source": "Express",
-        "date": "2026-09-30T18:45:00+05:00",
-        "img": ""
-      },
-      {
         "title": "Guardiola backs Man City after guilty verdict on financial charges",
         "summary": "Guardiola backs Man City after guilty verdict on financial charges",
         "url": "https://arynews.tv/guardiola-backs-man-city-after-guilty-verdict-on-financial-charges",
         "source": "ARY Sports",
         "date": "2026-09-30T18:21:04+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/1-167.jpg"
+      },
+      {
+        "title": "سعودی عرب پر حملہ ہوا تو بھرپور جواب دیں گے، محمد بن سلمان کا دوٹوک اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835674/we-will-respond-forcefully-if-saudi-arabia-is-attacked-mohammed-bin-salmans-unequivocal-declaration-2835674/",
+        "source": "Express",
+        "date": "2026-09-30T18:17:41+00:00",
+        "img": ""
+      },
+      {
+        "title": "سپر انٹیلی جنس کی دوڑ جیتنے والا دنیا پر راج کرے گا، ٹرمپ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835672/whoever-wins-the-race-for-super-intelligence-will-rule-the-world-trump-2835672/",
+        "source": "Express",
+        "date": "2026-09-30T17:59:06+00:00",
+        "img": ""
+      },
+      {
+        "title": "آئینی عدالت کے رولز پبلک، توہین عدالت پر سوموٹو کا اختیار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835671/constitutional-court-rules-public-suo-motu-authority-over-contempt-of-court-2835671/",
+        "source": "Express",
+        "date": "2026-09-30T17:48:04+00:00",
+        "img": ""
       },
       {
         "title": "ویلتھ اسٹیٹمنٹ بدل کر9 ارب روپے کا فراڈ، 48 انکوائریاں شروع",
@@ -4099,7 +4131,7 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/1-166.jpg"
       },
       {
-        "title": "پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
+        "title": "خانیوال میں بیٹھے پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
         "summary": "",
         "url": "https://www.express.pk/story/2835669/a-pakistani-youth-swindled-the-us-postal-service-out-of-126-million-2835669/",
         "source": "Express",
@@ -4163,14 +4195,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/1-162.jpg"
       },
       {
-        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
-        "source": "Express",
-        "date": "2026-09-30T14:53:41+00:00",
-        "img": ""
-      },
-      {
         "title": "Premier League confirms Man City guilty of serious financial breaches",
         "summary": "Premier League confirms Man City guilty of serious financial breaches",
         "url": "https://arynews.tv/premier-league-confirms-man-city-guilty-of-serious-financial-breaches",
@@ -4179,36 +4203,12 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Man-City-guilty.jpg"
       },
       {
-        "title": "لاہور، پرائیوٹ کالج کے سوئمنگ پول میں 23 سالہ طالب علم ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835650/23-year-old-student-drown-in-swimming-poll-2835650/",
-        "source": "Express",
-        "date": "2026-09-30T14:21:50+00:00",
-        "img": ""
-      },
-      {
         "title": "Yamal inspires Spain to Croatia romp on World Cup homecoming",
         "summary": "Yamal inspires Spain to Croatia romp on World Cup homecoming",
         "url": "https://arynews.tv/yamal-inspires-spain-to-croatia-romp-on-world-cup-homecoming",
         "source": "ARY Sports",
         "date": "2026-09-30T14:03:35+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/1-161.jpg"
-      },
-      {
-        "title": "ایران نےعراق سے امریکی فوجی انخلا کو اپنی فتح قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835646/iran-claim-it-success-us-left-iraq-after-decades-2835646/",
-        "source": "Express",
-        "date": "2026-09-30T13:47:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایس سی او سربراہی اجلاس کیلئے 45 بلٹ پروف گاڑیوں کی خریداری، حکومت کی وضاحت جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835643/government-issues-clarification-regarding-the-purchase-of-45-bulletproof-vehicles-for-the-sco-summit-2835643/",
-        "source": "Express",
-        "date": "2026-09-30T13:33:05+00:00",
-        "img": ""
       },
       {
         "title": "Caitlin Clark makes WNBA playoff history",
@@ -4429,6 +4429,14 @@
     ],
     "business": [
       {
+        "title": "یو اے ای پرواز واقعہ، نیتن یاہو اور اماراتی صدر میں ہنگامی رابطہ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835678/uae-flight-incident-netanyahu-and-emirati-president-hold-emergency-contact-2835678/",
+        "source": "Express",
+        "date": "2026-10-01T01:36:55+05:00",
+        "img": ""
+      },
+      {
         "title": "FBR extends deadline for filing income tax returns to Oct 15",
         "summary": "<p>The Federal Board of Revenue (FBR) on Wednesday extended the cutoff date for filing income tax returns for 2026 to Oct 15, hours before the deadline was set to expire by the end of Sept 30.</p> <p>The notification posted on the FBR’s X account, said: “The Federal Board of Revenue is pleased to communicate that the d",
         "url": "https://www.dawn.com/news/2033760/fbr-extends-deadline-for-filing-income-tax-returns-to-oct-15",
@@ -4437,11 +4445,27 @@
         "img": ""
       },
       {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 زخمیوں سمیت 6 ڈاکو گرفتار، ایک پولیس اہلکار بھی زخمی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835677/karachi-police-encounters-in-different-areas-of-the-city-6-robbers-arrested-including-5-injured-one-policeman-also-injured-2835677/",
+        "source": "Express",
+        "date": "2026-10-01T00:40:02+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt reduces petrol price by Re0.14 per litre, high-speed diesel rate by Rs1.89",
         "summary": "<iframe id=\"raw-html-6abd514426468\" class=\"raw-html-embed\" style=\"width: 100%; min-height: 50px; max-height: 30000px; border: none; overflow: hidden;\" scrolling=\"no\" srcdoc=\"<!DOCTYPE html> <html> <head> <style> body { margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; overflow-wrap: anywhere; } ",
         "url": "https://www.dawn.com/news/2033780/govt-reduces-petrol-price-by-re014-per-litre-high-speed-diesel-rate-by-rs189",
         "source": "Dawn",
         "date": "2026-09-30T23:13:24+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 2 ڈاکو زخمی حالت میں گرفتار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835673/karachi-police-encounters-in-various-parts-of-the-city-two-bandits-arrested-in-injured-condition-2835673/",
+        "source": "Express",
+        "date": "2026-09-30T23:08:10+05:00",
         "img": ""
       },
       {
@@ -4549,11 +4573,27 @@
         "img": ""
       },
       {
+        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
+        "source": "Express",
+        "date": "2026-09-30T19:53:41+05:00",
+        "img": ""
+      },
+      {
         "title": "جامعہ کراچی:قائم مقام وائس چانسلر کی عدم موجودگی میں عارضی شیخ الجامعہ کی تقرری",
         "summary": "",
         "url": "https://www.express.pk/story/2835654/ku-vc-2835654/",
         "source": "Express",
         "date": "2026-09-30T19:41:30+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی، 59 لڑکیوں کے موبائل فونز چوری ہونے کے معاملے میں اہم گرفتاریاں",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835675/karachi-key-arrests-made-in-the-case-of-mobile-phones-stolen-from-59-girls-2835675/",
+        "source": "Express",
+        "date": "2026-09-30T19:26:54+00:00",
         "img": ""
       },
       {
@@ -4565,22 +4605,6 @@
         "img": ""
       },
       {
-        "title": "برطانیہ: ویٹرن براڈکاسٹر 86 برس کی عمر میں انتقال کر گئیں",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835651/dame-esther-rantzen-2835651/",
-        "source": "Express",
-        "date": "2026-09-30T19:24:04+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکی محکمہ دفاع پینٹاگون کا 30 لاکھ افراد کا حساس ڈیٹا لیک ہوگیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835648/pentagon-data-leak-30-lac-peoples-2835648/",
-        "source": "Express",
-        "date": "2026-09-30T19:14:08+05:00",
-        "img": ""
-      },
-      {
         "title": "Aleem orders NHA to work with foreign experts on road engineering, highway design",
         "summary": "<p>ISLAMABAD: Communications Minister Abdul Aleem Khan directed the National Highway Authority (NHA) to work with foreign experts to improve road engineering and highway design in a meeting on Wednesday.</p> <p>The meeting, chaired by Aleem, reviewed the NHA’s ongoing and proposed projects, revenue enhancement, road sa",
         "url": "https://www.dawn.com/news/2033761/aleem-orders-nha-to-work-with-foreign-experts-on-road-engineering-highway-design",
@@ -4589,19 +4613,27 @@
         "img": ""
       },
       {
-        "title": "رونالڈو نے پرتگال کا تربیتی کیمپ چھوڑنے پر خاموشی توڑ دی",
+        "title": "سعودی عرب پر حملہ ہوا تو بھرپور جواب دیں گے، محمد بن سلمان کا دوٹوک اعلان",
         "summary": "",
-        "url": "https://www.express.pk/story/2835647/ronaldo-has-broken-his-silence-on-leaving-portugals-training-camp-2835647/",
+        "url": "https://www.express.pk/story/2835674/we-will-respond-forcefully-if-saudi-arabia-is-attacked-mohammed-bin-salmans-unequivocal-declaration-2835674/",
         "source": "Express",
-        "date": "2026-09-30T19:02:40+05:00",
+        "date": "2026-09-30T18:17:41+00:00",
         "img": ""
       },
       {
-        "title": "لوئر دیر میں پُراسرار بخار کی بیماری پھیل گئی، بچوں سمیت 7 جاں بحق، درجنوں متاثر",
+        "title": "سپر انٹیلی جنس کی دوڑ جیتنے والا دنیا پر راج کرے گا، ٹرمپ",
         "summary": "",
-        "url": "https://www.express.pk/story/2835645/mysterious-fever-outbreak-in-lower-dir-7-dead-including-children-dozens-infected-2835645/",
+        "url": "https://www.express.pk/story/2835672/whoever-wins-the-race-for-super-intelligence-will-rule-the-world-trump-2835672/",
         "source": "Express",
-        "date": "2026-09-30T18:45:00+05:00",
+        "date": "2026-09-30T17:59:06+00:00",
+        "img": ""
+      },
+      {
+        "title": "آئینی عدالت کے رولز پبلک، توہین عدالت پر سوموٹو کا اختیار",
+        "summary": "",
+        "url": "https://www.express.pk/story/2835671/constitutional-court-rules-public-suo-motu-authority-over-contempt-of-court-2835671/",
+        "source": "Express",
+        "date": "2026-09-30T17:48:04+00:00",
         "img": ""
       },
       {
@@ -4613,43 +4645,11 @@
         "img": ""
       },
       {
-        "title": "پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
+        "title": "خانیوال میں بیٹھے پاکستانی نوجوان نے امریکی ڈاکخانے کو 126 ملین ڈالر کا چونا لگا دیا",
         "summary": "",
         "url": "https://www.express.pk/story/2835669/a-pakistani-youth-swindled-the-us-postal-service-out-of-126-million-2835669/",
         "source": "Express",
         "date": "2026-09-30T16:45:59+00:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی: فارم ہاؤس پر انوکھی واردات، ایونٹ آرگنائزر 50 سے زائد خواتین کے موبائل فونز لیکر فرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835655/karachi-bizarre-incident-at-a-farmhouse-event-organizer-flees-with-the-mobile-phones-of-over-50-women-2835655/",
-        "source": "Express",
-        "date": "2026-09-30T14:53:41+00:00",
-        "img": ""
-      },
-      {
-        "title": "لاہور، پرائیوٹ کالج کے سوئمنگ پول میں 23 سالہ طالب علم ڈوب کر جاں بحق",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835650/23-year-old-student-drown-in-swimming-poll-2835650/",
-        "source": "Express",
-        "date": "2026-09-30T14:21:50+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایران نےعراق سے امریکی فوجی انخلا کو اپنی فتح قرار دے دیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835646/iran-claim-it-success-us-left-iraq-after-decades-2835646/",
-        "source": "Express",
-        "date": "2026-09-30T13:47:24+00:00",
-        "img": ""
-      },
-      {
-        "title": "ایس سی او سربراہی اجلاس کیلئے 45 بلٹ پروف گاڑیوں کی خریداری، حکومت کی وضاحت جاری",
-        "summary": "",
-        "url": "https://www.express.pk/story/2835643/government-issues-clarification-regarding-the-purchase-of-45-bulletproof-vehicles-for-the-sco-summit-2835643/",
-        "source": "Express",
-        "date": "2026-09-30T13:33:05+00:00",
         "img": ""
       },
       {
