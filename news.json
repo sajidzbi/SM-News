@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-02T22:47:23.127254+00:00",
+  "fetched": "2026-10-03T01:40:23.834295+00:00",
   "categories": {
     "international": [
       {
@@ -8,6 +8,14 @@
         "url": "https://www.dawn.com/news/2034366/belgiums-kevin-de-bruyne-fires-double-to-sink-turkiye-france-held-by-italy",
         "source": "Dawn",
         "date": "2026-10-03T03:20:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "سعودی عرب کی جانب داغے گئے تین بیلسٹک میزائل تباہ کر دیے: سعودی قیادت میں قائم اتحاد کا دعویٰ",
+        "summary": "یمن میں حوثیوں کے خلاف برسرِ پیکار سعودی عرب کی قیادت میں قائم فوجی اتحاد نے کہا ہے کہ اس نے حوثیوں کی جانب سے جنوبی سعودی عرب کے شہر خمیس مشیط کی طرف داغے گئے تین بیلسٹک میزائلوں کو فضا ہی میں تباہ کر دیا ہے۔",
+        "url": "https://www.bbc.co.uk/urdu/live/ckpq0q898159t?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC Urdu",
+        "date": "2026-10-03T01:40:25.440331+00:00",
         "img": ""
       },
       {
@@ -72,14 +80,6 @@
         "url": "https://www.dawn.com/news/2034287/govt-raises-petrol-price-by-rs210-per-litre-high-speed-diesel-by-re030-per-litre",
         "source": "Dawn",
         "date": "2026-10-02T23:12:37+05:00",
-        "img": ""
-      },
-      {
-        "title": "سعودی عرب کی جانب داغے گئے تین بیلسٹک میزائل تباہ کر دیے: سعودی قیادت میں قائم اتحاد کا دعویٰ",
-        "summary": "یمن میں حوثیوں کے خلاف برسرِ پیکار سعودی عرب کی قیادت میں قائم فوجی اتحاد نے کہا ہے کہ اس نے حوثیوں کی جانب سے جنوبی سعودی عرب کے شہر خمیس مشیط کی طرف داغے گئے تین بیلسٹک میزائلوں کو فضا ہی میں تباہ کر دیا ہے۔",
-        "url": "https://www.bbc.co.uk/urdu/live/ckpq0q898159t?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC Urdu",
-        "date": "2026-10-02T22:47:24.834531+00:00",
         "img": ""
       },
       {
@@ -573,12 +573,36 @@
     ],
     "national": [
       {
+        "title": "کاکروچ جنتا پارٹی کا آج سے جیل بھرو تحریک کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836059/cockroach-janata-party-announces-fill-the-jails-movement-starting-today-2836059/",
+        "source": "Express",
+        "date": "2026-10-03T01:12:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: پولیس نے ڈیفنس سی ویو پر کار سے ملنے والی پراپرٹی ڈیلر کی لاش کا معمہ حل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836058/karachi-police-have-solved-the-mystery-of-the-property-dealers-body-found-in-a-car-at-defence-sea-view-2836058/",
+        "source": "Express",
+        "date": "2026-10-03T00:50:45+05:00",
+        "img": ""
+      },
+      {
         "title": "System reset will bring improvement in country’s affairs: Mohsin Naqvi",
         "summary": "System reset will bring improvement in country’s affairs: Mohsin Naqvi",
         "url": "https://arynews.tv/system-reset-will-bring-improvement-in-countrys-affairs-mohsin-naqvi",
         "source": "ARY News",
         "date": "2026-10-03T00:43:17+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mohsin-Naqvi-2.jpg"
+      },
+      {
+        "title": "بدھ مت کے سب سے بڑے فرقے نے’’گابی‘‘روبوٹ کو اپنے راہبوں کی صف میں شامل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836057/the-largest-buddhist-sect-has-inducted-the-gabi-robot-into-the-ranks-of-its-monks-2836057/",
+        "source": "Express",
+        "date": "2026-10-03T00:40:23+05:00",
+        "img": ""
       },
       {
         "title": "Karachi Water Corporation denies unauthorized salary deductions",
@@ -619,6 +643,14 @@
         "source": "ARY News",
         "date": "2026-10-02T23:34:25+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Hafiz.jpg"
+      },
+      {
+        "title": "اماراتی پرواز میں کپتان پر حملہ، شریک پائلٹ کے انتہاپسند ہونے کا دعویٰ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836054/attack-on-captain-during-emirates-flight-co-pilot-alleged-to-be-an-extremist-2836054/",
+        "source": "Express",
+        "date": "2026-10-02T21:57:37+05:00",
+        "img": ""
       },
       {
         "title": "Gadap job scam: Mastermind’s facilitator, accomplice arrested",
@@ -813,12 +845,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Radio-Pakistan.jpg"
       },
       {
+        "title": "سرکلر ڈیبٹ میں 61 ارب اضافے پر آئی ایم ایف کے تحفظات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836056/imfs-reservations-over-rs61-billion-increase-in-circular-debt-2836056/",
+        "source": "Express",
+        "date": "2026-10-02T19:25:54+00:00",
+        "img": ""
+      },
+      {
         "title": "India’s ‘cockroach’ party demands election chief Gyanesh Kumar’s resignation; hundreds join",
         "summary": "India’s ‘cockroach’ party demands election chief Gyanesh Kumar’s resignation; hundreds join",
         "url": "https://arynews.tv/india-cockroach-party-demands-gyanesh-kumar-resignation",
         "source": "ARY News",
         "date": "2026-10-02T19:24:32+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/neha-bora.jpg"
+      },
+      {
+        "title": "نظامِ عدل ریاست کی سالمیت اور پرامن معاشرے کے لیے ناگزیر ہے، چیف جسٹس سندھ ہائیکورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836055/chief-justice-of-the-sindh-high-court-2836055/",
+        "source": "Express",
+        "date": "2026-10-02T19:16:20+00:00",
+        "img": ""
       },
       {
         "title": "KDA projects to deliver better connectivity, travel relief to public: Zain Ansari",
@@ -877,6 +925,14 @@
         "img": ""
       },
       {
+        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
+        "source": "Express",
+        "date": "2026-10-02T18:42:58+05:00",
+        "img": ""
+      },
+      {
         "title": "ایپل نے اہم سروس پاکستان میں شروع کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2836036/apple-expands-2836036/",
@@ -901,6 +957,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Honour-25.jpg"
       },
       {
+        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
+        "source": "Express",
+        "date": "2026-10-02T18:06:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
+        "source": "Express",
+        "date": "2026-10-02T18:05:00+05:00",
+        "img": ""
+      },
+      {
         "title": "PSX: Stocks close lower as KSE-100 falls 481 points",
         "summary": "PSX: Stocks close lower as KSE-100 falls 481 points",
         "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-falls-481-points",
@@ -917,51 +989,11 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Yemen.jpg"
       },
       {
-        "title": "جوجوبا آئل، جلد اور بالوں کی دیکھ بھال میں مددگار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836029/jojoba-oil-beneficial-for-skin-and-hair-care-2836029/",
-        "source": "Express",
-        "date": "2026-10-02T17:23:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ مبینہ ٹاؤن تھانے کے قریب ڈاکو شہری سے 30 لاکھ روپے چھین کر فرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836028/karachi-near-mubina-town-police-station-robbers-flee-after-snatching-rs-3-million-from-a-citizwn-2836028/",
-        "source": "Express",
-        "date": "2026-10-02T17:20:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکی یونیورسٹی طالبہ کیساتھ 7 طلبا کی جنسی زیادتی؛ کیس نے نیا رخ اختیار کرلیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836027/us-university-female-student-rape-by-7-students-2836027/",
-        "source": "Express",
-        "date": "2026-10-02T17:20:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں ایک اور ٹینکر پر نامعلوم سمت سے حملہ؛ آگ بھڑک اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836026/oil-tanker-struck-in-strait-of-hurmuz-caught-fire-2836026/",
-        "source": "Express",
-        "date": "2026-10-02T17:19:25+05:00",
-        "img": ""
-      },
-      {
         "title": "Cop martyred, another injured in attack on police in KP’s Tank district",
         "summary": "<p>DERA ISMAIL KHAN: A policeman was martyred and another injured when unidentified assailants targeted law enforcers deployed at a hospital in Jandola, a merged tehsil of Tank district, police said on Friday.</p> <p>According to police, the attackers opened fire and hurled a hand grenade at the policemen stationed at ",
         "url": "https://www.dawn.com/news/2034246/cop-martyred-another-injured-in-attack-on-police-in-kps-tank-district",
         "source": "Dawn",
         "date": "2026-10-02T17:11:22+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد رضوان کی این سی سی آئی اے میں پیشی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836025/rizwan-nccia-2836025/",
-        "source": "Express",
-        "date": "2026-10-02T16:55:35+05:00",
         "img": ""
       },
       {
@@ -1005,43 +1037,11 @@
         "img": ""
       },
       {
-        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
-        "source": "Express",
-        "date": "2026-10-02T13:42:58+00:00",
-        "img": ""
-      },
-      {
-        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
-        "source": "Express",
-        "date": "2026-10-02T13:06:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
-        "source": "Express",
-        "date": "2026-10-02T13:05:00+00:00",
-        "img": ""
-      },
-      {
         "title": "پی ٹی آئی لانگ مارچ منسوخ کرے تو بانی سے ملاقات کی صورت نکل سکتی ہے، وزیر مملکت",
         "summary": "",
         "url": "https://www.express.pk/story/2836031/a-meeting-with-the-founder-could-be-arranged-if-the-pti-calls-off-its-long-march-minister-of-state-2836031/",
         "source": "Express",
         "date": "2026-10-02T12:39:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "سرکاری عازمین حج کیلئے اہم اطلاع، واجبات کی دوسری قسط جمع کرانے کی تاریخ کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836030/important-update-for-government-hajj-pilgrims-deadline-announced-for-payment-of-second-installment-of-dues-2836030/",
-        "source": "Express",
-        "date": "2026-10-02T12:37:54+00:00",
         "img": ""
       },
       {
@@ -1175,12 +1175,36 @@
     ],
     "kpk": [
       {
+        "title": "کاکروچ جنتا پارٹی کا آج سے جیل بھرو تحریک کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836059/cockroach-janata-party-announces-fill-the-jails-movement-starting-today-2836059/",
+        "source": "Express",
+        "date": "2026-10-03T01:12:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: پولیس نے ڈیفنس سی ویو پر کار سے ملنے والی پراپرٹی ڈیلر کی لاش کا معمہ حل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836058/karachi-police-have-solved-the-mystery-of-the-property-dealers-body-found-in-a-car-at-defence-sea-view-2836058/",
+        "source": "Express",
+        "date": "2026-10-03T00:50:45+05:00",
+        "img": ""
+      },
+      {
         "title": "System reset will bring improvement in country’s affairs: Mohsin Naqvi",
         "summary": "System reset will bring improvement in country’s affairs: Mohsin Naqvi",
         "url": "https://arynews.tv/system-reset-will-bring-improvement-in-countrys-affairs-mohsin-naqvi",
         "source": "ARY News",
         "date": "2026-10-03T00:43:17+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mohsin-Naqvi-2.jpg"
+      },
+      {
+        "title": "بدھ مت کے سب سے بڑے فرقے نے’’گابی‘‘روبوٹ کو اپنے راہبوں کی صف میں شامل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836057/the-largest-buddhist-sect-has-inducted-the-gabi-robot-into-the-ranks-of-its-monks-2836057/",
+        "source": "Express",
+        "date": "2026-10-03T00:40:23+05:00",
+        "img": ""
       },
       {
         "title": "Karachi Water Corporation denies unauthorized salary deductions",
@@ -1221,6 +1245,14 @@
         "source": "ARY News",
         "date": "2026-10-02T23:34:25+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Hafiz.jpg"
+      },
+      {
+        "title": "اماراتی پرواز میں کپتان پر حملہ، شریک پائلٹ کے انتہاپسند ہونے کا دعویٰ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836054/attack-on-captain-during-emirates-flight-co-pilot-alleged-to-be-an-extremist-2836054/",
+        "source": "Express",
+        "date": "2026-10-02T21:57:37+05:00",
+        "img": ""
       },
       {
         "title": "Gadap job scam: Mastermind’s facilitator, accomplice arrested",
@@ -1415,12 +1447,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Radio-Pakistan.jpg"
       },
       {
+        "title": "سرکلر ڈیبٹ میں 61 ارب اضافے پر آئی ایم ایف کے تحفظات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836056/imfs-reservations-over-rs61-billion-increase-in-circular-debt-2836056/",
+        "source": "Express",
+        "date": "2026-10-02T19:25:54+00:00",
+        "img": ""
+      },
+      {
         "title": "India’s ‘cockroach’ party demands election chief Gyanesh Kumar’s resignation; hundreds join",
         "summary": "India’s ‘cockroach’ party demands election chief Gyanesh Kumar’s resignation; hundreds join",
         "url": "https://arynews.tv/india-cockroach-party-demands-gyanesh-kumar-resignation",
         "source": "ARY News",
         "date": "2026-10-02T19:24:32+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/neha-bora.jpg"
+      },
+      {
+        "title": "نظامِ عدل ریاست کی سالمیت اور پرامن معاشرے کے لیے ناگزیر ہے، چیف جسٹس سندھ ہائیکورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836055/chief-justice-of-the-sindh-high-court-2836055/",
+        "source": "Express",
+        "date": "2026-10-02T19:16:20+00:00",
+        "img": ""
       },
       {
         "title": "KDA projects to deliver better connectivity, travel relief to public: Zain Ansari",
@@ -1479,6 +1527,14 @@
         "img": ""
       },
       {
+        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
+        "source": "Express",
+        "date": "2026-10-02T18:42:58+05:00",
+        "img": ""
+      },
+      {
         "title": "ایپل نے اہم سروس پاکستان میں شروع کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2836036/apple-expands-2836036/",
@@ -1503,6 +1559,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Honour-25.jpg"
       },
       {
+        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
+        "source": "Express",
+        "date": "2026-10-02T18:06:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
+        "source": "Express",
+        "date": "2026-10-02T18:05:00+05:00",
+        "img": ""
+      },
+      {
         "title": "PSX: Stocks close lower as KSE-100 falls 481 points",
         "summary": "PSX: Stocks close lower as KSE-100 falls 481 points",
         "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-falls-481-points",
@@ -1519,51 +1591,11 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Yemen.jpg"
       },
       {
-        "title": "جوجوبا آئل، جلد اور بالوں کی دیکھ بھال میں مددگار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836029/jojoba-oil-beneficial-for-skin-and-hair-care-2836029/",
-        "source": "Express",
-        "date": "2026-10-02T17:23:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ مبینہ ٹاؤن تھانے کے قریب ڈاکو شہری سے 30 لاکھ روپے چھین کر فرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836028/karachi-near-mubina-town-police-station-robbers-flee-after-snatching-rs-3-million-from-a-citizwn-2836028/",
-        "source": "Express",
-        "date": "2026-10-02T17:20:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکی یونیورسٹی طالبہ کیساتھ 7 طلبا کی جنسی زیادتی؛ کیس نے نیا رخ اختیار کرلیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836027/us-university-female-student-rape-by-7-students-2836027/",
-        "source": "Express",
-        "date": "2026-10-02T17:20:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں ایک اور ٹینکر پر نامعلوم سمت سے حملہ؛ آگ بھڑک اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836026/oil-tanker-struck-in-strait-of-hurmuz-caught-fire-2836026/",
-        "source": "Express",
-        "date": "2026-10-02T17:19:25+05:00",
-        "img": ""
-      },
-      {
         "title": "Cop martyred, another injured in attack on police in KP’s Tank district",
         "summary": "<p>DERA ISMAIL KHAN: A policeman was martyred and another injured when unidentified assailants targeted law enforcers deployed at a hospital in Jandola, a merged tehsil of Tank district, police said on Friday.</p> <p>According to police, the attackers opened fire and hurled a hand grenade at the policemen stationed at ",
         "url": "https://www.dawn.com/news/2034246/cop-martyred-another-injured-in-attack-on-police-in-kps-tank-district",
         "source": "Dawn",
         "date": "2026-10-02T17:11:22+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد رضوان کی این سی سی آئی اے میں پیشی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836025/rizwan-nccia-2836025/",
-        "source": "Express",
-        "date": "2026-10-02T16:55:35+05:00",
         "img": ""
       },
       {
@@ -1607,43 +1639,11 @@
         "img": ""
       },
       {
-        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
-        "source": "Express",
-        "date": "2026-10-02T13:42:58+00:00",
-        "img": ""
-      },
-      {
-        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
-        "source": "Express",
-        "date": "2026-10-02T13:06:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
-        "source": "Express",
-        "date": "2026-10-02T13:05:00+00:00",
-        "img": ""
-      },
-      {
         "title": "پی ٹی آئی لانگ مارچ منسوخ کرے تو بانی سے ملاقات کی صورت نکل سکتی ہے، وزیر مملکت",
         "summary": "",
         "url": "https://www.express.pk/story/2836031/a-meeting-with-the-founder-could-be-arranged-if-the-pti-calls-off-its-long-march-minister-of-state-2836031/",
         "source": "Express",
         "date": "2026-10-02T12:39:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "سرکاری عازمین حج کیلئے اہم اطلاع، واجبات کی دوسری قسط جمع کرانے کی تاریخ کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836030/important-update-for-government-hajj-pilgrims-deadline-announced-for-payment-of-second-installment-of-dues-2836030/",
-        "source": "Express",
-        "date": "2026-10-02T12:37:54+00:00",
         "img": ""
       },
       {
@@ -1857,6 +1857,38 @@
     ],
     "punjab": [
       {
+        "title": "کاکروچ جنتا پارٹی کا آج سے جیل بھرو تحریک کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836059/cockroach-janata-party-announces-fill-the-jails-movement-starting-today-2836059/",
+        "source": "Express",
+        "date": "2026-10-03T01:12:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: پولیس نے ڈیفنس سی ویو پر کار سے ملنے والی پراپرٹی ڈیلر کی لاش کا معمہ حل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836058/karachi-police-have-solved-the-mystery-of-the-property-dealers-body-found-in-a-car-at-defence-sea-view-2836058/",
+        "source": "Express",
+        "date": "2026-10-03T00:50:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "بدھ مت کے سب سے بڑے فرقے نے’’گابی‘‘روبوٹ کو اپنے راہبوں کی صف میں شامل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836057/the-largest-buddhist-sect-has-inducted-the-gabi-robot-into-the-ranks-of-its-monks-2836057/",
+        "source": "Express",
+        "date": "2026-10-03T00:40:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "اماراتی پرواز میں کپتان پر حملہ، شریک پائلٹ کے انتہاپسند ہونے کا دعویٰ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836054/attack-on-captain-during-emirates-flight-co-pilot-alleged-to-be-an-extremist-2836054/",
+        "source": "Express",
+        "date": "2026-10-02T21:57:37+05:00",
+        "img": ""
+      },
+      {
         "title": "4 Pakistani crew members from hijacked oil tanker to arrive in Karachi tomorrow: DPM Dar",
         "summary": "<p>Deputy Prime Minister and Foreign Minister Ishaq Dar said on Friday that four of the 10 Pakistani crew members of <a href=\"https://www.dawn.com/news/1996531\">MT Honour 25</a>, an oil tanker hijacked by Somali pirates, had been “safely retrieved” and were scheduled to arrive in Karachi on Oct 3.</p> <p>The four crew ",
         "url": "https://www.dawn.com/news/2034247/4-pakistani-crew-members-from-hijacked-oil-tanker-to-arrive-in-karachi-tomorrow-dpm-dar",
@@ -1961,6 +1993,22 @@
         "img": ""
       },
       {
+        "title": "سرکلر ڈیبٹ میں 61 ارب اضافے پر آئی ایم ایف کے تحفظات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836056/imfs-reservations-over-rs61-billion-increase-in-circular-debt-2836056/",
+        "source": "Express",
+        "date": "2026-10-02T19:25:54+00:00",
+        "img": ""
+      },
+      {
+        "title": "نظامِ عدل ریاست کی سالمیت اور پرامن معاشرے کے لیے ناگزیر ہے، چیف جسٹس سندھ ہائیکورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836055/chief-justice-of-the-sindh-high-court-2836055/",
+        "source": "Express",
+        "date": "2026-10-02T19:16:20+00:00",
+        "img": ""
+      },
+      {
         "title": "اداکارہ حنا چوہدری سرجری کے بعد صحت یاب ہونے لگیں",
         "summary": "",
         "url": "https://www.express.pk/story/2836043/actress-hina-chaudhry-begins-to-recover-after-surgery-2836043/",
@@ -1993,6 +2041,14 @@
         "img": ""
       },
       {
+        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
+        "source": "Express",
+        "date": "2026-10-02T18:42:58+05:00",
+        "img": ""
+      },
+      {
         "title": "ایپل نے اہم سروس پاکستان میں شروع کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2836036/apple-expands-2836036/",
@@ -2001,35 +2057,19 @@
         "img": ""
       },
       {
-        "title": "جوجوبا آئل، جلد اور بالوں کی دیکھ بھال میں مددگار",
+        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
         "summary": "",
-        "url": "https://www.express.pk/story/2836029/jojoba-oil-beneficial-for-skin-and-hair-care-2836029/",
+        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
         "source": "Express",
-        "date": "2026-10-02T17:23:45+05:00",
+        "date": "2026-10-02T18:06:27+05:00",
         "img": ""
       },
       {
-        "title": "کراچی؛ مبینہ ٹاؤن تھانے کے قریب ڈاکو شہری سے 30 لاکھ روپے چھین کر فرار",
+        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
         "summary": "",
-        "url": "https://www.express.pk/story/2836028/karachi-near-mubina-town-police-station-robbers-flee-after-snatching-rs-3-million-from-a-citizwn-2836028/",
+        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
         "source": "Express",
-        "date": "2026-10-02T17:20:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکی یونیورسٹی طالبہ کیساتھ 7 طلبا کی جنسی زیادتی؛ کیس نے نیا رخ اختیار کرلیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836027/us-university-female-student-rape-by-7-students-2836027/",
-        "source": "Express",
-        "date": "2026-10-02T17:20:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں ایک اور ٹینکر پر نامعلوم سمت سے حملہ؛ آگ بھڑک اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836026/oil-tanker-struck-in-strait-of-hurmuz-caught-fire-2836026/",
-        "source": "Express",
-        "date": "2026-10-02T17:19:25+05:00",
+        "date": "2026-10-02T18:05:00+05:00",
         "img": ""
       },
       {
@@ -2038,14 +2078,6 @@
         "url": "https://www.dawn.com/news/2034246/cop-martyred-another-injured-in-attack-on-police-in-kps-tank-district",
         "source": "Dawn",
         "date": "2026-10-02T17:11:22+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد رضوان کی این سی سی آئی اے میں پیشی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836025/rizwan-nccia-2836025/",
-        "source": "Express",
-        "date": "2026-10-02T16:55:35+05:00",
         "img": ""
       },
       {
@@ -2089,43 +2121,11 @@
         "img": ""
       },
       {
-        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
-        "source": "Express",
-        "date": "2026-10-02T13:42:58+00:00",
-        "img": ""
-      },
-      {
-        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
-        "source": "Express",
-        "date": "2026-10-02T13:06:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
-        "source": "Express",
-        "date": "2026-10-02T13:05:00+00:00",
-        "img": ""
-      },
-      {
         "title": "پی ٹی آئی لانگ مارچ منسوخ کرے تو بانی سے ملاقات کی صورت نکل سکتی ہے، وزیر مملکت",
         "summary": "",
         "url": "https://www.express.pk/story/2836031/a-meeting-with-the-founder-could-be-arranged-if-the-pti-calls-off-its-long-march-minister-of-state-2836031/",
         "source": "Express",
         "date": "2026-10-02T12:39:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "سرکاری عازمین حج کیلئے اہم اطلاع، واجبات کی دوسری قسط جمع کرانے کی تاریخ کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836030/important-update-for-government-hajj-pilgrims-deadline-announced-for-payment-of-second-installment-of-dues-2836030/",
-        "source": "Express",
-        "date": "2026-10-02T12:37:54+00:00",
         "img": ""
       },
       {
@@ -2259,6 +2259,38 @@
     ],
     "sindh": [
       {
+        "title": "کاکروچ جنتا پارٹی کا آج سے جیل بھرو تحریک کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836059/cockroach-janata-party-announces-fill-the-jails-movement-starting-today-2836059/",
+        "source": "Express",
+        "date": "2026-10-03T01:12:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: پولیس نے ڈیفنس سی ویو پر کار سے ملنے والی پراپرٹی ڈیلر کی لاش کا معمہ حل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836058/karachi-police-have-solved-the-mystery-of-the-property-dealers-body-found-in-a-car-at-defence-sea-view-2836058/",
+        "source": "Express",
+        "date": "2026-10-03T00:50:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "بدھ مت کے سب سے بڑے فرقے نے’’گابی‘‘روبوٹ کو اپنے راہبوں کی صف میں شامل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836057/the-largest-buddhist-sect-has-inducted-the-gabi-robot-into-the-ranks-of-its-monks-2836057/",
+        "source": "Express",
+        "date": "2026-10-03T00:40:23+05:00",
+        "img": ""
+      },
+      {
+        "title": "اماراتی پرواز میں کپتان پر حملہ، شریک پائلٹ کے انتہاپسند ہونے کا دعویٰ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836054/attack-on-captain-during-emirates-flight-co-pilot-alleged-to-be-an-extremist-2836054/",
+        "source": "Express",
+        "date": "2026-10-02T21:57:37+05:00",
+        "img": ""
+      },
+      {
         "title": "4 Pakistani crew members from hijacked oil tanker to arrive in Karachi tomorrow: DPM Dar",
         "summary": "<p>Deputy Prime Minister and Foreign Minister Ishaq Dar said on Friday that four of the 10 Pakistani crew members of <a href=\"https://www.dawn.com/news/1996531\">MT Honour 25</a>, an oil tanker hijacked by Somali pirates, had been “safely retrieved” and were scheduled to arrive in Karachi on Oct 3.</p> <p>The four crew ",
         "url": "https://www.dawn.com/news/2034247/4-pakistani-crew-members-from-hijacked-oil-tanker-to-arrive-in-karachi-tomorrow-dpm-dar",
@@ -2363,6 +2395,22 @@
         "img": ""
       },
       {
+        "title": "سرکلر ڈیبٹ میں 61 ارب اضافے پر آئی ایم ایف کے تحفظات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836056/imfs-reservations-over-rs61-billion-increase-in-circular-debt-2836056/",
+        "source": "Express",
+        "date": "2026-10-02T19:25:54+00:00",
+        "img": ""
+      },
+      {
+        "title": "نظامِ عدل ریاست کی سالمیت اور پرامن معاشرے کے لیے ناگزیر ہے، چیف جسٹس سندھ ہائیکورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836055/chief-justice-of-the-sindh-high-court-2836055/",
+        "source": "Express",
+        "date": "2026-10-02T19:16:20+00:00",
+        "img": ""
+      },
+      {
         "title": "اداکارہ حنا چوہدری سرجری کے بعد صحت یاب ہونے لگیں",
         "summary": "",
         "url": "https://www.express.pk/story/2836043/actress-hina-chaudhry-begins-to-recover-after-surgery-2836043/",
@@ -2395,6 +2443,14 @@
         "img": ""
       },
       {
+        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
+        "source": "Express",
+        "date": "2026-10-02T18:42:58+05:00",
+        "img": ""
+      },
+      {
         "title": "ایپل نے اہم سروس پاکستان میں شروع کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2836036/apple-expands-2836036/",
@@ -2403,35 +2459,19 @@
         "img": ""
       },
       {
-        "title": "جوجوبا آئل، جلد اور بالوں کی دیکھ بھال میں مددگار",
+        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
         "summary": "",
-        "url": "https://www.express.pk/story/2836029/jojoba-oil-beneficial-for-skin-and-hair-care-2836029/",
+        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
         "source": "Express",
-        "date": "2026-10-02T17:23:45+05:00",
+        "date": "2026-10-02T18:06:27+05:00",
         "img": ""
       },
       {
-        "title": "کراچی؛ مبینہ ٹاؤن تھانے کے قریب ڈاکو شہری سے 30 لاکھ روپے چھین کر فرار",
+        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
         "summary": "",
-        "url": "https://www.express.pk/story/2836028/karachi-near-mubina-town-police-station-robbers-flee-after-snatching-rs-3-million-from-a-citizwn-2836028/",
+        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
         "source": "Express",
-        "date": "2026-10-02T17:20:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکی یونیورسٹی طالبہ کیساتھ 7 طلبا کی جنسی زیادتی؛ کیس نے نیا رخ اختیار کرلیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836027/us-university-female-student-rape-by-7-students-2836027/",
-        "source": "Express",
-        "date": "2026-10-02T17:20:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں ایک اور ٹینکر پر نامعلوم سمت سے حملہ؛ آگ بھڑک اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836026/oil-tanker-struck-in-strait-of-hurmuz-caught-fire-2836026/",
-        "source": "Express",
-        "date": "2026-10-02T17:19:25+05:00",
+        "date": "2026-10-02T18:05:00+05:00",
         "img": ""
       },
       {
@@ -2440,14 +2480,6 @@
         "url": "https://www.dawn.com/news/2034246/cop-martyred-another-injured-in-attack-on-police-in-kps-tank-district",
         "source": "Dawn",
         "date": "2026-10-02T17:11:22+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد رضوان کی این سی سی آئی اے میں پیشی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836025/rizwan-nccia-2836025/",
-        "source": "Express",
-        "date": "2026-10-02T16:55:35+05:00",
         "img": ""
       },
       {
@@ -2491,43 +2523,11 @@
         "img": ""
       },
       {
-        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
-        "source": "Express",
-        "date": "2026-10-02T13:42:58+00:00",
-        "img": ""
-      },
-      {
-        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
-        "source": "Express",
-        "date": "2026-10-02T13:06:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
-        "source": "Express",
-        "date": "2026-10-02T13:05:00+00:00",
-        "img": ""
-      },
-      {
         "title": "پی ٹی آئی لانگ مارچ منسوخ کرے تو بانی سے ملاقات کی صورت نکل سکتی ہے، وزیر مملکت",
         "summary": "",
         "url": "https://www.express.pk/story/2836031/a-meeting-with-the-founder-could-be-arranged-if-the-pti-calls-off-its-long-march-minister-of-state-2836031/",
         "source": "Express",
         "date": "2026-10-02T12:39:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "سرکاری عازمین حج کیلئے اہم اطلاع، واجبات کی دوسری قسط جمع کرانے کی تاریخ کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836030/important-update-for-government-hajj-pilgrims-deadline-announced-for-payment-of-second-installment-of-dues-2836030/",
-        "source": "Express",
-        "date": "2026-10-02T12:37:54+00:00",
         "img": ""
       },
       {
@@ -2661,12 +2661,36 @@
     ],
     "baloch": [
       {
+        "title": "کاکروچ جنتا پارٹی کا آج سے جیل بھرو تحریک کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836059/cockroach-janata-party-announces-fill-the-jails-movement-starting-today-2836059/",
+        "source": "Express",
+        "date": "2026-10-03T01:12:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: پولیس نے ڈیفنس سی ویو پر کار سے ملنے والی پراپرٹی ڈیلر کی لاش کا معمہ حل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836058/karachi-police-have-solved-the-mystery-of-the-property-dealers-body-found-in-a-car-at-defence-sea-view-2836058/",
+        "source": "Express",
+        "date": "2026-10-03T00:50:45+05:00",
+        "img": ""
+      },
+      {
         "title": "System reset will bring improvement in country’s affairs: Mohsin Naqvi",
         "summary": "System reset will bring improvement in country’s affairs: Mohsin Naqvi",
         "url": "https://arynews.tv/system-reset-will-bring-improvement-in-countrys-affairs-mohsin-naqvi",
         "source": "ARY News",
         "date": "2026-10-03T00:43:17+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mohsin-Naqvi-2.jpg"
+      },
+      {
+        "title": "بدھ مت کے سب سے بڑے فرقے نے’’گابی‘‘روبوٹ کو اپنے راہبوں کی صف میں شامل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836057/the-largest-buddhist-sect-has-inducted-the-gabi-robot-into-the-ranks-of-its-monks-2836057/",
+        "source": "Express",
+        "date": "2026-10-03T00:40:23+05:00",
+        "img": ""
       },
       {
         "title": "Karachi Water Corporation denies unauthorized salary deductions",
@@ -2707,6 +2731,14 @@
         "source": "ARY News",
         "date": "2026-10-02T23:34:25+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Hafiz.jpg"
+      },
+      {
+        "title": "اماراتی پرواز میں کپتان پر حملہ، شریک پائلٹ کے انتہاپسند ہونے کا دعویٰ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836054/attack-on-captain-during-emirates-flight-co-pilot-alleged-to-be-an-extremist-2836054/",
+        "source": "Express",
+        "date": "2026-10-02T21:57:37+05:00",
+        "img": ""
       },
       {
         "title": "Gadap job scam: Mastermind’s facilitator, accomplice arrested",
@@ -2901,12 +2933,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Radio-Pakistan.jpg"
       },
       {
+        "title": "سرکلر ڈیبٹ میں 61 ارب اضافے پر آئی ایم ایف کے تحفظات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836056/imfs-reservations-over-rs61-billion-increase-in-circular-debt-2836056/",
+        "source": "Express",
+        "date": "2026-10-02T19:25:54+00:00",
+        "img": ""
+      },
+      {
         "title": "India’s ‘cockroach’ party demands election chief Gyanesh Kumar’s resignation; hundreds join",
         "summary": "India’s ‘cockroach’ party demands election chief Gyanesh Kumar’s resignation; hundreds join",
         "url": "https://arynews.tv/india-cockroach-party-demands-gyanesh-kumar-resignation",
         "source": "ARY News",
         "date": "2026-10-02T19:24:32+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/neha-bora.jpg"
+      },
+      {
+        "title": "نظامِ عدل ریاست کی سالمیت اور پرامن معاشرے کے لیے ناگزیر ہے، چیف جسٹس سندھ ہائیکورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836055/chief-justice-of-the-sindh-high-court-2836055/",
+        "source": "Express",
+        "date": "2026-10-02T19:16:20+00:00",
+        "img": ""
       },
       {
         "title": "KDA projects to deliver better connectivity, travel relief to public: Zain Ansari",
@@ -2965,6 +3013,14 @@
         "img": ""
       },
       {
+        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
+        "source": "Express",
+        "date": "2026-10-02T18:42:58+05:00",
+        "img": ""
+      },
+      {
         "title": "ایپل نے اہم سروس پاکستان میں شروع کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2836036/apple-expands-2836036/",
@@ -2989,6 +3045,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Honour-25.jpg"
       },
       {
+        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
+        "source": "Express",
+        "date": "2026-10-02T18:06:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
+        "source": "Express",
+        "date": "2026-10-02T18:05:00+05:00",
+        "img": ""
+      },
+      {
         "title": "PSX: Stocks close lower as KSE-100 falls 481 points",
         "summary": "PSX: Stocks close lower as KSE-100 falls 481 points",
         "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-falls-481-points",
@@ -3005,51 +3077,11 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Yemen.jpg"
       },
       {
-        "title": "جوجوبا آئل، جلد اور بالوں کی دیکھ بھال میں مددگار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836029/jojoba-oil-beneficial-for-skin-and-hair-care-2836029/",
-        "source": "Express",
-        "date": "2026-10-02T17:23:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ مبینہ ٹاؤن تھانے کے قریب ڈاکو شہری سے 30 لاکھ روپے چھین کر فرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836028/karachi-near-mubina-town-police-station-robbers-flee-after-snatching-rs-3-million-from-a-citizwn-2836028/",
-        "source": "Express",
-        "date": "2026-10-02T17:20:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکی یونیورسٹی طالبہ کیساتھ 7 طلبا کی جنسی زیادتی؛ کیس نے نیا رخ اختیار کرلیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836027/us-university-female-student-rape-by-7-students-2836027/",
-        "source": "Express",
-        "date": "2026-10-02T17:20:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں ایک اور ٹینکر پر نامعلوم سمت سے حملہ؛ آگ بھڑک اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836026/oil-tanker-struck-in-strait-of-hurmuz-caught-fire-2836026/",
-        "source": "Express",
-        "date": "2026-10-02T17:19:25+05:00",
-        "img": ""
-      },
-      {
         "title": "Cop martyred, another injured in attack on police in KP’s Tank district",
         "summary": "<p>DERA ISMAIL KHAN: A policeman was martyred and another injured when unidentified assailants targeted law enforcers deployed at a hospital in Jandola, a merged tehsil of Tank district, police said on Friday.</p> <p>According to police, the attackers opened fire and hurled a hand grenade at the policemen stationed at ",
         "url": "https://www.dawn.com/news/2034246/cop-martyred-another-injured-in-attack-on-police-in-kps-tank-district",
         "source": "Dawn",
         "date": "2026-10-02T17:11:22+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد رضوان کی این سی سی آئی اے میں پیشی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836025/rizwan-nccia-2836025/",
-        "source": "Express",
-        "date": "2026-10-02T16:55:35+05:00",
         "img": ""
       },
       {
@@ -3093,43 +3125,11 @@
         "img": ""
       },
       {
-        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
-        "source": "Express",
-        "date": "2026-10-02T13:42:58+00:00",
-        "img": ""
-      },
-      {
-        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
-        "source": "Express",
-        "date": "2026-10-02T13:06:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
-        "source": "Express",
-        "date": "2026-10-02T13:05:00+00:00",
-        "img": ""
-      },
-      {
         "title": "پی ٹی آئی لانگ مارچ منسوخ کرے تو بانی سے ملاقات کی صورت نکل سکتی ہے، وزیر مملکت",
         "summary": "",
         "url": "https://www.express.pk/story/2836031/a-meeting-with-the-founder-could-be-arranged-if-the-pti-calls-off-its-long-march-minister-of-state-2836031/",
         "source": "Express",
         "date": "2026-10-02T12:39:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "سرکاری عازمین حج کیلئے اہم اطلاع، واجبات کی دوسری قسط جمع کرانے کی تاریخ کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836030/important-update-for-government-hajj-pilgrims-deadline-announced-for-payment-of-second-installment-of-dues-2836030/",
-        "source": "Express",
-        "date": "2026-10-02T12:37:54+00:00",
         "img": ""
       },
       {
@@ -3263,12 +3263,36 @@
     ],
     "education": [
       {
+        "title": "کاکروچ جنتا پارٹی کا آج سے جیل بھرو تحریک کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836059/cockroach-janata-party-announces-fill-the-jails-movement-starting-today-2836059/",
+        "source": "Express",
+        "date": "2026-10-03T01:12:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: پولیس نے ڈیفنس سی ویو پر کار سے ملنے والی پراپرٹی ڈیلر کی لاش کا معمہ حل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836058/karachi-police-have-solved-the-mystery-of-the-property-dealers-body-found-in-a-car-at-defence-sea-view-2836058/",
+        "source": "Express",
+        "date": "2026-10-03T00:50:45+05:00",
+        "img": ""
+      },
+      {
         "title": "System reset will bring improvement in country’s affairs: Mohsin Naqvi",
         "summary": "System reset will bring improvement in country’s affairs: Mohsin Naqvi",
         "url": "https://arynews.tv/system-reset-will-bring-improvement-in-countrys-affairs-mohsin-naqvi",
         "source": "ARY News",
         "date": "2026-10-03T00:43:17+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Mohsin-Naqvi-2.jpg"
+      },
+      {
+        "title": "بدھ مت کے سب سے بڑے فرقے نے’’گابی‘‘روبوٹ کو اپنے راہبوں کی صف میں شامل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836057/the-largest-buddhist-sect-has-inducted-the-gabi-robot-into-the-ranks-of-its-monks-2836057/",
+        "source": "Express",
+        "date": "2026-10-03T00:40:23+05:00",
+        "img": ""
       },
       {
         "title": "Karachi Water Corporation denies unauthorized salary deductions",
@@ -3309,6 +3333,14 @@
         "source": "ARY News",
         "date": "2026-10-02T23:34:25+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Hafiz.jpg"
+      },
+      {
+        "title": "اماراتی پرواز میں کپتان پر حملہ، شریک پائلٹ کے انتہاپسند ہونے کا دعویٰ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836054/attack-on-captain-during-emirates-flight-co-pilot-alleged-to-be-an-extremist-2836054/",
+        "source": "Express",
+        "date": "2026-10-02T21:57:37+05:00",
+        "img": ""
       },
       {
         "title": "Gadap job scam: Mastermind’s facilitator, accomplice arrested",
@@ -3455,12 +3487,28 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Radio-Pakistan.jpg"
       },
       {
+        "title": "سرکلر ڈیبٹ میں 61 ارب اضافے پر آئی ایم ایف کے تحفظات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836056/imfs-reservations-over-rs61-billion-increase-in-circular-debt-2836056/",
+        "source": "Express",
+        "date": "2026-10-02T19:25:54+00:00",
+        "img": ""
+      },
+      {
         "title": "India’s ‘cockroach’ party demands election chief Gyanesh Kumar’s resignation; hundreds join",
         "summary": "India’s ‘cockroach’ party demands election chief Gyanesh Kumar’s resignation; hundreds join",
         "url": "https://arynews.tv/india-cockroach-party-demands-gyanesh-kumar-resignation",
         "source": "ARY News",
         "date": "2026-10-02T19:24:32+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/neha-bora.jpg"
+      },
+      {
+        "title": "نظامِ عدل ریاست کی سالمیت اور پرامن معاشرے کے لیے ناگزیر ہے، چیف جسٹس سندھ ہائیکورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836055/chief-justice-of-the-sindh-high-court-2836055/",
+        "source": "Express",
+        "date": "2026-10-02T19:16:20+00:00",
+        "img": ""
       },
       {
         "title": "KDA projects to deliver better connectivity, travel relief to public: Zain Ansari",
@@ -3519,6 +3567,14 @@
         "img": ""
       },
       {
+        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
+        "source": "Express",
+        "date": "2026-10-02T18:42:58+05:00",
+        "img": ""
+      },
+      {
         "title": "ایپل نے اہم سروس پاکستان میں شروع کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2836036/apple-expands-2836036/",
@@ -3543,6 +3599,22 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Honour-25.jpg"
       },
       {
+        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
+        "source": "Express",
+        "date": "2026-10-02T18:06:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
+        "source": "Express",
+        "date": "2026-10-02T18:05:00+05:00",
+        "img": ""
+      },
+      {
         "title": "PSX: Stocks close lower as KSE-100 falls 481 points",
         "summary": "PSX: Stocks close lower as KSE-100 falls 481 points",
         "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-falls-481-points",
@@ -3557,46 +3629,6 @@
         "source": "ARY News",
         "date": "2026-10-02T17:51:31+05:00",
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Yemen.jpg"
-      },
-      {
-        "title": "جوجوبا آئل، جلد اور بالوں کی دیکھ بھال میں مددگار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836029/jojoba-oil-beneficial-for-skin-and-hair-care-2836029/",
-        "source": "Express",
-        "date": "2026-10-02T17:23:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ مبینہ ٹاؤن تھانے کے قریب ڈاکو شہری سے 30 لاکھ روپے چھین کر فرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836028/karachi-near-mubina-town-police-station-robbers-flee-after-snatching-rs-3-million-from-a-citizwn-2836028/",
-        "source": "Express",
-        "date": "2026-10-02T17:20:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکی یونیورسٹی طالبہ کیساتھ 7 طلبا کی جنسی زیادتی؛ کیس نے نیا رخ اختیار کرلیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836027/us-university-female-student-rape-by-7-students-2836027/",
-        "source": "Express",
-        "date": "2026-10-02T17:20:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں ایک اور ٹینکر پر نامعلوم سمت سے حملہ؛ آگ بھڑک اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836026/oil-tanker-struck-in-strait-of-hurmuz-caught-fire-2836026/",
-        "source": "Express",
-        "date": "2026-10-02T17:19:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد رضوان کی این سی سی آئی اے میں پیشی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836025/rizwan-nccia-2836025/",
-        "source": "Express",
-        "date": "2026-10-02T16:55:35+05:00",
-        "img": ""
       },
       {
         "title": "‏ پختونخوا حکومت نے لانگ مارچ کے ذریعے بدامنی اور تشدد کا خطرناک منصوبہ تیار کر لیا، خواجہ آصف",
@@ -3623,43 +3655,11 @@
         "img": ""
       },
       {
-        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
-        "source": "Express",
-        "date": "2026-10-02T13:42:58+00:00",
-        "img": ""
-      },
-      {
-        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
-        "source": "Express",
-        "date": "2026-10-02T13:06:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
-        "source": "Express",
-        "date": "2026-10-02T13:05:00+00:00",
-        "img": ""
-      },
-      {
         "title": "پی ٹی آئی لانگ مارچ منسوخ کرے تو بانی سے ملاقات کی صورت نکل سکتی ہے، وزیر مملکت",
         "summary": "",
         "url": "https://www.express.pk/story/2836031/a-meeting-with-the-founder-could-be-arranged-if-the-pti-calls-off-its-long-march-minister-of-state-2836031/",
         "source": "Express",
         "date": "2026-10-02T12:39:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "سرکاری عازمین حج کیلئے اہم اطلاع، واجبات کی دوسری قسط جمع کرانے کی تاریخ کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836030/important-update-for-government-hajj-pilgrims-deadline-announced-for-payment-of-second-installment-of-dues-2836030/",
-        "source": "Express",
-        "date": "2026-10-02T12:37:54+00:00",
         "img": ""
       }
     ],
@@ -3875,11 +3875,43 @@
         "img": ""
       },
       {
+        "title": "کاکروچ جنتا پارٹی کا آج سے جیل بھرو تحریک کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836059/cockroach-janata-party-announces-fill-the-jails-movement-starting-today-2836059/",
+        "source": "Express",
+        "date": "2026-10-03T01:12:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: پولیس نے ڈیفنس سی ویو پر کار سے ملنے والی پراپرٹی ڈیلر کی لاش کا معمہ حل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836058/karachi-police-have-solved-the-mystery-of-the-property-dealers-body-found-in-a-car-at-defence-sea-view-2836058/",
+        "source": "Express",
+        "date": "2026-10-03T00:50:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "بدھ مت کے سب سے بڑے فرقے نے’’گابی‘‘روبوٹ کو اپنے راہبوں کی صف میں شامل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836057/the-largest-buddhist-sect-has-inducted-the-gabi-robot-into-the-ranks-of-its-monks-2836057/",
+        "source": "Express",
+        "date": "2026-10-03T00:40:23+05:00",
+        "img": ""
+      },
+      {
         "title": "South Africa's Pretorius smashes highest ever score in T20 cricket",
         "summary": "<p>Lhuan-dre Pretorius smashed 188 not out from 79 balls for South Africa’s Titans franchise against the Knights in a domestic CSA T20 Challenge fixture on Friday, the most runs by a batter in a single innings in the 20-over format.</p> <p>Pretorius launched 13 sixes and 15 fours as he passed the previous top mark of 1",
         "url": "https://www.dawn.com/news/2034306/south-africas-pretorius-smashes-highest-ever-score-in-t20-cricket",
         "source": "Dawn",
         "date": "2026-10-02T23:42:39+05:00",
+        "img": ""
+      },
+      {
+        "title": "اماراتی پرواز میں کپتان پر حملہ، شریک پائلٹ کے انتہاپسند ہونے کا دعویٰ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836054/attack-on-captain-during-emirates-flight-co-pilot-alleged-to-be-an-extremist-2836054/",
+        "source": "Express",
+        "date": "2026-10-02T21:57:37+05:00",
         "img": ""
       },
       {
@@ -3955,6 +3987,22 @@
         "img": ""
       },
       {
+        "title": "سرکلر ڈیبٹ میں 61 ارب اضافے پر آئی ایم ایف کے تحفظات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836056/imfs-reservations-over-rs61-billion-increase-in-circular-debt-2836056/",
+        "source": "Express",
+        "date": "2026-10-02T19:25:54+00:00",
+        "img": ""
+      },
+      {
+        "title": "نظامِ عدل ریاست کی سالمیت اور پرامن معاشرے کے لیے ناگزیر ہے، چیف جسٹس سندھ ہائیکورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836055/chief-justice-of-the-sindh-high-court-2836055/",
+        "source": "Express",
+        "date": "2026-10-02T19:16:20+00:00",
+        "img": ""
+      },
+      {
         "title": "اداکارہ حنا چوہدری سرجری کے بعد صحت یاب ہونے لگیں",
         "summary": "",
         "url": "https://www.express.pk/story/2836043/actress-hina-chaudhry-begins-to-recover-after-surgery-2836043/",
@@ -3987,11 +4035,35 @@
         "img": ""
       },
       {
+        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
+        "source": "Express",
+        "date": "2026-10-02T18:42:58+05:00",
+        "img": ""
+      },
+      {
         "title": "ایپل نے اہم سروس پاکستان میں شروع کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2836036/apple-expands-2836036/",
         "source": "Express",
         "date": "2026-10-02T18:39:40+05:00",
+        "img": ""
+      },
+      {
+        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
+        "source": "Express",
+        "date": "2026-10-02T18:06:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
+        "source": "Express",
+        "date": "2026-10-02T18:05:00+05:00",
         "img": ""
       },
       {
@@ -4008,46 +4080,6 @@
         "url": "https://www.dawn.com/news/2034263/fighting-pakistan-go-down-to-vietnam-in-final-asean-cup-match",
         "source": "Dawn",
         "date": "2026-10-02T17:26:46+05:00",
-        "img": ""
-      },
-      {
-        "title": "جوجوبا آئل، جلد اور بالوں کی دیکھ بھال میں مددگار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836029/jojoba-oil-beneficial-for-skin-and-hair-care-2836029/",
-        "source": "Express",
-        "date": "2026-10-02T17:23:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ مبینہ ٹاؤن تھانے کے قریب ڈاکو شہری سے 30 لاکھ روپے چھین کر فرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836028/karachi-near-mubina-town-police-station-robbers-flee-after-snatching-rs-3-million-from-a-citizwn-2836028/",
-        "source": "Express",
-        "date": "2026-10-02T17:20:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکی یونیورسٹی طالبہ کیساتھ 7 طلبا کی جنسی زیادتی؛ کیس نے نیا رخ اختیار کرلیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836027/us-university-female-student-rape-by-7-students-2836027/",
-        "source": "Express",
-        "date": "2026-10-02T17:20:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں ایک اور ٹینکر پر نامعلوم سمت سے حملہ؛ آگ بھڑک اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836026/oil-tanker-struck-in-strait-of-hurmuz-caught-fire-2836026/",
-        "source": "Express",
-        "date": "2026-10-02T17:19:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد رضوان کی این سی سی آئی اے میں پیشی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836025/rizwan-nccia-2836025/",
-        "source": "Express",
-        "date": "2026-10-02T16:55:35+05:00",
         "img": ""
       },
       {
@@ -4147,14 +4179,6 @@
         "img": ""
       },
       {
-        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
-        "source": "Express",
-        "date": "2026-10-02T13:42:58+00:00",
-        "img": ""
-      },
-      {
         "title": "WNBA playoff bracket updated after Fever exit",
         "summary": "WNBA playoff bracket updated after Fever exit",
         "url": "https://arynews.tv/wnba-playoff-bracket-updated-after-fever-exit",
@@ -4171,22 +4195,6 @@
         "img": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/1-8.jpg"
       },
       {
-        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
-        "source": "Express",
-        "date": "2026-10-02T13:06:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
-        "source": "Express",
-        "date": "2026-10-02T13:05:00+00:00",
-        "img": ""
-      },
-      {
         "title": "WNBA: Caitlin Clark, Sophie Cunningham eye what’s next",
         "summary": "WNBA: Caitlin Clark, Sophie Cunningham eye what’s next",
         "url": "https://arynews.tv/wnba-caitlin-clark-sophie-cunningham-eye-whats-next",
@@ -4200,14 +4208,6 @@
         "url": "https://www.express.pk/story/2836031/a-meeting-with-the-founder-could-be-arranged-if-the-pti-calls-off-its-long-march-minister-of-state-2836031/",
         "source": "Express",
         "date": "2026-10-02T12:39:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "سرکاری عازمین حج کیلئے اہم اطلاع، واجبات کی دوسری قسط جمع کرانے کی تاریخ کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836030/important-update-for-government-hajj-pilgrims-deadline-announced-for-payment-of-second-installment-of-dues-2836030/",
-        "source": "Express",
-        "date": "2026-10-02T12:37:54+00:00",
         "img": ""
       },
       {
@@ -4429,11 +4429,43 @@
     ],
     "business": [
       {
+        "title": "کاکروچ جنتا پارٹی کا آج سے جیل بھرو تحریک کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836059/cockroach-janata-party-announces-fill-the-jails-movement-starting-today-2836059/",
+        "source": "Express",
+        "date": "2026-10-03T01:12:28+05:00",
+        "img": ""
+      },
+      {
+        "title": "کراچی: پولیس نے ڈیفنس سی ویو پر کار سے ملنے والی پراپرٹی ڈیلر کی لاش کا معمہ حل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836058/karachi-police-have-solved-the-mystery-of-the-property-dealers-body-found-in-a-car-at-defence-sea-view-2836058/",
+        "source": "Express",
+        "date": "2026-10-03T00:50:45+05:00",
+        "img": ""
+      },
+      {
+        "title": "بدھ مت کے سب سے بڑے فرقے نے’’گابی‘‘روبوٹ کو اپنے راہبوں کی صف میں شامل کر لیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836057/the-largest-buddhist-sect-has-inducted-the-gabi-robot-into-the-ranks-of-its-monks-2836057/",
+        "source": "Express",
+        "date": "2026-10-03T00:40:23+05:00",
+        "img": ""
+      },
+      {
         "title": "Govt raises petrol price by Rs2.10 per litre, high-speed diesel by Re0.30 per litre",
         "summary": "<div class=\"raw-html-embed-wrapper\" style=\"width: 100%;\"> <iframe class=\"raw-html-embed\" srcdoc=\"<!DOCTYPE html><html><head><style>body{margin:0;padding:0;font-family:system-ui,-apple-system,sans-serif;overflow-wrap:anywhere;}</style></head><body> <div class=\"fpw-root\"> <div class=\"fpw-header\"> <div class=\"fpw-title\">P",
         "url": "https://www.dawn.com/news/2034287/govt-raises-petrol-price-by-rs210-per-litre-high-speed-diesel-by-re030-per-litre",
         "source": "Dawn",
         "date": "2026-10-02T23:12:37+05:00",
+        "img": ""
+      },
+      {
+        "title": "اماراتی پرواز میں کپتان پر حملہ، شریک پائلٹ کے انتہاپسند ہونے کا دعویٰ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836054/attack-on-captain-during-emirates-flight-co-pilot-alleged-to-be-an-extremist-2836054/",
+        "source": "Express",
+        "date": "2026-10-02T21:57:37+05:00",
         "img": ""
       },
       {
@@ -4493,6 +4525,22 @@
         "img": ""
       },
       {
+        "title": "سرکلر ڈیبٹ میں 61 ارب اضافے پر آئی ایم ایف کے تحفظات",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836056/imfs-reservations-over-rs61-billion-increase-in-circular-debt-2836056/",
+        "source": "Express",
+        "date": "2026-10-02T19:25:54+00:00",
+        "img": ""
+      },
+      {
+        "title": "نظامِ عدل ریاست کی سالمیت اور پرامن معاشرے کے لیے ناگزیر ہے، چیف جسٹس سندھ ہائیکورٹ",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836055/chief-justice-of-the-sindh-high-court-2836055/",
+        "source": "Express",
+        "date": "2026-10-02T19:16:20+00:00",
+        "img": ""
+      },
+      {
         "title": "اداکارہ حنا چوہدری سرجری کے بعد صحت یاب ہونے لگیں",
         "summary": "",
         "url": "https://www.express.pk/story/2836043/actress-hina-chaudhry-begins-to-recover-after-surgery-2836043/",
@@ -4525,6 +4573,14 @@
         "img": ""
       },
       {
+        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
+        "source": "Express",
+        "date": "2026-10-02T18:42:58+05:00",
+        "img": ""
+      },
+      {
         "title": "ایپل نے اہم سروس پاکستان میں شروع کر دی",
         "summary": "",
         "url": "https://www.express.pk/story/2836036/apple-expands-2836036/",
@@ -4533,51 +4589,27 @@
         "img": ""
       },
       {
+        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
+        "source": "Express",
+        "date": "2026-10-02T18:06:27+05:00",
+        "img": ""
+      },
+      {
+        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
+        "summary": "",
+        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
+        "source": "Express",
+        "date": "2026-10-02T18:05:00+05:00",
+        "img": ""
+      },
+      {
         "title": "World Bank calls on govt to implement policy actions under $20bn reform partnership",
         "summary": "<p>ISLAMABAD: The World Bank on Friday called upon the government to expedite implementation of policy actions under its $20 billion economic reform partnership for harmonisation of sales tax, provincial agriculture and property taxes and removing regulatory constraints to achieve higher growth, revenue mobilisation an",
         "url": "https://www.dawn.com/news/2034266/world-bank-calls-on-govt-to-implement-policy-actions-under-20bn-reform-partnership",
         "source": "Dawn",
         "date": "2026-10-02T18:01:53+05:00",
-        "img": ""
-      },
-      {
-        "title": "جوجوبا آئل، جلد اور بالوں کی دیکھ بھال میں مددگار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836029/jojoba-oil-beneficial-for-skin-and-hair-care-2836029/",
-        "source": "Express",
-        "date": "2026-10-02T17:23:45+05:00",
-        "img": ""
-      },
-      {
-        "title": "کراچی؛ مبینہ ٹاؤن تھانے کے قریب ڈاکو شہری سے 30 لاکھ روپے چھین کر فرار",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836028/karachi-near-mubina-town-police-station-robbers-flee-after-snatching-rs-3-million-from-a-citizwn-2836028/",
-        "source": "Express",
-        "date": "2026-10-02T17:20:55+05:00",
-        "img": ""
-      },
-      {
-        "title": "امریکی یونیورسٹی طالبہ کیساتھ 7 طلبا کی جنسی زیادتی؛ کیس نے نیا رخ اختیار کرلیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836027/us-university-female-student-rape-by-7-students-2836027/",
-        "source": "Express",
-        "date": "2026-10-02T17:20:43+05:00",
-        "img": ""
-      },
-      {
-        "title": "آبنائے ہرمز میں ایک اور ٹینکر پر نامعلوم سمت سے حملہ؛ آگ بھڑک اٹھی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836026/oil-tanker-struck-in-strait-of-hurmuz-caught-fire-2836026/",
-        "source": "Express",
-        "date": "2026-10-02T17:19:25+05:00",
-        "img": ""
-      },
-      {
-        "title": "محمد رضوان کی این سی سی آئی اے میں پیشی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836025/rizwan-nccia-2836025/",
-        "source": "Express",
-        "date": "2026-10-02T16:55:35+05:00",
         "img": ""
       },
       {
@@ -4605,43 +4637,11 @@
         "img": ""
       },
       {
-        "title": "لانگ مارچ کی صورت میں ایمرجنسی نافذ ہوسکتی ہے، محسن نقوی نے پی ٹی آئی کو واضح کردیا",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836037/emergency-may-be-imposed-in-case-of-a-long-march-mohsin-naqvi-tells-pti-2836037/",
-        "source": "Express",
-        "date": "2026-10-02T13:42:58+00:00",
-        "img": ""
-      },
-      {
-        "title": "جی 7 کا تاریخی فیصلہ؛ پیٹرول و ڈیزل سستا کرنے کیلئے کروڑوں بیرل جاری کرنے کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836033/g7-bloc-release-strategic-reserves-of-up-to-100-million-barrels-within-4-months-2836033/",
-        "source": "Express",
-        "date": "2026-10-02T13:06:27+00:00",
-        "img": ""
-      },
-      {
-        "title": "آئی ایم ایف نے پاکستان کو پیٹرول پر سبسڈی اسکیم کی مخالفت کردی",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836032/imf-opposes-petroleum-product-subsidies-in-pakistan-2836032/",
-        "source": "Express",
-        "date": "2026-10-02T13:05:00+00:00",
-        "img": ""
-      },
-      {
         "title": "پی ٹی آئی لانگ مارچ منسوخ کرے تو بانی سے ملاقات کی صورت نکل سکتی ہے، وزیر مملکت",
         "summary": "",
         "url": "https://www.express.pk/story/2836031/a-meeting-with-the-founder-could-be-arranged-if-the-pti-calls-off-its-long-march-minister-of-state-2836031/",
         "source": "Express",
         "date": "2026-10-02T12:39:09+00:00",
-        "img": ""
-      },
-      {
-        "title": "سرکاری عازمین حج کیلئے اہم اطلاع، واجبات کی دوسری قسط جمع کرانے کی تاریخ کا اعلان",
-        "summary": "",
-        "url": "https://www.express.pk/story/2836030/important-update-for-government-hajj-pilgrims-deadline-announced-for-payment-of-second-installment-of-dues-2836030/",
-        "source": "Express",
-        "date": "2026-10-02T12:37:54+00:00",
         "img": ""
       },
       {
